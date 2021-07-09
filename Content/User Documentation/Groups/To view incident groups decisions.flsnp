@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Select the <span class="menuoptions">Incident Groups </span>tab.The Incident Groups List appears.</li>
+      <li class="listnumber">Select the group that contains the decisions you want to view.</li>
+      <li class="listnumber">Click <span class="buttons">View Decisions </span>The View Decisions for the selected group page appears.</li>
+      <li class="listnumber">Click on the active hyperlinks to view decision information to review information.</li>
+      <li class="listnumber">Click <span class="buttons">Return to Incident Group List</span> to return to the Incident Group List.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Planning areas need to be large enough to include:</p>
+    <ul>
+      <li class="listbullet">Where actions are planned (e.g., firelines, evacuation points, protection points.)</li>
+      <li class="listbullet">Contingency plans (MAPs.)</li>
+      <li class="listbullet">Fire behavior modeling outputs.</li>
+      <li class="listbullet">Values you are concerned about.</li>
+      <li class="listbullet">Where you want to contain the fire.</li>
+      <li class="listbullet">The physical reality of where the fire could burn during the life of the current decision (even if you don’t want it to burn there.)</li>
+    </ul>
+    <p class="bodytext">Drawing a large planning area may incorporate more FMUs or Strategic Objectives, which in turn may require you to address more Strategic Objectives, Management Requirements, and values at risk, but if your Planning Area is too small, you will have to create a new decision each time management actions occur outside of it. It's helpful to use an FSPro long term probability output as a general guide when trying to determine an appropriate Planning Area size; the outputs can help inform you of where the fire may try to move as well. Doing this ensures that the Values at Risk identified by an FSPro output are included in the Values Inventory (a product of the planning area), and addressed in the Incident Objectives or Incident Requirements and subsequently through the Course of Action. If your FSPro outputs are larger than your Planning Area, your Planning Area is likely too small.</p>
+    <p class="bodytext">No ramifications result from drawing a large Planning Area. If you are currently developing Management Action Points or contingency actions outside of your Planning Area, it should be larger to include those areas.</p>
+  </body>
+</html>

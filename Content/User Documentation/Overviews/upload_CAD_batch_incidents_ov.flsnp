@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Dispatchers and National Editors can use several CAD systems to create, update, and delete incidents in WFDSS. </p>
+    <p class="bodytext">You need the following information to upload a CAD batch file to WFDSS:</p>
+    <ul>
+      <li class="listbullet">Incident information that conforms with the <a href="">records requirement</a>.</li>
+      <li class="listbullet">Ability to create an upload file from the CAD system.</li>
+    </ul>
+    <p class="bodytext">When you submit an upload file for processing, it might take a few minutes. You will receive an email when the upload is complete. The processing occurs in the following order:</p>
+    <ul>
+      <li class="listbullet">All new incidents are inserted.</li>
+      <li class="listbullet">All incident updates are completed.</li>
+      <li class="listbullet">All incident deletions are completed.</li>
+    </ul>
+  </body>
+</html>

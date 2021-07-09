@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">WFDSS replaces the WFIP, WFSA, and LTIP processes for preparing decision documents related to wildland fire incidents, and serves as the system of record for incident decisions. </p>
+    <p class="bodytext">For most incidents, detailed decision reports and plans will not be necessary. The dispatcher will log the incident in WFDSS, the pre-planned course of action will be carried out, and the incident will be closed.</p>
+    <p class="bodytext">However, for incidents that require management beyond the pre-planned course of action, decision reporting is required.</p>
+    <p class="bodytext">This section explains the business process and the reporting process for using WFDSS in preparing decision documents. </p>
+  </body>
+</html>

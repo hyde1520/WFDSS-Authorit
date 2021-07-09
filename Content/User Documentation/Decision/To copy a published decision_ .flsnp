@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident list, select the incident &gt; click <span class="buttons">View Information</span>. The Edit Information page appears.</li>
+      <li class="listnumber">Select the <span class="menuoptions">Decisions</span> tab. The Decision List page appears.</li>
+      <li class="listnumber">Select the published decision you want to copy.</li>
+      <li class="listnumber">Click <span class="buttons">Copy</span>.The decision is copied andthe Decision List page reappears with the copy as the pending decision.</li>
+      <li class="listnumber">Select the pending decision, then click the + to expand the list to see each component of the decision.</li>
+      <li class="listnumber">
+        <a href="../Reports/Editing a Decision.htm">Edit the decision</a> as needed.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

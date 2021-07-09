@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">When you draw a planning area, the jurisdictions it intersects updates on the Incident Information tab and in the Incident History. When you shrink your planning area, the Incident History does not automatically remove the agencies no longer covered in the planning area. You must manually remove these agencies from the Information screen. To add one or more jurisdiction(s), manually add them on the Incident Information screen. Changes to the jurisdictional agencies can be tracked by viewing the Incident History.</p>
+  </body>
+</html>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">A great deal of information exists in the <a href="http://wfdss.usgs.gov/wfdss_help/index.htm">WFDSS online help</a> and the <a href="">FAQs</a>, and updates occur frequently. Check these resources before contacting the Help Desk or NFDSC.</p>
+    <p class="bodytext">If you need help understanding how to navigate the help, refer to the following topics:</p>
+    <ul>
+      <li class="listbullet">
+        <a href="../../User Documentation/01a_Common User Content/Using the WFDSS Search Options.htm">Using the Search and Index</a>
+      </li>
+      <li class="listbullet">
+        <a href="../../User Documentation/01a_Common User Content/Using the Feedback Form.htm">Using the Feedback Form</a>
+      </li>
+      <li class="listbullet">
+        <a href="../../User Documentation/01a_Common User Content/Accessing the Fire Application Help Desk.htm">Accessing the Fire Application Help Desk</a>
+      </li>
+    </ul>
+    <p class="bodytext">If you need help with understanding WFDSS navigation, check out the <a href="../../User Documentation/01a_Common User Content/WFDSS Navigation Tips.htm">navigation tips</a>.</p>
+  </body>
+</html>

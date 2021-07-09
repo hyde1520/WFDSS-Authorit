@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">Monitoring FSPro Run Status from the Analysis List</h1>
+    <p class="bodytext">After all of the input requirements are correctly populated and you click <span class="buttons">Run FSPro</span>, the Analysis List Page appears. At this point, fire modeling calculations have started.</p>
+    <p class="bodytext">You will receive an email letting you know when the analysis is complete, but you can track the progress of the model calculations on the Analysis List page when you refresh it by clicking the <span class="menuoptions">Analyses</span> Tab.</p>
+    <p class="bodytext">The status updates for a successful FSPro analysis occur in the following order:</p>
+    <ol>
+      <li class="listnumber">Queued</li>
+      <li class="listnumber">In Process (FlamMap # of #)</li>
+      <li class="listnumber">In Process (FSPro # of #)</li>
+      <li class="listnumber">In Process (Processing Results)</li>
+      <li class="listnumber">Review</li>
+    </ol>
+    <p class="bodytext">More information about the general status messages can be found in the help topic <a href="../../About_Topics/About the Analysis List.htm">About the Analysis List</a>, but Steps 2 and 3 (above) are unique to FSPro.</p>
+    <p class="bodytext">Step 2 is where FSPro generates all of the possible weather and wind scenarios. FSPro pre-builds these scenarios by generating FlamMap (WFDSS Basic) fire behavior grids from the wind inputs combined with the fuel moisture inputs from each ERC bin. The first number in the status message moves upwards sequentially as each grid is processed and the second number, the total number of grids, remains constant. The total number of grids required varies for each analysis based on how many ERC and wind bins are in the inputs.  If you add up all of the bins in the Winds tab that contain values of greater than zero percent (including the calm bin), multiply that by the number of  rows in the ERC Classes tab, and then add each forecast day you will come up with the total number of FlamMap grids that FSPro must produce.</p>
+    <p class="bodytext">Step 3 is where FSPro models the fire growth using FlamMap MTT (WFDSS STFB). The first number in the status moves upwards sequentially as each fire is modeled and the second number, the total number of fires you selected in the FSPRO Information Tab, remains static. This process generally takes longer than Step 2 and the last several fires may take significantly longer to model than the earlier calculations.</p>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

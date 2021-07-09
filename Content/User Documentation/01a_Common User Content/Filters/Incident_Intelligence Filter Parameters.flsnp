@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">
+      <span class="specialbold">Date Filters</span>
+    </p>
+    <ul>
+      <li class="listbullet">Discovery Date</li>
+      <li class="listbullet">Contained Date</li>
+      <li class="listbullet">Controlled Date</li>
+      <li class="listbullet">Out Date</li>
+    </ul>
+    <p class="bodytext">
+      <span class="specialbold">Name Filters</span>
+    </p>
+    <ul>
+      <li class="listbullet">Incident Name and year</li>
+    </ul>
+    <p class="bodytext">
+      <span class="specialbold">Other Filters</span>
+    </p>
+    <ul>
+      <li class="listbullet">Incident Privileges</li>
+      <li class="listbullet">Acreage of Burn Area</li>
+      <li class="listbullet">Decisions</li>
+      <li class="listbullet">Unit ID</li>
+      <li class="listbullet">State</li>
+      <li class="listbullet">Geographic Area</li>
+      <li class="listbullet">Responsible Agency</li>
+    </ul>
+    <p class="bodytext">
+      <span class="specialbold">Incident Authors</span>
+    </p>
+    <ul>
+      <li class="listbullet">User Name</li>
+      <li class="listbullet">Geographic Areas</li>
+      <li class="listbullet">Agencies</li>
+    </ul>
+    <p class="bodytext">
+      <span class="specialbold">Incident Name</span>
+    </p>
+    <ul>
+      <li class="listbullet">Incident Name</li>
+    </ul>
+    <p class="bodytext" />
+  </body>
+</html>

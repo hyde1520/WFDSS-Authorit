@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="warning">
+      <span class="specialbold">WARNING:</span> When you declare an incident out, there are numerous consequences. Review the Help topic: <a href="../Incident/Declaring an Incident Out.htm">Declaring an Incident Out</a>.</p>
+    <p class="bodytext">You may need to edit or update information about an incident as more information becomes available, or as conditions change. Much of the information displayed on the Incident Information cannot be modified in WFDSS, and must be modified in a more authoritative system such as WildCAD. The Dispatch Center that controls the incident is identified atop the Incident Information and you may contact them for edits you are unable to complete. Any un-grayed fields are editable by a user with the correct WFDSS role, Author or Dispatcher.</p>
+    <p class="bodytext">On the incident Information page, you can:</p>
+    <ul>
+      <li class="listbullet">modify the Incident Name and/orUnique Fire Identifier*</li>
+      <li class="listbullet">modify the incident's Latitude and Longitude</li>
+      <li class="listbullet">
+        <a href="../Incident/Transferring Incident Ownership .htm">transfer incident ownership</a>
+      </li>
+      <li class="listbullet">update Incident Size (acres)**</li>
+      <li class="listbullet">modify Discovery Date and/or Time</li>
+      <li class="listbullet">add Containment Date and/or Time</li>
+      <li class="listbullet">add Controlled Date and/or Time</li>
+      <li class="listbullet">add Out Date and/or Time***</li>
+      <li class="listbullet">update Incident Cause</li>
+      <li class="listbullet">update Jurisdictional Agency</li>
+    </ul>
+    <p class="bodytext">*You cannot modify the Incident Name or Unique Fire Identifier if a decision has been published for an incident or the incident has been declared out.</p>
+    <p class="bodytext">**You can update Incident Size (acres) manually on this page if WFDSS has the authoritative hierarchy to do so. The Latest WFDSS Perimeter Size (acres) field corresponds to the perimeter loaded in WFDSS.</p>
+    <p class="bodytext">***Dispatchers or Incident Owners can <a href="../Incident/Declaring an Incident Out.htm">declare an incident out </a>using this page but typically this is done in WildCAD. After declaring an incident out, the incident and its decision content are locked permanently in WFDSS and few additional edits are available. A Periodic Assessment is no longer required when an incident is declared out.</p>
+    <p class="note">
+      <span class="specialbold">Note:</span> When you click <span class="buttons">Save</span> at the end of any page related to an incident, WFDSS automatically archives all information for that incident until the incident is declared out. </p>
+  </body>
+</html>

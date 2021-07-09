@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">WFDSS users can customize which map layers are available for viewing. By default, WFDSS makes all of the available map layers active (i.e. meaning they are located in the right pane), but not all map layers may be applicable to your unit or fire area. If you choose, identify which layers are not applicable and move those layers from the list on the right to the list on the left. Layers you move to the list on the left will not be available for viewing in your map displays.</p>
+    <p class="bodytext">For example, if your unit is in the Southwest, you may not be interested in viewing Alaska fires from 2000-2009 (AK Fires 2000-2009).  You would select that layer in the list on the right, and then click the double arrow to move the layer to the list on the left. You can move the layer back to the list on the right and make it viewable again.</p>
+    <p class="note">Identifying which fire-related, reference and values layers are near your unit or fire area will help guide and inform your decision-making, so make sure that you don't inadvertently eliminate layers from your map displays that are applicable but you just don't know it.</p>
+  </body>
+</html>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">
+        <p>Navigate to the KMZ file you want to view. </p>
+        <ul>
+          <li class="listbullet2">If the file is on your hard drive or network, use the folder structure to navigate to the file.</li>
+          <li class="listbullet2">In WFDSS, choose one of the following paths: <span class="menuoptions">Incident list&gt; select incident &gt; View Information &gt; Download KMZ</span>; or <span class="menuoptions">Incident list&gt; select incident &gt; View Information &gt; Decisions &gt; select pending decision &gt; Peding KMZ</span>; or <span class="menuoptions">Analysis list&gt; select analysis &gt; View Information &gt; Download KMZ</span>.</li>
+        </ul>
+      </li>
+      <li class="listnumber">
+        <p>Open the KMZ.</p>
+        <ul>
+          <li class="listbullet2">If the file is located on your hard drive or network, double-click the file to open it in Google Earth.</li>
+          <li class="listbullet2">From within WFDSS, click <span class="buttons">Download KMZ</span> or <span class="buttons">Pending KMZ</span> &gt; <span class="buttons">Open</span>. The KMZ displays in Google Earth. </li>
+        </ul>
+      </li>
+      <li class="listnumber">Select the KMZ filename from under the My Places section of the Places pane. Google Earth zooms to the selected information.</li>
+      <li class="listnumber">Select a hyperlink from under theKMZ name to view information specific to the selected name.</li>
+    </ol>
+    <p class="bodytext">After you finish viewing the pending decision KMZ file, select another KMZ to view, or return to the WFDSS application.</p>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

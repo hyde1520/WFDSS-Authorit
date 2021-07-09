@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Administrators can post messages to the entire WFDSS user community. These messages notify users of important information related to using WFDSS. Broadcast messages are used primarily for system-related information. Examples include, but are not limited to, the following:</p>
+    <ul>
+      <li class="listbullet">System outages or planned upgrades</li>
+      <li class="listbullet">Significant fire-related issues that affect WFDSS users</li>
+      <li class="listbullet">Critical changes to policy or system function that affect WFDSS users</li>
+    </ul>
+    <p class="bodytext">The message appears at the top of the WFDSS page as soon as you save the message.</p>
+  </body>
+</html>

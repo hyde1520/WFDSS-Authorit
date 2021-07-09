@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">How FSPro Calculates Burn Probability</h1>
+    <p class="bodytext">The FSPro burn probability is calculated by dividing the number of times a point burns by the total number of simulations.  After FSPro simulates the number of fires (requested by the fire behavior specialist), it essentially "stacks" the fires on top of each other to calculate the burn probability contours.</p>
+    <p class="bodytext">When viewing online, watch the <a href="training_slides/animation_stackedfires.ppt">animation</a> to see the 10 simulated, seven-day fire perimeters stacked on top on one another, starting with the largest fire.  Remember, the small black area is our original fire perimeter and ignition file. Each time a point (cell) on the landscape has a fire burn it, another 10% probability is added (since we are using 10 fires in this example). Therefore, each time one of the points of concern is burned by a fire, its burn probability is increased by 10%. </p>
+    <p class="bodytext">
+      <img src="" alt="" width="0" height="0" vspace="2px" hspace="2px" align="Bottom" border="0px" />
+    </p>
+    <p class="figure">
+      <span class="specialbold">10 Simulated Fires (stacked) with Points of Concern</span>
+    </p>
+  </body>
+</html>

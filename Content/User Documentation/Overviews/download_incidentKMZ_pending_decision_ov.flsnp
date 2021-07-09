@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Incident Owners and Editors can open and view an incident KMZ file for a pending decision in WFDSS for use in briefings or other incident-related activities. When viewing KMZ files for a pending decision, the KMZ file contains all mapping information (planning, MAPs, incident obj. shapes, fire perimeter, and accepted fire behavior analysis) from the Incident folder.</p>
+  </body>
+</html>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the WFDSS Incident List, select the incident you want to edit management action points for.</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>. The Edit Incident page appears. </li>
+      <li class="listnumber">Select <span class="buttons">Mgmt Action Points</span>. The Management Action Points List page appears.</li>
+      <li class="listnumber">Select the Management Action Point you want to edit.</li>
+      <li class="listnumber">Click <span class="buttons">Edit</span>. The Edit Management Action Point page appears.</li>
+      <li class="listnumber">Make any necessary changes.</li>
+      <li class="listnumber">Click <span class="buttons">Save</span>. The changes are saved and the Management Action Point List page reappears.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

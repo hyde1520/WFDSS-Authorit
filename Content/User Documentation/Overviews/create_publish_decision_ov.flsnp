@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Decisions can be created, edited and submitted for review/approval by users with the WFDSS user role of Author who are the <a href="../Incident/Incident Ownership.htm">incident owners</a>.  The incident owner(s) can grant other users edit, review or approve <a href="../Incident/Incident Privileges.htm">incident privileges</a>. Edit privileges can contribute to the decision content. Review privileges can review decisions submitted for review/approval. Approve privileges can approve and publish decision.</p>
+    <ul>
+      <li class="listbullet">
+        <MadCap:snippetBlock src="../../zzzz_Sandbox/Guidebook_2016/When do I Create a Decision_.flsnp" />
+      </li>
+    </ul>
+    <p class="bodytext">Before publishing a decision, the following actions and information are required:</p>
+    <ul>
+      <li class="listbullet">Enter the Unique Fire Identifier for the incident. The Unique Fire Identifier is locked when the incident is published. (See <a href="../Incident/Editing Incident Information.htm">Editing Incident Information</a>.)</li>
+      <li class="listbullet">Enter the Incident Size greater than 0 Acres. (See <a href="../Incident/Editing Incident Information.htm">Editing Incident Information</a>.) </li>
+      <li class="listbullet">Draw a Planning Area. (See <a href="../01a_Common User Content/Map Features/Creating a Planning Area.htm">Creating Planning Areas</a>.)</li>
+      <li class="listbullet">Calculate <a href="../About_Topics/About Relative Risk.htm">relative risk</a> assessment and Organization Needs.  (See <a href="../Incident/Calculating Relative Risk.htm">Calculating Relative Risk</a>.)</li>
+      <li class="listbullet">Designate at least one <a href="../Incident/Incident roles/Decision Approver.htm">approver</a> for the decision. (See <a href="../Decision/Managing Incident Privileges.htm">Assigning Incident Privileges</a>.)</li>
+      <li class="listbullet">Include at least one FMU or SOfrom the list of FMUs/SOs for the incident.  (See <a href="../Incident/Adding FMUs manually to Incident FMUs .htm">Manually Add FMU to Incident FMUs</a> or <a href="../01a_Common User Content/Map Features/Creating a Planning Area.htm">Creating Planning Areas</a>.)</li>
+      <li class="listbullet">Include incident objectives and requirements(optional). (See <a href="../Incident/Creating Incident Objectives and Requirements.htm">Creating Incident Objectives and Requirements</a>.)</li>
+      <li class="listbullet">Identify and include at least one action item for the course of action. (See <a href="../Decision/Developing a Course of Action.htm">Completing a Course of Action</a>.)</li>
+      <li class="listbullet">Include the Estimated Final Cost on the Cost page. (See <a href="../Incident/Estimating Final Cost for an Incident.htm">Estimating Final Cost for an Incident.</a>)</li>
+      <li class="listbullet">Create a Pending Decision from Objectives, Course of Action, or Decision page.  (See <a href="../Reports/To create a decision_.htm">To document a decision</a>.)</li>
+      <li class="listbullet">Use the Default Decision Editor or Advanced Decision Editor (available for selection on the Decisions page) to add content to the "Rationale" section of the decision (See <a href="../Reports/Editing a Decision.htm">Editing a Decision</a>.)</li>
+      <li class="listbullet">Publish a Pending Decision by review and approval of the decision by designated approver(s). (See <a href="../Decision/To begin the review_approval process for a decision_.htm">To begin the review/approval process for a decision</a> , <a href="../Reports/Approving and Publishing a Decision.htm">Approving and Publishing a Decision</a>, and  <a href="../Reference/decision reference/Approval Process for Line Officers.htm">Approval Process for your Line Officers</a>.) </li>
+    </ul>
+    <p class="bodytext">You can <a href="../Decision/Downloading an HTML File and Printing a Decision or Custom Report.htm">download a published </a>decision or any part of a pending decision by clicking the radio button to the left of the decision or decision section and then clicking <span class="buttons">PDF</span>. Seek <a href="../../zzzz_Sandbox/4.7_Release/Creating Draft Decisions and Reports.htm">Creating Draft Decisions and Reports</a> for more information.</p>
+  </body>
+</html>

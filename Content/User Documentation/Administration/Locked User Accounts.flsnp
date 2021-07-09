@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Accounts become locked for the following reasons:</p>
+    <ul>
+      <li class="listbullet">You have not accessed WFDSS within the past 60 days. </li>
+      <li class="listbullet">You entered an incorrect password more than 5 times.</li>
+      <li class="listbullet">You have not changed your password within the past 60 days.</li>
+      <li class="listbullet">You are not an authorized WFDSS user. </li>
+    </ul>
+    <p class="warning">
+      <MadCap:snippetText src="../../01_Common Content/Notes, Cautions, Warnings/caution unlocking locked user account .flsnp" />
+      <span class="editorialcomments">:</span> Before unlocking a user's account, the Help Desk verifies that you are an authorized WFDSS user.</p>
+    <p class="bodytext">Before an Administrator or the Help Desk can unlock your account, they must verify the following information:</p>
+    <ul>
+      <li class="listbullet">Your security training is current.</li>
+      <li class="listbullet">You are an authorized WFDSS user.</li>
+    </ul>
+    <p class="bodytext">After your account is unlocked, you must login to your WFDSS account and <a href="Resetting a User's Password.htm">reset your password</a>. If you fail to unlock your account, it will disable at 270 days of inactivity. When that occurs and the user wants to begin using their account again, a GA Editor must reassign the user's role AND the IIA Helpdesk must reset the user's password.</p>
+  </body>
+</html>

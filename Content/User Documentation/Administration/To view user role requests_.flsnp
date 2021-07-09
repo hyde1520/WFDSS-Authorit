@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Choose the <span class="menuoptions">Administration </span><span class="buttons">tab. The Administration page appears.</span></li>
+      <li class="listnumber">Click<span class="buttons"> Show Role Request</span>. The table displays the role requests available to you.<div class="listnote"><p><span class="specialbold">Note:</span> If your list is longer than a page, use the <a href="../01a_Common User Content/Filters/Filtering the User List.htm">User List Filter</a> to search by agency or a specific user.</p></div></li>
+      <li class="listnumber">Select the user you want to view roles for.</li>
+      <li class="listnumber">Click <span class="buttons">Edit User</span>. The Edit User Role page appears.</li>
+      <li class="listnumber">Review the user's information and justification.</li>
+      <li class="listnumber">If appropriate, select the User Role(s) requested by the user. </li>
+      <li class="listnumber">Click<span class="buttons"> Save</span>. The user's role will be updated when they log into WFDSS.</li>
+    </ol>
+    <p class="note">
+      <span class="specialbold">Note:</span> If a user is currently logged into WFDSS when you change their role, they need to log out, close and restart the web browser, then log back in for the role change to take effect.</p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

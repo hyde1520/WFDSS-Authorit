@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">
+      <span class="specialbold">Note:</span> It might require several seconds for the maps to load the first time you go to the Map view. Refreshing and zooming can also take a few seconds, depending on how many layers you have turned on and what resolution you are working with.</p>
+  </body>
+</html>

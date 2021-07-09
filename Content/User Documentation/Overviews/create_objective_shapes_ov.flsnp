@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Often, incident objectives and requirements apply to an area or point on the landscape. Incident Owners and Editors can draw shapes on the map that correspond to specific incident objectives and requirements. This is a many-to-many relationship; the same shape can be used for multiple objectives or requirements, and multiple objectives and requirements can be associated with a single shape.</p>
+    <p class="bodytext">Make sure that shapes for your incident objectives and requirements lie within your planning area.</p>
+  </body>
+</html>

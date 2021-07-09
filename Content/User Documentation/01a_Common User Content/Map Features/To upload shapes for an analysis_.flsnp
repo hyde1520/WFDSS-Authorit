@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Analysis List, select the analysis you want to upload a shape for. (This function is available only for Basic and Short-Term Fire Behavior, and FSPro runs.)</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>. The Analyses page appears.</li>
+      <li class="listnumber">From the left menu, choose <span class="specialbold">Shape Upload</span>. The Upload Shape Files page appears.</li>
+      <li class="listnumber">In the Shape Label field, type a descriptive name for the shape you are uploading (character limit is 64).</li>
+      <li class="listnumber">Select the Shape Type.</li>
+      <li class="listnumber">Select the Shape Date and Time. This is the effective date for the shape, and is beneficial for tracking the history related to the types of shapes uploaded.</li>
+      <li class="listnumber">Mark the Source Types.</li>
+      <li class="listnumber">Enter a Comment describing the shape you are uploading.</li>
+      <li class="listnumber">Click <span class="buttons">Browse</span> to navigate to where the shape ZIP file is stored. The Choose File window appears.</li>
+      <li class="listnumber">Select the shape ZIP file you want to upload and click <span class="buttons">Open</span>. The path and filename for the ZIP file appear in the File to Upload field.</li>
+      <li class="listnumber">Click <span class="buttons">Upload</span>. The shapes will be uploaded and associated with the analysis.</li>
+      <li class="listnumber">
+        <p>To view the shape:</p>
+        <ol>
+          <li class="listalpha2">In the left pane of the <span class="menuoptions">Map </span>tab, verify that the Incident and Analysis layers are turned on.</li>
+          <li class="listalpha2">If the Incident and Analysis layers are not checked, click the + sign for each to expand the layer options.</li>
+          <li class="listalpha2">Select the shape you just uploaded (the description you entered when <a href="../../Incident/Uploading Shapes.htm">uploading the shape</a> appears in the list). </li>
+        </ol>
+      </li>
+    </ol>
+    <p class="bodytext">The shape should appear on your map view. If it doesn't, that means that either the latitude/longitude are wrong in the shape or incident, or you uploaded the wrong shape. </p>
+    <p class="bodytext">Try zooming out until you see the shape description, then use the hand (panning) tool to move the shape to the center of your screen before zooming in.</p>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+    <p class="bodytext" />
+    <p class="bodytext" />
+  </body>
+</html>

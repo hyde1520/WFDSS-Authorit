@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident list, select the incident you want to edit requirements for.</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>. The Edit Incident page appears. </li>
+      <li class="listnumber">Select <span class="menuoptions">Objectives</span>. The Objectives page appears.</li>
+      <li class="listnumber">Select the requirement you want to edit.</li>
+      <li class="listnumber">Click <span class="buttons">Edit</span>. The Edit Incident Requirements page appears.</li>
+      <li class="listnumber">Make the necessary changes.</li>
+      <li class="listnumber">Click <span class="buttons">Save</span>. The Objectives/Requirements list reappears.</li>
+    </ol>
+    <p class="bodytext">Until the decision is published, you can edit objectives even if they have been included in the decision.</p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

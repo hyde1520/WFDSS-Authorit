@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Use the radio buttons to select the Map Base Layer, Decision Map Image Base Layer, Fire Perimeter, Planning Area, and Management Action Point preferences.</li>
+      <li class="listnumber">Select the appropriate available layers and either double-click or use the arrow button to move them to the Selected Layer are Initially Displayed box.</li>
+      <li class="listnumber">Click <span class="buttons">Save Map Preferences</span>.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

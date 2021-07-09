@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">You must have the following information before you can create an incident in WFDSS:</p>
+    <ul>
+      <li class="listbullet">Location of incident (preferably latitude and longitude)</li>
+      <li class="listbullet">Discovery date and time</li>
+      <li class="listbullet">Name of incident</li>
+    </ul>
+    <p class="bodytext"> </p>
+  </body>
+</html>

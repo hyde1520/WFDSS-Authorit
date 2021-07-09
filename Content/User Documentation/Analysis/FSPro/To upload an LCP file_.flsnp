@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Analysis List page, select the analysis that you want to create a landscape for.</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>. The General Parameters page appears.</li>
+      <li class="listnumber">From the left menu, select <span class="menuoptions">Landscape</span>. The Landscape File page appears.</li>
+      <li class="listnumber">Click <span class="buttons">Upload LCP File</span>. The Upload LCP File page appears.</li>
+      <li class="listnumber">Click <span class="buttons">Browse</span> to find the localized projection on your hard drive or network. The path appears in the File to Upload field.</li>
+      <li class="listnumber">Verify that you selected the correct projection.</li>
+      <li class="listnumber">Click <span class="buttons">Upload</span>. The uploaded landscape file appears on the Analysis Map page.</li>
+    </ol>
+    <p class="bodytext">This process might take a few minutes, depending on the load on the system and the size of the landscape.</p>
+  </body>
+</html>

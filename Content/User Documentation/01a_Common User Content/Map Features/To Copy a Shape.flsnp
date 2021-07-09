@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Analysis Map or the Situation Assessment Map, click the Map tab to view the LayerSwitcher.</li>
+      <li class="listnumber">Click <img src="To Copy a Shape.htm" alt="" width="0" height="0" vspace="2px" hspace="2px" align="Bottom" border="0px" />  to expand the Incident or Analysis Layers &gt; locate the shape you would like to copy &gt; click the checkbox beside it. The shape is now visible in the map display.</li>
+      <li class="listnumber">
+        <p>Select the shape for copying in one of two ways:</p>
+        <ul>
+          <li class="listbullet2">Click <img src="To Copy a Shape.htm" alt="" width="0" height="0" vspace="2px" hspace="2px" align="Bottom" border="0px" />  beside the shape in the LayerSwitcher, and then select <img src="To Copy a Shape.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> beneath the shape name. The shape in the map display turns yellow. </li>
+          <li class="listbullet2">Select <img src="To Copy a Shape.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> , then click on the shape in the map display. The shape will turn yellow.</li>
+        </ul>
+      </li>
+      <li class="listnumber">With the shape still yellow, identify the type of Incident or Analysis shape you'd like to save it as and then click the <img src="To Copy a Shape.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> symbol beside it. For example, if you want to save it as an Ignition File, select the <img src="To Copy a Shape.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> symbol beside <span class="specialbold">Ignitions</span>.</li>
+      <li class="listnumber">Name the new shape.</li>
+      <li class="listnumber">Click <span class="buttons">Save.</span></li>
+    </ol>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

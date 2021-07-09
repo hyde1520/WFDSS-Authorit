@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Select <span class="menuoptions">Data Management</span>. The Strategic Objectives and Management Requirements page appears.</li>
+      <li class="listnumber">Select the <span class="menuoptions">FMU/SO</span> sub-tab. </li>
+      <li class="listnumber">Select the appropriate information.</li>
+      <li class="listnumber">Select the <span class="menuoptions">Notes </span>sub-tab. The Data Management Notes page appears.</li>
+      <li class="listnumber">Select one of the five Note Types from the drop-down list.</li>
+      <li class="listnumber">Enter the note text in 4000 characters or less.</li>
+      <li class="listnumber">Click <span class="buttons">Add Note</span>. The Note is saved in the database.</li>
+      <li class="listnumber">Click <span class="buttons">Return </span>to return to the Strategic Objectives and Management Requirements page, or add, edit, or delete other notes.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

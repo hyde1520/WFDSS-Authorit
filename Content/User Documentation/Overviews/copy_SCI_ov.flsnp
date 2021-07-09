@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">As an incident progresses, you might want to create a new SCI based on a previous calculation, e.g., using the same parameters, but changing the acres burned.</p>
+    <p class="bodytext">Or, if someone else created the SCI for that incident, perhaps you want to base your calculation from theirs. </p>
+    <p class="bodytext">You must have editing privileges for the incident to copy an SCI.</p>
+    <p class="warning">Caution: Remember, SCI runs a Basic Fire Behavior analysis. However, copying an SCI does not cause WFDSS to re-run the Basic Fire Behavior analysis. Therefore, the SCI inputs might not be valid for a new burn period. Before calculating SCI for a copied run, verify the fire intensity parameters to ensure that this input is still accurate for current conditions.</p>
+  </body>
+</html>

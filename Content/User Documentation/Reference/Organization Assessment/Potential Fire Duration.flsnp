@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Evaluate the estimated length of time that the fire may continue to burn. Rank the element as low (short), moderate, or high (long). (Within the WFDSS system, this element is rated during the Relative Risk Assessment process and transferred to the Organizational Assessment.)</p>
+    <p class="bodytext">The following guidelines can help you determine an appropriate selection for <span class="emphasis">potential fire duration</span>:</p>
+    <p class="bodytext">
+      <span class="specialbold">Table 1: Determining Selection Values for Potential Fire Duration</span>
+    </p>
+    <table style="border-collapse:collapse; border: 1px solid #010101;">
+      <thead>
+        <tr>
+          <th class="tableheading" width="202" style="border: 1px solid #010101;">
+            <p class="tableheading">
+              <span class="specialbold">N/A (Very Short)</span>
+            </p>
+          </th>
+          <th class="tableheading" width="222" style="border: 1px solid #010101;">
+            <p class="tableheading">
+              <span class="specialbold">Low (Short)</span>
+            </p>
+          </th>
+          <th class="tableheading" width="212" style="border: 1px solid #010101;">
+            <p class="tableheading">
+              <span class="specialbold">Moderate</span>
+            </p>
+          </th>
+          <th class="tableheading" width="212" style="border: 1px solid #010101;">
+            <p class="tableheading">
+              <span class="specialbold">High (Long)</span>
+            </p>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td width="202" style="border: 1px solid #010101;">
+            <ul>
+              <li class="listbullet">Fire is contained and there are very few or no threats to it breaching containment lines.</li>
+              <li class="listbullet">Fuel type or conditions, weather or time of year is limiting fire spread.</li>
+            </ul>
+          </td>
+          <td width="222" style="border: 1px solid #010101;">
+            <ul>
+              <li class="listbullet">Fire is expected to persist for only a short time. </li>
+              <li class="listbullet">Fire spread is limited by fuel type or conditions, weather or time of fire season.</li>
+              <li class="listbullet">The probability of a season-ending or fire-ending event is increasing quickly.</li>
+            </ul>
+          </td>
+          <td width="212" style="border: 1px solid #010101;">
+            <ul>
+              <li class="listbullet">Fire is expected to last for a moderate period of time requiring mid-term planning and actions. </li>
+              <li class="listbullet">Fuel type or condition, weather and time of season may support some fire spread. </li>
+              <li class="listbullet">Season ending event has not occurred and is not predicted to occur in the next few weeks.</li>
+            </ul>
+          </td>
+          <td width="212" style="border: 1px solid #010101;">
+            <ul>
+              <li class="listbullet">Fire is expected to last for a long period of time requiring long term planning and continual management efforts.</li>
+              <li class="listbullet">Active fire spread is supported by fuel type and condition, weather, and time of year. Season ending event is not predicted to occur for a number of weeks or months.</li>
+            </ul>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <ul>
+      <li class="listbullet" />
+    </ul>
+  </body>
+</html>

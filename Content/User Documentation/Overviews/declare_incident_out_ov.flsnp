@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Dispatchers or Incident Owners can declare and incident out from the Incident Information page provided the incident acreage is greater than zero, the unique fire identifier is complete, and WFDSS is the Authoritative Data Source for those elements according to <a href="https://wfdss.usgs.gov/wfdss_help/WFDSSHelp_abt_IRWIN_data_exchange.html">IRWIN.</a> After declaring an incident out, the incident and its decision content will lock permanently in WFDSS and few additional edits are available.</p>
+    <p class="bodytext">Once an incident is declared out, you can no longer perform the following tasks:</p>
+    <ul>
+      <li class="listbullet">Modify the Incident Name</li>
+      <li class="listbullet">Edit the unique fire identifier; this value is locked.</li>
+      <li class="listbullet">Delete the incident out date (except National Editors)</li>
+      <li class="listbullet">Complete a periodic assessment</li>
+      <li class="listbullet">
+        <p>Create or modify decision content including:</p>
+        <ul>
+          <li class="listbullet2">Planning Areas</li>
+          <li class="listbullet2">M.A.P. and Incident Obj. shapes</li>
+          <li class="listbullet2">FMU List</li>
+          <li class="listbullet2">Management Action Points</li>
+          <li class="listbullet2">Incident Objectives and Requirements</li>
+          <li class="listbullet2">Strategy and Action Items (COA)</li>
+          <li class="listbullet2">EstimatedFinal Cost and the Cost Estimation Method</li>
+        </ul>
+      </li>
+      <li class="listbullet">Publish a decision </li>
+      <li class="listbullet">Update relative risk or Organizational Assessment</li>
+      <li class="listbullet">If this information is updated in another application through IRWIN, the information is also updated in WFDSS even if the incident has an out date in WFDSS.</li>
+    </ul>
+    <p class="bodytext">Once an incident is declared out, you can perform the following tasks:</p>
+    <ul>
+      <li class="listbullet">Transfer incident ownership</li>
+      <li class="listbullet">Grant incident editing privileges</li>
+      <li class="listbullet">Run fire behavior and the Stratified Cost Index models </li>
+      <li class="listbullet">
+        <p>Modify the:</p>
+        <ul>
+          <li class="listbullet2">Incident location</li>
+          <li class="listbullet2">Incident cause</li>
+          <li class="listbullet2">Discovery, Containment, Controlled, and Out dates and times</li>
+          <li class="listbullet2">Jurisdictional agencies</li>
+        </ul>
+      </li>
+      <li class="listbullet">Upload or add a final fire perimeter that automatically adjusts the Latest WFDSS Perimeter Size (acres.)</li>
+      <li class="listbullet">Create fire perimeters, points of interest, and analysis shapes from the Situation Assessment and Analysis maps </li>
+      <li class="listbullet">Create, edit, and publish custom reports </li>
+      <li class="listbullet">Create or upload fire perimeters and analysis shapes using the Feature Information copy </li>
+      <li class="listbullet">Delete shapes provided they are not used in any decision or analysis content </li>
+      <li class="listbullet">Upload images and save map images</li>
+      <li class="listbullet">Create, update, and delete the FireCode </li>
+      <li class="listbullet">View decision content</li>
+      <li class="listbullet">Download incident decisions for printing and/or electronic storage</li>
+      <li class="listbullet">View completed fire behavior analysis outputs and create additional outputs, if needed</li>
+    </ul>
+  </body>
+</html>

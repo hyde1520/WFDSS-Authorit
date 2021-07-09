@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Choose <span class="menuoptions">Analysis &gt; select name of analysis you want to view the Landscape file for&gt; click View Information &gt; click View Landscape or Analysis map</span>. (Both map displays will enable viewing of a  landscape file.) A map display opens.</li>
+      <li class="listnumber">Locate, and then open, the Landscape layers in the LayerSwitcher.</li>
+      <li class="listnumber">If necessary, zoom in to better view the layer details.</li>
+      <li class="listnumber">Turn attribute layers on and off to view specific information about the landscape file. Histograms and legends are available for each landscape attribute. This information can also beviewed from the Results map, if Results exist for an analysis. </li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

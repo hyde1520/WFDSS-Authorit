@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident list, select the incident you want to exclude a M.A.P. for.</li>
+      <li class="listnumber">Click <span class="buttons">View Situation</span>. The Incident Situation Map appears.</li>
+      <li class="listnumber">Choose <span class="menuoptions">Menu &gt; Mgmt Action Points</span>. The Management Action Points List page appears.</li>
+      <li class="listnumber">Select the M.A.P you want to exclude from the decision.</li>
+      <li class="listnumber">Click <span class="buttons">Exclude</span>. The Included Column for the M.A.P. changes to No.</li>
+      <li class="listnumber">To include the M.A.P., choose the M.A.P. and then click <span class="buttons">Include</span>.</li>
+    </ol>
+  </body>
+</html>

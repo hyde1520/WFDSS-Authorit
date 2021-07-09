@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Only Incident Owners can copy their most recently published decision to create a new pending decision. After the decision is copied, you can open the new pending decision and modify it as needed. </p>
+    <p class="bodytext">After copying a decision, verify the following before sending the new decision for review:</p>
+    <ul>
+      <li class="listbullet">The incident information is up to date.</li>
+      <li class="listbullet">The rationale and other decision content are still valid.</li>
+    </ul>
+  </body>
+</html>

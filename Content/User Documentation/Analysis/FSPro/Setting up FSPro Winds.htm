@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">Setting up FSPro Winds<MadCap:keyword term="FSPro:winds" /></h1>
+    <p class="bodytext">The FSPro simulation is greatly influenced by winds, so Fire Behavior Specialists must modify FSPro winds in order to generate good quality analysis data.</p>
+    <p class="bodytext">For each analysis, FSPro generates a time-series analysis based on historical wind data from the selected Remote Automated Weather Station (RAWS). These historical winds are used for all days outside of any forecast winds. For instance, a 14-day analysis may use 4 days of forecast winds and 10 days from the time series. </p>
+    <p class="bodytext">As you modify FSPro winds:</p>
+    <ul>
+      <li class="listbullet">
+        <span class="specialbold">Select a RAWS that is representative of the fire area. </span>Consider the wind speeds and directions that influence observed and expected fire behavior. Ask local fire staff or meteorologists which station best represents winds at the fire location. In locations with terrain it is important to locate a station that is similarly aligned with the topography.Since weather (relative humidity, temperature etc.) are not incorporated into this RAWS selection, the best station for winds may not, necessarily, be the closest on to the incident.</li>
+      <li class="listbullet">
+        <span class="specialbold">Ensure that the selected RAWS has sufficient historical data to support the time-series analysis. </span>Some RAWS stations may only have a few years of data available (unlike the ERC station selection 10 years of data is not required).  Generally, the more years of data that you can capture for winds the better.  When making your RAWS selection, be aware of that there could be gaps in the data. You can talk with a local expert and/or<a href="Downloading Winds (FSPro).htm">download winds</a> to look for these gaps. </li>
+      <li class="listbullet">
+        <span class="specialbold">Test the year filter to determine the optimal timeframe for the historical winds data.</span> The year filter can be set for as long as the station has data. Try different time frames to detect a difference in the wind bins.</li>
+      <li class="listbullet">
+        <span class="specialbold">Review the Wind Rose. </span>Winds are binned for computational efficiency. The values in the wind bins are the same as the graphical wind rose. The values in each bin display as percents. </li>
+      <li class="listbullet">
+        <span class="specialbold">Select a Winds Type of “both” and Generate Wind Matrix when modeling "very high" to "extreme" conditions</span>. Doing so increases wind speeds and includes a greater representation (higher percentages) in the higher wind-speed categories. Gusts only are also an option but use caution, selecting thisoption maycause the model to overpredict fire probabilities.</li>
+    </ul>
+    <p class="heading2">To set up FSPro winds:</p>
+    <MadCap:snippetBlock src="To set up FSPro winds_.flsnp" />
+  </body>
+</html>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">The WFDSS Documentation and Development teams perform this task to ensure that the page-level Help and the <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> ? Help are mapped correctly from the application to the online help. You can use this feature to download a spreadsheet of the current Help mappings.</p>
+    <p class="bodytext">The Help validation table contains the following columns:</p>
+    <ul>
+      <li class="listbullet">
+        <span class="specialbold">JSP Name:</span> The filename for the page or popup window in the WFDSS application. To view the JSP page in the application, copy the JSP Name, then in the URL field of the browser window, paste it after http://wfdss.usgs.gov/training/faces/. In most cases, the appropriate application page appears. However, some pages require data to be available in the system before the page works (e.g., incident- or analysis-specific pages). Refer to the WFDSS_JSP_Help_Map_master spreadsheet in Google Docs for information on how to navigate to the page.</li>
+      <li class="listbullet">
+        <span class="specialbold">Help HTML:</span> The file name listed on the Web tab of the Object Properties window in AuthorIT. Also the filename of the HTML file created during the publishing process. Changing this filename breaks the existing mapping, so be sure to update the this information from the <span class="buttons">Validate Page Level Help</span> button on the Administration &gt; Support tab.</li>
+      <li class="listbullet">
+        <span class="specialbold">HTML Title:</span> The topic name that appears in AuthorIT Object Properties &gt; Web tab &gt; Heading field. This title also appears in the Help TOC. </li>
+      <li class="listbullet">
+        <p>
+          <span class="specialbold">Help Link:</span> The current status of the mapping. </p>
+        <ul>
+          <li class="listbullet2">
+            <span class="emphasis">Valid</span> means that the help file listed appears when the Help link on that JSP page is clicked. (It does not mean that the content is valid, however. You need a live human to determine that.) </li>
+          <li class="listbullet2">
+            <span class="emphasis">Invalid</span> means that an error occurs when the help link on that JSP page is clicked. </li>
+          <li class="listbullet2">
+            <span class="emphasis">N/A</span> means that the No Context-Sensitive Help Available message appears when the help link is clicked for that page. This designation is particularly useful for identifying new application pages that need help.</li>
+        </ul>
+      </li>
+    </ul>
+    <p class="bodytext">Before verifying the help mappings, you need the following:</p>
+    <ul>
+      <li class="listbullet">Understanding of how the application pages and the help pages relate to each other</li>
+      <li class="listbullet">Administrator access on WFDSS Development or WFDSS Training system</li>
+      <li class="listbullet">VPN access to Avocet and AuthorIT</li>
+      <li class="listbullet">Author or Designer user role in AuthorIT</li>
+    </ul>
+    <p class="bodytext" />
+  </body>
+</html>

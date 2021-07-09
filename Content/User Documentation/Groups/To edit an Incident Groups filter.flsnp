@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the <span class="menuoptions">My Home </span>page, click the <span class="menuoptions">Incident Groups </span>tab. The Incident Groups List page appears.</li>
+      <li class="listnumber">Select <span class="menuoptions">Edit Filters</span>. The Incident Group List Filters page appears.</li>
+      <li class="listnumber">Select the filter name.</li>
+      <li class="listnumber">Click the Edit filter hyperlink. </li>
+      <li class="listnumber">Enter the modified filter information.</li>
+      <li class="listnumber">Click <span class="buttons">Save Filter</span>, <span class="buttons">Apply Filter Temporarily</span>, or <span class="buttons">Clear the Filters </span>as appropriate<span class="buttons" />. </li>
+      <li class="listnumber">Click <span class="buttons">Return </span>to the see the modified filter listed on the Incident Group List Filters page</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

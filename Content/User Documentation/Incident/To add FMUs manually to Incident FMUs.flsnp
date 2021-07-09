@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">
+        <a href="Viewing the FMU List for an Incident.htm">View the FMU list for an Incident</a>.</li>
+      <li class="listnumber">Select the Geographic Area, Agency, and Unit that you want to edit FMU codes for.</li>
+      <li class="listnumber">Review the FMUs for Incident box.</li>
+      <li class="listnumber">Click next to the FMU you want to add. The FMUs for Unit box appears.</li>
+      <li class="listnumber">Click the radio button next to the FMU to manually associate.</li>
+      <li class="listnumber">Click <img src="../../Graphics/Application Icons/Image7055.jpg" alt="" width="235" height="20" vspace="0px" hspace="0px" align="Bottom" border="0px" />.</li>
+    </ol>
+    <p class="note">
+      <span class="specialbold">Note</span>:  Use the Incident list to manually remove any previously added FMUs by clicking the radio button next to the appropriate FMU and then clicking <span class="buttons">Remove</span>.</p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

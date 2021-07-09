@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="Automatically generated target for PDF." Type="PDF" Destinations="" GlossaryTermConversion="marked" MasterToc="/Project/TOCs/Wilderness Study Areas.fltoc" MasterStylesheet="/Content/Resources/Stylesheets/authorit.css">
+  <PrintedOutput CollapsedMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" />
+  <Variables>
+    <Variable Name="Variables/HISTCOMMENT"></Variable>
+  </Variables>
+</CatapultTarget>

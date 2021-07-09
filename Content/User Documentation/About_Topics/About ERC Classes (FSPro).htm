@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">About ERC Classes (FSPro)</h1>
+    <p class="bodytext">ERC classes, once <a href="../Analysis/FSPro/Generating ERC Classes (FSPro).htm">generated for the selected weather station</a>, define the range of historical weather data that help drive the FSPro model. The ERC classes are comprised of historical daily ERC values for a date range specified by a Fire Behavior Specialist (FBS). (See <a href="About the Date Filter (FSPro).htm">About the Date Filter (FSPro)</a> for determining the proper dates.) </p>
+    <p class="bodytext">The daily ERC values are grouped into ranges of ERC values called bins. WFDSS assigns each bin an associated percentile value as well as burn period and spotting probability/delay information. Dead fuel moisture values are derived from NFDRS. Live fuel moistures are derived from the <a href="../../Glossary Terms/growing season index (GSI).htm">Growing Season Index (GSI).</a> The model uses these binned values to generate the time series analysis. A forecasted ERC value OR an auto-correlated ERC value dictates which set of binned values are used to calculate fire spread for any given day.</p>
+    <p class="bodytext">Generally, the default bin values are adequate, but analysts may want to make changes in some situations. If current or predicted daily ERC values are less than the lowest bin displayed (60th percentile is the default lowest bin):</p>
+    <ul>
+      <li class="listbullet">No modeled fire growth occurs on those days, or</li>
+      <li class="listbullet">If fire is actively spreading, you may need to <a href="../Analysis/FSPro/Adding Rows to or Deleting Rows from the ERC Classes Table (FSPro).htm">add additional rows to the ERC classes table</a>. </li>
+    </ul>
+    <p class="bodytext">If current or predicted daily ERC values are greater than the highest bin displayed (97th percentile bin typically), there is no need to add rows above the highest bin. FSPro does not recognize a 'ceiling' and models fire growth using values in the highest bin for those days. </p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

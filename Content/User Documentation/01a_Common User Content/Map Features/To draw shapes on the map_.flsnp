@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the<span class="menuoptions"> Incident List</span>, selectthe incident you would like to draw a shape for.</li>
+      <li class="listnumber">Click <span class="buttons">Assess Situation</span>. The map appears with the selected incident marked and centered on the map.</li>
+      <li class="listnumber">Select the map layers you want to view to help guide your drawing (click the + sign beside a category name to expand it, and then select/deselect the appropriate checkboxes for the map layers you want to view).</li>
+      <li class="listnumber">Select the map tool you want to use to create a shape on the map (point, line, rectangle, or polygon).</li>
+      <li class="listnumber">Place your cursor on the map where you want to start drawing, and then click once.</li>
+      <li class="listnumber">Draw the shape, left-clicking as you go to createvertices for lines and polygons. For rectangles, you must click and drag.Double-click, or press the shift key and clickto release the tool. The shape turns yellow. (If you don't like the shape you drew, click the eraser tool <img src="To draw shapes on the map_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />to erase your sketch and draw it again.)</li>
+      <li class="listnumber">If drawing a multi-part shape, place your cursor on the map where you want to start drawing the next shape. Draw the shape and double-click to release the tool when you are finished. Each shape you draw will turn yellow upon completion (draw multi-part shapes carefully, as clicking the erase tool at this point will erase all shapes you have drawn).</li>
+      <li class="listnumber">
+        <p>When you are finished drawing the shape(s), save the shape under the appropriate Incident or Analysis layer:</p>
+        <ol>
+          <li class="listalpha2">To expand the Incident layer, click the + symbol. The Planning Area, Fire Perimeters, Management Action Points (M.A.P.), Incident Obj. Shapes and Points of Interest layers appear in the tree view.</li>
+          <li class="listalpha2">To expand the Analysis layer, click the + symbol. The Ignitions, Barriers, and Landscape Masks layers appear in the tree view.</li>
+          <li class="listalpha2">Click the green<img src="To draw shapes on the map_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> icon beside the type of shape you want to add.</li>
+          <li class="listalpha2">Enter a Name for the shape. Be sure to use descriptive names (e.g., Aspen Grove Rd). For M.A.P.s, WFDSS adds the M.A.P. number to the front of the shape name once the shape is associated with an M.A.P. so it is best to assign an M.A.P. name that is not a number.</li>
+          <li class="listalpha2">Click <span class="buttons">Save</span>. The shape appears in the map display with its name beside it and in the tree view with a checkbox beside it. </li>
+        </ol>
+      </li>
+    </ol>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

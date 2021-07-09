@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Analysis List, select the analysis you want to download a landscape critique for.</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>.The General Information for the selected analysis appears.</li>
+      <li class="listnumber">From the left menu, select <span class="menuoptions">Landscape</span>.User-defined parameters for the landscape file appear on the page, including landscape extent, resolution, landscape data source, and fuel model.</li>
+      <li class="listnumber">Click <span class="buttons">Download LCP Critique.</span> The Open or Save File dialog box appears.</li>
+      <li class="listnumber">Click <span class="buttons">Save</span>.</li>
+      <li class="listnumber">Navigate to the folder you'd like to save it to, and assign a different file name, if needed. </li>
+      <li class="listnumber">Click <span class="buttons">Save</span>.</li>
+    </ol>
+    <p class="bodytext">The downloaded landscape critique file is now available for you to open and peruse. You need Acrobat Reader® to open the file. If you don't have it installed, you can do so from the <a href="http://get.adobe.com/reader/">Adobe website.</a></p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

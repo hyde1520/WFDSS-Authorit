@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident List page, select the incident you want to run a basic fire behavior analysis for.</li>
+      <li class="listnumber">Click <span class="buttons">Assess Situation</span>. The Situation page appears showing the map of the incident area.</li>
+      <li class="listnumber">Select <img src="To run an automated BFB analysis_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> from the Map Tools.</li>
+      <li class="listnumber">Draw a Landscape Extent on your map around the incident. This is the area of the analysis.</li>
+      <li class="listnumber">From the <span class="menuoptions">Map</span> tab, click the + sign next to Analyses. The list expands. </li>
+      <li class="listnumber">Mark the checkbox next to Basic. You will see two icons next to the term:</li>
+    </ol>
+    <p class="bodytext">
+      <span class="specialbold">Table 1: Icons for Running an Automated BFB Analysis</span>
+    </p>
+    <table style="border-collapse:collapse; border: 1px solid #010101;" width="378.06666666666666">
+      <tr>
+        <td width="55.6" style="border: 1px solid #010101;">
+          <ol>
+            <li class="listcontinue">
+              <div class="listcontinue">
+                <p>
+                  <img src="To run an automated BFB analysis_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+                </p>
+              </div>
+            </li>
+          </ol>
+        </td>
+        <td width="322.46666666666664" style="border: 1px solid #010101;">
+          <ol>
+            <li class="listcontinue">
+              <div class="listcontinue">
+                <p>Accesses the online help for the selected item.</p>
+              </div>
+            </li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td width="55.6" style="border: 1px solid #010101;">
+          <ol>
+            <li class="listcontinue">
+              <div class="listcontinue">
+                <p>
+                  <img src="To run an automated BFB analysis_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+                </p>
+              </div>
+            </li>
+          </ol>
+        </td>
+        <td width="322.46666666666664" style="border: 1px solid #010101;">
+          <ol>
+            <li class="listcontinue">
+              <div class="listcontinue">
+                <p>Creates a new analysis.</p>
+              </div>
+            </li>
+          </ol>
+        </td>
+      </tr>
+    </table>
+    <ol>
+      <li class="listnumber">Click <img src="To run an automated BFB analysis_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />. The list expands.</li>
+      <li class="listnumber">Enter a Name for the BFB.</li>
+      <li class="listnumber">Enter a Burn Date. The analysis uses the weather and forecast data available for this date.</li>
+      <li class="listnumber">Enter the Burn Time in 24-hour format (hh:mm). The analysis uses the time to determine what the fire is likely to be doing (e.g., a burn time in the morning will give different results than one during the heat of the day).</li>
+      <li class="listnumber">Click <span class="buttons">Next</span>. WFDSS displays the wind data for the selected date and time. You can edit these data if necessary.</li>
+      <li class="listnumber">Click <span class="buttons">Run Model</span>. A message appears saying that the model was successfully sent for processing. When the run is complete, the BFB appears in the BFB list and the results appear on the map.</li>
+      <li class="listnumber">To view more details, click the + to the left of the BFB you just created and select one of the options listed. The map changes to display each option selected.</li>
+    </ol>
+    <p class="bodytext">Depending on the load on the system, it could take several minutes for the run to complete. If you don't see results, try refreshing the page and zooming in.</p>
+  </body>
+</html>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="warning">
+      <span class="specialbold">WARNING:</span> 100x100 mile landscapes have large pixel counts. They cause the modeling servers to run out of memory. If the server does not run out of memory, the model could take a month to process. </p>
+  </body>
+</html>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">ERC Stream Menu Option (FSPro)<MadCap:keyword term="FSPro:ERC:stream" /></h1>
+    <p class="bodytext">The ERC Stream Menu Option provides opportunities for Fire Behavior Specialists to manage the weather stream and forecast data for an analysis. Here analysts can complete the following tasks:</p>
+    <ul>
+      <li class="listbullet">View and/or modify <a href="../../About_Topics/About the ERC Stream (FSPro).htm">the ERC Stream</a> for the weather station selected and time period specified on the ERC Classes Menu Option.</li>
+      <li class="listbullet">
+        <a href="">Get National Weather Service (NWS)</a> forecast data for inclusion in an FSPro simulation.</li>
+      <li class="listbullet">Add rows to or delete rowsfromthe weather forecast.</li>
+      <li class="listbullet">Manually add and/or modify forecast data.</li>
+    </ul>
+    <p class="bodytext">The ERC Stream populates and is saved automatically when an analyst generates and then saves ERC Classes on the ERC Classes page and is for the time period specified in the ERC classes' date filter.</p>
+    <p class="bodytext">FSPro, as well as other models in WFDSS, require 20' wind values for inputs. NWS forecasts provide 33' winds. The difference between 20' and 33' winds is negligible and forecasted wind values can be used as is.</p>
+    <p class="note">
+      <span class="specialbold">NOTE:</span> Keep in mind that the ERC’s and wind information entered into the forecast section will be used for each of the designated days for every fire simulated in the FSPro analysis. For instance, if you used forecast data for July 27th and 28th for a 10 day run and you are simulating 1000 fires, each of those fires will use the forecast data for July 27th and July 28th and then historic weather will be used to generate artificial seasons for the remaining eight days. If the forecasted ERC is in the 90th percentile bin and you have given that bin a 5 hour burn period, it will use the information from that bin (fuel moistures, burn period, spot probability and delay) as well as the forecasted wind speed and wind direction to simulate fire spread for those 5 hours. </p>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

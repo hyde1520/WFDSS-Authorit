@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident List, choose <span class="menuoptions">Data Management &gt; Objectives</span>. The Strategic Objectives and Management Requirements page appears.</li>
+      <li class="listnumber">Select the Geographic Area, Agency, and Unit you want to edit objectives or requirements for. </li>
+      <li class="listnumber">Select the objective or requirement you want to edit. The buttons at the bottom of the list become active.</li>
+      <li class="listnumber">Click <span class="buttons">Edit</span>. The appropriate edit page appears.</li>
+      <li class="listnumber">Update text and/or SO Code/shape association.</li>
+      <li class="listnumber">Click <span class="buttons">Save</span>. The Objectives/Requirements List reappears with the edited item in the list.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

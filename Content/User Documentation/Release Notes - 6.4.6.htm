@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">Release Notes - 6.4.6</h1>
+    <p class="heading2">
+      <span class="specialbold">7/29/2020 - Bug Fixes for Release 6.4.6</span>
+    </p>
+    <p class="heading3">
+      <span class="specialbold">Data Layers</span>
+    </p>
+    <ul>
+      <li class="listbullet">Enhanced the Transmission Line Layer to differentiate between the type of Line (Overhead, Underground, and not available). Added a new legend to the Layer Switcher Tree, which displays the symbology for those types. </li>
+      <li class="listbullet">Enhanced the BLM Oil and Gas Lease layer to display two colors on the map depicting whether HELDBYPROD is Yes or No. Added a new legend and feature information containing the Serial Number and HELDBYPROD value.</li>
+      <li class="listbullet">Fixed an issue where feature information for BIA Lands occasionally was not available.</li>
+      <li class="listbullet">Updated the colors and labels on the Protecting Unit Legend and Layer to align with the BLM Publication standards for landowner agencies. Renamed references to Responsible Agency in the legend and Acres Burned View of the Current Fire Perimeter to Protecting Unit.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">Data Management</span>
+    </p>
+    <ul>
+      <li class="listbullet">Fixed an issue where the description text of a Strategic Objective was not populated with the Standard Objective text when one was chosen. </li>
+      <li class="listbullet">Fixed an issue where the Data Management History was incorrectly formatted when tables were embedded in the comments. </li>
+      <li class="listbullet">Increased the limit on the Management Requirement Shape Label from 20 to 30 characters. </li>
+      <li class="listbullet">Fixed the layout of the Unit Shapes screen to display the limiters correctly and to enable more space for both the label and description screen, particularly when paging through data. </li>
+      <li class="listbullet">Fixed an issue in which the Alaska statewide full suppression fire management options were not being pulled into an incident’s decision correctly.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">Decisions</span>
+    </p>
+    <ul>
+      <li class="listbullet">Fixed the Modeling Section of the Basic Decision Editor so that it has only non-expired analyses appearing in the drop-down selection boxes. </li>
+      <li class="listbullet">Fixed an issue where the vertical scroll bar of the Basic Decision sections disappeared when zooming in. </li>
+      <li class="listbullet">Removed extra space in the email sent to Incident Owners and Approvers when a Decision is approved and the user has text-formatted email set in their user preference. </li>
+      <li class="listbullet">Fixed the Modeling Section of the Basic Decision Editor so that it has only non-expired analyses appearing in the drop-down selection boxes. </li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">Incidents</span>
+    </p>
+    <ul>
+      <li class="listbullet">Fixed an issue where Relative Risk could be published without the Potential Fire Duration complete. </li>
+      <li class="listbullet">Fixed an issue where incidents originating outside of WFDSS would have the incorrect default Landscape Data Source, resulting in the wrong Landscape Data Source being selected when creating an analysis or when viewing the landscape information on the left menu on a map. Also fixed an issue where System Generated Runs were not generating correctly because of the wrong Landscape Data Source being used in generating an analysis. </li>
+      <li class="listbullet">Fixed an issue where the Jurisdictional Agencies list on the Incident Information Page was not being updated with any new agencies contained within a Planning Area. </li>
+      <li class="listbullet">Removed sorting on columns in the Incident Objectives List and fixed issues with wrong buttons being enabled/disabled when the pagination controls were used.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">IRWIN</span>
+    </p>
+    <ul>
+      <li class="listbullet">Changed the IRWIN Issue List to display the most recent unresolved issue of a particular issue type for an incident. </li>
+      <li class="listbullet">Added a warning message on top of the Incident Information Panel when an incident is marked as not valid in IRWIN. </li>
+      <li class="listbullet">Fixed an issue where the JSON sent to IRWIN on update of the latitude longitude to IRWIN was not in a valid format. </li>
+      <li class="listbullet">Fixed an issue when a new WFDSS Incident is created when communication to IRWIN is down. All information is sent to IRWIN when communication has been reestablished. </li>
+      <li class="listbullet">Fixed an issue when pushing incident information to IRWIN, and the incident is marked as invalid in IRWIN could potentially change the incident to valid in IRWIN. </li>
+      <li class="listbullet">Fixed an issue where pulling incident information from IRWIN would fail if the FireStrategy attributes in IRWIN were set but the EstimatedCostToDate in IRWIN was not set. </li>
+      <li class="listbullet">Fixed an issue where IRWIN Notification emails were not being sent when an issue was added to the IRWIN Issue List. </li>
+      <li class="listbullet">Changed the Additional Information row on the IRWIN Issue Information Screen available to National Editors to state ‘Additional Information for IRWIN Incident.’ The information will only appear for the incident in IRWIN, not the WFDSS incident if the two incidents are not the same one. </li>
+      <li class="listbullet">Added a description column to the IRWIN Issue List to help with issue resolution. </li>
+      <li class="listbullet">Fixed an issue when polling for IRWIN updates that could potentially cause updates to be missed because code was updating the last modified timestamp by one second when no updates were received from IRWIN. </li>
+      <li class="listbullet">Added retry logic to IRWIN code so that when connection fails to IRWIN, the number of issues added to the IRWIN issue list and the emails sent when the WFDSS/IRWIN Process failed are reduced.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">Map Pages</span>
+    </p>
+    <ul>
+      <li class="listbullet">Fixed an issue on map pages where if multiple FMUs or Strategic Objectives were checked for a unit, if one of the items was unchecked, all the FMUs or Strategic Objectives for that unit were no longer visible on the map. </li>
+      <li class="listbullet">Fixed an issue where the links (Feature Information, Fire Danger Rating Graph, etc.) in the Info Tab of the Left-Hand Menu of the View Landscape Map did not work. </li>
+      <li class="listbullet">Fixed an issue where the Fuel Treatment nodes would not always display in the layer switcher tree on the Situation Assessment Pop-up Map. </li>
+      <li class="listbullet">Fixed an issue with downloading of Arrival Time ASCII Grids for Near Term and Short Term Fire Behavior Models. </li>
+      <li class="listbullet">Updated the labels in the layer switcher tree for the maps for the year bins under Historical Wildfires and Fuel Treatments. Added ‘Historical Wildfires’ or ‘Fuel Treatments’ prefixes, which also now appear in the Query Additional Layer drop-down list of the Feature Information to differentiate between the Historic Wildfires and Fuel Treatment bins. </li>
+      <li class="listbullet">Fixed an issue where the 2011 MTBS Layer Tree Node was in the wrong location in the Layer Switcher Tree on the Map Pages. </li>
+      <li class="listbullet">Fixed the Monitoring Trends Burn Severity (MTBS) Legend to match the colors of the layer displayed on the map. </li>
+      <li class="listbullet">Moved the Monitoring Trends Burn Severity (MTBS) Legend from the 2018 and 2010 nodes beneath the MTBS node in the layer switcher tree to the MTBS node. </li>
+      <li class="listbullet">Fixed an issue so that when users submit a map capture, they must provide the required Image Label.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">Missing Images in Published Decisions</span>
+    </p>
+    <ul>
+      <li class="listbullet">Fixed an issue where the Organization Assessment Graph was sometimes missing from a Published Flame Act Report.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">System Support</span>
+    </p>
+    <ul>
+      <li class="listbullet">Modified the subject of the emails sent to the support team to denote the restart of a broker as a ‘WARNING’ and added a new ‘FAILURE’ email when the broker couldn’t restart after 3 times in 5minutes (which is configurable). </li>
+      <li class="listbullet">Created a tool that analyzes and compares units between NWCG and WFDSS, which supports adjustments to a unit's name and agency over time. </li>
+      <li class="listbullet">Added logging for debugging to resolve Shape Upload Vertices Count issues. </li>
+      <li class="listbullet">Corrected a bug in the feature information tool that occurred when querying the Fuel Treatment data layers in the Development and Quality Assurance environments. </li>
+      <li class="listbullet">In the Development environment, added foreign key references to the document database table so that decisions and reports are deleted when an incident is deleted, to match the behavior in Production. Removed any 'orphaned' documents that were not associated with an incident due to the lack of this relationship. </li>
+      <li class="listbullet">Updated the SQL Data Dictionary for all environments and applied the changes to the database tables so that all tables and columns have appropriate comments.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">System Utilities</span>
+    </p>
+    <ul>
+      <li class="listbullet">Fixed a bug with the utility that syncs user roles from Production to Training and updated the utility so that it now runs every 10 minutes. </li>
+      <li class="listbullet">Fixed issue where if the Utility that updates the KBDI Grids had failed, then no email notification was sent to the system administrators.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">User Feedback</span>
+    </p>
+    <ul>
+      <li class="listbullet">Fixed an issue where the emails sent when a new Feedback was submitted did not get sent if any of the users on the user notification list did not have user preferences associated with their user ID. </li>
+      <li class="listbullet">Modified user feedback so that when a WFDSS team member responds via Respond to User from the Feedback Information screen, the user now receives an email and also a text if the user has their mobile number as their alternate email.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">Values Inventory</span>
+    </p>
+    <ul>
+      <li class="listbullet">Fixed an issue where Estimated Population was not included in the Values Inventory/Values at Risk. </li>
+      <li class="listbullet">Fixed an issue in the FSPro Values at Risk where the label for a Management Requirement was occasionally preceded by UNIT_ID instead of the correct unit abbreviation.</li>
+    </ul>
+  </body>
+</html>

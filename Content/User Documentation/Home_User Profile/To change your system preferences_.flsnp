@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Login to the appropriate WFDSS application (Production or Training).</li>
+      <li class="listnumber">Click <span class="menuoptions">My Home &gt; System Preferences</span>. The Home - System Preferences page appears.</li>
+      <li class="listnumber">Enter the number of rows you want to appear per page for ERC Stream and User List data.</li>
+      <li class="listnumber">Select the Initial Page. This is the first page you will see after logging into the application.</li>
+      <li class="listnumber">Select the Map Base Layer that you want to use as the default.</li>
+      <li class="listnumber">Select the Map Layers you want to see when you view the maps.</li>
+      <li class="listnumber">Select the Units you want to subscribe to for planning area notifications (Production only.) See <a href="../../zzzz_Sandbox/Diane/Subscribing to Planning Area Notifications.htm">Subscribing to Planning Area Notifications</a>.</li>
+      <li class="listnumber">Click <span class="buttons">Save Preferences</span>.</li>
+    </ol>
+    <p class="bodytext">Your changes are saved and the pages change accordingly.</p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

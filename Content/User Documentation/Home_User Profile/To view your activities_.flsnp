@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Login to WFDSS.</li>
+      <li class="listnumber">Choose the <span class="menuoptions">My Home</span> tab. The My Home page displays the Activities Table for activities you've completed in the past 7 days.</li>
+    </ol>
+    <p class="bodytext">You can delete or download information from here.</p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

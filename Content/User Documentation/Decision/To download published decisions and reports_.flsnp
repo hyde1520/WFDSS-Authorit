@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">
+        <a href="../01a_Common User Content/Navigation/Topic5787.htm">Navigate to your incident</a>.</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>.</li>
+      <li class="listnumber">Click<span class="menuoptions"> the Decisions</span> or Reports tab.</li>
+      <li class="listnumber">Click the radio button next to the Published Decision or Report that you want to download for saving or printing.</li>
+      <li class="listnumber">
+        <p>Click either <span class="buttons">PDF</span> or <span class="buttons">HTML</span>. The File Download box appears.</p>
+        <ul>
+          <li class="listbullet2">If selected PDF, open the PDF for viewing and/or printing, or save it to your hard drive.</li>
+          <li class="listbullet2">If you selected an HTML file, save the zipped file and then extract its contents to your hard drive.</li>
+        </ul>
+      </li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

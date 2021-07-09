@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">
+        <p>Navigate to the incident decision you need to review in one of two ways:</p>
+        <ul>
+          <li class="listbullet2">Click the link provided in your notification email &gt; login to WFDSS &gt; select the pending decision. Proceed to step 3.</li>
+          <li class="listbullet2">Login to WFDSS &gt; Incidents &gt; select incident &gt; View Information &gt; Decisions &gt; select the pending decision. Proceed to step 2</li>
+        </ul>
+      </li>
+      <li class="listnumber">Click <span class="buttons">Review/Approve Decision</span>. The Pending Decision page appears.</li>
+      <li class="listnumber">Review the decision content and determine whether or not you agree with the decision.</li>
+      <li class="listnumber">If you agree with the contents of the decision, click<span class="buttons"> Mark the Decision Reviewed</span>. The Decision List page reappears, as does a message appears saying that the pending decision was accepted.</li>
+      <li class="listnumber">
+        <p>If you disagree, click <span class="buttons">Return for Edits</span>. A comment dialog box appears.</p>
+        <ol>
+          <li class="listalpha2">Enter your comments about why you are returning the decision for edits. Be specific and tell the Author/Incident Owner what they need to do to fix the decision content.</li>
+          <li class="listalpha2">Click <span class="buttons">Return for Edits</span>. The Decision List page reappears, as does a message saying that the decision has been returned for edits.</li>
+        </ol>
+      </li>
+    </ol>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

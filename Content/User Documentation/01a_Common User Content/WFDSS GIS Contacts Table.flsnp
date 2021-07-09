@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <table style="border-collapse:collapse; border: 1px solid #989898;" width="534">
+      <tr>
+        <td class="bodytext" width="534" style="border: 1px solid #989898;" colspan="4">
+          <p class="bodytext">
+            <span class="specialbold">WFDSS GIS Team Contacts</span>
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td class="bodytext" width="129" style="border: 1px solid #989898;">
+          <p class="bodytext">Andrew Bailey   WFM RD&amp;A Data Manager<br />208-387-5248<br /><a href="mailto:andrew_bailey@nps.gov">send email</a></p>
+        </td>
+        <td class="bodytext" width="155" style="border: 1px solid #989898;">
+          <p class="bodytext">Ben Butler<br />WFM RD&amp;A GIS Specialist<br />208.991.4143<br /><a href="mailto:benjamin.b.butler@usda.gov">send email</a></p>
+        </td>
+        <td class="bodytext" width="106" style="border: 1px solid #989898;">
+          <p class="bodytext">Jill Kuenzi<br />USFS-NIFC<br />208.387.5283<br /><a href="mailto:jill.kuenzi@usda.gov">send email</a></p>
+          <p class="bodytext"> </p>
+        </td>
+        <td class="bodytext" width="142" style="border: 1px solid #989898;">
+          <p class="bodytext">Joseph Kafka<br />BIA-NIFC<br />208.387.5572<br /><a href="mailto:Joseph_Kafka@bia.gov">send email</a></p>
+        </td>
+      </tr>
+      <tr>
+        <td class="bodytext" width="129" style="border: 1px solid #989898;">
+          <p class="bodytext">Cameron Tongier<br />USFWS-NIFC<br />208.387.5712<br /><a href="mailto:cameron_tongier@fws.gov">send email</a></p>
+        </td>
+        <td class="bodytext" width="155" style="border: 1px solid #989898;">
+          <p class="bodytext">Skip Edel<br />NPS-NIFC<br />303.969.2947<br /><a href="mailto:skip_edel@nps.gov">send email</a></p>
+        </td>
+        <td class="bodytext" width="106" style="border: 1px solid #989898;">
+          <p class="bodytext">Dianna Sampson<br />BLM-NIFC<br />208.387.5196<br /><a href="mailto:dsampson@blm.gov">send email</a></p>
+          <p class="bodytext" />
+        </td>
+        <td class="bodytext" width="142" style="border: 1px solid #989898;">
+          <p class="bodytext">Jennifer L. Jenkins BLM-Alaska Fire Service    907.356.5587         <a href="mailto:jljenkins@blm.gov">send email</a></p>
+          <p class="bodytext" />
+          <p class="bodytext"> </p>
+        </td>
+      </tr>
+    </table>
+    <p class="bodytext" />
+  </body>
+</html>

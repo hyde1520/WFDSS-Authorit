@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">A user group is a group of WFDSS users that you create by selecting users from either the WFDSS Address book or My Address book. Once a group has been created, it is saved to your personal address book where you can manage it and <a href="../Groups/Editing a Group.htm">make edits</a>. Groups make it easier for you to find the people you work with regularly, and enable you to assign incident ownership to a team of individuals. Assigning multiple owners to an incident ensures that progress is made on incident analysis and reporting, even if an individual becomes unavailable.</p>
+    <p class="bodytext">You can create a group by selecting individuals from the WFDSS Address book, but its easier to create a group in your <a href="../Home_User Profile/Setting Up Your Personal Address Book.htm">personal address book</a> because you will be searching through a smaller cohort. Once created, you can change the name of a group at any time. </p>
+    <p class="bodytext">Only group members with Author privileges can own incidents. Members of a group that do not have author privileges can assist with document editing, review, and approval.</p>
+  </body>
+</html>

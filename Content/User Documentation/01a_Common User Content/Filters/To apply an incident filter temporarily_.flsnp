@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident List, click <span class="buttons">Edit Filter</span>. The Edit Filter page appears.</li>
+      <li class="listnumber">Click <span class="buttons">Clear</span> to remove any current selections.</li>
+      <li class="listnumber">If necessary, expand the filter lists to view your selections, and click <img src="To apply an incident filter temporarily_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> next to the filter heading.</li>
+      <li class="listnumber">Select the Date Filters related to the incidents you are filtering for.</li>
+      <li class="listnumber">
+        <p>Select the appropriate Other Filter options.<div class="listcontinue"><p>Use the check boxes, radio buttons, and drop-down lists as appropriate to make your selections. To use the slush buckets (Geographic Area, for example), click<span class="buttons"> &gt;&gt;</span> next to the item you want to include in your list. Selections appear in the right-hand bucket. To remove an item, click <span class="buttons">&lt;&lt;</span>.</p></div></p>
+        <ul>
+          <li class="listbullet2">Incident privileges</li>
+          <li class="listbullet2">State</li>
+          <li class="listbullet2">Decisions</li>
+          <li class="listbullet2">Acreage</li>
+          <li class="listbullet2">Geographic Area</li>
+          <li class="listbullet2">Jurisdiction</li>
+        </ul>
+      </li>
+      <li class="listnumber">Enter a comma-separated list of Unit IDs to filter on (e.g., CACND, CAALT, NCNCF).</li>
+      <li class="listnumber">Enter all or part of the Incident Author name and click <span class="buttons">Apply Filter </span>to limit your list to names that match your search criteria. Click <span class="buttons">&gt;&gt;</span> next to each person you want to include in your criteria. The names appear in the list on the right.</li>
+      <li class="listnumber">To view specific incidents, enter all or part of the Incident Name, and then click <span class="buttons">Apply Filter </span>to limit your list to names that match your search criteria.Click &gt;&gt; next to the incident names you want to include in your criteria. The names appear in the list on the right.</li>
+      <li class="listnumber">Click <span class="buttons">Apply Filter Temporarily</span>. The Incident List reappears showing only those incidents that met your criteria, sorted by most recent Discovery Date.</li>
+    </ol>
+    <p class="bodytext">If the Incident List is empty, no incidents met all of your criteria. Click <span class="buttons">Edit Filter </span>and verify that you selected the correct criteria. Try removing some of your more restrictive criteria.</p>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

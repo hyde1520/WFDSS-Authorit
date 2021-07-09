@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Filters allow you to save your preferences for sorting the incident list so that you can easily locate the incidents you need whenever you log into WFDSS. For example, if you are an Author, you might only want to see fires on your home unit in your Incident List. To do this, you would create a filter that filters for only fires on your home unit, and you would select that filter as your default. Each time you log into WFDSS, those incidents will appear in your Incident List. </p>
+    <p class="bodytext">You can create filters for incidents selecting the <span class="buttons">Edit Filter</span> or <span class="buttons">Manage Filters</span> options, which are located above the incident list.</p>
+    <ul>
+      <li class="listbullet">Edit Filter is primarily for <a href="../01a_Common User Content/Filters/Editing an Incident Filter.htm">editing</a> existing filters or for <a href="../01a_Common User Content/Filters/Applying Incident Filters Temporarily.htm">applying incident filters temporarily</a>, but allows you to clear current selections to create a new filter.</li>
+      <li class="listbullet">Manage Filters allows you create new filters, <a href="../01a_Common User Content/Filters/Deleting an Incident Filter.htm">delete</a> incident filters or select a default filter.</li>
+    </ul>
+    <p class="note">
+      <span class="specialbold">NOTE:</span> The Incident filter displays 30,000 of the most recent incidents.</p>
+    <p class="bodytext">WFDSS Production and Training do not share filters; you will have to re-create filters as needed on each system if you choose.</p>
+  </body>
+</html>

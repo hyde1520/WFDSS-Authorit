@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">Selecting a Weather Station for ERC Classes (FSPro)<MadCap:keyword term="weather station:selecting a weather station for ERC Classes (FSPro)" /></h1>
+    <p class="bodytext">In the FSPro model, fuel moisture is binned into Energy Release Component (ERC) percentile classes based on data from the selected weather station. Because FSPro uses ERC (fuel model G) to calculate and bin the live and dead fuel moisture inputs, take the time to select a weather station that will best capture this type of information based on its elevation, proximity to the fire location, and the ERC Class outputs based on the selected start year and beginning and end months. It is important to pay attention to elevation and locate a station with similar weather (choose a station within +/- 1000 to 2000' elevation) but it is not necessary to find a station with similar drainage alignment or to try to capture other localized wind influences when selecting a weather station to use for ERC.</p>
+    <p class="bodytext">The list of weather stations available for calculating ERC classes are generally within 1 degree of latitude (69 miles) of the entered incident location. FSPro requires that at least 15 stations populate the dropdown. If the minimum number of stations is not located in the first degree of latitude, WFDSS will incrementally look outward by one degree until at least 15 stations are found.  The closest station (based on a formula for distance and elevation) that is currently reporting observations will be displayed as the default station in the dropdown list.</p>
+    <p class="bodytext">The populated list of available stations can contain manual or remote (RAWS) weather stations. The criteria for inclusion in the list is that the stations must:</p>
+    <ul>
+      <li class="listbullet">Be catalogued NFDRS weather stations,</li>
+      <li class="listbullet">Be active and collecting data in WIMS, and</li>
+      <li class="listbullet">Have a minimum of 10 years of weather data.</li>
+    </ul>
+    <p class="bodytext">Station density and location will not always be optimal, and in some instances, the closest station may not be the best choice. Evaluate the station information and always select the most representative station for the fire and location. If you think the displayed WIMS station catalog information contains erroneous values, you can modify the editable fields. You may also want to contact the station owner to report your findings or gain additional information.</p>
+    <p class="bodytext">Weather station data extent in terms of the number of years and the months actively collected will be station-dependent. Ask local fire personnel for their input on station selection, view station information and data in Fire Family Plus, or contact the GACC meteorologist for information regarding weather station applicability. After you select a weather station for ERCs, document why you chose the station you did by clicking on Notes from the menu list on the left.</p>
+    <p class="warning">
+      <MadCap:snippetText src="../../../01_Common Content/Notes, Cautions, Warnings/Topic6873.flsnp" /> The actual weather data available for an individual station is unique to each station. In FSPro, the number of years, months or days within a specific year that actual weather data exist cannot be determined in WFDSS. The months and actual days a station actively collects information is best determined outside the WFDSS system. Knowing this is important when setting the date/time filter's years and start and end months.</p>
+    <p class="heading2">To Select a Weather Station for ERC Classes (FSPro)</p>
+    <ol>
+      <li class="listnumber">
+        <MadCap:snippetBlock src="Topic6985.flsnp" />
+      </li>
+    </ol>
+  </body>
+</html>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="note">
+      <span class="specialbold">Note</span>: This option will only work if you have not already selected to create a decision from the Objectives or Course of Action tab.</p>
+    <ol>
+      <li class="listnumber">From the Incident List, select the incident you would like to create a decision for, and then click <span class="buttons">View Information</span>.</li>
+      <li class="listnumber">Click the <span class="menuoptions">Decisions</span> tab.</li>
+      <li class="listnumber">Click <span class="buttons">Create</span>.</li>
+      <li class="listnumber">A list of requirements (each linked for further information) that must be met before publishing displays at the top ofthe page, and the Decision List displays below it. Your pending decision and its sections are available in the list for viewing or editing.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

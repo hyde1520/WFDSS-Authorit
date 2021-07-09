@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Before <a href="../Incident/Transferring Incident Ownership .htm">transferring incident ownership </a>to a WFDSS user group, verify that the group members:</p>
+    <ul>
+      <li class="listbullet">Are available and not on leave or already assigned to other duties.</li>
+      <li class="listbullet">Have the authority to make fire management decisions for the incident's size and complexity.</li>
+      <li class="listbullet">Include atleast one group member assigned therole of Author within WFDSS. Only group members with Author privileges can own incidents. Members of a group that do not have author privileges can assist with document editing, review, and approval.</li>
+    </ul>
+    <p class="bodytext">Members of the ownership group are responsible for ensuring that decisions related to the incident get documented, reviewed, and approved. (See <a href="../Decision/Managing Incident Privileges.htm">Assigning a Decision Team to an Incident</a>.)</p>
+  </body>
+</html>

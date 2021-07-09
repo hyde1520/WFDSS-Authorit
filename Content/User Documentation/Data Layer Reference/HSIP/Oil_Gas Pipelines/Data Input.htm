@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">Data Input</h1>
+    <p class="bodytext">This feature class is from the HSIP Gold 2010 Infrastructure ArcGIS 9.3 energy geodatabase.</p>
+    <p class="bodytext">The following processing steps were followed to edit the original shapefile for use within WFDSS:</p>
+    <ol>
+      <li class="listnumber">
+        <p>Selected all: " ‘ ‘ ", "ACT", "ACTIVE", "Active", "IN SERVICE" and "PABN (proposed abandonment but could be currently active)" records.<div class="listcontinue"><p>Other attribute values that were <span class="specialbold">not</span> used:</p></div></p>
+        <ul>
+          <li class="listbullet2">A/C = ABANDONED AND COMBINED ABANDONED</li>
+          <li class="listbullet2">
+            <span class="emphasis">ACTIVE - THIS PIPELINE IS IN SERVICE AND BEING UTILIZED</span>
+          </li>
+          <li class="listbullet2">CNCL = CANCELLED</li>
+          <li class="listbullet2">COMB = COMBINED</li>
+          <li class="listbullet2">N/A = NOT APPROVED AT THIS TIME</li>
+          <li class="listbullet2">O/C = OUT AND COMBINED</li>
+          <li class="listbullet2">OUT = OUT OF SERVICE</li>
+          <li class="listbullet2">PABN = PROPOSE ABANDONMENT</li>
+          <li class="listbullet2">PREM = PROPOSE REMOVAL</li>
+          <li class="listbullet2">PROP = PROPOSED</li>
+          <li class="listbullet2">R/A = RELINQUISHED AND ABANDONED</li>
+          <li class="listbullet2">R/C = RELINQUISHED AND COMBINED</li>
+          <li class="listbullet2">R/R = RELINQUISHED AND REMOVED</li>
+          <li class="listbullet2">RELQ = RELINQUISHED</li>
+          <li class="listbullet2">REM = REMOVED</li>
+          <li class="listbullet2">Advan Develop = Proposed Advanced Development</li>
+          <li class="listbullet2">Early Develop = Proposed Early Development</li>
+        </ul>
+      </li>
+      <li class="listnumber">Kept only the points in US and US Territories.</li>
+      <li class="listnumber">Re-projected the resulting layer to GCS NAD 83.</li>
+    </ol>
+  </body>
+</html>

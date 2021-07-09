@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Report List or the Template List, select the Report Template you want to Publish.</li>
+      <li class="listnumber">Click <span class="buttons">Publish</span>. The publishing message box appears.</li>
+      <li class="listnumber">Click <span class="buttons">OK </span>to publish the Report Template or click <span class="buttons">Cancel </span>to return to the Report List.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+    <p class="bodytext" />
+  </body>
+</html>

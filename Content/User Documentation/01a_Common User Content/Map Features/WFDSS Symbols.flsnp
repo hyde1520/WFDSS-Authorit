@@ -1,0 +1,539 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <table style="border-collapse:collapse; border: 1px solid #010101;">
+      <thead>
+        <tr>
+          <th class="tableheading" width="186" style="border: 1px solid #010101;">
+            <p class="tableheading">WFDSS Icon/Symbol</p>
+          </th>
+          <th class="tableheading" width="156" style="border: 1px solid #010101;">
+            <p class="tableheading">Name</p>
+          </th>
+          <th class="tableheading" width="336" style="border: 1px solid #010101;">
+            <p class="tableheading">Explanation</p>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Map Scale (zoom controls)</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Appears on the Map View. Clicking the sections of the scale zooms the map view in and out. The legend below the scale indicates the scale the current view is set to.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Directional Arrows (pan controls)</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Appears on the Map View. Clicking the arrows moves the map according to the arrow clicked.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Hand Icon (pan and zoom tool)</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Appears on the Map View and can be used three ways: </p>
+            <ul>
+              <li class="tablelistbullet">To pan around the map display, click the icon and then place your cursor on the map. Clicking and holding the mouse button as you drag moves the map accordingly. (Same effect as clicking the directional arrows.) </li>
+              <li class="tablelistbullet">To zoomto an area on the map display, place the hand at one corner of your desired zoom area, then shift-click the mouse button as you drag the mouse diagonally. Release the button when you have zoomed to the desired scale. (Same effect as clicking the Map scale)</li>
+              <li class="tablelistbullet">To zoom to a shape from the LayerSwitcher, select the checkbox beside a shape to display it in the map and then click the dropdown arrow to the right of the shape. Click the icon and the display zooms to the selected shape.</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Add Point Icon</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Appears on the Map View. Clicking the icon and then clicking on the map inserts a yellow dot on the map. </p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Draw Line Icon</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Appears on the Map View. Click the icon, then shift-click on the map where you want to start the line. Click again to set the start point, then drag the cursor across the map to the end point of the line. Click once to set an intermediate point on the line. Shift-click or double-click to set the end point. The line appears red while you are drawing it, and turns yellow when the line is completed (or selected later). To close the line tool, you can shift-click, drag, and release, or click to add segments and shift-click to complete.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Draw Rectangle Icon</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Appears on the Map View. Click the icon, then place the cursor on the map where you want to start the rectangle. Shift-click and hold the buttons down as you drag the cursor diagonally to where you want the end point. Unclick the mouse button to set the end point. The rectangle appears as a shaded yellow box when selected and as a red rectangle when not selected.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Draw Polygon Icon</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Appears on the Map View. Click the icon, then place the cursor on the map where you want to start the polygon. Shift-click on the map where you want to start the polygon. Holding the buttons down, drag the cursor to where you want each point for the edge of the polygon, clicking once to set the interim points. Shift-click or Double-click to set the end point. The polygon appears red while you are drawing (or when it's not selected) and turns to a shaded yellow polygon when the shape is completed (or when it's selected later). To close the polygon tool, you can shift-click, drag, and release, or click to add segments and shift-click to complete.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Arrow Icon (select and deselect a shape on the map tool)</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Appears on the Map View and can be used two ways: </p>
+            <ul>
+              <li class="tablelistbullet">To select a shape or point on the map, click the icon from the toolbar, and then click the shape or point that you want to select. Clicking again deselects the shape. You can select one or more shapes this way.</li>
+              <li class="tablelistbullet">To select a single shape from the LayerSwitcher, select a checkbox beside a shape to display it in the map, and then click the dropdown arrow to the right of the shape. Click the icon and the shape is selected in the map display.</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Middle" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Checkmark Icon (select and deselect a shape on the analysis tool)</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Appears in the LayerSwitcher beneath an Ignition or Barrier shape on the Analysis Map. Clicking the icon selects or deselects that shape for use as an Ignition or Barrier File for that analysis.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Eraser Icon</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Appears on the Map View. Clicking the icon removes all of the selected (yellow-shaded) shapes from the map. <span class="emphasis">There is no undo, so be sure that you have selected only those shapes you want to remove before clicking the icon.</span></p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Ruler Icon (measure tool)</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Appears on the Map View. Clicking the icon changes your cursor to an arrow with a dot on the end. Click the map where you want to start measuring and drag your cursor to the end point. Double-clicking sets the end point. The measured distance appears in the left pane.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Landscape Extent Icon</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Appears on the Map View. Click the icon, then place the cursor on the map where you want to start a corner of the rectangular landscape extent. Click and hold the mouse button as you drag the cursor diagonally to where you want the end point. Unclick the mouse button to set the end point. The extent appears as a green rectangle.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Fire Icon</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Appears on the Map View (Intelligence tab only). Clicking the icon changes your cursor to an arrow with a dot on the end. Click the map where the incident is located. The latitude and longitude appear in the left pane. If the incident is large, you can click and hold the mouse button while dragging the cursor across the map to create an incident shape. Double-clicking sets the end point and releases the cursor.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Information Icon</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Appears on the Map View. Clicking the icon changes your cursor to an arrow. Clicking the map view displays a yellow dot on the map. The latitude, longitude, elevation, fuel model description, and canopy characteristics for the selected location appear in the left pane on the Information tab.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Middle" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Camera Icon</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Appears on the Map View. After selecting a polygon, click the camera icon, type the Image Label and Description, then click Capture Image. You are notified that the image was successfully captured in the message area above the map view.  </p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">New Incident Marker</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Appears on the Map View. When you click the Fire Icon and then click the map, this yellow dot indicates where the incident is located. The latitude and longitude appear in the left pane of the map page. After an incident is created and saved, the marker changes to a red diamond. </p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Existing Incident Marker</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Appears on the Map View. Placing your cursor over the marker and clicking the mouse button displays details about the incident. This pop-up page contains a hyperlink that allows you to directly access the WFDSS data for the incident. All incidents logged for a geographic area appear on your map view unless you filter them out. (See <a href="../../Incident/Setting Incident Default Preferences.htm">Setting Incident Preferences</a>.)These markers change size and color based on the size and status of the incident. </p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Middle" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Multiple Incidents Marker</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Appears when the Intelligence map view is set to such a resolution that multiple incidents are located in the same area. For example, if the map scale is set to 1:8M, and there are multiple incidents within that area, the blue marker appears. To view the individual incidents, zoom in on the area.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Building Cluster Icons</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Appears in the center of the parcel where buildings exist. Verify actual locations with local resources.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">BLM Buildings Icon</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Identifies BLM buildings on the landscape.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> and <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /></p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Communication Tower Icons</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Identifies communication tower locations. A + sign in the middle of the tower indicates that multiple towers exist in the location.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Electric Substation Icon</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Identifies the location of electrical substations.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Mine Icon</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Identifies the location of a mine.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">NPS Buildings</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Identifies the location of NPS buildings.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Oil and Gas Pipeline Icon</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Identifies oil and gas pipelines.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Power Plant Icon</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Identifies the location of power plants.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Roads Icon</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Identifies major roads.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Transmission Lines Icon</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Identifies transmission lines.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">USDA FS Buildings</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Identifies USDA Forest Service buildings</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">'Create New' Icon</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Appears in the layer tree for the map. Clicking the icon allows you to name and save a new shape associated with the layer or start a new analysis.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Refresh Icon</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Clicking the icon refreshes the selected layer on the map.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Help Icon</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Clicking the icon brings up help about the selected layer.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">FSPro Histogram</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Appears next to FSPro analyses when results are available. Clicking the icon displays the calculated final fire size for each class.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="2px" hspace="2px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Legend Icon</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Clicking the icon displays the legend associated with it. (See also <a href="Map Legends.htm">Map Legends</a>.)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <span class="specialbold">*</span>
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Dynamic Layer Icon</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Appears on the Map view. Content on this page is dynamic. Every time you expand layer information, WFDSS displays the most recently updated information for that layer. </p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Layer Order Tool</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Allows you to move a map layer to the front or back of the other layers.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Layer Transparency Tool</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Allows you to increase or decrease the opacity of the selected layer so that you can see other layers and map features.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Download Shape Tool</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Allows you to download the selected shape to your computer.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="186" style="border: 1px solid #010101;">
+            <p class="tablebodytext">
+              <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+            </p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Delete Shape Tool</p>
+          </td>
+          <td class="tablebodytext" width="336" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Allows you to delete the selected shape from the map and the layer tree.</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="tablebodytext"> </p>
+  </body>
+</html>

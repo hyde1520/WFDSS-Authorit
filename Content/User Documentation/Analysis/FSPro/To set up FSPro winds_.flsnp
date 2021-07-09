@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Analysis List page, select the FSPro analysis for which you want to modify the winds.</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>. The General FSPro Information page appears.</li>
+      <li class="listnumber">From the left menu, select <span class="menuoptions">Winds</span>. The FSPro Winds page appears.</li>
+      <li class="listnumber">Verify that the selected RAWS is the one most appropriate for the analysis.</li>
+      <li class="listnumber">
+        <p>Set the time filter, start date, end date, start hour, and end hour.</p>
+        <ul>
+          <li class="listbullet2">The month filter is typically set to one month before and after the ignition, which is the default.</li>
+          <li class="listbullet2">The hour filter should only include the time when the fire advances (the burning period.)</li>
+        </ul>
+      </li>
+      <li class="listnumber">Select the Winds Type. For Weighted Winds, acalm weight and calm threshold is automatically calculated once the wind matrix is generated.You don't need to modify the Calm Weight or Calm Threshold unless you edit the matrix.</li>
+      <li class="listnumber">Click <span class="buttons">Generate Wind Matrix</span>. After a few seconds, the generated matrix appears. The bins display a percentage, expressed as whole numbers with two decimal places (e.g., 1.54% appears as 1.54).</li>
+      <li class="listnumber">
+        <p>Click <span class="buttons">Wind Rose</span>. A graphical represenation of the winds appears. You can use the rose to answer the following questions:</p>
+        <ul>
+          <li class="listbullet2">Is the wind direction logical?</li>
+          <li class="listbullet2">Are the wind speeds realistic based on current conditions and historical observations?</li>
+        </ul>
+      </li>
+      <li class="listnumber">Click <span class="buttons">Save Winds.</span></li>
+      <li class="listnumber">Document your decisions about winds in the FSPro <a href="To set up FSPro winds_.htm">analysis notes</a>.</li>
+    </ol>
+    <p class="bodytext">You can now modify the wind matrix to fit the analysis parameters you want to include. (See <a href="Editing the FSPro Wind Matrix.htm">Editing the Wind Matrix</a> for more information.)</p>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Analysis List page, select the analysis that contains the landscape parameters you want to modify.</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>. The General Parameters page appears.</li>
+      <li class="listnumber">From the left menu, select<span class="menuoptions"> Landscape</span>. The Landscape File page appears.</li>
+      <li class="listnumber">Verify that the latitude and longitude of the landscape extent are correct and make modifications if necessary (you may have to navigateto the <span class="menuoptions">Analysis Map </span>to <a href="../Basic and Short-term Fire Behavior/Analyst-Assisted/Drawing a Landscape Extent.htm">draw a new landscape extent</a>).</li>
+      <li class="listnumber">Verify that the resolution is correct or enter a new value.<div class="listnote"><p><span class="specialbold">Note</span>: Finer resolutions require longer processing times.</p></div></li>
+      <li class="listnumber">Verify that the landscape data source is correct, or select a different source.</li>
+      <li class="listnumber">Select either 40 or 13fuel models.<div class="listnote"><p><span class="specialbold">Note</span>: Only the LANDFIRE landscapes have both 40 and 13 fuel model sets.</p></div></li>
+      <li class="listnumber">Verify that the <a href="../Basic and Short-term Fire Behavior/Analyst-Assisted/Drawing a Landscape Extent.htm">landscape extent</a> exists and the <a href="Creating a Landscape Editor Rule.htm">landscape editor rules</a> are correct.</li>
+      <li class="listnumber">Click <span class="buttons">Save</span>.</li>
+      <li class="listnumber">Click <span class="buttons">Create LCP File</span>. WFDSS generates the landscape file.</li>
+    </ol>
+    <p class="bodytext">You can now <a href="../Viewing the Landscape for an Analysis.htm">view the landscape</a>. You must re-create the Landscape File if you make additional changes to the landscape editor rules or the landscape parameters.</p>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

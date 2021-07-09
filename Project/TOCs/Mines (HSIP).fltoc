@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+  <TocEntry Title="Homeland Security Infrastructure Program (HSIP) Mines Layer" Link="/Content/User Documentation/Data Layer Reference/HSIP/Mines/Homeland Security Infrastructure Program (HSIP) Mines Layer.htm">
+    <TocEntry Title="Overview" Link="/Content/User Documentation/Data Layer Reference/HSIP/Overview.htm" />
+    <TocEntry Title="Data Input" Link="/Content/User Documentation/Data Layer Reference/HSIP/Mines/Data Input.htm" />
+    <TocEntry Title="Topic7502" Link="/Content/User Documentation/Data Layer Reference/Buildings/BLMBuildings/Topic7502.htm" />
+    <TocEntry Title="Data Information" Link="/Content/User Documentation/Data Layer Reference/HSIP/Mines/Data Information.htm" />
+    <TocEntry Title="Relevant Websites and References" Link="/Content/User Documentation/Data Layer Reference/HSIP/Relevant Websites and References.htm" />
+    <TocEntry Title="Mines (HSIP) GIS Team Contacts" Link="/Content/User Documentation/01a_Common User Content/Mines (HSIP) GIS Team Contacts.htm" />
+  </TocEntry>
+</CatapultToc>

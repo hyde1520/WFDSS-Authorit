@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Geographic Editors and Administrators can edit user roles. A User Role might need to be edited for the following reasons:</p>
+    <ul>
+      <li class="listbullet">User requires different user roles due to a job change. </li>
+      <li class="listbullet">User needs to be disabled in the application due to retirement or otherwise leaving employment.</li>
+      <li class="listbullet">User requires a Geographic Area Editor role (only Administrators can grant this role).</li>
+      <li class="listbullet">User is attending a training class and requires a different user role.</li>
+      <li class="listbullet">Uploads shape files or incidents in their geographic area. <a href="../01a_Common User Content/Map Features/Shape Privileges by User Role.htm">Shape Privileges by User Role</a> further discusses the Editors role in relation to shapes</li>
+    </ul>
+    <p class="bodytext">Geographic Editors can only grant the following user roles: Viewer, Dispatcher, Author, Fire Behavior Specialist and Data Manager. They can also Disable Users. Administrators can grant all user roles.</p>
+    <p class="bodytext">A user's roles can be different for Production and Training. Roles granted to a user in Production will automatically be granted to the user's Training account. Conversely, roles granted to a user in Training are not mirrored to Production.</p>
+  </body>
+</html>

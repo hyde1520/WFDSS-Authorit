@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Administrators can edit any user profile. The administrator may have to edit a profile for these reasons:</p>
+    <ul>
+      <li class="listbullet">requested by the user</li>
+      <li class="listbullet">email was entered incorrectly when new account was created</li>
+    </ul>
+    <p class="bodytext" />
+  </body>
+</html>

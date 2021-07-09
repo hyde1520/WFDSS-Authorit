@@ -1,0 +1,448 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Before you can upload incidents from CAD, the records must comply with the following file formats:</p>
+    <table style="border-collapse:collapse; border: 1px solid #010101;">
+      <thead>
+        <tr>
+          <th class="tableheading" width="42" style="border: 1px solid #010101;" rowspan="2">
+            <p class="tableheading">##</p>
+            <p class="tableheading" />
+          </th>
+          <th class="tableheading" width="126" style="border: 1px solid #010101;" rowspan="2">
+            <p class="tableheading">Field Name</p>
+            <p class="tableheading" />
+          </th>
+          <th class="tableheading" width="242.2" style="border: 1px solid #010101;" rowspan="2">
+            <p class="tableheading">Format</p>
+            <p class="tableheading" />
+          </th>
+          <th class="tableheading" width="87.8" style="border: 1px solid #010101;" colspan="3">
+            <p class="tableheading">Non-Empty</p>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="tableheading" width="27.8" style="border: 1px solid #010101;">
+            <p class="tableheading">I</p>
+          </th>
+          <th class="tableheading" width="24" style="border: 1px solid #010101;">
+            <p class="tableheading">U</p>
+          </th>
+          <th class="tableheading" width="36" style="border: 1px solid #010101;">
+            <p class="tableheading">D</p>
+          </th>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="42" style="border: 1px solid #010101;">
+            <p class="tablebodytext">1</p>
+          </td>
+          <td class="tablebodytext" width="126" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Source</p>
+          </td>
+          <td class="tablebodytext" width="242.2" style="border: 1px solid #010101;">
+            <p class="tablebodytext">CAD</p>
+          </td>
+          <td class="tablebodytext" width="27.8" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+          <td class="tablebodytext" width="24" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+          <td class="tablebodytext" width="36" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="42" style="border: 1px solid #010101;">
+            <p class="tablebodytext">2</p>
+          </td>
+          <td class="tablebodytext" width="126" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Action ID</p>
+          </td>
+          <td class="tablebodytext" width="242.2" style="border: 1px solid #010101;">
+            <p class="tablebodytext">[I,U,D] I(Insert), U(Update), D(Delete)</p>
+          </td>
+          <td class="tablebodytext" width="27.8" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+          <td class="tablebodytext" width="24" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+          <td class="tablebodytext" width="36" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="42" style="border: 1px solid #010101;">
+            <p class="tablebodytext">3</p>
+          </td>
+          <td class="tablebodytext" width="126" style="border: 1px solid #010101;">
+            <p class="tablebodytext">CAD ID</p>
+          </td>
+          <td class="tablebodytext" width="242.2" style="border: 1px solid #010101;">
+            <p class="tablebodytext">CAD GUID (36 Characters Maximum)</p>
+          </td>
+          <td class="tablebodytext" width="27.8" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+          <td class="tablebodytext" width="24" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+          <td class="tablebodytext" width="36" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="42" style="border: 1px solid #010101;">
+            <p class="tablebodytext">4</p>
+          </td>
+          <td class="tablebodytext" width="126" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Incident Name</p>
+          </td>
+          <td class="tablebodytext" width="242.2" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Character (up to 64 characters)</p>
+          </td>
+          <td class="tablebodytext" width="27.8" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+          <td class="tablebodytext" width="24" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+          <td class="tablebodytext" width="36" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="42" style="border: 1px solid #010101;">
+            <p class="tablebodytext">5</p>
+          </td>
+          <td class="tablebodytext" width="126" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Point of Origin Latitude</p>
+          </td>
+          <td class="tablebodytext" width="242.2" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Floating point xx.xxxx</p>
+          </td>
+          <td class="tablebodytext" width="27.8" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+          <td class="tablebodytext" width="24" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+          <td class="tablebodytext" width="36" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="42" style="border: 1px solid #010101;">
+            <p class="tablebodytext">6</p>
+          </td>
+          <td class="tablebodytext" width="126" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Point of Origin Longitude</p>
+          </td>
+          <td class="tablebodytext" width="242.2" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Floating point xxx.xxxx</p>
+          </td>
+          <td class="tablebodytext" width="27.8" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+          <td class="tablebodytext" width="24" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+          <td class="tablebodytext" width="36" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="42" style="border: 1px solid #010101;">
+            <p class="tablebodytext">7</p>
+          </td>
+          <td class="tablebodytext" width="126" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Discovery Date</p>
+          </td>
+          <td class="tablebodytext" width="242.2" style="border: 1px solid #010101;">
+            <p class="tablebodytext">mm/dd/yyyy</p>
+          </td>
+          <td class="tablebodytext" width="27.8" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+          <td class="tablebodytext" width="24" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+          <td class="tablebodytext" width="36" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="42" style="border: 1px solid #010101;">
+            <p class="tablebodytext">8</p>
+          </td>
+          <td class="tablebodytext" width="126" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Discovery Time</p>
+          </td>
+          <td class="tablebodytext" width="242.2" style="border: 1px solid #010101;">
+            <p class="tablebodytext">HH:mm</p>
+          </td>
+          <td class="tablebodytext" width="27.8" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+          <td class="tablebodytext" width="24" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+          <td class="tablebodytext" width="36" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="42" style="border: 1px solid #010101;">
+            <p class="tablebodytext">9</p>
+          </td>
+          <td class="tablebodytext" width="126" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Calendar Year</p>
+          </td>
+          <td class="tablebodytext" width="242.2" style="border: 1px solid #010101;">
+            <p class="tablebodytext">xxxx</p>
+          </td>
+          <td class="tablebodytext" width="27.8" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+          <td class="tablebodytext" width="24" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+          <td class="tablebodytext" width="36" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="42" style="border: 1px solid #010101;">
+            <p class="tablebodytext">10</p>
+          </td>
+          <td class="tablebodytext" width="126" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Unit ID</p>
+          </td>
+          <td class="tablebodytext" width="242.2" style="border: 1px solid #010101;">
+            <p class="tablebodytext">ssuuu</p>
+          </td>
+          <td class="tablebodytext" width="27.8" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+          <td class="tablebodytext" width="24" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+          <td class="tablebodytext" width="36" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="42" style="border: 1px solid #010101;">
+            <p class="tablebodytext">11</p>
+          </td>
+          <td class="tablebodytext" width="126" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Incident Number</p>
+          </td>
+          <td class="tablebodytext" width="242.2" style="border: 1px solid #010101;">
+            <p class="tablebodytext">xxxxx, left-padded with zeroes to at least 4 digits</p>
+          </td>
+          <td class="tablebodytext" width="27.8" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+          <td class="tablebodytext" width="24" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+          <td class="tablebodytext" width="36" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="42" style="border: 1px solid #010101;">
+            <p class="tablebodytext">12</p>
+          </td>
+          <td class="tablebodytext" width="126" style="border: 1px solid #010101;">
+            <p class="tablebodytext">FireCode</p>
+          </td>
+          <td class="tablebodytext" width="242.2" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Character (up to 6 characters)</p>
+          </td>
+          <td class="tablebodytext" width="27.8" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+          <td class="tablebodytext" width="24" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+          <td class="tablebodytext" width="36" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="42" style="border: 1px solid #010101;">
+            <p class="tablebodytext">13</p>
+          </td>
+          <td class="tablebodytext" width="126" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Size in Acres</p>
+          </td>
+          <td class="tablebodytext" width="242.2" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Floating point</p>
+          </td>
+          <td class="tablebodytext" width="27.8" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+          <td class="tablebodytext" width="24" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+          <td class="tablebodytext" width="36" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="42" style="border: 1px solid #010101;">
+            <p class="tablebodytext">14</p>
+          </td>
+          <td class="tablebodytext" width="126" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Incident Cause</p>
+          </td>
+          <td class="tablebodytext" width="242.2" style="border: 1px solid #010101;">
+            <p class="tablebodytext">[Unknown,Natural,Human]</p>
+          </td>
+          <td class="tablebodytext" width="27.8" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+          <td class="tablebodytext" width="24" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Y</p>
+          </td>
+          <td class="tablebodytext" width="36" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="42" style="border: 1px solid #010101;">
+            <p class="tablebodytext">15</p>
+          </td>
+          <td class="tablebodytext" width="126" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Containment Date</p>
+          </td>
+          <td class="tablebodytext" width="242.2" style="border: 1px solid #010101;">
+            <p class="tablebodytext">mm/dd/yyyy</p>
+          </td>
+          <td class="tablebodytext" width="27.8" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+          <td class="tablebodytext" width="24" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+          <td class="tablebodytext" width="36" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="42" style="border: 1px solid #010101;">
+            <p class="tablebodytext">16</p>
+          </td>
+          <td class="tablebodytext" width="126" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Containment Time</p>
+          </td>
+          <td class="tablebodytext" width="242.2" style="border: 1px solid #010101;">
+            <p class="tablebodytext">HH:mm</p>
+          </td>
+          <td class="tablebodytext" width="27.8" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+          <td class="tablebodytext" width="24" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+          <td class="tablebodytext" width="36" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="42" style="border: 1px solid #010101;">
+            <p class="tablebodytext">17</p>
+          </td>
+          <td class="tablebodytext" width="126" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Controlled Date</p>
+          </td>
+          <td class="tablebodytext" width="242.2" style="border: 1px solid #010101;">
+            <p class="tablebodytext">mm/dd/yyyy</p>
+          </td>
+          <td class="tablebodytext" width="27.8" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+          <td class="tablebodytext" width="24" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+          <td class="tablebodytext" width="36" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="42" style="border: 1px solid #010101;">
+            <p class="tablebodytext">18</p>
+          </td>
+          <td class="tablebodytext" width="126" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Controlled Time</p>
+          </td>
+          <td class="tablebodytext" width="242.2" style="border: 1px solid #010101;">
+            <p class="tablebodytext">HH:mm</p>
+          </td>
+          <td class="tablebodytext" width="27.8" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+          <td class="tablebodytext" width="24" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+          <td class="tablebodytext" width="36" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="42" style="border: 1px solid #010101;">
+            <p class="tablebodytext">19</p>
+          </td>
+          <td class="tablebodytext" width="126" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Out Date</p>
+          </td>
+          <td class="tablebodytext" width="242.2" style="border: 1px solid #010101;">
+            <p class="tablebodytext">mm/dd/yyyy</p>
+          </td>
+          <td class="tablebodytext" width="27.8" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+          <td class="tablebodytext" width="24" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+          <td class="tablebodytext" width="36" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="42" style="border: 1px solid #010101;">
+            <p class="tablebodytext">20</p>
+          </td>
+          <td class="tablebodytext" width="126" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Out Time</p>
+          </td>
+          <td class="tablebodytext" width="242.2" style="border: 1px solid #010101;">
+            <p class="tablebodytext">HH:mm</p>
+          </td>
+          <td class="tablebodytext" width="27.8" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+          <td class="tablebodytext" width="24" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+          <td class="tablebodytext" width="36" style="border: 1px solid #010101;">
+            <p class="tablebodytext">N</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="bodytext">In addition, the records must meet the following criteria:</p>
+    <ul>
+      <li class="listbullet">Record Types are insert (I), update (U), and delete (D).</li>
+      <li class="listbullet">Fields within the record are pipe (|) delimited.</li>
+      <li class="listbullet">Each record must contain 20 fields, some of which can be empty.</li>
+      <li class="listbullet">The Source, Action ID, and Incident Cause fields must contain a value that is a member of the set specified in the Format column of the above table.</li>
+    </ul>
+  </body>
+</html>

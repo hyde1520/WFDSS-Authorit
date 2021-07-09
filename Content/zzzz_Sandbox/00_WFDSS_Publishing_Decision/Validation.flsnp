@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Use the Validation page to reject the pre-planned initial response or validate the current courses of action.</p>
+    <ul>
+      <li class="listbullet">
+        <p>Record in the comment field why you will be creating a decision.</p>
+        <ul>
+          <li class="listbullet2">Use paragraph form or a simple statement based on user preference and the incident. </li>
+          <li class="listbullet2">Detailed validation specifics can be added during the decision content editing.</li>
+        </ul>
+      </li>
+      <li class="listbullet">Consider transferring ownership (if necessary).</li>
+      <li class="listbullet">Consider running fire behavior models.</li>
+      <li class="listbullet">Are there adequate resources to achieve your COA?</li>
+      <li class="listbullet">Has the cost been developed to achieve the COA?</li>
+      <li class="listbullet">Does the current fire behavior and weather assessment support the COA?</li>
+      <li class="listbullet">Have you completed the Relative Risk Assessment and assessed the value inventory?</li>
+      <li class="listbullet">Have you checked your Relative Risk Advice considerations?</li>
+    </ul>
+    <p class="bodytext" />
+  </body>
+</html>

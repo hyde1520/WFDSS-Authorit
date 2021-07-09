@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable Name="HISTCOMMENT" Comment=""></Variable>
+  <Variable Name="HSIPDataLayerName" Comment="">HSIP Data Layer</Variable>
+  <Variable Name="HSIPDataLayerName" Comment="">electrical sub-stations</Variable>
+  <Variable Name="HSIPDataLayerName" Comment="">mines</Variable>
+  <Variable Name="HSIPDataLayerName" Comment="">oil and gas pipelines</Variable>
+  <Variable Name="HSIPDataLayerName" Comment="">power plants</Variable>
+  <Variable Name="HSIPDataLayerName" Comment="">transmission lines</Variable>
+  <Variable Name="IMPORT_ID" Comment=""></Variable>
+</CatapultVariableSet>

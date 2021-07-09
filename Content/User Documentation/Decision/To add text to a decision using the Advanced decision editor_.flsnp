@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Choose the <span class="menuoptions">Decisions </span>tab</li>
+      <li class="listnumber">For decisions that have not been converted to the Advanced Decision Editor, ensure all sections of the decision are Checked In and select Convert to Advanced.</li>
+      <li class="listnumber">Select the <span class="specialbold">Pending Decision </span>&gt; click <span class="buttons">Edit</span>. The Advanced Decision Editor page appears.</li>
+      <li class="listnumber">From the Decision Content Tree, select the Content you want to edit. The content appears in the text editor pane.</li>
+      <li class="listnumber">Place your cursor where you want to add text, then start typing.</li>
+      <li class="listnumber">Click <img src="To add text to a decision using the Advanced decision editor_.htm" alt="" width="0" height="0" vspace="2px" hspace="2px" align="Bottom" border="0px" /><span class="buttons">Save</span>. (You want to save frequently, especially if you are adding a lot of text.)</li>
+    </ol>
+    <p class="bodytext">When you are done editing the decision content, you can navigate back to the Decision tab to Check-In the Pending Decision. </p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

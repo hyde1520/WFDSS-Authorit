@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">The most common behaviors that result in WFDSS application error include the following:</p>
+    <ul>
+      <li class="listbullet">Failing to wait for 'Done' to appear in the web browser status bar before generating new program actions or inputs</li>
+      <li class="listbullet">Using the web browser refresh function to refresh the document window instead of using navigation tools provided within WFDSS</li>
+      <li class="listbullet">Using the web browser back button or browser history to go back instead of clicking <span class="buttons">Return</span> (if available) or using other navigation tools provided within WFDSS</li>
+      <li class="listbullet">Using multiple browser windows that results in shared session information</li>
+      <li class="listbullet">Use of hyperlinks to decision content, or copying/pasting heavily formatted text/tables from Word without first clearing formatting; these actions can corrupt decision content and impede publishing.</li>
+    </ul>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

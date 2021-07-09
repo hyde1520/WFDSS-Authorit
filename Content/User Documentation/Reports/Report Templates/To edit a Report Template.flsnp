@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Template List, click <span class="buttons">Create</span>, or click <span class="buttons">Edit Report Templates</span>. The text editor opens.</li>
+      <li class="listnumber">Position the cursor in the text box and begin typing and formatting.</li>
+      <li class="listnumber">After you have modified the information for each section, click <span class="buttons">Save</span>.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+    <p class="bodytext" />
+  </body>
+</html>

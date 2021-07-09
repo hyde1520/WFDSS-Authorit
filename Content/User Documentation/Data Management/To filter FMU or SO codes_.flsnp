@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Choose <span class="menuoptions">Data Management &gt; FMU/SO Codes</span>. The FMU/SO Codes page appears.</li>
+      <li class="listnumber">Select the Geographic Area, Agency, and Unit that you want to find an FMUcode for. </li>
+      <li class="listnumber">Scroll down to the Filter section and expand the box if needed. </li>
+      <li class="listnumber">Check or uncheck the Never Activated, Activated, and/or Inactive check boxes. </li>
+      <li class="listnumber">Click <span class="buttons">Apply Filter</span>. The FMU/SO Codes page refreshes and displays the filtered results.</li>
+    </ol>
+    <p class="bodytext">If nothing appears in the FMU Code table after you apply the filter, modify your filter parameters to make them less restrictive.</p>
+    <p class="note">
+      <span class="specialbold">Note</span>: SO codes do not have a filter.</p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

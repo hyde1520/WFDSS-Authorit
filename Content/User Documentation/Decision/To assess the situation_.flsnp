@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident list, select the incident you want to assess.</li>
+      <li class="listnumber">Click <span class="buttons">Assess Situation</span>. The Situation page appears embedded in the main application's window. An alternative method to opening the Situation map is to click the map icon located on the right side of the screen from any of the other tabs (Information, Objectives, Course of Action, Cost, Decisions, Periodic Assessment, or Reports); this option opens the Situation map in its own window and allows the greatest editing flexibility as you can develop decision inputs and view the map simultaneously.(It might take a few seconds for the map to load, depending on your Internet connection.)</li>
+      <li class="listnumber">From the Map tab, select the data layers you want to display on the map.<div class="listnote"><p><MadCap:snippetText src="../../01_Common Content/Notes, Cautions, Warnings/note about + sign in layer tree.flsnp" /> If a + sign appears to the left of a data layer, you need to click the plus sign and select the sub-layers listed. The green + button at the right of a data layer indicates that you can create that layer (e.g., planning areas, fire perimeters,etc.)</p></div></li>
+      <li class="listnumber">Check the map resolution, and use the Slider to adjust as needed.</li>
+      <li class="listnumber">Click the Rectangle icon <img src="To assess the situation_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> to draw a planning area. (You must designate a planning area before you can document a decision.)</li>
+      <li class="listnumber">Click the Landscape Extent icon <img src="To assess the situation_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />to draw a landscape extent. (You must draw a landscape extent before you can run a fire behavior analysis.)</li>
+      <li class="listnumber">
+        <p>Select the <span class="menuoptions">Info </span>Tab, then click one of the following links to view that information:</p>
+        <ul>
+          <li class="listbullet2">
+            <a href="../01a_Common User Content/Map Features/Viewing, Copying or Downloading Feature Information.htm">Feature Information</a>
+          </li>
+          <li class="listbullet2">
+            <a href="../01a_Common User Content/Map Features/Viewing the Fire Danger Rating Graph.htm">Fire Danger</a>
+          </li>
+          <li class="listbullet2">
+            <a href="../01a_Common User Content/Map Features/Viewing Smoke Dispersion Information.htm">Smoke Dispersion</a>
+          </li>
+          <li class="listbullet2">
+            <a href="../Data Management/Viewing Strategic Objectives.htm">Strategic Objectives</a>
+          </li>
+          <li class="listbullet2">
+            <a href="../Analysis/FSPro/Viewing the Weather Forecast.htm">Weather Forecast</a>
+          </li>
+          <li class="listbullet2">
+            <a href="../../zzzz_Sandbox/Diane/Generating Hourly Weather Forecasts.htm">Hourly Weather Forecast</a>
+          </li>
+        </ul>
+      </li>
+      <li class="listnumber">
+        <p>To save a map image for the decision and/or report, do the following:</p>
+        <ol>
+          <li class="listalpha2">Select the <span class="menuoptions">Info </span>Tab and scroll down to Map Image.</li>
+          <li class="listalpha2">Enter an Image Name.</li>
+          <li class="listalpha2">Enter a Description. This description appears with the image in the decision and/or report, so make sure that you are being clear and using complete sentences.</li>
+          <li class="listalpha2">Enter a Report Name if choosing to generate a landscape oriented report containing the captured image.</li>
+          <li class="listalpha2">Click <span class="buttons">Capture Image</span>. The image is saved to a folder withyour last name in the Images folderin the Incident Content tree and available for inclusion in a Decision is desired.If you selected to createan optional report, view the report from the Reports tab in the DecisionReports section. </li>
+        </ol>
+      </li>
+      <li class="listnumber">If you would like to upload <a href="../Incident/Uploading Shapes.htm">shapes</a> or <a href="../01a_Common User Content/Map Features/Uploading Images.htm">images</a>, run a <a href="../Incident/SCI/Stratified Cost Index.htm">Stratified Cost Index</a>, or Fire Behavior Request for a BFB, STFB, NTFB, FSPro with VAR analysis, return to the Content window.</li>
+      <li class="listnumber">After assessing the situation return to the Contentwindow and move through the remaining tabs, return to the Situation map as needed. </li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

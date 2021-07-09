@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">You can view the contact information for the incident. The following people are listed:</p>
+    <ul>
+      <li class="listbullet">dispatcher</li>
+      <li class="listbullet">current incident owners and editors</li>
+      <li class="listbullet">current reviewers and approvers</li>
+      <li class="listbullet">users who have run fire behavior models for the incident</li>
+    </ul>
+    <p class="bodytext">The list cannot be edited, and also appears below the <a href="../Analysis/Adding Analysis Contact Information.htm">Analysis Contacts List</a>.</p>
+  </body>
+</html>

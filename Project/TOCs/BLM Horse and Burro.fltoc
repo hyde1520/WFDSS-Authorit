@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+  <TocEntry Title="BLM Horse and Burro" Link="/Content/User Documentation/Data Layer Reference/BLM Horse and Burro/BLM Horse and Burro.htm">
+    <TocEntry Title="Overview" Link="/Content/User Documentation/Data Layer Reference/BLM Horse and Burro/Overview.htm" />
+    <TocEntry Title="Data Input" Link="/Content/User Documentation/Data Layer Reference/BLM Horse and Burro/Data Input.htm" />
+    <TocEntry Title="Topic7502" Link="/Content/User Documentation/Data Layer Reference/Buildings/BLMBuildings/Topic7502.htm" />
+    <TocEntry Title="Data Information" Link="/Content/User Documentation/Data Layer Reference/BLM Horse and Burro/Data Information.htm" />
+    <TocEntry Title="BLM Horse and Burro GIS Team Contacts" Link="/Content/User Documentation/Data Management/BLM Horse and Burro GIS Team Contacts.htm" />
+  </TocEntry>
+</CatapultToc>

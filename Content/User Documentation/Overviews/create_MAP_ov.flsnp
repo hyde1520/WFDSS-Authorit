@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Incident owners or editors can create M.A.P. shapes on the Situation map, and text for M.A.P.s on the Management Action Points menu option. When you create an M.A.P. shape, you will have an opportunity to associate it with new or previously created M.A.P. text. You can also associate the shape with text at a later time, from the Management Action Points menu option. Before setting up an M.A.P., you need the following information:</p>
+    <ul>
+      <li class="listbullet">Active incident in WFDSS</li>
+      <li class="listbullet">Incident editor privileges</li>
+      <li class="listbullet">Local cartographic maps on values at risk and other spatial data to assist you in determining the geographic location of the M.A.P.</li>
+      <li class="listbullet">Resource and fire management plans, historical fire data, and any other information that will assist you in determining the costs, conditions, actions, and resources to assist with the M.A.P.</li>
+    </ul>
+    <p class="bodytext">When creating M.A.P.s, avoid using the point drawing tool and instead use the polygon drawing tool to draw small but visible circles/shapes. Point M.A.Ps are difficult to see in map displays and printed products such as decisions and generally won't be visible on a map when zoomed out beyond 1:50,000.</p>
+    <p class="bodytext">When one or more M.A.P.s are created, incident owners or editors can choose to include images of individual or all M.A.P.s in a decision. You can change this selection as needed, and as additional decisions are published. You can also change the default map preferences for an incident by selecting how M.A.P.s (all or none) display in the <a href="../Incident/Setting Incident Default Preferences.htm">incident default preferences</a>.</p>
+    <p class="bodytext">Pending M.A.P.s display as dashed lines. Activated M.A.P.s, those that are included in published decisions, display with a solid line. Deactivated M.A.P.s display with a dotted line. Once a decision is published, pending M.A.P.s become active and display with other, previously activated M.A.P.s and appear as solid lines. This M.A.P. symbology (pending, active and deactivated) is preserved in reports, M.A.P. images in decisions, and in KMZ downloads as well.</p>
+  </body>
+</html>

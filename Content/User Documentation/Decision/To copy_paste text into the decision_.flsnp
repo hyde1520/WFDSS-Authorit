@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From within the WFDSS application, choose the <span class="menuoptions">Incident</span> tab. The Incident List appears.</li>
+      <li class="listnumber">Select the incident you want to edit, then click <span class="buttons">View Information</span>. The Edit Incident page appears.</li>
+      <li class="listnumber">Choose the <span class="menuoptions">Decisions tab &gt; select Pending Decisions</span>. The Decision Editor page appears.</li>
+      <li class="listnumber">From the Decision Content Tree, select the Content you want to edit. The content appears in the text editor pane.</li>
+      <li class="listnumber">
+        <p>Open the reference document that you want to copy from.</p>
+        <ol>
+          <li class="listalpha2">Select text that you want to copy.</li>
+          <li class="listalpha2">Copy the text (Ctrl+C or select Edit &gt; Copy).</li>
+        </ol>
+      </li>
+      <li class="listnumber">Switch back to WFDSS, and place your cursor where you want to paste the copied text.</li>
+      <li class="listnumber">Paste the copied text (Ctrl+V, or use the appropriate Paste icon)</li>
+      <li class="listnumber">The selected text appears in window.</li>
+      <li class="listnumber">Click <img src="To copy_paste text into the decision_.htm" alt="" width="0" height="0" vspace="2px" hspace="2px" align="Bottom" border="0px" /><span class="buttons">Save</span>. (You want to save frequently, especially if you are adding a lot of text.)</li>
+    </ol>
+    <p class="bodytext">When you are done editing the decision content, you can navigate back to the Decision tab to Check-In the Pending Decision. Format the text as needed.</p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

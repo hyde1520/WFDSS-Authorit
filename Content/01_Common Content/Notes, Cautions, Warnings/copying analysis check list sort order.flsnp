@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="note">
+      <span class="specialbold">Note:</span> Make sure that your analysis sort order is set to reverse chronological order before copying an analysis. Otherwise, you might not be able to easily find it in the list.</p>
+  </body>
+</html>

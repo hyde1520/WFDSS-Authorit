@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Each role can assign owners as follows:</p>
+    <ul>
+      <li class="listbullet">Authors can assign owners only to incidents they created, and can transfer ownership only on those incidents that they are assigned as the current owner.</li>
+      <li class="listbullet">GA Editors can assign owners to any incident in their geographic areas. </li>
+      <li class="listbullet">National Editors can assign owners to any incident in WFDSS.</li>
+    </ul>
+    <p class="bodytext">Incidents require an Owner when a decision needs to be published. This typically occurs when the incident has a resource objective or goes into extended attack.</p>
+  </body>
+</html>

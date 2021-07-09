@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident List page, select the incident you want to run a short-term fire behavior analysis for.</li>
+      <li class="listnumber">Click <span class="buttons">Assess Situation</span>. The Situation page appears showing the map of the incident area.</li>
+      <li class="listnumber">Select the <img src="To run an automated STFB_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> Landscape Extent icon from the Map Tools.</li>
+      <li class="listnumber">Draw a landscape extent on your map around the incident. This is the area of the analysis.</li>
+      <li class="listnumber">From the <span class="menuoptions">Map</span> tab, click the + sign next to Analyses. The list expands. </li>
+      <li class="listnumber">Mark the checkbox next to Short-Term. Three icons appear next to the label:</li>
+    </ol>
+    <table style="border-collapse:collapse; border: 1px solid #010101;" width="378.06666666666666">
+      <tr>
+        <td width="55.6" style="border: 1px solid #010101;">
+          <ol>
+            <li class="listcontinue">
+              <div class="listcontinue">
+                <p>
+                  <img src="To run an automated STFB_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+                </p>
+              </div>
+            </li>
+          </ol>
+        </td>
+        <td width="322.46666666666664" style="border: 1px solid #010101;">
+          <ol>
+            <li class="listcontinue">
+              <div class="listcontinue">
+                <p>Refreshes map layer</p>
+              </div>
+            </li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td width="55.6" style="border: 1px solid #010101;">
+          <ol>
+            <li class="listcontinue">
+              <div class="listcontinue">
+                <p>
+                  <img src="To run an automated STFB_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+                </p>
+              </div>
+            </li>
+          </ol>
+        </td>
+        <td width="322.46666666666664" style="border: 1px solid #010101;">
+          <ol>
+            <li class="listcontinue">
+              <div class="listcontinue">
+                <p>Accesses the online help for the selected item.</p>
+              </div>
+            </li>
+          </ol>
+        </td>
+      </tr>
+      <tr>
+        <td width="55.6" style="border: 1px solid #010101;">
+          <ol>
+            <li class="listcontinue">
+              <div class="listcontinue">
+                <p>
+                  <img src="To run an automated STFB_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+                </p>
+              </div>
+            </li>
+          </ol>
+        </td>
+        <td width="322.46666666666664" style="border: 1px solid #010101;">
+          <ol>
+            <li class="listcontinue">
+              <div class="listcontinue">
+                <p>Creates a new analysis.</p>
+              </div>
+            </li>
+          </ol>
+        </td>
+      </tr>
+    </table>
+    <ol>
+      <li class="listnumber">Click the <img src="To run an automated STFB_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> green + icon. The list expands.</li>
+      <li class="listnumber">Enter a Name for the STFB you are creating.</li>
+      <li class="listnumber">Enter a Burn Date. The analysis uses the weather and forecast data available for this date.</li>
+      <li class="listnumber">Enter the Burn Time in 24-hour format (hh:mm). The analysis uses the time to determine what the fire is likely to be doing (e.g., a burn time in the morning will give different results than one during the heat of the day).</li>
+      <li class="listnumber">Enter the Latitude and Longitude for the analysis start point. (Be sure to enter a positive number for Longitude.)<div class="listnote"><MadCap:snippetBlock src="../../../../01_Common Content/Notes, Cautions, Warnings/note about finding lat_long on map.flsnp" /></div></li>
+      <li class="listnumber">
+        <p>Enter the hours in a Burn Period and the number of Burn Periods to use in the analysis. </p>
+        <ul>
+          <li class="listbullet2">The hours in the burn period start with the burn time; e.g., if you start the burn time at 15:00 and select a burn period of 3 hours, the model uses 15:00-18:00 as the burn period.</li>
+          <li class="listbullet2">If you choose more than one burn period, the model uses that number to determine how many days it will examine during the selected burn time; e.g., if you set the burn time and period as above and then select 3 for the number of burn periods, the model will look at 3 days during 15:00-18:00 to determine the output.</li>
+        </ul>
+      </li>
+      <li class="listnumber">Click <span class="buttons">Next</span>. WFDSS displays the wind data for the selected date and time. You can edit these data if necessary.</li>
+      <li class="listnumber">Click <span class="buttons">Run Model</span>. A message appears stating that the model was successfully sent for processing. When the run is complete, the STFB appears in the STFB list and the results appear on the map.</li>
+      <li class="listnumber">To view more details, click the + next to the name of the STFB you just created and select one of the options listed. The map changes to display each option selected.</li>
+    </ol>
+    <p class="bodytext">Depending on the load on the system, it could take several minutes for the run to complete. If you don't see results, try refreshing the page and zooming in.</p>
+  </body>
+</html>

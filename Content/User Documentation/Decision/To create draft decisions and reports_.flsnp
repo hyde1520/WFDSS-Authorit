@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident List, select the Incident for which you want to create a draft decision or report &gt; Click <span class="buttons">View Information</span>.</li>
+      <li class="listnumber">Click <span class="menuoptions">Decision or Reports</span>. The Decision List or the Reports List page appears. </li>
+      <li class="listnumber">Click the radio button next to the decision, section of a decision or report for which you want to create a draft .pdf.</li>
+      <li class="listnumber">Click <span class="buttons">PDF</span>. The Decision Draft PDF or the Report Draft PDFpage appears.</li>
+      <li class="listnumber">
+        <p>Click: </p>
+        <ol>
+          <li class="listnumber2">
+            <span class="buttons">Create Draft</span> to create the .pdf. A status message appears at the top of the screen. The .pdf is being processed. If the decision or report has a lot of images and text, this may take a few minutes.</li>
+          <li class="listnumber2">
+            <span class="buttons">Download Draft</span>. The download box appears where you can directly open or save the .pdf document that you just created.</li>
+          <li class="listnumber2">
+            <span class="buttons">Return </span>and return to the Decision List or Reports List page.</li>
+        </ol>
+      </li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

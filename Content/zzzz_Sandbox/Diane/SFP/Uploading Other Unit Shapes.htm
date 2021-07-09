@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">Uploading Other Unit Shapes</h1>
+    <p class="bodytext">From the Data Management tab, Data Managers can upload Other Unit Shapes for their administrative units and quickly view each on the Unit Map to ensure the shapes display correctly. Other Unit shapes are uploaded from the Data Management perspective, unlike incident and analysis shapes that are uploaded from the Incident and Analysis perspectives. Other Unit Shapes can also be <a href="Drawing Other Unit Shapes.htm">drawn</a> and saved on the Unit Map.</p>
+    <p class="bodytext">The options available on the Unit Shapes sub-tab varies based on the planning process currently selected for an administrative unit. </p>
+    <ul>
+      <li class="listbullet">Data Managers using the Spatial Fire Planning (SFP) Planning Process can upload Management Requirement shapes and Other Unit Shapes from the Unit Shape sub-tab. </li>
+      <li class="listbullet">Data Managers using the FMU Planning Process can only upload Other Unit Shapes from the Unit Shape sub-tab.</li>
+    </ul>
+    <p class="bodytext">Before uploading a Unit Shape, determine if the value the shape represents should be included in an administrative unit's Values. Once a shape is uploaded, you can not edit the shape or the Include in Values status. Also verify:</p>
+    <ul>
+      <li class="listbullet">Your unit's FMUs or Strategic Objective shapes must be included in the national FMU layer. </li>
+      <li class="listbullet">The files associated with the shape are current, correct, and belong with the administrative unit.</li>
+      <li class="listbullet">The zipped file must contain only one shape, but it can be a multi-part shape.</li>
+      <li class="listbullet">
+        <p>The shape ZIP file must contain files with the following file extensions:</p>
+        <ul>
+          <li class="listbullet2">.DBF</li>
+          <li class="listbullet2">.PRJ</li>
+          <li class="listbullet2">.SBN (optional)</li>
+          <li class="listbullet2">.SBX (optional)</li>
+          <li class="listbullet2">.SHP</li>
+          <li class="listbullet2">.SHP.XML</li>
+          <li class="listbullet2">.SHX</li>
+        </ul>
+      </li>
+      <li class="listbullet">The shape does not exceed the maximum shape size of 100 points or 50000 vertices for lines and polygons. This applies to Other Unit shapes only.</li>
+      <li class="listbullet">The files contained within the ZIP file are at the same directory level. (You can't have a folder inside the ZIP file or the shapes won't upload correctly.)</li>
+    </ul>
+    <p class="note">
+      <span class="specialbold">Note</span>: Though WFDSS uses NAD83, it imports and converts shapefiles that were created in other common projections and datums. In addition, shapes are downloadable in a local Albers projection that is based on the location of the incident. The maximum Other Unit shape size is 100 points or 50000 vertices for lines and polygons. This applies to Other Unit shapes only.</p>
+    <p class="heading2">To upload Other Unit Shapes:</p>
+    <MadCap:snippetBlock src="To upload Other Unit Shapes.flsnp" />
+    <p class="heading2" />
+  </body>
+</html>

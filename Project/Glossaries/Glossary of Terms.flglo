@@ -1,0 +1,1564 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term0" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Acreage</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Acreage.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term1" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Burn Period</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Burn Period.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term2" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Activation Date</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Activation Date.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term3" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Analysis Name</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Analysis Name.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term4" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Containment Date</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Containment Date.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term5" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Controlled Date</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Controlled Date.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term6" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Decision Summary</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Decision Summary.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term7" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Crown Fire Activity</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Crown Fire Activity.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term8" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Final Fire Perimeter/Incident Size</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/Final Fire Perimeter_Incident Size.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term9" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Discovery Time</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Discovery Time.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term10" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Fire Behavior Request</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Fire Behavior Request.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term11" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Flame Length</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Flame Length.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term12" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Foliar Moisture Content (%)</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Foliar Moisture Content (_).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term13" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Group Owner</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Group Owner.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term14" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Heat per Unit Area</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Heat per Unit Area.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term15" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>incident cause</Term>
+    </Terms>
+    <Definition Link="/Content/zzzz_Sandbox/4.10_Release/incident cause.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term16" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Incident Name</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Incident Name.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term17" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Incident Size</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Incident Size.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term18" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Geographic Area</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Geographic Area.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term19" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Latitude</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/Latitude.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term20" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Landscape File (LCP)</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Landscape File (LCP).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term21" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Longitude</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Longitude.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term22" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Max Spread Direction</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Max Spread Direction.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term23" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Out Date</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Out Date.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term24" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Landscape Data Source</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Landscape Data Source.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term25" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Number of Fires</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Number of Fires.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term26" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Periodic Assessment</Term>
+    </Terms>
+    <Definition Link="/Content/zzzz_Sandbox/Diane/Periodic Assessment.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term27" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Shape Label</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Shape Label.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term28" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Shape Date</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Shape Date.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term29" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Owner Name</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Owner Name.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term30" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Shape Type</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Shape Type.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term31" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Start Date</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Start Date.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term32" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Unit ID</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/Unit ID.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term33" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Unit Name</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Unit Name.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term34" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>10 hr fuel moisture</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/10 hr fuel moisture.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term35" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>1 hr fuel moisture</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/1 hr fuel moisture.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term36" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>accuracy</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/accuracy.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term37" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>analysis area</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/analysis area.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term38" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>area</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/area.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term39" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>arrival time</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/arrival time.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term40" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>artificial season</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/artificial season.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term41" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>aspect theme</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/aspect theme.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term42" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>attribute</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/attribute.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term43" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>autocorrelation</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/autocorrelation.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term44" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>barrier</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/barrier.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term45" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>BEHAVE</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/BEHAVE.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term46" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>BehavePlus</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/BehavePlus.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term47" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>building cluster points</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/building cluster points.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term48" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>buildings</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/buildings.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term49" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>buffer</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/buffer.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term50" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>burn probability</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/burn probability.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term51" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>cadastral data</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/cadastral data.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term52" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>canopy bulk density theme (CBD)</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/canopy bulk density theme (CBD).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term53" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>canopy base height theme (CBH)</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/canopy base height theme (CBH).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term54" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>canopy cover theme</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/canopy cover theme.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term55" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>constraints, land management</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/constraints, land management.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term56" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>clearinghouse</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/clearinghouse.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term57" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>coordinate system</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/coordinate system.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term58" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>coordinates</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/coordinates.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term59" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Infrastructure</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/Infrastructure.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term60" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>data</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/data.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term61" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>data element</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/data element.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term62" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>database</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/database.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term63" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>datum</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/datum.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term64" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>dataset</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/dataset.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term65" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>dead fuel moisture</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/dead fuel moisture.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term66" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>department</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/department.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term67" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>desired condition</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/desired condition.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term68" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>DEM</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/DEM.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term69" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>digital elevation model (DEM)</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/digital elevation model (DEM).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term70" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>discovery size</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/discovery size.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term71" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>dispatch location</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/dispatch location.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term72" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>elevation</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/elevation.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term73" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>elevation theme</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/elevation theme.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term74" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Energy Release Component</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/Energy Release Component.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term75" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>enterprise data</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/enterprise data.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term76" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>EROS</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/EROS.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term77" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Event Coverage Report</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/Event Coverage Report.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term78" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>ESRI</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/ESRI.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term79" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>FAMWEB</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/FAMWEB.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term80" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>FARSITE</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/FARSITE.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term81" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>feature</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/feature.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term82" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>fire containment time</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/fire containment time.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term83" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>fire management unit (FMU)</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/fire management unit (FMU).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term84" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>fire management plan (FMP)</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/fire management plan (FMP).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term85" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>fire management unit constraint</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/fire management unit constraint.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term86" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>fire manager</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/fire manager.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term87" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>fire perimeter</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/fire perimeter.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term88" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Fire Behavior Specialist (FBS) &amp; Super Analyst</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/Fire Behavior Specialist (FBS) &amp; Super Analyst.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term89" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>fire planning</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/fire planning.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term90" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>fire probability</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/fire probability.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term91" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>fire progression</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/fire progression.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term92" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>fire spread model</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/fire spread model.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term93" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>fireline intensity</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/fireline intensity.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term94" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Fire Spread Probability (FSPro)</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/Fire Spread Probability (FSPro).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term95" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>fire suppression organization</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/fire suppression organization.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term96" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>FlamMap</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/FlamMap.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term97" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>FlamMap Minimum Travel Time (MTT)</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/FlamMap Minimum Travel Time (MTT).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term98" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>fuel model theme</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/fuel model theme.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term99" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>geodatabase</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/geodatabase.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term100" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>geographic area coordination center (GACC)</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/geographic area coordination center (GACC).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term101" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>fuel moisture conditioning</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/fuel moisture conditioning.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term102" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Geographic Area Editor</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Geographic Area Editor.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term103" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>geographic information systems (GIS)</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/geographic information systems (GIS).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term104" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>geographic coordinate system (GCS)</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/geographic coordinate system (GCS).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term105" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>georeference</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/georeference.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term106" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>geospatial data</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/geospatial data.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term107" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>global positioning system (GPS)</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/global positioning system (GPS).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term108" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>GIS data standards</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/GIS data standards.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term109" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>grid weather</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/grid weather.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term110" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>herbaceous fuel moisture</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/herbaceous fuel moisture.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term111" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>histogram</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/histogram.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term112" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>highly valued resource</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/highly valued resource.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term113" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>incident objectives</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/incident objectives.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term114" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>incident requirements</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/incident requirements.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term115" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>intensity</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/intensity.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term116" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>initial response (IR)</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/initial response (IR).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term117" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>land management objectives</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/land management objectives.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term118" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Land/Resource Management Plan (L/RMP)</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/Land_Resource Management Plan (L_RMP).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term119" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>landscape extent</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/landscape extent.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term120" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>large fire</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/large fire.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term121" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>layer</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/layer.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term122" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>legend</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/legend.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term123" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>lines</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/lines.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term124" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>live fuel moisture</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/live fuel moisture.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term125" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Management Requirement</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/Management Requirement.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term126" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>major paths</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/major paths.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term127" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>map</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/map.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term128" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>map scale</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/map scale.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term129" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>map extent</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/map extent.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term130" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>map projection</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/map projection.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term131" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>metadata</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/metadata.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term132" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>National Fire Danger Rating System (NFDRSO</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/National Fire Danger Rating System (NFDRSO.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term133" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>National Geospatial Data Clearinghouse (NGDC)</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/National Geospatial Data Clearinghouse (NGDC).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term134" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>National Spatial Data Infrastructure (NSDI)</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/National Spatial Data Infrastructure (NSDI).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term135" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>non-federal partners</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/non-federal partners.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term136" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>National Digital Forecast Database</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/National Digital Forecast Database.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term137" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>National Wildfire Coordinating Group (NWCG)</Term>
+    </Terms>
+    <Definition Link="/Content/zzzz_Sandbox/Diane/WFDSS_Glossary_20100309_formatted/National Wildfire Coordinating Group (NWCG).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term138" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>objective, incident</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/objective, incident.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term139" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>objective, management</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/objective, management.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term140" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>North American Datum 1983</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/North American Datum 1983.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term141" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>parcel</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/parcel.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term142" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>pixel</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/pixel.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term143" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>organizational unit</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/organizational unit.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term144" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>point</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/point.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term145" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>point of origin</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/point of origin.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term146" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>production rate</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/production rate.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term147" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>polygon</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/polygon.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term148" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>protection boundary</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/protection boundary.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term149" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>planning area</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/planning area.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term150" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>projection</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/projection.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term151" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>pumping minutes</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/pumping minutes.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term152" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Public Land Survey System (PLSS)</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/Public Land Survey System (PLSS).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term153" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>rate of spread</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/rate of spread.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term154" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Remote Automated Weather Station (RAWS)</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/Remote Automated Weather Station (RAWS).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term155" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>representative weather station</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/representative weather station.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term156" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>quadrangle</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/quadrangle.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term157" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>raster data</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/raster data.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term158" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>remote sensing</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/remote sensing.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term159" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>resolution</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/resolution.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term160" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>scale</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/scale.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term161" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>severity</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/severity.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term162" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>shaded relief image</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/shaded relief image.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term163" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>shapefile</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/shapefile.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term164" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>slope theme</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/slope theme.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term165" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>solar radiation</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/solar radiation.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term166" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>spatial</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/spatial.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term167" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>spatial query area</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/spatial query area.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term168" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>spatial analysis</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/spatial analysis.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term169" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>spatial modeling</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/spatial modeling.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term170" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>spatial data</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/spatial data.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term171" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>stand height theme</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/stand height theme.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term172" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>standards</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/standards.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term173" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Strategic Objectives</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/Strategic Objectives.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term174" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>state plane coordinate system (SPCS)</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/state plane coordinate system (SPCS).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term175" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Stratified Cost Index (SCI)</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/Stratified Cost Index (SCI).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term176" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Surface Management Agency (SMA)</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/Surface Management Agency (SMA).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term177" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>structure</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/structure.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term178" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>tabular data</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/tabular data.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term179" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>themes</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/themes.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term180" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>topology</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/topology.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term181" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>topography</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/topography.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term182" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>time series</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/time series.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term183" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>universal polar stereographic (UPS)</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/universal polar stereographic (UPS).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term184" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>universal transverse Mercator (UTM)</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/universal transverse Mercator (UTM).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term185" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Values at Risk</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/Values at Risk.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term186" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>vector data</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/vector data.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term187" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Values Inventory</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/Values Inventory.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term188" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>WFDSS</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/WFDSS.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term189" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>WFDSS Production System</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/WFDSS Production System.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term190" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>vertical datum</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/vertical datum.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term191" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>WFDSS Short Term Fire Behavior</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/WFDSS Short Term Fire Behavior.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term192" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Training System</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/Training System.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term193" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>WFDSS Basic Fire Behavior</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/WFDSS Basic Fire Behavior.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term194" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>wildland fire use</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/wildland fire use.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term195" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>woody fuel moisture</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/woody fuel moisture.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term196" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>WindNinja</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/WindNinja.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term197" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Analysis Date (BFB, STFB)</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Analysis Date (BFB, STFB).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term198" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Burn Date</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Burn Date.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term199" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Analysis Start Date (FSPro)</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Analysis Start Date (FSPro).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term200" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Burn Time (24 hr, hh:mm)</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Burn Time (24 hr, hh_mm).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term201" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Calendar Year</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Calendar Year.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term202" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>
+      </Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/Topic8856.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term203" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Crown Fire Method</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Crown Fire Method.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term204" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Discovery Date</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Discovery Date.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term205" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>End Date</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/End Date.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term206" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>End Hour</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/End Hour.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term207" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Ignition File</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Ignition File.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term208" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>FireCode</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/FireCode.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term209" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Local Incident Identifier</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Local Incident Identifier.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term210" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Image Label</Term>
+    </Terms>
+    <Definition Link="/Content/zzzz_Sandbox/Diane/Image Label.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term211" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Num of Periods (1-3)</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Num of Periods (1-3).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term212" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Local Number</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Local Number.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term213" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Number of Burn Periods</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Number of Burn Periods.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term214" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Spot Ignition Delay</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Spot Ignition Delay.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term215" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Point of Origin Responsible Agency Unit Identifier</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Point of Origin Responsible Agency Unit Identifier.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term216" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Start Hour</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Start Hour.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term217" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Source Types</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Source Types.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term218" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Spotting Probability</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/Spotting Probability.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term219" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>action items</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/action items.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term220" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>analysis ignition</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/analysis ignition.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term221" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>asynchronous</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/asynchronous.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term222" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>benefits</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/benefits.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term223" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Boolean logic</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/Boolean logic.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term224" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>escaped prescribed fire</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/escaped prescribed fire.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term225" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Federal Geographic Data Committee (FGDC)</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/Federal Geographic Data Committee (FGDC).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term226" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Basic Fire Behavior</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/Basic Fire Behavior.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term227" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>fire management</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/fire management.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term228" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>fire severity</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/fire severity.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term229" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>inbrief</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/inbrief.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term230" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>fire type</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/fire type.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term231" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>initial attack</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/initial attack.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term232" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>LayerSwitcher</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/LayerSwitcher.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term233" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>WFDSS jurisdicational unit at point of origin</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/WFDSS jurisdicational unit at point of origin.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term234" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>prescribed fire</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/prescribed fire.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term235" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>landscape critique</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/landscape critique.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term236" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Short-Term Fire Behavior</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/Short-Term Fire Behavior.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term237" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>status bar</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/status bar.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term238" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>suppression</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/suppression.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term239" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>wildfire</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/wildfire.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term240" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>wildland fire</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/wildland fire.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term241" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>wildland urban interface (WUI)</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/wildland urban interface (WUI).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term242" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>max degree of fit</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/max degree of fit.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term243" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>max lag</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/01a_Common User Content/Field Descriptions/max lag.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term244" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>account</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/account.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term245" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>course of action</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/course of action.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term246" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>growing season index (GSI)</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/growing season index (GSI).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term247" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>landscape mask</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/landscape mask.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term248" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>hourly records (weather)</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/hourly records (weather).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term249" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>management action point (M.A.P.)</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/management action point (M.A.P.).htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term250" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>management requirement shapes</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/management requirement shapes.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term251" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>published decision</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/published decision.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term252" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>Number of Days</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/Number of Days.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term253" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>strategic objective shapes</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/strategic objective shapes.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term254" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>tactical objective</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/tactical objective.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term255" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>values</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/values.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term256" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>default decision editor</Term>
+    </Terms>
+    <Definition Link="/Content/zzzz_Sandbox/5.2Release/default decision editor.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term257" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>latest perimeter size</Term>
+    </Terms>
+    <Definition Link="/Content/User Documentation/latest perimeter size.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term258" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>P-Code</Term>
+    </Terms>
+    <Definition Link="/Content/Glossary Terms/P-Code.htm" />
+  </GlossaryEntry>
+  <GlossaryEntry glossTerm="Glossary of Terms.Term259" Stem="" IgnoreCase="false">
+    <Terms>
+      <Term>advanced decision editor</Term>
+    </Terms>
+    <Definition Link="/Content/zzzz_Sandbox/5.2Release/advanced decision editor.htm" />
+  </GlossaryEntry>
+</CatapultGlossary>

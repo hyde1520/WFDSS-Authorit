@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Dispatchers, Authors, Editors, Incident Owners, Incident Reviewers, and Incident Approvers use the Situation map for the following tasks to:</p>
+    <ul>
+      <li class="listbullet">
+        <a href="../Analysis/Basic and Short-term Fire Behavior/Analyst-Assisted/Drawing a Landscape Extent.htm">draw and save the planning area </a>for the incident</li>
+      <li class="listbullet">
+        <a href="../01a_Common User Content/Map Features/Drawing Shapes on the Map.htm">draw</a> or <a href="http://wfdss.usgs.gov/wfdss_help/WFDSSHelp_upload_shapes.html">upload</a> fire perimeters for the incident</li>
+      <li class="listbullet">
+        <a href="../01a_Common User Content/Map Features/Drawing Shapes on the Map.htm">draw</a> or <a href="http://wfdss.usgs.gov/wfdss_help/WFDSSHelp_upload_shapes.html">upload</a> barriers to the landscape</li>
+      <li class="listbullet">
+        <a href="../Incident/mgmt action points/To create a M.A.P. for a shape_.htm">draw</a> or <a href="">upload</a> management action points</li>
+      <li class="listbullet">
+        <a href="../01a_Common User Content/Map Features/Drawing Shapes on the Map.htm">draw</a> or <a href="http://wfdss.usgs.gov/wfdss_help/WFDSSHelp_upload_shapes.html">upload</a> incident obj. shapes</li>
+      <li class="listbullet">
+        <a href="../01a_Common User Content/Map Features/Drawing Shapes on the Map.htm">draw</a> or <a href="http://wfdss.usgs.gov/wfdss_help/WFDSSHelp_upload_shapes.html">upload</a> points of interest</li>
+      <li class="listbullet">
+        <a href="../Analysis/Identifying Values at Risk.htm">evaluate values at risk</a> within the planning area for the incident to review analysis results for the incident</li>
+      <li class="listbullet">
+        <a href="../Data Management/To view unit shapes on the Situation, Intelligence and Analysis maps_.htm">review unit shapes</a> available for the incident locale</li>
+      <li class="listbullet">run a spatial inventory/<a href="../Analysis/Obtaining a Values Inventory.htm">values inventory</a>for the planning area- theSpatialInventory pop-up window lists Spatial Fire Planning Inventory followed by Values Inventory. The Spatial Fire Planning Inventory list includes Retardant Avoidance, Alaska Fire Management Options, and Unit Management Requirement layers (if the unit is using the Spatial Fire Planning process). The spatial inventorylist is not displayed if it is empty. When viewing a decision document, the Values Inventory displays information in the Values section of the document and the Spatial Fire Planning Inventory displays on the Objectives page.</li>
+    </ul>
+    <p class="bodytext">The Situation Map page displays by clicking the Situation tab or the small map icon located on the right side of the screen in the incident perspective. Accessing the Situation map from the Situation tab embeds the map in the application's main window whereas accessing it via the map icon will open the map in its own window. Accessing it from the icon allows the greatest flexibility as you can both edit a decision and view the Situation map simultaneously.</p>
+    <p class="bodytext">
+      <span class="specialbold">Note:</span> You can find out about the Menu tab items by pausing over each item and reading the hover text explaining the function of each. </p>
+    <p class="bodytext">When you choose the Map tab and click the + next to each item (to expand them), you can display many <a href="../Analysis/Basic and Short-term Fire Behavior/Analyst-Assisted/Map Layers.htm">informative layers on the map</a>. If you can't see a reference or value layer in the list, go to your <a href="../Home_User Profile/Changing Your System Preferences.htm">system preferences</a> and add it. These layers are periodically updated in WFDSS. If analysis results are available for the incident, you can view them by expanding the Analysis layer.</p>
+  </body>
+</html>

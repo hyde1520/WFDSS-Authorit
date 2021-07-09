@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Choose <span class="menuoptions">Data Management &gt; FMU/SO Codes. </span>The FMU/SO Codes page appears.</li>
+      <li class="listnumber">Select the Geographic Area, Agency, and Unit that you want to edit FMU codes for.</li>
+      <li class="listnumber">Scroll down to the FMU Code list for the selected unit.</li>
+      <li class="listnumber">Select the FMU Code that you want to activate.</li>
+      <li class="listnumber">Click <span class="buttons">Activate</span>. A message appears reminding you that once an FMU Code is activated it can never be deleted.</li>
+      <li class="listnumber">Click <span class="buttons">OK</span>. The FMU Code status changes to Active. </li>
+    </ol>
+    <p class="bodytext">You can edit the description or deactivate the FMU code. You can edit the description only for the SO Code. You can no longer delete the FMU or SO Code. You can now associate strategic objectives and management requirements to the FMU or SO code, and include that information in decisions.</p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

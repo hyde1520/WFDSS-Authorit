@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">An SCI can be deleted only in the following circumstances:</p>
+    <ul>
+      <li class="listbullet">Only the Incident Owner can delete an SCI.</li>
+      <li class="listbullet">The SCI cannot be part of an approved decision.</li>
+    </ul>
+    <p class="bodytext">If the above conditions are not met, the <span class="buttons">Delete</span> button is grayed out, and you won't be able to delete the SCI.</p>
+  </body>
+</html>

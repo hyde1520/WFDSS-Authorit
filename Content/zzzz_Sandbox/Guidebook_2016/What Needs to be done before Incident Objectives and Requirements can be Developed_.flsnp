@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Before creating Incident Objectives and Incident Requirements, users must draw a Planning Area for the incident. Drawing a Planning Area will determine the land area the fire might impact, and subsequently, which pre-loaded Strategic Objectives and Management Requirements will need to be addressed when you develop the incident-specific objectives and requirements.</p>
+    <p class="bodytext">The planning process chosen for an administrative unit, FMU Planning or Spatial Fire Planning, determines what Strategic Objectives and Management Requirements will require consideration when developing Incident Objectives and Incident Requirements. Learn more about these in the topic, <a href="../Diane/SFP/Planning Processes available in WFDSS.htm">Planning Processes available in WFDSS</a> to understand the difference. </p>
+  </body>
+</html>

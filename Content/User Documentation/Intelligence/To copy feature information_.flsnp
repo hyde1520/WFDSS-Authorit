@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From an Incident or Analysis map, select the <img src="To copy feature information_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> Identify tool.</li>
+      <li class="listnumber">Click the point of interest.</li>
+      <li class="listnumber">From the left pane, choose the <span class="menuoptions">Info</span> tab, then click <span class="buttons">Feature Information</span>. The Feature Information popup window appears.</li>
+      <li class="listnumber">Select a layer from the Query Layer drop-down list.</li>
+      <li class="listnumber">Click <span class="buttons">Query Layer</span>. A message notifies you if the layer does not intersect your point of interest, and positive query results are displayed. Layers Queried keeps track of layers previously queried for that point.</li>
+      <li class="listnumber">Click the <img src="To copy feature information_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> Copy icon next to the feature you want to copy. The Feature Copy popup window appears.</li>
+      <li class="listnumber">Type a Shape Label and select the Shape Type from the drop-down list.</li>
+      <li class="listnumber">
+        <p>If you select Fire Perimeter as the Shape Type, enter the appropriate Fire Perimeter Input Parameters:</p>
+        <ul>
+          <li class="listbullet2">Effective Date</li>
+          <li class="listbullet2">Effective Time</li>
+          <li class="listbullet2">Source Types</li>
+          <li class="listbullet2">Comments</li>
+          <li class="listbullet2">Mark the Update Incident size checkbox if you want to update the incident size</li>
+        </ul>
+      </li>
+      <li class="listnumber">Click <span class="buttons">Copy.</span> The feature is copied.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

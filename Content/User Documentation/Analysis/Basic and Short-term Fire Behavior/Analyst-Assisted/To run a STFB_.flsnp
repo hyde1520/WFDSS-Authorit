@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident list, select the incident for which you want to run a STFB.</li>
+      <li class="listnumber">Click <span class="buttons">View Analyses</span>. The Analysis List appears for the selected incident.</li>
+      <li class="listnumber">Under New Analysis, select Short-Term, then click <span class="buttons">Create Analysis for Incident</span>. The New Short-Term Analysis page appears.</li>
+      <li class="listnumber">Enter an Analysis Name. <MadCap:snippetText src="../../../01a_Common User Content/Topic Snippets/Analysis Name Limitations.flsnp" /><div class="listcontinue"><p>Since incidents can have many analyses associated with them, be specific in your name (up to 48 characters). For example, "RedValley STFB 06152009 1300 jdoe" would be the Red Valley fire, STFB run on June 15, 2009 at 1 pm by John Doe.</p></div></li>
+      <li class="listnumber">
+        <p>Set the date and hours. (The Hour field is the time at which fuels conditioning will stop.)</p>
+        <ul>
+          <li class="listbullet2">For dates in the future, WFDSS uses forecast data.</li>
+          <li class="listbullet2">For dates in the past, WFDSS uses historic RAWS data.</li>
+        </ul>
+      </li>
+      <li class="listnumber">Set the conditioning days. Five days is usually adequate since only 1-, 10-, and 100-hour timelag fuels are conditioned.</li>
+      <li class="listnumber">Set the burn period (hours per period) and number of periods.</li>
+      <li class="listnumber">
+        <p>Set the foliar moisture content and select a crown fire method.</p>
+        <ul>
+          <li class="listbullet2">The default foliar moisture is usually adequate for an average fire season, but you might want to change it during a drought or if an insect/disease episode is occurring.</li>
+          <li class="listbullet2">For recent versions of Landfire (2010, 2014) the canopy fuel values for CBD were computed to produce more active crown fire when using the Scott and Reinhardt compared to the Finney crown fire model. You would expect to see slower ROS and less fire intensity for predicted passive crown fire when using Finney versus Scott and Reinhardt crown fire models. However, the final selection of a crown fire model should be based on calibration to observed fire behavior. </li>
+        </ul>
+      </li>
+      <li class="listnumber">Set the spotting probability. </li>
+      <li class="listnumber">Upload ignition and barriers shapefiles.</li>
+      <li class="listnumber">Set the spread options in degrees (to simulate backing, flanking, or head fire).</li>
+      <li class="listnumber">Verify the RAWSinformation.</li>
+      <li class="listnumber">Click <span class="buttons">Create</span>. The Detailed Short-Term Fire Behavior page appears.</li>
+      <li class="listnumber">
+        <p>Verify the following items:</p>
+        <ul>
+          <li class="listbullet2">
+            <a href="Modifying Wind Information (BFB, STFB).htm">wind information</a>
+          </li>
+          <li class="listbullet2">
+            <a href="../../Modifying Initial Fuel Moisture (BFB &amp; STFB, NTFB).htm">initial fuel moistures</a>
+          </li>
+          <li class="listbullet2">
+            <a href="../../Viewing and Modifying Weather Summary Data (BFB, STFB &amp; NTFB).htm">hourly records (wind and weather)</a>
+          </li>
+        </ul>
+      </li>
+      <li class="listnumber">Create a landscape file and edit it if necessary. (See <a href="../../FSPro/Creating the Landscape File.htm">Creating the Landscape File</a> and <a href="../../FSPro/Editing the Landscape File.htm">Editing a Landscape File</a>.)</li>
+      <li class="listnumber">Use the requirements fly-out menu on the right to ensure all required components are completed.</li>
+      <li class="listnumber">Click <span class="buttons">Run Short-Term Fire Behavior</span>. The analysis runs. </li>
+    </ol>
+    <p class="bodytext">Depending on the landscape size and resolution, as well as the traffic on the server, the analysis could take several minutes to run. Refresh your browser to see the status change to Complete, then select the analysis and click <span class="buttons">View Results</span> to see the analysis results on the map view.</p>
+    <MadCap:snippetBlock src="../../../../01_Common Content/Last Modified Message.flsnp" />
+    <p class="bodytext" />
+  </body>
+</html>

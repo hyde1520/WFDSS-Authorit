@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Geographic Editors and Administrators can view role requests from the Administration tab. The Show Role Request table provides Geographic Editors a list of users within their current Geographic Area (see <span class="menuoptions">Home &gt; Contact Information</span> to verify your current GA). Administrators see all role requests in the system.</p>
+    <p class="warning">
+      <span class="specialbold">Caution:</span> Verify that non-federal users have completed <a href="https://wfmrda.nwcg.gov/wfdss-ga-editors.php">security training</a> before granting them access. </p>
+    <p class="bodytext" />
+  </body>
+</html>

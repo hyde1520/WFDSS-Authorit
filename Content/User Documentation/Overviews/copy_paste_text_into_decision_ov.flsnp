@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">There are times when you might want to refer to a report or other document that exists outside WFDSS. In such situations, you can copy/paste text from the reference document into your pending decision document. Once a decision has been published, however, it can no longer be modified.</p>
+  </body>
+</html>

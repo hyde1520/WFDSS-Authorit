@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident list, select the incident you want to enter objectives for.</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>. The Edit Incident page appears. </li>
+      <li class="listnumber">Select the<span class="menuoptions">Course of Action </span>tab. The Course of Action page appears.</li>
+      <li class="listnumber">Use the optional Strategy slider bar to designate the Agency Administrator's intent regarding the Strategy (monitor up to full suppression) for the incident. Use the optional Strategy Comment box todescribe the overall strategy from which the required Course(s) of Action will tier.</li>
+      <li class="listnumber">Create Action Items.  You must include at least one Action Item in the Course of Action to publish a decision.</li>
+      <li class="listnumber">Click <span class="buttons">Create action item</span>. The Create Action Item page appears.</li>
+      <li class="listnumber">Enter an action item. Be as specific as possible. Remember, this information appears in the published decision.</li>
+      <li class="listnumber">Click <span class="buttons">Save</span>. A message appears saying that the action item has been added. </li>
+      <li class="listnumber">If you have not already done so, you may be asked to create a pending decision. If so, select Create Decision. </li>
+      <li class="listnumber">Repeat steps6 through8 as needed.</li>
+      <li class="listnumber">When finished entering Action items/action items, click <span class="buttons">Return</span>. The Action Item list reappears with the newly added action items at the top of the list.<div class="listcontinue"><p>To include an action item in the decision, select the action item, then click <span class="buttons">Include</span>. To exclude an action item from the decision, select the action item, then click <span class="buttons">Exclude</span>.</p></div></li>
+    </ol>
+    <p class="bodytext">Until the decision is reviewed, you can edit action items, even if they have been included in the decision.</p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

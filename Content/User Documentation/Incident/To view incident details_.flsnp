@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incidents List, select the incident you want to view.<div class="listnote"><p><span class="specialbold">Note</span>: If there are lots of incidents listed, use the <a href="../01a_Common User Content/Filters/Filters.htm">filters</a> to find the one you need.</p></div></li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>. The Edit Incident Information page appears.</li>
+      <li class="listnumber">Review the information on the page. <div class="listcontinue"><p>If you have edit permissions for this incident, you can edit the details. Otherwise, the fields are locked and are grayed out.</p></div></li>
+      <li class="listnumber">
+        <p>Click the tabs to view the following information about the incident:</p>
+        <ul>
+          <li class="listbullet2">Situation</li>
+          <li class="listbullet2">Objectives</li>
+          <li class="listbullet2">Course of Action (COA)</li>
+          <li class="listbullet2">Cost (of the COA)</li>
+          <li class="listbullet2">Decisions</li>
+          <li class="listbullet2">Periodic Assessments</li>
+          <li class="listbullet2">Reports</li>
+        </ul>
+      </li>
+      <li class="listnumber">When you are finished, click <span class="buttons">Incidents</span> to return to the Incident List page.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

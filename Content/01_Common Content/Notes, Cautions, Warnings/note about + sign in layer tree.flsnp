@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnote">
+        <div class="listnote">
+          <p>
+            <span class="specialbold">Note:</span> If a + sign appears to the left of a data layer, you need to click the plus sign and select the sub-layers listed. The green + button at the right of a data layer indicates that you can create that layer (e.g., planning areas, fire perimeters, etc.)</p>
+        </div>
+        <div class="listnote">
+          <p>Content for this page is dynamic. Every time you expand layerinformation,WFDSS displaysthe most recently updated information for that layer.</p>
+        </div>
+      </li>
+    </ol>
+  </body>
+</html>

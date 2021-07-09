@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Only Incident Owners and Editors can exclude a management action point (M.A.P.) from a decision. Excluding an M.A.P. ensures that it will not publish in the next decision. When you exclude an M.A.P. and publish a new decision, excluded M.A.P.s are 'deactivated' and display with dotted lines in map displays.</p>
+    <p class="bodytext">When you <a href="../Incident/Creating Management Action Points (M.A.P.s).htm">create</a> the M.A.P., it is automatically included in the next decision. However, if you aren't ready to include a M.A.P. in your decision documentation, you can exclude it from the decision. </p>
+    <p class="bodytext">Once a decision is published, you cannot exclude a M.A.P. from that decision; however, you can <a href="../Incident/mgmt action points/Versioning a Management Action Point.htm">version</a> and <a href="../Incident/mgmt action points/Annotating a Management Action Point.htm">annotate</a> the M.A.P.</p>
+  </body>
+</html>

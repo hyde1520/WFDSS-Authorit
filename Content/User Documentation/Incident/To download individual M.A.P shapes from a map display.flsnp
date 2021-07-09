@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident List, select the incident for which you want to download shapes. </li>
+      <li class="listnumber">Click Assess Situation. The Situation map appears.</li>
+      <li class="listnumber">From the Menu tab in the left frame, locate Mgmt Action Points in the Incident map layers.</li>
+      <li class="listnumber">Click the expand<img src="To download individual M.A.P shapes from a map display.htm" alt="" width="0" height="0" vspace="2px" hspace="2px" align="Bottom" border="0px" />  arrow beside the shape you want to download. </li>
+      <li class="listnumber">Click the Download Shape<img src="To download individual M.A.P shapes from a map display.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> tool. The File Download window appears. </li>
+      <li class="listnumber">Click <span class="buttons">Save</span>. The Save As window appears. </li>
+      <li class="listnumber">Navigate to the folder where you want to save the file. </li>
+      <li class="listnumber">If necessary, change the file name. </li>
+      <li class="listnumber">Click <span class="buttons">Save</span>. The ZIP file for the shape is saved to the folder you specified. </li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

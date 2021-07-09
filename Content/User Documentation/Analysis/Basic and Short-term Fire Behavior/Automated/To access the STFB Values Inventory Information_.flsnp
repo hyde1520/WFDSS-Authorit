@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">To access the Values Inventory associated with a Short-Term Fire Behavior (STFB) analysis, follow the steps below:</p>
+    <ol>
+      <li class="listnumber">On the Incident List page, select the incident you want to view an STFB for.</li>
+      <li class="listnumber">Click <span class="buttons">Assess Situation</span>.</li>
+      <li class="listnumber">On the Incident Situation Assessment page, choose the Map tab.</li>
+      <li class="listnumber">Expand the Analyses Item.</li>
+      <li class="listnumber">Click the black triangle (circled in red in the image below) next to the STFB analysis name.<div class="listcontinue"><p>Information about the analysis appears. </p></div><div class="listcontinue"><p><img src="To access the STFB Values Inventory Information_.htm" alt="" width="0" height="0" vspace="2px" hspace="2px" align="Bottom" border="0px" /></p></div><div class="listcontinue"><p><span class="specialbold">STFB Display Options</span></p></div><div class="listcontinue"><p /></div></li>
+      <li class="listnumber">Click the Values Inventory (circled in red in example below)<div class="listcontinue"><p><img src="To access the STFB Values Inventory Information_.htm" alt="" width="0" height="0" vspace="2px" hspace="2px" align="Bottom" border="0px" /></p></div><div class="listcontinue"><p><span class="specialbold">STFB Map tab with Values Inventory Highlighted</span></p></div><div class="listcontinue"><p>A window will pop up saying that the values inventory request was submitted.</p></div><div class="listcontinue"><p><img src="To access the STFB Values Inventory Information_.htm" alt="" width="0" height="0" vspace="2px" hspace="2px" align="Bottom" border="0px" /></p></div></li>
+      <li class="listnumber">
+        <p>Wait a few moments, then refresh the screen by right-clicking and choosing Refresh from the menu.<div class="listcontinue"><p>Values Inventory Information should then be displayed in the window. Three tables are included on this page:</p></div></p>
+        <ul>
+          <li class="listbullet2">Basic information about the analysis</li>
+          <li class="listbullet2">A table showing values found within the area covered by the STFB Arrival Time Grid (category, value, data source, as well as currency and coverage of the layers)</li>
+          <li class="listbullet2">A table showing the currency and coverage of values layers that were queried but no results were found within the STFB footprint.</li>
+        </ul>
+        <div class="listcontinue">
+          <p>
+            <img src="To access the STFB Values Inventory Information_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+          </p>
+        </div>
+      </li>
+    </ol>
+    <p class="bodytext">Even though this Values Inventory information is not totally complete and is still a work in progress, it will evolve and improve over time.  In the interim, it can provide some useful information for wildland fire decision support.</p>
+  </body>
+</html>

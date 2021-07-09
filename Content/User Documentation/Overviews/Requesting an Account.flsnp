@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Before you can use the WFDSS application to track incidents, you must have an account. Once you set up an account, you can access both the production and the training application using the same user name and password, though your user privileges might be different in each system. You only need to request an account once, as the account can be used for the duration of your career; additional accounts are unnecessary. You can update the contact information in WFDSS as you relocate and/or change jobs to ensure its accuracy.</p>
+    <p class="bodytext">Federal employees must provide a government email address with one of the following domains:</p>
+    <ul>
+      <li class="listbullet">*bia.gov</li>
+      <li class="listbullet">*blm.gov</li>
+      <li class="listbullet">*fs.fed.us</li>
+      <li class="listbullet">*fws.gov</li>
+      <li class="listbullet">*nifc.gov</li>
+      <li class="listbullet">*nps.gov</li>
+      <li class="listbullet">*usda.gov</li>
+    </ul>
+    <p class="bodytext">Non-federal employees are approved as needed to support the interagency fire management mission, but are required to provide proof of security awareness training.</p>
+    <p class="bodytext">You can access the Request Account page from either the WFDSS Website Home Page (<a href="http://wfdss.usgs.gov">http://wfdss.usgs.gov</a>), or from the appropriate login screen (Training or Production) for the WFDSS application.</p>
+  </body>
+</html>

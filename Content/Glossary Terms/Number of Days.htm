@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">Number of Days</h1>
+    <p class="bodytext">The number of days value represents the number of days into the future (including the Analysis Start Date) an FSPro analysis generates probability outputs for an incident. WFDSS sets the default value at seven, but Fire Behavior Analysts can adjust this value as needed. Number of days values are typically set to between seven and fourteen days. The generated probabilities are no longer valid after the number of days value expires.</p>
+    <p class="bodytext">Considerations and recommendations for setting the number days value include:</p>
+    <ul>
+      <li class="listbullet">The number of forecast days you want included in the analysis. For example, when running a one week analysis with four days of forecast, FSPro only uses climatological probabilities for the last three days of the analysis. WFDSS recommends setting a number of days value to greater than seven daysif an analysisuses three or more forecast days.</li>
+      <li class="listbullet">Limiting the number of days value to two weeks or less. There is no limit on the number of days value, so theoretically, you could run an analysis for a full fire season. WFDSS does not recommend this because FSPro places fuel moistures, burn period, and spotting probability into bins by ERC classes. By running an FSPro analysis on a new fire perimeter every week or two allows the generated probabilities to better reflect dynamic conditions found on the ground and are not represented in the model over time.</li>
+    </ul>
+    <MadCap:snippetBlock src="../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">In your CAD system , create a batch file of incidents that conforms to the <a href="">records requirements</a>, and save it to your hard drive.</li>
+      <li class="listnumber">In WFDSS, go to the Incident List page.</li>
+      <li class="listnumber">Click <span class="buttons">Upload Incidents</span>.</li>
+      <li class="listnumber">Select the Incident Source.</li>
+      <li class="listnumber">Click <span class="buttons">Browse</span>. The Choose File to Upload window appears.</li>
+      <li class="listnumber">Select the file you want to upload.</li>
+      <li class="listnumber">Click <span class="buttons">Open</span>. The Upload Incidents page reappears with the selected file listed in the File to Upload field.</li>
+      <li class="listnumber">Click <span class="buttons">Upload</span>.</li>
+    </ol>
+    <p class="bodytext">The process might take several minutes to complete. You will receive an email when your files are finished uploading. If your files do not upload properly, verify that your batch file meets the records requirements. </p>
+    <p class="bodytext">If an incident is declared out in the CAD, then uploaded to WFDSS, it can not be edited in WFDSS.</p>
+  </body>
+</html>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incidents List page, click <span class="buttons">Set Incident Default Preferences</span>. The Incident Default Display Preferences page appears. From here you can set Incident List Display preferences, Incident Situation Map preferences, and change the default filter.</li>
+    </ol>
+    <p class="heading2">To set incident list display preferences:</p>
+    <MadCap:snippetBlock src="../../zzzz_Sandbox/5.4Release/To set incident list display preferences.flsnp" />
+    <p class="heading2">To set incident situation map display preferences:</p>
+    <MadCap:snippetBlock src="../../zzzz_Sandbox/5.4Release/To set incident situation map display preferences.flsnp" />
+    <p class="heading2">To change the default filter:</p>
+    <MadCap:snippetBlock src="../../zzzz_Sandbox/5.4Release/To change the default filter.flsnp" />
+    <p class="bodytext" />
+  </body>
+</html>

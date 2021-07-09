@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Filters help you quickly locate incidents and analyses and are available for you to use on the <a href="../01a_Common User Content/Filters/Creating Intelligence Filters.htm">Intelligence</a>, <a href="../01a_Common User Content/Filters/Creating Incident Filters.htm">Incident</a> and <a href="../01a_Common User Content/Filters/Creating Analysis Filters.htm">Analysis</a> tabs. A default set of filters is available in the filters dropdown list from each of these perspectives, but you can also create and save new filters, edit filters and apply filters temporarily (filters applied temporarily are deleted when you create a new filter, edit or view an existing filter, use the incident name quick search feature or log out of WFDSS).</p>
+    <p class="bodytext">Filters and the way they are applied works the same in each perspective, although filters are not shared between perspectives. In other words, if you create an incident filter to display the incidents you own in the incident list, you would have to create the same filter a second time from the intelligence perspective if you want to view those same incidents on the intelligence map.</p>
+    <p class="bodytext">Default filters and filters you create and save are always available for you to use and a maximum of 30 filters is allowed in each perspective. Take the time to manage your filters, as this will minimize the need for applying filters temporarily. Temporary filters, if used as they were intended, will help you to quickly locate incidents or analyses on an isolated basis. For example, create and save a filter to locate incidents that you own and access regularly, and apply a filter temporarily to view a decision for a fire on a neighboring unit.</p>
+    <ul>
+      <li class="listbullet">Defaultfilters andfiltersyou createare all available from the Filters drop-down lists, whicharelocated above the incident and analysis lists, and on the Info tab when viewing theIntelligence map.</li>
+      <li class="listbullet">Filters can be created, edited and applied temporarily by selecting <span class="buttons">Edit Filter</span>.</li>
+      <li class="listbullet">Filters can be created, deleted, or set as default by selecting <span class="buttons">Manage Filters</span>.</li>
+      <li class="listbullet">Up to three temporary filters can be in use simultaneously; one each on the Incident, Analysis, and Intelligence tabs.Each works independently of all others.</li>
+      <li class="listbullet">Filters are available in the Intelligence Preferences to help you display incidents to your liking on the Intelligence Map.</li>
+    </ul>
+  </body>
+</html>

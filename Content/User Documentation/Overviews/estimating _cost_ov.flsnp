@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">The Estimated Final Cost is a required component of any decision and should be determined when <a href="../Decision/Developing a Course of Action.htm">Course of Action (COA) is developed</a>. It may be used to determine the signing authority for an incident (agency dependent) and/or prioritize incidents in a geographic area. See the annual <a href="http://www.nifc.gov/policies/pol_ref_redbook_2012.html">Interagency Standards for Fire and Fire Aviation Operations</a> for additional Agency-specific information regarding WFDSS signing authority.</p>
+    <p class="bodytext">A variety of methods can be used to estimate final cost and two are accessible on the Cost tab; the Cost Estimator Spreadsheet and <a href="../Incident/SCI/Stratified Cost Index.htm">Stratified Cost Index (SCI)</a>. You can publish a decision without selecting a cost estimation method, but documenting how an incident's final cost was derived will likely inform future cost estimations. If you choose a method not listed on the Cost tab, select Other<span class="bodytext"> </span>and use the Decision Editor to document the method and your reasoning. You can<span class="bodytext"> </span>add supporting text or<span class="bodytext"> </span>images<span class="bodytext"> </span>to support the method(s) you chose to use.</p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

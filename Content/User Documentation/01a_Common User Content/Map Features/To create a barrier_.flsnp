@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">
+        <p>Navigate to the map you want to add a barrier to:</p>
+        <ul>
+          <li class="listbullet2">For incidents: <span class="menuoptions">Incident &gt; select incident you want to add barriers for &gt; click Assess Situation</span>.</li>
+          <li class="listbullet2">For analyses: <span class="menuoptions">Analysis &gt; select analysis you want to add barriers for &gt; click View Information &gt; Analysis Map.</span></li>
+        </ul>
+      </li>
+      <li class="listnumber">To select the map layers you want to view and to see the map legend, click the <span class="menuoptions">Map</span> tab &gt; mark/unmark the appropriate checkboxes for the map layers you want to view. (Clicking the + sign next to the layer name expands the tree view.)</li>
+      <li class="listnumber">Select the map tool you want to use to create a shape on the map (line or polygon).</li>
+      <li class="listnumber">Place your cursor on the map where you want to start drawing, then click once.</li>
+      <li class="listnumber">Move the mouse to the end point, then double-click to release the tool. The shape turns yellow and has a temporary name.</li>
+      <li class="listnumber">Click the + to expand the Analysis layer.</li>
+      <li class="listnumber">Click the <img src="To create a barrier_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> icon to the right of Barriers.</li>
+      <li class="listnumber">Enter a Name for the shape. Be sure to use descriptive names (e.g., Aspen Grove Creek). </li>
+      <li class="listnumber">Click <span class="buttons">Save</span>. The temporary shape name changes to the one that you entered and appears in the tree view with a checkbox next to it. </li>
+    </ol>
+    <p class="bodytext">Once you create a barrier for an incident, you can later select it from the Analysis Parameters page for that incident.</p>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1"> Automated BFB - What it does (outputs)</h1>
+    <p class="bodytext">Using the analysis date, WFDSS retrieves the previous seven days of RAWS data to do fuel moisture conditioning (of dead fuels) for each cell of the landscape extent. The dead fuel moistures that have been calculated by the analysis start date and time are used by WFDSS Automated Basic Fire Behavior (BFB) to provide fire behavior outputs for each cell.  Wind direction and speed is provided from NDFD and, if desired, you can change those values or accept them. The wind values are then used by WindNinja to create gridded winds for the landscape extent.  Using the fuel moistures and gridded winds, Automated BFB calculates fire behavior characteristics. Automated BFB provides many of the same fire behavior outputs as BEHAVE (and BehavePlus).  Below are the outputs available in WFDSS Automated BFB and their units:    </p>
+    <table style="border-collapse:collapse; border: 1px solid #010101;">
+      <thead>
+        <tr>
+          <th class="tableheading" width="246" style="border: 1px solid #010101;">
+            <p class="tableheading">Output</p>
+          </th>
+          <th class="tableheading" width="378" style="border: 1px solid #010101;">
+            <p class="tableheading">Display Units</p>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="tablebodytext" width="246" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Flame Length</p>
+          </td>
+          <td class="tablebodytext" width="378" style="border: 1px solid #010101;">
+            <p class="tablebodytext">meters</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="246" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Fireline Intensity</p>
+          </td>
+          <td class="tablebodytext" width="378" style="border: 1px solid #010101;">
+            <p class="tablebodytext">kilowatts per meter (kW/m)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="246" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Rate of Spread</p>
+          </td>
+          <td class="tablebodytext" width="378" style="border: 1px solid #010101;">
+            <p class="tablebodytext">meters per minute (m/min)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="246" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Heat per Unit Area</p>
+          </td>
+          <td class="tablebodytext" width="378" style="border: 1px solid #010101;">
+            <p class="tablebodytext">kilojoules per meter squared (kJ/m<span class="superscript">2 </span>)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="246" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Crown Fire Activity</p>
+          </td>
+          <td class="tablebodytext" width="378" style="border: 1px solid #010101;">
+            <p class="tablebodytext">0 (no fire), 1 (surface fire), 2 (torching), 3 (active crown fire)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="246" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Maximum Spread Direction</p>
+          </td>
+          <td class="tablebodytext" width="378" style="border: 1px solid #010101;">
+            <p class="tablebodytext">radians</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="tablebodytext"> </p>
+    <p class="tablebodytext">WFDSS Automated BFB also calculates the following environmental outputs:</p>
+    <table style="border-collapse:collapse; border: 1px solid #010101;">
+      <thead>
+        <tr>
+          <th class="tableheading" width="246" style="border: 1px solid #010101;">
+            <p class="tableheading">Output</p>
+          </th>
+          <th class="tableheading" width="378" style="border: 1px solid #010101;">
+            <p class="tableheading">Display Units</p>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="tablebodytext" width="246" style="border: 1px solid #010101;">
+            <p class="tablebodytext">1 hour fuel moisture</p>
+          </td>
+          <td class="tablebodytext" width="378" style="border: 1px solid #010101;">
+            <p class="tablebodytext">fraction (e.g., 0.06 = 6%)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="246" style="border: 1px solid #010101;">
+            <p class="tablebodytext">10 hour fuel moisture</p>
+          </td>
+          <td class="tablebodytext" width="378" style="border: 1px solid #010101;">
+            <p class="tablebodytext">fraction (e.g., 0.18 = 18%)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="246" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Solar radiation</p>
+          </td>
+          <td class="tablebodytext" width="378" style="border: 1px solid #010101;">
+            <p class="tablebodytext">watts per meter squared (W/m<span class="superscript">2 </span>)</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="bodytext">Because it is geospatial, WFDSS BFB calculates and maps the outputs for every cell on a landscape for an instant in time. In the current automated version, WFDSS BFB does not allow the user to change the units, legend, or save the outputs. Currently, the outputs can only be displayed within WFDSS; however, you can save screen captures. BFB analysis results are automatically deleted after 20 days.</p>
+  </body>
+</html>

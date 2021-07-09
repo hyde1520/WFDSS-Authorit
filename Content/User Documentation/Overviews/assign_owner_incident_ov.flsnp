@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Owner is an <a href="../Incident/Incident Privileges.htm">incident privilege</a> that can be applied to anyone with Author, GA Editor, or National Editor roles. Users assigned these roles are automatically assigned ownership of incidents that they create, but can <a href="../Incident/Transferring Incident Ownership .htm">transfer ownership</a> of incidents to:</p>
+    <ul>
+      <li class="listbullet">An individual user assigned one of the above roles, or</li>
+      <li class="listbullet">To a group that contains at least one user assigned one of the above roles.</li>
+    </ul>
+    <p class="bodytext">However, when Dispatchers create incidents, no owner is immediately assigned to the incident, until an Author or Editor accepts ownership. </p>
+  </body>
+</html>

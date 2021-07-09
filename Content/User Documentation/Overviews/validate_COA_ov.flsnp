@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Validating the Course of Action (COA) is required to publish a decision. By validating the COA, you are documenting that the course of action is achievable based on:</p>
+    <ul>
+      <li class="listbullet">Availableresources, </li>
+      <li class="listbullet">Predicted fire behavior,  </li>
+      <li class="listbullet">Estimated cost.</li>
+    </ul>
+    <p class="bodytext">You must validate the COA and create/publish a decision in the following circumstances:</p>
+    <ul>
+      <li class="listbullet">The pre-planned course of action is not valid and requires a new course of action.</li>
+      <li class="listbullet">The situation requires a change in the level of oversight, significant changes to resource requirements, or increased costs require escalation to the next level of authority.</li>
+      <li class="listbullet">The incident has escaped initial attack and is escalating into extended attack or long-duration event.</li>
+    </ul>
+    <p class="bodytext">If initial attack efforts failed and the planned initial response was unsuccessful, then the default course of action did not satisfy the strategic objectives as set forth in planning documents (and uploaded into WFDSS). You can:</p>
+    <ol>
+      <li class="listnumber">Navigate to the Validation tab to answer the question "Does the default Course of Action (pre-planned response) satisfy the strategic objectives? Yes or No". Choose yes or no, and then document your response in the comment field. From here, you would navigate to the Decisions tab and select Create to create a pending decision.</li>
+      <li class="listnumber">Develop inputs on the Objectives or Course of Action tabs and click the Create Decision from one of those locations. Choosing this option eliminates the need to visit the Validation tab toanswer the question posed in the previous step and eliminates the need to navigate to the Decisions tab to create a pending decision.</li>
+    </ol>
+    <p class="note">
+      <span class="specialbold">Note</span>: Creating a pending decision from the Objectives or Course of Action tab simplifies the Validation process and eliminates the need to visit the Validation tab more than once.</p>
+    <p class="bodytext">Once you have completed the above tasks, you can create a decision with a new course of action. If you chose the first option above, you visit the Validation tab a second time to validate the new course of action and provide justification for why you believe it will be successful. If you chose the second option above, you visit the Validation tab only once, to validate the new course of action. Before a decision can be published, the proposed course of action (COA) must be validated.</p>
+    <p class="bodytext">When determining whether or not the selected COA is valid, consider documenting the answers to the following questions in the Comment section:</p>
+    <ul>
+      <li class="listbullet">Are the resources available to accomplish this course of action? (If the answer is no, you need to re-visit your course of action. )</li>
+      <li class="listbullet">If fire behavior modeling was used, does it suggest that your course of action will meet the objectives?</li>
+      <li class="listbullet">Are the estimated costs for the course of action in line with historical costs? </li>
+    </ul>
+    <p class="note">
+      <span class="specialbold">Note</span>: At the bottom of the page there is a "Some Things to Consider " box that displays additional considerations and rationale. </p>
+    <p class="bodytext">Once the comments are complete, answer the question "Does the proposed Course of Action satisfy the incident and strategic objectives? Yes or No".</p>
+    <p class="note">
+      <span class="specialbold">Note</span>: If Incident Owners and Editors validate the pre-planned COA by selecting Yes on the Validation tab, no decision needs to be published. However, if the COA varies from the pre-planned one, then a decision must be created and the new COA must be validated before a decision can be published.</p>
+  </body>
+</html>

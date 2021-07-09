@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">Management Requirement Shapes and Vertex Limits</h1>
+    <p class="bodytext">There are no formal data standards for Management Requirement (MR) shapes. Each shapefile uploaded represents the spatial area for a single management requirement. MR shapes must be polygons. If you wish to represent a management requirement as a line or point, you'll need to buffer them into a polygon before attempting to use them as an MR shape. </p>
+    <p class="bodytext">If the incoming shapefile has multiple records, WFDSS dissolves them into a single polygon. Attributes in the shapefile are ignored; the management requirement Label and Description are entered into the WFDSS Data Management/Unit Shapes tab when the management requirement shapefile is uploaded. If you wish to load multiple management requirements, you must load them one shapefile at a time. </p>
+    <p class="bodytext">There is a 75,000 vertex limit for management requirement shapes. It is important to consider that shapes that extend beyond the unit boundary (all FMU/SO shapes for the unit dissolved), the shape will be clipped to the unit boundary. This can result in a fairly simple MR shape gaining significant complexity, if the unit boundary is complex in the area where the clip occurred. Pay attention to the error messages you get if an MR shape fails to load, it will often mention that a clip occurred, and violation of the vertex limit.</p>
+    <p class="bodytext">Here are some tips for dealing with MR shapes that become unwieldy due to the boundary clipping issue.</p>
+    <p class="bodytext">The current vertex limit for Management Requirements is 75K. You can count the vertices in your upload shape in ArcGIS by adding a Double field called "VertCnt" and calculating its value with the FieldCalculator Python expression: !shape!.pointcount Make sure the Python Parser radio button is selected. </p>
+    <p class="bodytext">You can 'thin" a shape's vertices with the Simplify Polygon tool to get it under the limit. </p>
+    <p class="bodytext">WFDSS clips the Management Requirement shape with the Unit boundary (all the FMU/SO shapes for that unit merged). This step ensures that you do not have management requirements that apply outside your unit, and is therefore necessary. If you have a complex boundary, that can add many vertices, so a shape under the limit does not guarantee success. (For example, a shape with 29K vertices could bounce back with bounce with a message telling you that there were 110K vertices. </p>
+    <p class="bodytext">If you hit the limit try one or more of the following: </p>
+    <ul>
+      <li class="listbullet">Ensure the shape you upload is a Multipart polygon (one table record) instead of a Singlepart Polygon (multiple table records). Use the Dissolve tool in ArcGIS to accomplish this.</li>
+      <li class="listbullet">Ensure the shape you upload is already in the NAD83 Geographic coordinate system (GCS_North_American_1983), otherwise WFDSS reprojects it which may add vertices.</li>
+      <li class="listbullet">Run Repair Geometry on shape before uploading to get rid of invalid geometries. </li>
+      <li class="listbullet">Clip the shape to your FMU/SO boundaries prior to uploading, otherwise WFDSS clips and may add vertices.</li>
+      <li class="listbullet">If that fails, run the Buffer tool on your uploaded shape using a small negative buffer value (e.g., -2 meters).  This may reduce the likelihood that WFDSS shape processing will lead to an increased number of vertices. Clip and Run Repair Geometry again for good measure.</li>
+    </ul>
+    <p class="bodytext" />
+  </body>
+</html>

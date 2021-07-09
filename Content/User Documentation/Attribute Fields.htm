@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">Attribute Fields</h1>
+    <p class="bodytext">
+      <span class="specialbold">JurisdictionalUnitKind </span>
+    </p>
+    <p class="bodytext">Describes the type of unit Jurisdiction using the NWCG Landowner Kind data standard. There are three valid values: Federal, Other, and Private. A value is populated for all polygons.</p>
+    <p class="bodytext">
+      <span class="specialbold">JurisdictionalUnitAgency</span>
+    </p>
+    <p class="bodytext">Described the type of unit Jurisdiction using the NWCG Landowner Category data standard. Valid values include: Private, ANCSA, BIA, BLM, BOR, DOD, DOE, NPS, USFS, USFWS, Foreign, Tribal, City, County, OtherLoc (other local, not in the standard), State. A value is populated for all polygons.</p>
+    <p class="bodytext">
+      <span class="specialbold">JurisdictionalUnitName</span>
+    </p>
+    <p class="bodytext">The name of the Jurisdictional Unit. Where an NWCG Unit ID exists for a polygon, this is the name used in the Name field from the NWCG Unit ID database. Where no NWCG Unit ID exists, this is the “Unit Name” or other specific, descriptive unit name field from the source dataset. A value is populated for all polygons.</p>
+    <p class="bodytext">
+      <span class="specialbold">JurisdictionalUnitIdentifier</span>
+    </p>
+    <p class="bodytext">Where it could be determined, this is the NWCG Standard Unit Identifier (Unit ID). Where it is unknown, the value is ‘Null’. Null Unit IDs can occur because a unit may not have a Unit ID, or because one could not be reliably determined from the source data. Not every land ownership has an NWCG Unit ID. Unit ID assignment rules are available from the Unit ID standard, linked above.</p>
+    <p class="bodytext">
+      <span class="specialbold">LandownerKind</span>
+    </p>
+    <p class="bodytext">The landowner category value associated with the polygon. May be inferred from jurisdictional agency, or by lack of a jurisdictional agency.</p>
+    <p class="bodytext">
+      <span class="specialbold">LandownerCategory</span>
+    </p>
+    <p class="bodytext">The landowner kind value associated with the polygon. May be inferred from jurisdictional agency, or by lack of a jurisdictional agency.</p>
+    <p class="bodytext">
+      <span class="specialbold">DataSource</span>
+    </p>
+    <p class="bodytext">The database from which the polygon originated. Be as specific as possible, identify the geodatabase name and feature class in which the polygon originated.</p>
+    <p class="bodytext">
+      <span class="specialbold">SecondaryDataSource</span>
+    </p>
+    <p class="bodytext">If the Data Source is an aggregation from other sources, use this field to specify the source that supplied data to the aggregation. For example, if Data Source is "PAD-US 2.0", then for a USDA Forest Service polygon, the Secondary Data Source would be "USDA FS Automated Lands Program (ALP)". For a BLM polygon in the same dataset, Secondary Source would be "Surface Management Agency (SMA)."</p>
+    <p class="bodytext">
+      <span class="specialbold">SourceUniqueID</span>
+    </p>
+    <p class="bodytext">Identifier (GUID or ObjectID) in the data source. Used to trace the polygon back to its authoritative source.</p>
+    <p class="bodytext" />
+  </body>
+</html>

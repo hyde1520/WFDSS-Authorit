@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">NTFB - What it needs (inputs)</h1>
+    <p class="bodytext">Like other fire behavior models, WFDSS Near-Term Fire Behavior (NTFB) requires the following data to perform fire behavior calculations: </p>
+    <ul>
+      <li class="listbullet">Fuels</li>
+      <li class="listbullet">Weather (winds and fuel moisture values)</li>
+      <li class="listbullet">Topography</li>
+    </ul>
+    <p class="bodytext">WFDSS provides much of the necessary information to perform fire spread and fire behavior calculations. The Fire Behavior Specialist (FBS) can adjust most inputs (weather, winds, and landscape data) as needed.  The following table lists the inputs required for the WFDSS Near-Term Fire Behavior model:</p>
+    <p class="bodytext">
+      <span class="specialbold">Table 1: Inputs Required for a Near-Term Fire Behavior Model</span>
+    </p>
+    <table style="border-collapse:collapse; border: 1px solid #010101;">
+      <thead>
+        <tr>
+          <th class="tableheading" width="138" style="border: 1px solid #010101;">
+            <p class="tableheading">Input</p>
+          </th>
+          <th class="tableheading" width="242" style="border: 1px solid #010101;">
+            <p class="tableheading">Source</p>
+          </th>
+          <th class="tableheading" width="263" style="border: 1px solid #010101;">
+            <p class="tableheading">Comments</p>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Landscape extent</p>
+            <p class="tablebodytext"> </p>
+          </td>
+          <td class="tablebodytext" width="240" style="border: 1px solid #010101;">
+            <p class="tablebodytext">FBS-defined </p>
+            <p class="tablebodytext">(required)</p>
+          </td>
+          <td class="tablebodytext" width="263" style="border: 1px solid #010101;">
+            <p class="tablebodytext">The FBS draws the landscape extent (normally no more than 5-6 miles per side) on the Analysis Map page.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Landscape Data Source</p>
+          </td>
+          <td class="tablebodytext" width="240" style="border: 1px solid #010101;">
+            <p class="tablebodytext">WFDSS</p>
+          </td>
+          <td class="tablebodytext" width="263" style="border: 1px solid #010101;">
+            <p class="tablebodytext">You can choose to use the default LANDFIRE 2010 1.2.0 landscape data source or select a different data source from the Landscape page.</p>
+            <p class="tablebodytext">In addition, you can modify landscape data layers using the Landscape Editor.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Analysis Name</p>
+          </td>
+          <td class="tablebodytext" width="240" style="border: 1px solid #010101;">
+            <p class="tablebodytext">FBS-defined</p>
+          </td>
+          <td class="tablebodytext" width="263" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Limited to 48 characters, do not use underscores. <MadCap:snippetText src="../../01a_Common User Content/Topic Snippets/Analysis Name Limitations.flsnp" /> Can edit until analysis is submitted.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Conditioning Days</p>
+          </td>
+          <td class="tablebodytext" width="240" style="border: 1px solid #010101;">
+            <p class="tablebodytext">The default conditioning period is 7 days before the analysis start date</p>
+          </td>
+          <td class="tablebodytext" width="263" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Choose the number of days, but use at least 5 days so the 100-hour time lag fuels can be fully "conditioned".</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Spotting Probability</p>
+            <p class="tablebodytext"> </p>
+          </td>
+          <td class="tablebodytext" width="240" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Default 0.00%</p>
+          </td>
+          <td class="tablebodytext" width="263" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Entered as a decimal value from 0 to .15 (.15 equals 90-100% Probability of Ignition in NTFB).  </p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Spot Ignition Delay</p>
+          </td>
+          <td class="tablebodytext" width="240" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Default of zero minutes</p>
+          </td>
+          <td class="tablebodytext" width="263" style="border: 1px solid #010101;">
+            <p class="tablebodytext">The amount of time that passes between a spot landing and fire spread occurring. </p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Crown Fire Method</p>
+          </td>
+          <td class="tablebodytext" width="240" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Finney (1998) or Scott-Reinhardt (2001)</p>
+          </td>
+          <td class="tablebodytext" width="263" style="border: 1px solid #010101;">
+            <p class="tablebodytext">The Finney crown fire model is the default for the BFB, STFB, NTFB and FSPro models.  </p>
+            <p class="tablebodytext">For recent versions of LANDFIRE (2010, 2014) canopy bulk density values were computed to produce more active crown fire when using the Scott and Reinhardt model compared to the Finney crown fire model. You would expect to see slower rates of spread and less fire intensity for predicted passive crown fire when using Finney versus Scott and Reinhardt crown fire models. Whatever crown fire model you choose, it is important to calibrate your simulated fire behavior to observed fire behavior.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Foliar Moisture Content (%)</p>
+          </td>
+          <td class="tablebodytext" width="240" style="border: 1px solid #010101;">
+            <p class="tablebodytext">WFDSS Default is 100%</p>
+          </td>
+          <td class="tablebodytext" width="263" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Using 100% foliar moisture is adequate to depict a normal year; however, you can modify this value as needed.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Analysis Start Date and Time</p>
+          </td>
+          <td class="tablebodytext" width="240" style="border: 1px solid #010101;">
+            <p class="tablebodytext">FBS-defined</p>
+          </td>
+          <td class="tablebodytext" width="263" style="border: 1px solid #010101;">
+            <p class="tablebodytext">The date and time you want to start the analysis.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Analysis End Date and Time</p>
+          </td>
+          <td class="tablebodytext" width="240" style="border: 1px solid #010101;">
+            <p class="tablebodytext">FBS-defined</p>
+          </td>
+          <td class="tablebodytext" width="263" style="border: 1px solid #010101;">
+            <p class="tablebodytext">The date and time you want the analysis to end. Limited to no more than 15 days beyond the start date.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Ignition File </p>
+          </td>
+          <td class="tablebodytext" width="240" style="border: 1px solid #010101;">
+            <p class="tablebodytext">FBS-defined</p>
+            <p class="tablebodytext">(required)</p>
+          </td>
+          <td class="tablebodytext" width="263" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Choose the ignition file from a drop-down list.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Barrier File </p>
+          </td>
+          <td class="tablebodytext" width="240" style="border: 1px solid #010101;">
+            <p class="tablebodytext">FBS-defined</p>
+            <p class="tablebodytext">(optional)</p>
+          </td>
+          <td class="tablebodytext" width="263" style="border: 1px solid #010101;">
+            <p class="tablebodytext">If needed, FBS chooses the barrier file from the drop-down list. You can fill the barrier (make the interior of the ignition unburnable) or not based on associated radio buttons.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Remotely Automated Weather Station (RAWS)</p>
+          </td>
+          <td class="tablebodytext" width="240" style="border: 1px solid #010101;">
+            <p class="tablebodytext">WFDSS selects a RAWS based on the following criteria:</p>
+            <ul>
+              <li class="tablelistbullet">Identifying the center of the landscape extent</li>
+              <li class="tablelistbullet">Calculating the distance from the center to the nearest RAWS(s) using a horizontal/vertical (elevation) algorithm</li>
+              <li class="tablelistbullet">ranking the stations</li>
+              <li class="tablelistbullet">selecting the station that is “closest” and has weather data requisite for fuel moisture conditioning (at least 7 days)</li>
+            </ul>
+          </td>
+          <td class="tablebodytext" width="263" style="border: 1px solid #010101;">
+            <p class="tablebodytext">WFDSS selects the "closest" RAWS, but you can choose a different station if needed. The FBS can select fewer conditioning days and a different weather station that has weather data requisite for the conditioning days selected.</p>
+            <p class="tablebodytext">Loading the RAWS KML (from left-hand menu) into Google Earth gives you insight into which RAWS would be most appropriate for your analysis.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Burn period dates and hours</p>
+          </td>
+          <td class="tablebodytext" width="240" style="border: 1px solid #010101;">
+            <p class="tablebodytext">FBS-defined</p>
+          </td>
+          <td class="tablebodytext" width="263" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Decide the dates and the number of hours for each analysis date during which you want to model active fire behavior. Default hours are for a 24-hour burn period, but you should generally pick a shorter timeframe, as a full day of spread is likely to greatly overpredict growth during the overnight hours. Analyses of more than three days are not recommended unless the weather is stable with a very reliable forecast beyond that time period.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Initial Fuel Moisture inputs</p>
+          </td>
+          <td class="tablebodytext" width="240" style="border: 1px solid #010101;">
+            <p class="tablebodytext">NFDRS dead fuel calculations for the beginning of the conditioning period and <a href="../../../Glossary Terms/growing season index (GSI).htm">GSI</a> live fuel calculations for the start of the first burn period.</p>
+          </td>
+          <td class="tablebodytext" width="263" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Select dead fuel moistures for the start of the conditioning period and adjusted accordingly before starting the modeled ignition.</p>
+            <p class="tablebodytext">Because the live fuel moistures (herbaceous and woody) are not affected by fuel moisture conditioning, critique these values and change as appropriate. You can enter different fuel moistures for some or all of the fuel models in the landscape.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Hourly Weather Records </p>
+          </td>
+          <td class="bodytext" width="240" style="border: 1px solid #010101;">
+            <p class="tablebodytext">The Weather Summary Table displays several days (rows) of daily weather summaries.  Hourly data can be viewed and edited by selecting a date and clicking the  <span class="buttons">'Hourly Records'</span> button below the table.  The following hourly inputs are used by NTFB:</p>
+            <ul>
+              <li class="tablelistbullet">Precipitation amount</li>
+              <li class="tablelistbullet">Temperature</li>
+              <li class="tablelistbullet">Relative Humidity</li>
+              <li class="tablelistbullet">Wind Speed</li>
+              <li class="tablelistbullet">Wind Direction</li>
+              <li class="tablelistbullet">Cloud Cover % (used as part of shading calculation for conditioning fuels)</li>
+            </ul>
+            <p class="bodytext"> </p>
+          </td>
+          <td class="bodytext" width="263" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Change any of these values as needed.</p>
+            <p class="tablebodytext"> </p>
+            <p class="tablebodytext">Values that are uneditable are not being used by the model (for example, wind speed during the conditioning period).  </p>
+            <p class="tablebodytext"> </p>
+            <p class="tablebodytext">The 'Record Type' column indicates if the data is coming from a RAWS or from forecasted weather.</p>
+            <p class="tablebodytext"> </p>
+            <p class="tablebodytext">Gridded winds are currently not used in NTFB, but they will likely be added as future enhancement.</p>
+            <p class="bodytext"> </p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Timestep</p>
+          </td>
+          <td class="tablebodytext" width="240" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Not visible to FBS (in inputs)</p>
+          </td>
+          <td class="tablebodytext" width="263" style="border: 1px solid #010101;">
+            <p class="tablebodytext">In the FARSITE model, analysts could adjust the modeled and visible timesteps. In NTFB, these settings are set at one hour. Though you cannot adjust the input timestep, you can select several options for output timesteps once the run is complete. Slow-moving fires may not display well with a one-hour timestep and you might need to select a longer duration timestep (in the outputs) to get the desired display for the modeled progression.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Perimeter and Distance Resolution</p>
+          </td>
+          <td class="tablebodytext" width="240" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Not visible to FBS and cannot be adjusted.</p>
+          </td>
+          <td class="tablebodytext" width="263" style="border: 1px solid #010101;">
+            <p class="tablebodytext">In FARSITE, analysts could set these values. In NTFB, they are 'hard-coded' and cannot be manually adjusted. Distance and perimeter resolution are set at the landscape resolution. However, the minimum perimeter resolution is 60 meters. For example, running NTFB on a 30-meter landscape means that distance resolution is 30 meters and perimeter resolution is 60 meters. If an analysis is taking too long at 30 meters, you can copy the NTFB inputs to a new run with a lower/coarser resolution landscape (higher number). This speeds processing time, but reduces the detail and accuracy of the output. </p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Minimum Spotting Distance</p>
+          </td>
+          <td class="tablebodytext" width="240" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Not visible to FBS and cannot be adjusted.  Set at landscape resolution.</p>
+          </td>
+          <td class="tablebodytext" width="263" style="border: 1px solid #010101;">
+            <p class="tablebodytext">When FARSITE was developed, computer processing times limited the ability to calculate spotting.  NTFB allows you to set spotting percentages at a much higher level (theoretically up to 100%).  Most NTFB modeled spots are 'near distance' and appear to have little impact on the final modeled fire perimeter or fire behavior outputs; the ground fire simply overruns these spots.  Processing time, however, is considerable as the model 'untangles the spaghetti' that is created from near-distance spot growth. For these reasons, the minimum spotting distance (set to the landscape resolution) essentially skips the first 'cell'.  For example, on a 60-meter landscape, no spots occur in the first 60 meters from the perimeter, but any viable embers that land beyond 60 meters can produce spot fires.</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <MadCap:snippetBlock src="../../../01_Common Content/Notes, Cautions, Warnings/RAWS station selection.flsnp" />
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

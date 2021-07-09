@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Management Action Points (M.A.P.s) are clearly specified incident conditions that, when reached, prompt a predefined modification to existing fire management actions, or trigger the implementation of new strategies and/or tactics. M.A.P.s are usually spatial, but can also be temporal or otherwise tied to conditions that cannot be conveyed geographically using points, lines, or polygons. Incident conditions defined by M.A.P.s can be related to fire activity, smoke, weather, fuels, calendar dates, resource availability or an combination of any of these (and other) elements. If the incident conditions defined by the M.A.P. are met, timely implementation is generally critical for successful accomplishment of the incident objectives. The use of M.A.P.s is optional.</p>
+    <p class="bodytext">Examples of M.A.P.s:</p>
+    <ul>
+      <li class="listbullet">“If active fire approaches within 100 yards of MAP1 (the Fuego Canyon Road), burn out the grassy vegetation along the roadside. Use engines on standby to suppress any spot fires across the roadway.”</li>
+      <li class="listbullet">“If Red Flag winds are forecast and if the fire is not contained, remove all ground forces from the MAP2 polygon. Monitor fire activity from the Red Bear Lookout and, as conditions allow, use aerial resources to pick up any spots across the M.A.P. boundary.”</li>
+    </ul>
+  </body>
+</html>

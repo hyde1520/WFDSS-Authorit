@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">While every effort has been made to make WFDSS a system that meets all of your geospatial needs, we recognize that, occasionally, you might need to analyze and view spatial information outside of WFDSS. You can download data in several formats:</p>
+    <ul>
+      <li class="listbullet">
+        <a href="../../Incident/Downloading Incident Shapes.htm">shapefiles</a> (in meters and degrees)</li>
+      <li class="listbullet">ASCII grids</li>
+      <li class="listbullet">KMZ files (Keyhole Markup Language Zip file is a file format that is used to display geographic information,such as KMZ filesin GOOGLE Earth.)</li>
+    </ul>
+  </body>
+</html>

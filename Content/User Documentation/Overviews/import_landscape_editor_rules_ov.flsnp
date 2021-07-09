@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Occasionally, situations arise where it is both more time efficient and necessary to import landscape rules because of their complexity. Very complex landscape rules that involve factors such as elevation, aspect, and landscape masks, may take longer to create notes and input into your run than it would be to simply import them and edit as necessary once imported. Importing landscape rules also helps when working with other fire behavior analysts on incidents and in geographic areas you are unfamiliar with, by allowing you to build on other analysts' calibrations.</p>
+    <p class="bodytext">As a Fire Behavior Specialist, if you have Landscape Editor rules that exist in other analyses, you can import them into your current analysis.</p>
+    <p class="note">
+      <span class="specialbold">Note:</span> You need to re-create the landscape file after importing new rules.</p>
+  </body>
+</html>

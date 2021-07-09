@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">
+        <p>Make sure that you are in the correct version of WFDSS:</p>
+        <ul>
+          <li class="listbullet2">
+            <span class="specialbold">Training:</span>
+            <a href="https://wfdss.usgs.gov/WfdssAppTrain/faces/facelets/login/WFDSSLogin.xhtml">https://wfdss.usgs.gov/WfdssAppTrain/faces/facelets/login/WFDSSLogin.xhtml</a>
+          </li>
+          <li class="listbullet2">
+            <span class="specialbold">Production:</span>
+            <a href="https://wfdss.usgs.gov/WfdssApp/faces/facelets/login/WFDSSLogin.xhtml">https://wfdss.usgs.gov/WfdssApp/faces/facelets/login/WFDSSLogin.xhtml</a>
+          </li>
+        </ul>
+      </li>
+      <li class="listnumber">Type your User Name. The User Name must contain only lowercase alphanumeric characters, digits, and the special characters @, underscore (_), and a period.</li>
+      <li class="listnumber">Type your Password.</li>
+      <li class="listnumber">Click <span class="buttons">Sign In</span>.</li>
+    </ol>
+    <p class="bodytext">The first time you sign in, you will be asked to change your password. Once you are logged in, you can select your default initial page by changing it in your <a href="Changing Your System Preferences.htm">system preferences</a>.</p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

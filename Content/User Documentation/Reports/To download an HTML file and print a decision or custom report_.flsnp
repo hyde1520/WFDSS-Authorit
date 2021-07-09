@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident list, select the incident &gt; click <span class="buttons">View Information</span>. The Edit Information page appears.</li>
+      <li class="listnumber">
+        <p>Select the decision or report that you would like to download:</p>
+        <ul>
+          <li class="listbullet2">Choose <span class="menuoptions">Decisions tab</span> &gt; select the published decision you want to download.</li>
+          <li class="listbullet2">Choose the<span class="menuoptions"> Reports tab</span> &gt; select the available custom report that you want to download.</li>
+        </ul>
+      </li>
+      <li class="listnumber">Click <span class="buttons">Download</span> to save the decision/report to your computer or network drive. The File Download dialog box appears. </li>
+      <li class="listnumber">Click <span class="buttons">Save</span>. The Save As dialog box appears.</li>
+      <li class="listnumber">Navigate to the folder where you want to save the decision/report, then click <span class="buttons">Save</span>. The files get saved to the folder you selected.</li>
+      <li class="listnumber">Extract the contents of the ZIP file. The contents of the ZIP folder are extracted into a new folder.</li>
+      <li class="listnumber">Double-click on the HTML file to open it.</li>
+      <li class="listnumber">Choose <span class="menuoptions">File &gt; Print. </span>The Print Options window opens.</li>
+      <li class="listnumber">Select your printing opens, then click<span class="buttons"> Print.</span> The document prints to the designated printer.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

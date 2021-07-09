@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Select an Incident from the Incident List.</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>.</li>
+      <li class="listnumber">Click the <span class="menuoptions">Reports </span>tab. The Report List page appears.</li>
+      <li class="listnumber">From the Template List, select a Report Template name.</li>
+      <li class="listnumber">Click <span class="buttons">View Report.</span> The information in the selected template displays on the screen.</li>
+      <li class="listnumber">Click the <span class="buttons">Reports </span>tab to return to the Report List.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+    <p class="bodytext"> </p>
+  </body>
+</html>

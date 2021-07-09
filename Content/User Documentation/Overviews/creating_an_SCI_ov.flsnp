@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <MadCap:snippetBlock src="../../01_Common Content/Notes, Cautions, Warnings/automated_SCI.flsnp" />
+    <p class="bodytext">Anyone with editing privileges for the incident can create a <a href="../Incident/SCI/Stratified Cost Index.htm">Stratified Cost index (SCI)</a> for an incident. Only the person who created the SCI can edit it or accept the calculations. An SCI cannot be created on the day a fire originates, as it takes 24 hours to generate the weather stream that informs the calculation.</p>
+    <p class="bodytext">Before creating an SCI, you need the following information:</p>
+    <ul>
+      <li class="listbullet">Afire located on federal jurisdiction.</li>
+      <li class="listbullet">The Unit ID for the responsible agency. (This is auto-filled when you enter the latitude and longitude for an incident.)</li>
+      <li class="listbullet">An estimated fire size of 300 or more acres.</li>
+    </ul>
+    <p class="note">
+      <span class="specialbold">NOTE</span>: Because SCI runs a Basic Fire Behavior analysis when you request it, it may take several minutes for the SCI run to appear in your list. Click <span class="buttons">Create</span> only once. From the left menu, select <span class="menuoptions">Stratified Cost Index </span>to refresh your view. </p>
+    <p class="bodytext">If SCI results are accepted, the results will be available in the incident content tree (within the decision editor) for you to add to a decision.</p>
+    <p class="heading2">To create an SCI:</p>
+  </body>
+</html>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Accounts become locked for the following reasons:</p>
+    <ul>
+      <li class="listbullet">The user has not accessed WFDSS within the past 60 days.</li>
+      <li class="listbullet">The user entered an incorrect password more than 5 times.</li>
+      <li class="listbullet">You have not changed your password within the past 60 days.</li>
+      <li class="listbullet">The user is not an authorized WFDSS user.</li>
+    </ul>
+    <p class="bodytext">If your account is locked, contact the Help Desk. Only Administrators and Help Desk can unlock any user account. </p>
+    <p class="warning">
+      <span class="specialbold">Caution for Administrators and Help Desk:</span> Before unlocking a user's account, be sure that they are an authorized WFDSS user, particularly if they are a non-federal employee.</p>
+    <p class="bodytext"> </p>
+  </body>
+</html>

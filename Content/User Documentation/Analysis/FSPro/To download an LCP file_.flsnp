@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Analysis List page, select the analysis that you want to create a landscape for.</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>. The General Parameters page appears.</li>
+      <li class="listnumber">From the left menu, select <span class="menuoptions">Landscape</span>. The Landscape File page appears.</li>
+      <li class="listnumber">Click <span class="buttons">Download LCP File</span>. The File Download window appears.</li>
+      <li class="listnumber">Click <span class="buttons">Save</span>. The Save As window appears.</li>
+      <li class="listnumber">Browse to the folder on your hard drive or network where you want to save the file. </li>
+      <li class="listnumber">Click <span class="buttons">Save</span>. The ZIP file is saved to the folder you selected. This might take a few minutes, depending on your connection speed and the size of the file.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

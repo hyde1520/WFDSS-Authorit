@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Writing WFDSS Incident Objectives and Incident Requirements that are relevant to the incident and relay leader's intent are fundamental to successful wildland fire management, setting the purpose for actions and intended outcomes. Avoid generic statements that could apply anywhere, and write clearly so that Incident Commanders can develop strategies and tactics to achieve the Agency Administrator's intent for managing that incident. Site-specific Incident Objectives and Incident Requirements should tier from the over-arching Land/Resource Management Plan guidance for your unit; which is conveyed in WFDSS through the Strategic Objectives and Management Requirements. When a unit develops clear, specific direction through Incident Objectives and Incident Requirements that stem from the Strategic Objectives and Management Requirements, those managing the fire can, in turn, develop strategies and tactics that are in alignment with planning direction and leader's intent.</p>
+    <p class="bodytext">You can prioritize incident objectives by selecting an objective and clicking the Move Up or Move Down button at the bottom of the screen. To do this, make sure that the default number of rows indicated at the bottom of the page is equal to or exceeds the number of objectives and/or requirements. Otherwise, this feature is limited to only the rows displaying on the current page.</p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

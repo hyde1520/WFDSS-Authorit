@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <table style="border-collapse:collapse; border: 1px solid #010101;">
+      <thead>
+        <tr>
+          <th class="tableheading" width="162" style="border: 1px solid #010101;">
+            <p class="tableheading">Input</p>
+          </th>
+          <th class="tableheading" width="156" style="border: 1px solid #010101;">
+            <p class="tableheading">Source</p>
+          </th>
+          <th class="tableheading" width="366" style="border: 1px solid #010101;">
+            <p class="tableheading"> Editable Values</p>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="tablebodytext" width="162" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Landscape data</p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">WFDSS</p>
+          </td>
+          <td class="tablebodytext" width="366" style="border: 1px solid #010101;">
+            <p class="tablebodytext">You can choose to use the default LANDFIRE 2010 1.2.0 landscape data source or you can choose a different data source on the Incident Information page (HOWEVER, you may NOT edit).</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="162" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Foliar Moisture Content</p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">WFDSS default (100%)</p>
+          </td>
+          <td class="tablebodytext" width="366" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Not Editable</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="162" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Live fuel moistures</p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">From the WFDSS-selected RAWS and based on the standard NFDRS algorithms</p>
+          </td>
+          <td class="tablebodytext" width="366" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Not Editable</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="162" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Weather observations (for 7 day fuel moisture conditioning of dead fuels)</p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Nearby RAWS*</p>
+          </td>
+          <td class="tablebodytext" width="366" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Not Editable</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="162" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Weather forecast information for fire behavior predictions</p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">National Digital Forecast Data (NDFD) based on the RAWS location</p>
+          </td>
+          <td class="tablebodytext" width="366" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Not Editable</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="162" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Wind speed and direction forecast information for fire behavior predictions</p>
+            <p class="tablebodytext">(wind speed and direction values are used as inputs to generate gridded winds)</p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">National Digital Forecast Data (NDFD) based on the center of the user-defined landscape extent</p>
+          </td>
+          <td class="tablebodytext" width="366" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Can change: </p>
+            <ul>
+              <li class="tablelistbullet">wind speed</li>
+              <li class="tablelistbullet">wind direction</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="162" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Landscape extent</p>
+            <p class="tablebodytext">(extent of analysis area)</p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">User - defined</p>
+          </td>
+          <td class="tablebodytext" width="366" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Draw the landscape extent (normally no more than 5-6 miles per side)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="162" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Location of fire (point)</p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">User - defined</p>
+          </td>
+          <td class="tablebodytext" width="366" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Enter a Latitude/Longitude or select the fire's location on a map by clicking at a point</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="162" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Name of analysis</p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">User - defined</p>
+          </td>
+          <td class="tablebodytext" width="366" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Name the analysis</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="162" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Analysis Start date and time</p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">User - defined</p>
+          </td>
+          <td class="tablebodytext" width="366" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Enter the analysis date and time</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="162" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Number of hours in the Burn Period</p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">User - defined</p>
+          </td>
+          <td class="tablebodytext" width="366" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Define a burn period</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="162" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Number of Burn Periods</p>
+          </td>
+          <td class="tablebodytext" width="156" style="border: 1px solid #010101;">
+            <p class="tablebodytext">User - defined</p>
+          </td>
+          <td class="tablebodytext" width="366" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Define the number of burn periods (1-3)</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="bodytext"> </p>
+  </body>
+</html>

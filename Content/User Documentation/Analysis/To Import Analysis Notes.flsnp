@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Analysis List, select the analysis that you want to import a note for.</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>. The Analysis Information page appears.</li>
+      <li class="listnumber">From the left menu, select <span class="menuoptions">Notes</span>. TheAnalysis Notes page appears.</li>
+      <li class="listnumber">Click <span class="buttons">Import Notes</span>. The Analysis List for the incident appears.</li>
+      <li class="listnumber">Select the analysis that contains the notes you want to import.</li>
+      <li class="listnumber">Click <span class="buttons">Import Analysis Notes</span>. The Analysis Notes page opens and displays the imported notes.</li>
+      <li class="listnumber">Click <span class="buttons">Import Rules</span> to import additional rules when appropriate.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

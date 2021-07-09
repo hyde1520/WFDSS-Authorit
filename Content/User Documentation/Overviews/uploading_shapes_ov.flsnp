@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">When managing incidents, you might need to upload <a href="../01a_Common User Content/Map Features/About Shapes.htm">incident-level shapes</a> that were created outside of WFDSS. These shapes may include fire perimeters collected by GPS units or drawn in a GIS. All shapes loaded into WFDSS require a projection file and are stored in the government standard NAD83 GCS. If you upload a shape as a NAD83 GCS, it will not need to be reprojected. If you upload a shape with a different projection, WFDSS will automatically reproject it to NAD83 GCS. A <a href="../01a_Common User Content/Map Features/Complex Shapes.htm">complex shape </a>will be 'thinned' by WFDSS for display purposes, but the unmodified shape is stored in the system and all acreage and inventory calculations are made using the original upload file.</p>
+    <p class="bodytext">The following shape types can be loaded:</p>
+    <ul>
+      <li class="listbullet">Incident Owners and Editors can upload all incident-level shapetypes for an incidentinWFDSS.</li>
+      <li class="listbullet">Usersassigned the Dispatcher rolecan upload all incident-level shape types except Incident Obj. Shapes and M.A.P.s for incidents in their geographic area.</li>
+      <li class="listbullet">Users assigned the Fire Behavior Specialistrolecan upload all shape types for any incident, regardless of the geographic area.</li>
+      <li class="listbullet">Users assigned the Data Manager rolecan upload Other Unit Shapesand Management Requirement shapes into WFDSS for their respective units.These shapes contain spatial information about local values data and are unit-level, not incident-level.</li>
+      <li class="listbullet">Both zipped shapefiles and KMZ files can be uploaded into WFDSS.</li>
+    </ul>
+    <MadCap:snippetBlock src="../../01_Common Content/Notes, Cautions, Warnings/caution about using same shape for both ignition and barrier.flsnp" />
+    <p class="bodytext">Before uploading a shape, verify the following:</p>
+    <ul>
+      <li class="listbullet">The incident you want to upload the shape for exists in WFDSS, and that you have editing privileges for the incident or analysis.</li>
+      <li class="listbullet">The files associated with the shape are current, correct, and belong with the incident or analysis.</li>
+      <li class="listbullet">The shapefile is less than 3000KB (3MB).</li>
+      <li class="listbullet">The shapefile is ina zipped format.</li>
+      <li class="listbullet">Ifmultiple shapes exist in the shape ZIP file, these must be merged into one individual multi-part shape (a single line in the attribute table) in a GIS before being uploaded into WFDSS.</li>
+      <li class="listbullet">The shapefile should not contain more than approximately 70,000 vertices (points). Large and complex shapefiles with more vertices should be thinned in a GIS or broken into smaller shapefiles before upload. This <a href="http://support.esri.com/en/knowledgebase/techarticles/detail/38864">link</a> provides information on how to count vertices in ESRI’s ArcMap 10.</li>
+      <li class="listbullet">
+        <p>The shape ZIP file must contain one shapefile with thefollowing file extensions:</p>
+        <ul>
+          <li class="listbullet2">.DBF</li>
+          <li class="listbullet2">.PRJ</li>
+          <li class="listbullet2">.SHP</li>
+          <li class="listbullet2">.SHX</li>
+          <li class="listbullet2">.SBN (optional)</li>
+          <li class="listbullet2">.SBX (optional)</li>
+        </ul>
+      </li>
+      <li class="listbullet">The files contained within the ZIP file are at the same directory level. (You can't have a folder inside the ZIP file or the shapes won't upload correctly.)</li>
+      <li class="listbullet">Large and complex shapes often contain lines that cross and other problematic spatial artifacts. This ‘cartographic spaghetti’ is difficult to untangle and WFDSS may be unable to upload the files. If an upload fails, the shape may need to be examined in a GIS where stray vertices can be deleted to remove any ‘knots’ in the shapefile.</li>
+    </ul>
+    <p class="bodytext">The Shape Upload menu option is available in the left hand menu from both the Incident and Analysis perspectives. The shapes you upload will be associated with the incident you are developing content or analysis for. </p>
+    <p class="bodytext">Consider the resolution of the shapefile you are uploading. Shapes that were drafted for detailed ecological studies, for example, may require a very fine resolution. Often, these shapes can be simplified for use in WFDSS where broad strategic decisions are being made. Biologists may have walked with a GPS collecting a point every meter along a stream containing an endangered species, for example. Though this fine detail is valuable for scientific analysis, it may be too detailed for fire management decisions. If drafting water or introducing retardant into the waterway is precluded, it is preferable, for fire management decisions, to use a courser shape that provides a better buffer for the sensitive area. Very narrow polygons, though calculated correctly under the hood, cannot be displayed in WFDSS and will look much better on screen if coarsened. Lastly, for analyses, the minimum resolution of the grids in 30m. Vertices collected at a finer resolution than this are not ‘seen’ by the fire behavior models.</p>
+    <p class="note">
+      <MadCap:snippetText src="../../01_Common Content/Notes, Cautions, Warnings/note wfdss uses WGS84 .flsnp" />: Though WFDSS uses NAD83, it will import and convert shapefiles that were created in other common projections and datums. In addition, shapes are downloadable in a local Albers projection that is based on the location of the incident.</p>
+  </body>
+</html>

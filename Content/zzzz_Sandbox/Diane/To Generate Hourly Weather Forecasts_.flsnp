@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From a map display in WFDSS, click the <span class="specialbold">Info</span> tab.</li>
+      <li class="listnumber">
+        <p>Choose one of the following options to generate an hourly weather forecast:</p>
+        <ul>
+          <li class="listbullet2">For an incident's recorded latitude and longitude, select <span class="specialbold">Hourly Weather Forecast.</span></li>
+          <li class="listbullet2">For a different location, select the <img src="To Generate Hourly Weather Forecasts_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />tool from the toolbar above the map, and then left click once on the area of the map  you would like to generate an hourly weather forecast for. Select <span class="specialbold">Hourly Weather Forecast</span>.</li>
+        </ul>
+      </li>
+      <li class="listnumber">A pop-up window from a local NWS Forecast Office appears with hourly forecast information. Select Weather, Precipitation, and Fire Weather elements, as needed and as available, to modify the display.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

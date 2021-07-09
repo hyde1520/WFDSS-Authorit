@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">If you have incident editing privileges, you can view any SCI created for the incident, but you can change only those that you created. If you have Viewer privileges, you can only review SCI results after the person who created the SCI has accepted those results.</p>
+  </body>
+</html>

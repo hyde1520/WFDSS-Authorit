@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Versioning allows incident owners and editors to re-use and modify a previously activated M.A.P. </p>
+    <p class="note">
+      <span class="specialbold">Note</span>: If you haven't published a decision that contains the M.A.P., you can simply <a href="../Incident/mgmt action points/Editing a Management Action Point.htm">edit the M.A.P.</a>, and don't need to create a new version.</p>
+    <p class="bodytext">The new version of the M.A.P. becomes the default for the next decision that is published for the incident.</p>
+    <p class="bodytext">You can make modifications on this newly created version until it is published in a decision.</p>
+  </body>
+</html>

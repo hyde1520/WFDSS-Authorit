@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Passwords must meet the following criteria:</p>
+    <ul>
+      <li class="listbullet">At least 12 characters</li>
+      <li class="listbullet">At leastthree character sets (character set choices are uppercase alpha, lowercase alpha, numeric, and other)</li>
+      <li class="listbullet">Minimum number of different characters = 1</li>
+      <li class="listbullet">Different from the previous 24 passwords</li>
+    </ul>
+    <p class="bodytext" />
+  </body>
+</html>

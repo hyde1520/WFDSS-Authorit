@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident List, choose <span class="menuoptions">Data Management &gt; Objectives</span>. The Strategic Objectives and Management Requirements page appears.</li>
+      <li class="listnumber">Select the Geographic Area, Agency, and Unit you want to enter Management Requirements for. When Management Requirements already exist for the unit selected, they will appear in the list at the bottom of the page.</li>
+      <li class="listnumber">Click <span class="buttons">Create Management Requirement</span>. The Create Management Requirement page appears.</li>
+      <li class="listnumber">Select the FMU or Associated Shape you want to enter Management Requirement text for.<div class="listnote"><p><span class="specialbold">Note</span>: Only activated FMU Codes appear in the list. When the FMU Code you want doesn't appear in the list, verify that the FMU Code is activated; check with the agency's WFDSS Data Contact to see if the FMU shapefile has been uploaded. Associated shapes are used if the Spatial Fire Planning Process is selected for a unit.  If the Associated Shape you want doesn't appear in the list, a Data Manager can create or upload the shape themselves.</p></div></li>
+      <li class="listnumber">In the Description field, enter the Management Requirement. You can use the toolbar to format the text however you need to, and you can copy/paste from MS Word.</li>
+      <li class="listnumber">Click <span class="buttons">Save</span>. A message appears saying that the Management Requirement has been saved.</li>
+      <li class="listnumber">Click <span class="buttons">Return</span>. The Strategic Objectives page re-appears with your newly entered requirement displayed in the list.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

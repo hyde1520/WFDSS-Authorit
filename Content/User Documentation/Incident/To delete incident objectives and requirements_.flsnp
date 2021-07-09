@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident list, select the incident you want to delete objectives/requirements for.</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>. The Edit Incident page appears. </li>
+      <li class="listnumber">Select <span class="menuoptions">Objectives</span>. The Objectives page appears.</li>
+      <li class="listnumber">Select the objective/requirement you want to delete.</li>
+      <li class="listnumber">Click <span class="buttons">Delete</span>. A message appears asking you if you are sure you want to delete. </li>
+      <li class="listnumber">Click <span class="buttons">Yes</span>. The selected objective/requirement is removed from the list.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

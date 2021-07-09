@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Choose <span class="menuoptions">Incident</span> tab &gt; select the incident &gt; choose <span class="buttons">View Information</span> &gt; choose <span class="menuoptions">Decisions</span> tab.</li>
+      <li class="listnumber">Click <span class="buttons">Set Decision List Preferences</span>. The Decision List Display Preferences page appears.</li>
+      <li class="listnumber">From the Sort by drop-down list, select how you want to sort the Decision List. </li>
+      <li class="listnumber">Select the Sort Order.</li>
+      <li class="listnumber">Enter the number of Decisions per Page you want to view. (The default is 20.)</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

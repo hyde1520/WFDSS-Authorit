@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">The File Dowload box appears.</li>
+      <li class="listnumber">
+        <p>Click one of the download options:</p>
+        <ul>
+          <li class="listbullet2">
+            <span class="buttons">Save</span> to download the KMZ file to your desktop. Specifiy the location to save the file. Click <span class="buttons">Save</span>. Once the file is downloaded to your computer, you can double-click the file to open it in Google Earth.</li>
+          <li class="listbullet2">
+            <span class="buttons">Open</span> to display the KMZ file in Google Earth. The KMZ file name appears in the My Places pane in Google Earth. You can view the information by clicking the + to expand the list.</li>
+          <li class="listbullet2">
+            <span class="buttons">Cancel </span>to exit the File Download box and return to WFDSS.</li>
+        </ul>
+      </li>
+    </ol>
+    <p class="bodytext">Once you download the KMZ, you can use it outside of WFDSS; examples include training, briefings, or data management.</p>
+  </body>
+</html>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">
+        <p>Access the Summary Reports page:</p>
+        <ul>
+          <li class="listbullet2">From the Incident list, click <span class="buttons">View Summary Reports</span>.</li>
+          <li class="listbullet2">From the Intelligence map, select the <span class="menuoptions">Map tab &gt; Summary Reports</span>.</li>
+        </ul>
+        <div class="listcontinue">
+          <p>The Summary Reports page appears.</p>
+        </div>
+      </li>
+      <li class="listnumber">Select the Report Type.</li>
+      <li class="listnumber">Select the Calendar Year.</li>
+      <li class="listnumber">If you selected geographic area for the report type, select which geographic area you want to view the summary report for.</li>
+      <li class="listnumber">When you are done viewing the report, click <span class="buttons">Return</span>. The page refreshes to either the Intelligence map or the Incident List, depending on how you accessed the report.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

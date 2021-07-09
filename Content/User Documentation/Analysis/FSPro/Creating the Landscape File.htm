@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">Creating the Landscape File<MadCap:keyword term="analyses:landscape:new" /><MadCap:keyword term="landscape:creation" /></h1>
+    <p class="bodytext">Fire Behavior Specialists can create a landscape file to use in Basic Fire Behavior (BFB) and Short-Term Fire Behavior (STFB), Near-Term Fire Behavior (NTFB), and FSPro fire behavior models. The following rules apply:</p>
+    <ul>
+      <li class="listbullet">You must create a Landscape File before running the fire behavior models. </li>
+      <li class="listbullet">You must re-create the landscape file anytime you apply newlandscape editor rules or modify the Landscape File'sparameters (Landscape Extent, Resolution, etc.).</li>
+      <li class="listbullet">Landscape Files are created automatically in the Automated BFB and STFB models.</li>
+      <li class="listbullet">
+        <p>Due to processing limitations, the maximum size of the landscape file varies by type of fire behavior analysis:</p>
+        <ul>
+          <li class="listbullet2">
+            <span class="specialbold">FSPro:</span> 2.5 million cells</li>
+          <li class="listbullet2">
+            <span class="specialbold">Basic and Short-Term (Basic and STFB):</span> 1 million cells when using gridded winds; 2.5 million otherwise</li>
+          <li class="listbullet2">
+            <span class="specialbold">Near-Term (NTFB):</span> no limitation</li>
+        </ul>
+      </li>
+      <li class="listbullet">
+        <span class="emphasis">Additional processing limitation for STFB and NTFB: </span> each cell on the chosen landscape must be conditioned prior to the model run. You are affected by this when you have a very large landscape and little fire growth. The conditioning time for a large landscape can quadruple the model run time.</li>
+    </ul>
+    <p class="bodytext">Before you can create a Landscape File, a variety of tasks need to be completed (in no particular order).</p>
+    <MadCap:snippetBlock src="../../../01_Common Content/Notes, Cautions, Warnings/view landscape to be sure changes appear correctly.flsnp" />
+    <p class="heading2">To create the landscape file:</p>
+    <MadCap:snippetBlock src="To create the landscape file_.flsnp" />
+  </body>
+</html>

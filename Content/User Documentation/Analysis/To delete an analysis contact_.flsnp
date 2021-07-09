@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Choose <span class="menuoptions">Analysis &gt; select name of analysis you want to delete contacts for &gt; click View Information &gt; Contact Information</span>. The Edit Contact Information page appears.</li>
+      <li class="listnumber">Select the contact you want to delete.</li>
+      <li class="listnumber">Click <span class="buttons">Delete</span>. A message appears asking if you are sure you want to delete.</li>
+      <li class="listnumber">Click <span class="buttons">OK</span>. The page refreshes and the contact you deleted is removed from the contact list.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="Automatically generated target for PDF." Type="PDF" Destinations="" GlossaryTermConversion="marked" MasterToc="/Project/TOCs/Electric Sub-Stations (HSIP).fltoc" MasterStylesheet="/Content/Resources/Stylesheets/authorit.css">
+  <PrintedOutput CollapsedMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" />
+  <Variables>
+    <Variable Name="Variables/HISTCOMMENT"></Variable>
+    <Variable Name="Variables/HSIPDataLayerName">electrical sub-stations</Variable>
+    <Variable Name="Variables/IMPORT_ID">hsip_electricsubstations.doc#HSIP_ElectricSubStations</Variable>
+  </Variables>
+</CatapultTarget>

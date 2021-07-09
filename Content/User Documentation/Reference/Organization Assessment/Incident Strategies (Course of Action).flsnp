@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Evaluate the level of firefighter and aviation exposure required to successfully meet the current strategy and implement the course of action.  Rank this element as N/A (Very Low), Low, Moderate, or High. Considers the likelihood that those resources will be effective; exposure of firefighters; reliance on aircraft to accomplish objectives; and whether there are clearly defined trigger points.</p>
+    <p class="bodytext">Use the following table to help guide your selection for Incident Strategies:</p>
+    <p class="bodytext">
+      <span class="specialbold">Table 1: Determining Selection Values for Incident Strategies</span>
+    </p>
+    <table style="border-collapse:collapse; border: 1px solid #010101;">
+      <thead>
+        <tr>
+          <th class="tableheading" width="202.6" style="border: 1px solid #010101;">
+            <p class="tableheading">
+              <span class="specialbold">N/A (Very Low)</span>
+            </p>
+          </th>
+          <th class="tableheading" width="222.86666666666667" style="border: 1px solid #010101;">
+            <p class="tableheading">
+              <span class="specialbold">Low</span>
+            </p>
+          </th>
+          <th class="tableheading" width="212.93333333333334" style="border: 1px solid #010101;">
+            <p class="tableheading">
+              <span class="specialbold">Moderate</span>
+            </p>
+          </th>
+          <th class="tableheading" width="212.93333333333334" style="border: 1px solid #010101;">
+            <p class="tableheading">
+              <span class="specialbold">High</span>
+            </p>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td width="202.6" style="border: 1px solid #010101;">
+            <ul>
+              <li class="listbullet">Potential firefighter exposure is very low due to limited or few resources on the fireline.</li>
+              <li class="listbullet">Limited or no actions being taken on the fire.</li>
+              <li class="listbullet">Periodic assessment set at maximum number of days because fire environment is stable.</li>
+            </ul>
+          </td>
+          <td width="222.86666666666667" style="border: 1px solid #010101;">
+            <ul>
+              <li class="listbullet">Few personnel on the fireline with simple management activities.</li>
+              <li class="listbullet">Fireline activities may involve occasional actions to delay, direct, or check fire spread in some areas or development of management action points.</li>
+              <li class="listbullet">Firefighter exposure low due to a limited number of resources assigned, limited action or simple actions being taken on the ground.</li>
+              <li class="listbullet">Periodic assessment frequency is set at or near maximum interval because the fire environment is not readily changing. </li>
+            </ul>
+          </td>
+          <td width="212.93333333333334" style="border: 1px solid #010101;">
+            <ul>
+              <li class="listbullet">A mix of ground and air resources involved but the fire environment is only moderately dynamic and actions are non-complex.</li>
+              <li class="listbullet">Combinations of simultaneous actions (monitoring/areas of direct perimeter control) may be taking place.</li>
+              <li class="listbullet">Restrictions or closures considered or may be in place.</li>
+              <li class="listbullet">Firefighter exposure is at moderate levels because of the varied resources being deployed, a moderately dynamic strategy, and limited values are threatened.</li>
+              <li class="listbullet">Periodic assessment frequency is set at intermediate levels because changes to strategies and tactics are not occurring regularly.</li>
+            </ul>
+          </td>
+          <td width="212.93333333333334" style="border: 1px solid #010101;">
+            <ul>
+              <li class="listbullet">Management actions involve a variety of resources, are complex and the strategies are dynamic. </li>
+              <li class="listbullet">Restrictions or closures in place or are taking place real time and expanding.</li>
+              <li class="listbullet">Firefighter exposure at maximum levels due to the complexity of the actions being taken, the multitude of unlike resources, and values at risk. </li>
+              <li class="listbullet">Daily periodic assessments are taking place because the fire environment is changing requiring updates to the decision or consideration by the local unit.</li>
+            </ul>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="bodytext" />
+  </body>
+</html>

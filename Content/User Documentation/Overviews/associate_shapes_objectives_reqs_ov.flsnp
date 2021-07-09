@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Incident Owners and Editors can associate Incident Obj. Shapes to one or more incident objectives and requirements. This is a many-to-many relationship; the same shape can be used for multiple incident objectives or requirements, and multiple incident objectives and requirements can be associated with a single shape.</p>
+  </body>
+</html>

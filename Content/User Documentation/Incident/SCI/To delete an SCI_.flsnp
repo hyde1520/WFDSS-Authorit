@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Choose <span class="menuoptions">Incident List</span> &gt; select the incident &gt; click <span class="buttons">View Information</span> &gt; click <span class="menuoptions">Cost</span> tab. Locate the Stratified Cost Index section.</li>
+      <li class="listnumber">Click <span class="buttons">View SCI List,</span> and then select the SCI you want to delete.</li>
+      <li class="listnumber">Click <span class="buttons">Delete</span>. A message appears asking if you are sure that you want to delete the selected SCI.</li>
+      <li class="listnumber">Click <span class="buttons">OK</span>. The selected SCI disappears from the list.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

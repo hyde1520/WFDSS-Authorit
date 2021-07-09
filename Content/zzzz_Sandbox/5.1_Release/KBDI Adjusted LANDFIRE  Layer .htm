@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">KBDI Adjusted LANDFIRE  Layer </h1>
+    <p class="note">
+      <span class="specialbold">Note</span>: This layer is currently only available for fires with a point of origin in the Southeastern Geographic Area. Over time, additional Geographic Areas may receive a similar layer that applies fuel conversion rule sets based on a given weather variable.</p>
+    <p class="bodytext">This layer automatically applies fuel model conversions based on the Keetch-Byram Drought Index (KBDI) output for that day. LANDFIRE has published two project reports with more details on the Drought Based Fuel Dynamic for the Southeast. Click <a href="https://www.landfire.gov/lf_methods.php">here</a> to access the downloads to these 2015 LANDFIRE reports.</p>
+    <p class="bodytext">KBDI is based on a daily water balance, where a drought factor is derived from precipitation and soil moisture data. The drought index ranges from 0 to 800, where a drought index of 0 represents no moisture depletion, and an index of 800 represents absolutely dry conditions. </p>
+    <p class="bodytext">To more accurately reflect observed fire behavior at various drought levels, subject matter experts in the Southeast developed a rule set for converting fuel models based upon the KBDI. These rules were commonly applied manually in the Southeast and, by automating the process, analysts no longer have to create a long list of complicated landscape editor rules. </p>
+    <p class="bodytext">Where available, fire behavior specialists are presented with an option to use the KBDI adjusted layer when running fire behavior models. This option appears as one of many Landscape Data Sources on the Landscape tab of all WFDSS fire behavior models. It is titled ‘LANDFIRE 20xx KBDI”. </p>
+    <p class="bodytext">When this option is selected, the landscape file will be intersected with a KBDI grid to determine a fuel model conversion on a cell by cell basis. If a cell has a very low KBDI index value (0-200), the fuel model defaults to the most recent LANDFIRE layer. For a KBDI index value between 200 and 400, the ‘low’ conversion rule would be used to map fuel models. Similarly, ‘moderate’ and ‘high’ conversion rules are applied to values between 400 and 600 and 600 and 800 respectively. Not all fuel models receive conversion at all levels of drought (and some are never converted).</p>
+    <p class="bodytext">For additional information about LANDFIRE's KBDI adjusted LANDFIRE layer available on the LANDFIRE website, click <a href="https://www.landfire.gov/documents/LF_DBFD_in_SE_US_Dec2015.pdf">here</a>.</p>
+  </body>
+</html>

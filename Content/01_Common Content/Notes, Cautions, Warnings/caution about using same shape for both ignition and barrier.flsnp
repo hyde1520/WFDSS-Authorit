@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="warning">
+      <span class="specialbold">CAUTION:</span>  It is not advisable to use the same perimeter for both the ignition file and the barrier file.  If the two files overlap, or depending on the landscape resolution used, the barrier file could actually overwhelm the ignition file producing unexpected results.</p>
+  </body>
+</html>

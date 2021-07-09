@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">When requesting an additional user profile, you must justify your request. Justification is necessary to provide the WFDSS Administrators with background information about why you need an additional account. The information allows them to determine whether the requested User Roles are appropriate. Provide the following information in your justification:</p>
+    <ul>
+      <li class="listbullet">Job title and function on the home unit or Incident Management Team</li>
+      <li class="listbullet">Qualifications to perform the tasks enabled by the user role</li>
+      <li class="listbullet">Who you are, what you do and why you need the User Roles</li>
+    </ul>
+  </body>
+</html>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Incident Owners and Editors can add text to pending decisions using either the Default Decision Editor or the Advanced Decision Editor for their incidents. Once a decision has been published, it is no longer editable. If you want to copy and paste text into a decision from an existing document see <a href="../Decision/Copying_Pasting Text into a Decision.htm">Copying/Pasting Text into a Decision</a>. </p>
+  </body>
+</html>

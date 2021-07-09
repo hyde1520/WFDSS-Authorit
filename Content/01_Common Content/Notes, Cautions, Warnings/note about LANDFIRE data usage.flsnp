@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="note">
+      <span class="specialbold">Note:</span> Because these data can be downloaded and used in multiple places or use different fire modeling tools within WFDSS, there are other ramifications for using all the various datasets in FSPro, short-term fire behavior, near-term fire behavior, etc. Consequently, you should calibrate the final selected crown fire method to observed fire behavior and adjust it to the local area.</p>
+  </body>
+</html>

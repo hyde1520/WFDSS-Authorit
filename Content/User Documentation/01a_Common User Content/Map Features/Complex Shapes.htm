@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">Complex Shapes</h1>
+    <p class="bodytext">Shapes (lines  and polygons) that are uploaded into WFDSS must be 'thinned' (simplified) during the upload process in order for them to display properly in the browser based map viewer.  WFDSS automates the shape thinning process, however, failures can occur if the uploaded shapes are too large, contain errors or  are too complicated.   The term 'complex shapes' is used broadly to describe any shape that cannot be uploaded into WFDSS because of the sheer size of the data or complexities within the shape itself.</p>
+    <p class="bodytext">Point shapes (structure locations, for example) are not 'thinned' by WFDSS and, as long as the file contains 100 or fewer points, they should upload without difficulty.</p>
+    <p class="bodytext">Lines and polygons can contain tens of thousands of vertices and, as long as they are not too complex,  they will still upload into WFDSS.  If a line or polygon fails to upload it is important to take a close look at the file in a GIS to determine what is making it  a complex shape.  Once identified, some basic  clean-up in  a GIS can alleviate the problem.</p>
+    <p class="bodytext">After a shape is uploaded, users may notice that the appearance of the shape has been simplified. Though the shape was thinned for display purposes, the unmodified shape is stored in the system and all acreage and inventory calculations are made using the original upload file. </p>
+    <p class="bodytext">The following images represent some of the  primary culprits that make a shapefile too complex. The intent of this section is to help users simply identify issues that result in a complex shape. Links below this section will take you to topics that will instruct you on how to fix errors and simplify shapes in a GIS. </p>
+    <p class="heading2">Crossovers or 'Bow Ties'</p>
+    <p class="bodytext">
+      <span class="specialbold">Figure 1: Crossovers or "Bow Ties"</span>
+    </p>
+    <p class="bodytext">
+      <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Middle" border="0px" />
+    </p>
+    <p class="bodytext">One of the most common complex shape failures results from  criss-crossing lines or "bow ties" in lines and polygons.  Once these errors are removed, the shape can generally be uploaded into WFDSS.</p>
+    <p class="heading2">Slivers and Small Islands</p>
+    <p class="bodytext">
+      <span class="specialbold">Figure 2: Slivers and Small Islands</span>
+    </p>
+    <p class="bodytext">
+      <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Middle" border="0px" />
+    </p>
+    <p class="bodytext">Multi-part polygons can be imported into WFDSS but it is important that the smaller polygons have more than just a few vertices.  Three points are required to make a polygon. If a small polygon contains very few vertices, the thinning process can reduce these polygons into lines (two vertices) or points (one "vertex") and the upload will fail because of the "mixed" data. </p>
+    <p class="bodytext">Depending on how a shapefile was obtained or processed, small and narrow polygon "slivers" of data may exist.  "Islands" (such as spot fires or unburned areas in a fire perimeter) are more obvious than slivers but they can, ironically,  create problems if they are too simple. Slivers are generally data errors and can be removed.  Islands with just a few points can be eliminated or, if keeping them is essential, can be redrawn with more points to eliminate the chance of being thinned to fewer than three vertices.</p>
+    <p class="heading2">Many Vertices in Close Proximity</p>
+    <p class="bodytext">
+      <span class="specialbold">Figure 3: Vertices in Close Proximity</span>
+    </p>
+    <p class="bodytext">
+      <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+    </p>
+    <p class="bodytext">If shapefiles were obtained from a GPS that was set to collect points frequently, the vertices in the line or polygon may be very close together. Shapes with extremely fine resolution may not upload into WFDSS either because of the sheer amount of data or because the thinning process cannot work out the numerous narrow enclaves, twists and turns along the edge of the shape.  In addition, data that was collected or hand drawn at a very fine resolution is more likely to contain small crossovers or bowties from doubling back with a GPS unit or jittery hands during the digitizing process.  Manually simplifying shapefiles by removing unnecessary vertices and reducing narrow enclaves may be necessary when the data is at too fine a resolution or if the shapefile is extremely large.</p>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+    <p class="bodytext" />
+  </body>
+</html>

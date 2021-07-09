@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">
+        <a href="../../01a_Common User Content/Navigation/Navigate to an Analysis.htm">Navigate to the analysis</a>that contains the ERC class table you want to delete a row(s) from and select itfrom the Analysis List.</li>
+      <li class="listnumber">
+        <p>Locate the ERC Classes page by doing one of the following:</p>
+        <ul>
+          <li class="listbullet2">Click <span class="buttons">View Information</span> &gt; click <span class="menuoptions">ERC Classes</span> from the menu options in the left pane.</li>
+          <li class="listbullet2">From within an analysis, click <span class="menuoptions">ERC Classes</span> from the menu options in the left pane.</li>
+        </ul>
+      </li>
+      <li class="listnumber">
+        <p>You can delete individual rows or all of the rows:</p>
+        <ul>
+          <li class="listbullet2">Click <span class="buttons">Delete Row</span> to delete a row or more than once to delete multiple rows. Modify values in the table if needed.</li>
+          <li class="listbullet2">Click <span class="buttons">Delete All Rows</span> to delete all rows in the ERC Classes table.</li>
+        </ul>
+      </li>
+      <li class="listnumber">Click <span class="buttons">Save</span>.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From a Situation or Analysis map, select the <img src="To download national data layers_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> Identify tool.</li>
+      <li class="listnumber">Click the point of interest.</li>
+      <li class="listnumber">From the left pane, choose the <span class="menuoptions">Info</span> tab, then click <span class="buttons">Feature Information</span>. The Feature Information popup window appears.</li>
+      <li class="listnumber">Click the <img src="To download national data layers_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> Download icon next to the feature you want to download. The File Download window appears.</li>
+      <li class="listnumber">When asked if you want to open or save the file, click <span class="buttons">Save</span>. The Save As window appears.</li>
+      <li class="listnumber">Navigate to the folder where you want to save the feature  ZIP file.</li>
+      <li class="listnumber">Enter a name for your file.</li>
+      <li class="listnumber">Click <span class="buttons">Save</span>.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+    <p class="bodytext" />
+  </body>
+</html>

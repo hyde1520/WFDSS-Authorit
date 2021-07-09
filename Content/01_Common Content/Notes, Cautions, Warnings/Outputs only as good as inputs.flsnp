@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="warning">
+      <span class="specialbold">Caution:</span> The quality of the output from the analysis is only as good as the data input into the model. Before using the output results to support wildland fire decision-making, be sure that you understand the inputs: fuels data being used, the appropriateness of the RAWS from which fuel moistures are calculated, and the validity of the weather forecast data.</p>
+  </body>
+</html>

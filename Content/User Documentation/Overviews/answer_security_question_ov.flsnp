@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">When you request a password reset, you are asked to enter the answer to the security question you responded to when you first logged into WFDSS.</p>
+    <p class="bodytext">Your answer must exactly match what you entered when you selected the security question.</p>
+  </body>
+</html>

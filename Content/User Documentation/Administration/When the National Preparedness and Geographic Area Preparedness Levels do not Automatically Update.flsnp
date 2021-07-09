@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Occasionally, the NPL and/or the GAPL fail to update properly and the WFDSS Team oftentimes becomes aware of the issue via feedback. When this occurs and the process fails to update, the developer may see a communications error that the connection was lost between the preparedness level reporting site and/or SIT/209. WFDSS needs the information from the site and SIT/209 application in order to update every 15 minutes.</p>
+    <p class="bodytext">If you determine that the NPL and/or the GAPL are not displaying correctly in WFDSS, submit a feedback to let the WFDSS Team know.  Until the feed is restored, the WFDSS Team can manually update the NPL. The GAPL cannot be manually updated however, and will correct itself when the automated feed is restored.</p>
+  </body>
+</html>

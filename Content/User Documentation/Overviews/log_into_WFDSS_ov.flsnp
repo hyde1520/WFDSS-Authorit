@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">The WFDSS application is intended for use by the US federal government for managing wildland fires. Only authorized users are allowed to access this application.</p>
+    <p class="bodytext">From the WFDSS login page, you can perform the following tasks:</p>
+    <ul>
+      <li class="listbullet">Look up a<a href="../Home_User Profile/Finding Your User Name.htm">forgotten user ID</a> or <a href="http://wfdss.usgs.gov/wfdss_help/WFDSS_Help_Password_Reset.html">reset a password</a>.</li>
+      <li class="listbullet">
+        <a href="../Home_User Profile/Requesting an Account.htm">Request a new user account</a>.</li>
+      <li class="listbullet">Login to WFDSS Production or Training.</li>
+      <li class="listbullet">Click the WFDSS icon to navigate to the <a href="../01a_Common User Content/About the WFDSS Website Home Page.htm">WFDSS Website Home page</a> to access training materials, white papers, release notes, etc.</li>
+      <li class="listbullet">Click on the What's New link above the login fields to navigate to a short video that describes the most recent enhancements to the WFDSS application.</li>
+      <li class="listbullet">
+        <a href="http://wfdss.usgs.gov/wfdss_help/WFDSSHelp_Fire_App_Help_Desk.html">Contact the help desk</a> via email or telephone.</li>
+      <li class="listbullet">Click the National Preparedness Level link to navigate to the National Interagency Coordination Center Home page.</li>
+    </ul>
+    <p class="bodytext">Before logging into this application, you need to have a valid <a href="../Home_User Profile/Requesting an Account.htm">WFDSS user account</a>. Your user name and password is valid on both the Training and the Production systems, but your privileges will most likely be different on each.</p>
+  </body>
+</html>

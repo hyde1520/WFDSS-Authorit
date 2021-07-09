@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident List, select the incident that you want to annotate Management Action Points (M.A.P.s) for.</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>. The Edit Incident Information page appears.</li>
+      <li class="listnumber">Click <span class="menuoptions">Mgmt Action Points</span>. The Management Action Points List page appears.</li>
+      <li class="listnumber">Select the M.A.P. you want to annotate.</li>
+      <li class="listnumber">Click <span class="buttons">View</span>. The View M.A.P. page appears. (If a decision has not yet been published for the incident, the <span class="buttons">View</span> button is grayed out.)</li>
+      <li class="listnumber">Scroll down to the Annotations section, then enter your information in the text box.</li>
+      <li class="listnumber">When you are finished entering text, click <span class="buttons">Save Note</span>. The page refreshes and your note appears in the annotation list.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

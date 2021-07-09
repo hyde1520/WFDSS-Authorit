@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Only Incident Owners and Editors can view M.A.P.s that are pending and have not yet been published in decision. Pending M.A.P.s display as dashed lines in map displays.</p>
+    <p class="bodytext">Activated M.A.P.s, those that are included in published decisions, display with a solid line and can be viewed by any WFDSS user role. Once a decision is published, pending M.A.P.s become active and display with other, previously activated M.A.P.s and appear as solid lines.</p>
+    <p class="bodytext">Deactivated M.A.P.s display with a dotted line. Everyone with WFDSS access can view M.A.P.s that have been published for an incident, as well as those M.A.P.s that have been deactivated.</p>
+  </body>
+</html>

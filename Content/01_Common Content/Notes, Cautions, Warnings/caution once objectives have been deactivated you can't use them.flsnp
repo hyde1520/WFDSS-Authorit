@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="warning">
+      <span class="specialbold">CAUTION:</span> Once you have deactivated a Strategic Objective or Management Requirement, it stays in the system for historical purposes, but <span class="emphasis">cannot</span> be reactivated, edited, or used. Instead, you must create and activate a new Strategic Objective or Management Requirement with updated text.</p>
+  </body>
+</html>

@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Like other fire behavior models, WFDSS Short-Term Fire Behavior (STFB) requires the following data to perform fire behavior calculations: </p>
+    <ul>
+      <li class="listbullet">Fuels</li>
+      <li class="listbullet">Weather (winds and fuel moisture values)</li>
+      <li class="listbullet">Topography</li>
+    </ul>
+    <p class="bodytext">WFDSS provides much of the necessary information to perform fire spread and fire behavior calculations. For STFB, the Fire Behavior Specialist (FBS) can adjust the inputs (weather, winds, and landscape data) as needed.  The following table lists the inputs required for the WFDSS Short-Term Fire Behavior model:</p>
+    <p class="bodytext">
+      <span class="specialbold">Table 1: Inputs Required for an Short-Term Fire Behavior Model</span>
+    </p>
+    <table style="border-collapse:collapse; border: 1px solid #010101;">
+      <thead>
+        <tr>
+          <th class="tableheading" width="140" style="border: 1px solid #010101;">
+            <p class="tableheading">Input</p>
+          </th>
+          <th class="tableheading" width="238" style="border: 1px solid #010101;">
+            <p class="tableheading">Source</p>
+          </th>
+          <th class="tableheading" width="246" style="border: 1px solid #010101;">
+            <p class="tableheading">Comments</p>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Analysis Name</p>
+          </td>
+          <td class="tablebodytext" width="238" style="border: 1px solid #010101;">
+            <p class="tablebodytext">FBS-defined</p>
+          </td>
+          <td class="tablebodytext" width="246" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Limited to 48 characters, do not use underscores. <MadCap:snippetText src="../../../01a_Common User Content/Topic Snippets/Analysis Name Limitations.flsnp" /> Can be changed any time before analysis is submitted.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Analysis Date and Time</p>
+          </td>
+          <td class="tablebodytext" width="238" style="border: 1px solid #010101;">
+            <p class="tablebodytext">FBS-defined</p>
+          </td>
+          <td class="tablebodytext" width="246" style="border: 1px solid #010101;">
+            <p class="tablebodytext">This is the "instant in time" for which you want fire behavior outputs.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Conditioning Days</p>
+          </td>
+          <td class="tablebodytext" width="238" style="border: 1px solid #010101;">
+            <p class="tablebodytext">The default conditioning period is 7 days prior to the analysis start date</p>
+          </td>
+          <td class="tablebodytext" width="246" style="border: 1px solid #010101;">
+            <p class="tablebodytext">The FBS can choose the number of days, but should use at least 5 days so 100-hour time lag fuels can be fully "conditioned".</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Burn period duration in hours</p>
+          </td>
+          <td class="tablebodytext" width="238" style="border: 1px solid #010101;">
+            <p class="tablebodytext">FBS-defined</p>
+          </td>
+          <td class="tablebodytext" width="246" style="border: 1px solid #010101;">
+            <p class="tablebodytext">The FBS must decide how many hours to use for one burn period (keeping in mind that the same winds and fuel moistures will be used for the entire burn period)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Number of burn periods (days)</p>
+          </td>
+          <td class="tablebodytext" width="238" style="border: 1px solid #010101;">
+            <p class="tablebodytext">FBS-defined (limited to 3)</p>
+          </td>
+          <td class="tablebodytext" width="246" style="border: 1px solid #010101;">
+            <p class="tablebodytext">The FBS must decide how many days of the previously determined burn period will be used for the analysis (keeping in mind that the same winds and fuel moistures will be used for all burn periods)</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Foliar Moisture Content</p>
+          </td>
+          <td class="tablebodytext" width="238" style="border: 1px solid #010101;">
+            <p class="tablebodytext">WFDSS Default is 100%</p>
+          </td>
+          <td class="tablebodytext" width="246" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Using 100% foliar moisture is probably adequate to depict a normal year; however, you can modify this value as needed.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Crown Fire Method</p>
+          </td>
+          <td class="tablebodytext" width="238" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Finney (1998) or Scott-Reinhardt (2001)</p>
+          </td>
+          <td class="tablebodytext" width="246" style="border: 1px solid #010101;">
+            <p class="tablebodytext">The Finney crown fire model is the default for the BFB, STFB, NTFB and FSPro models. </p>
+            <p class="tablebodytext">For recent versions of LANDFIRE (2010, 2014) canopy bulk density values were computed to produce more active crown fire when using the Scott and Reinhardt model compared to the Finney crown fire model. You would expect to see slower rates of spread and less fire intensity for predicted passive crown fire when using Finney versus Scott and Reinhardt crown fire models. Whatever crown fire model you choose, it is important to calibrate your simulated fire behavior to observed fire behavior.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Spread Options</p>
+          </td>
+          <td class="tablebodytext" width="238" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Relative Direction from Max.</p>
+          </td>
+          <td class="tablebodytext" width="246" style="border: 1px solid #010101;">
+            <p class="tablebodytext">For Relative Direction from Max, 0 degrees is the default, but you can input whatever value you want to use, depending on what spread direction is of concern.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Spotting Probability</p>
+          </td>
+          <td class="tablebodytext" width="238" style="border: 1px solid #010101;">
+            <p class="tablebodytext">WFDSS default is 0.10. Can be modified by FBS using decimal values from 0-1 (0.40 is 40%).</p>
+          </td>
+          <td class="bodytext" width="246" style="border: 1px solid #010101;">
+            <p class="bodytext">Enter a decimal value to estimate likelihood of an ember landing on a receptive fuel bed. Higher values increase run time. Spotting should be used sparingly. It is better to modify a fuel model to get an increase in fire spread rather than spotting.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Ignition File </p>
+          </td>
+          <td class="tablebodytext" width="238" style="border: 1px solid #010101;">
+            <p class="tablebodytext">FBS-defined</p>
+            <p class="tablebodytext">(required)</p>
+          </td>
+          <td class="tablebodytext" width="246" style="border: 1px solid #010101;">
+            <p class="tablebodytext">The FBS chooses the ignition file from a pull down menu.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Barrier File </p>
+          </td>
+          <td class="tablebodytext" width="238" style="border: 1px solid #010101;">
+            <p class="tablebodytext">FBS-defined</p>
+            <p class="tablebodytext">(optional)</p>
+          </td>
+          <td class="tablebodytext" width="246" style="border: 1px solid #010101;">
+            <p class="tablebodytext">If needed, FBS chooses the barrier file from the drop-down list.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Remotely Automated Weather Station (RAWS)*</p>
+          </td>
+          <td class="tablebodytext" width="238" style="border: 1px solid #010101;">
+            <p class="tablebodytext">WFDSS selects a RAWS based on the following criteria:</p>
+            <ul>
+              <li class="tablelistbullet">identifying the center of the landscape extent</li>
+              <li class="tablelistbullet">calculating the distance from the center to the nearest RAWS(s) using a horizontal/vertical (elevation) algorithm</li>
+              <li class="tablelistbullet">ranking the stations</li>
+              <li class="tablelistbullet">selecting the station that is “closest” and has weather data requisite for fuel moisture conditioning (at least 7 days)</li>
+            </ul>
+          </td>
+          <td class="tablebodytext" width="246" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Even though WFDSS selects the "closest" RAWS, the FBS can choose to use a different station, if needed. The FBS can select fewer conditioning days and a different weather station that has weather data requisite for the conditioning days selected.</p>
+            <p class="tablebodytext">Loading the RAWS KML (from left-hand menu) into Google Earth can give you insight into which RAWS would be most appropriate for your analysis.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Wind inputs</p>
+          </td>
+          <td class="tablebodytext" width="238" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Wind speed and direction values are populated using National Weather Service (NWS) Forecast Data if the analysis is for the future and WIMS (RAWS data) if the analysis is in the past. </p>
+          </td>
+          <td class="tablebodytext" width="246" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Gridded winds (default) are generated when the landscape is produced and the wind vectors are created at the same resolution as the landscape.  If gridded winds are not desired the FBS can choose to use static winds (one direction and speed across the landscape) or winds blowing uphill or downhill at a static speed.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Initial Fuel Moisture inputs</p>
+          </td>
+          <td class="tablebodytext" width="238" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Initial fuel moisture values for the beginning of the conditioning period are calculated based on the RAWS locations. </p>
+          </td>
+          <td class="tablebodytext" width="246" style="border: 1px solid #010101;">
+            <p class="tablebodytext">The live fuel moistures (herbaceous and woody) are not affected by fuel moisture conditioning, the FBS should critique these values and change as appropriate.The algorithms for calculating live fuel moistures are known to be poor and they are not "conditioned" like dead fuels. The FBS should always critique these values based on other intelligence from the field, online fuel moisture databases, greenness maps, known fire behavior, or guidance found in the Fire Behavior Field Reference Guide.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Hourly Weather Records </p>
+            <p class="tablebodytext"> </p>
+            <p class="bodytext"> </p>
+            <p class="tablebodytext"> </p>
+            <p class="tablebodytext"> </p>
+          </td>
+          <td class="tablebodytext" width="238" style="border: 1px solid #010101;">
+            <p class="tablebodytext">The Weather Summary Table displays several days (rows) of daily weather summaries.  Hourly data can be viewed and edited by selecting a date and clicking the  <span class="buttons">'Hourly Records'</span> button below the table.  The following hourly inputs are used by STFB:</p>
+            <ul>
+              <li class="tablelistbullet">Precipitation amount</li>
+              <li class="tablelistbullet">Temperature</li>
+              <li class="tablelistbullet">Relative Humidity</li>
+              <li class="tablelistbullet">Cloud Cover % (used as part of shading calculation for conditioning fuels)</li>
+            </ul>
+          </td>
+          <td class="tablebodytext" width="246" style="border: 1px solid #010101;">
+            <p class="tablebodytext"> </p>
+            <p class="tablebodytext">The FBS can change these values as needed.</p>
+            <p class="tablebodytext"> </p>
+            <p class="tablebodytext">Values that are not editable are not being used by the model (for example, wind speed and direction as those values are unchanging in STFB and set by the FBS in the Wind Inputs).  </p>
+            <p class="tablebodytext"> </p>
+            <p class="tablebodytext">The 'Record Type' column indicates if the data is coming from a RAWS or from forecasted weather.</p>
+            <p class="tablebodytext"> </p>
+            <p class="tablebodytext"> </p>
+            <p class="tablebodytext"> </p>
+            <p class="tablebodytext"> </p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Landscape extent</p>
+            <p class="tablebodytext">(extent of analysis area)</p>
+          </td>
+          <td class="tablebodytext" width="238" style="border: 1px solid #010101;">
+            <p class="tablebodytext">FBS-defined </p>
+            <p class="tablebodytext">(required)</p>
+          </td>
+          <td class="tablebodytext" width="246" style="border: 1px solid #010101;">
+            <p class="tablebodytext">The FBS will draw the landscape extent (normally no more than 5-6 miles per side) on the Analysis Map page. Remember, for STFB, which is a very short moment in time, you do not typically need to model a large extent since fire conditions typically change by the hour/day.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="140" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Landscape Data Sources</p>
+          </td>
+          <td class="tablebodytext" width="238" style="border: 1px solid #010101;">
+            <p class="tablebodytext">WFDSS</p>
+          </td>
+          <td class="tablebodytext" width="246" style="border: 1px solid #010101;">
+            <ul>
+              <li class="tablelistbullet">You can choose to use the default LANDFIRE 2010 1.2.0 landscape data source or select a different data source from the Landscape page.</li>
+            </ul>
+            <p class="tablebodytext">In addition, the user can modify landscape data layers using the Landscape Editor.</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="bodytext"> </p>
+    <MadCap:snippetBlock src="../../../../01_Common Content/Notes, Cautions, Warnings/RAWS station selection.flsnp" />
+  </body>
+</html>

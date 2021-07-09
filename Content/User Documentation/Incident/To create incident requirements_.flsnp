@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident list, select the incident you want to enter requirements for.</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>. The Edit Incident page appears. </li>
+      <li class="listnumber">Select <span class="menuoptions">Objectives</span>. The Objectives page appears.</li>
+      <li class="listnumber">To view the incident and management requirements, mark the Incident Requirement and Management Requirement checkboxes, then click <span class="buttons">Apply Filter</span>. The list of incident requirements and management requirements appears. No incident requirements will appear in the list if none have been created.</li>
+      <li class="listnumber">Click <span class="buttons">Create Incident Requirement</span>. The Create Incident Requirement page appears.</li>
+      <li class="listnumber">Enter a description of the requirement and be specific. Incident Requirements contain incident-specific content and you develop them to tier off of the broader management requirements.</li>
+      <li class="listnumber">Click <span class="buttons">Save</span>. A message appears saying that the requirement has been added.</li>
+      <li class="listnumber">When finished entering requirements, click <span class="buttons">Return</span>. The Requirements list reappears with the newly added requirements at the top of the list.</li>
+      <li class="listnumber">To include the incident requirements in your decision, ensure that there is a YES beside each in the Included column. If there isn't a yes, select the requirement from the list, then click <span class="buttons">Include</span>. <div class="listcontinue"><p>Although you can decide which incident requirements to include in a decision, you cannot choose to include or exclude management requirements.</p></div></li>
+    </ol>
+    <p class="bodytext">Until the decision is published, you can edit requirements even if they have been included in the decision.</p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

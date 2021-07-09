@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">My Home is the default initial page that displays when you log into WFDSS. To customize the application, you can change the default page to another page whenever you need. For example, if you are an author, the Incident List may be the best initial page. An analyst may prefer the Analysis List, but a user assigned the Dispatcher role  may prefer the Intelligence map as their default page. Set your initial page based on what works best for you, but remember that locating incidents is easiest when the WFDSS application opens to display the Incident List. </p>
+  </body>
+</html>

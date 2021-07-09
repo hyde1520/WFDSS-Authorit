@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Analysis List page, select the analysis you want to download a RAWS KMZ for.</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>. The General Analysis Information page appears.</li>
+      <li class="listnumber">From the left menu, choose <span class="menuoptions">RAWS KMZ</span>. The Download File dialog box appears.</li>
+      <li class="listnumber">Click<span class="buttons"> Save</span>. The Save As dialog box appears.</li>
+      <li class="listnumber">Navigate to the folder where you want to save your file on your network or hard drive, then click <span class="buttons">Save</span>. The file is saved to the designated folder.</li>
+    </ol>
+    <p class="bodytext">Once file is downloaded to your computer, you can double-click the file to open it in GOOGLE Earth. </p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

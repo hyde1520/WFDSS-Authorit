@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Activating Strategic Objectives and Management Requirements makes them available to the incident management and decision reporting processes. Strategic Objectives and Management Requirements are activated and deactivated based on the <a href="../../zzzz_Sandbox/Diane/SFP/Planning Processes available in WFDSS.htm">planning process</a> chosen for an administrative unit, as the terms can pertain to both text and/or shapes.</p>
+    <ul>
+      <li class="listbullet">In FMU planning, activated sets of Strategic Objectives and Management Requirements are associated with one or more FMU shapes/ codes. The FMU shapes/Codes are activated when the spatial FMU data is uploaded to WFDSS by an agency's WFDSS data contact.  If spatial data is not uploaded, then codes are activated manually.</li>
+      <li class="listbullet">In Spatial Fire Planning (SFP), sets of Strategic Objective text are associated with Strategic Objective (SO) shapes and Management Requirement text are associated with Management Requirement shapes. SO shapes/Codes are activated when the spatial SO data is uploaded to WFDSS by an agency's WFDSS data contact. Management Requirement shapes are managed at the unit level by the Data Manager.</li>
+    </ul>
+    <p class="bodytext">Once activated by a Data Manager, Strategic Objective and Management Requirement text and shapes cannot be edited, nor can shape associations be modified. Once activated, an incorrect set of Strategic Objective or Management Requirement text must be deactivated and recreated to include corrections. If an activated Strategic Objective shape requires edits, a Data Manager must submit a new shape layer to their agency's WFDSS GIS contact. If an activated Management Requirement shape requires edits, the Data Manager can deactivate it and create a replacement shape at the local, unit-level. </p>
+    <p class="bodytext">Once deactivated, Strategic Objectives or Management Requirements cannot be included in a planning area and no longer require consideration for a decision.</p>
+    <MadCap:snippetBlock src="../../01_Common Content/Notes, Cautions, Warnings/caution once objectives have been deactivated you can't use them.flsnp" />
+  </body>
+</html>

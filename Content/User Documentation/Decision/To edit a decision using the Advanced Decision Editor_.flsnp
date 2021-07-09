@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From within the WFDSS application, choose the <span class="menuoptions">Incident</span> tab. The Incident List appears.</li>
+      <li class="listnumber">Select the incident you want to edit, then click <span class="buttons">View Information</span>. The Edit Incident page appears.</li>
+      <li class="listnumber">Choose the <span class="menuoptions">Decision tab &gt; select the Pending Decision</span>.</li>
+      <li class="listnumber">Click <span class="buttons">Edit. </span>The Decision Editor page appears.</li>
+      <li class="listnumber">Navigate to Decision Document in the upper left-hand pane.</li>
+      <li class="listnumber">Click the Content in the decision outline that you want to edit. For example, click Content under the Weather folder.</li>
+      <li class="listnumber">
+        <p>Edit the content as needed.<div class="listcontinue"><p>For additional instructions, see the following procedures:</p></div></p>
+        <ul>
+          <li class="listbullet2">
+            <a href="Adding an Image to a Decision.htm">Adding Image Content</a>
+          </li>
+          <li class="listbullet2">
+            <a href="Adding Text to a Decision.htm">Adding Text Content</a>
+          </li>
+          <li class="listbullet2">
+            <a href="Copying_Pasting Text into a Decision.htm">Copying and Pasting Text</a>
+          </li>
+        </ul>
+      </li>
+      <li class="listnumber">Click <span class="buttons">Save</span> after editing each item. If you navigate to another content tab, your data will be lost if you don't save it.</li>
+    </ol>
+    <p class="bodytext">When you are done editing the decision document content, you can navigate back to the Decision tab to Check-In the Pending Decision. </p>
+    <p class="bodytext">If you can not find an answer to your question in the WFDSS Help, you can call the HelpDesk at 1-866-224-7677, or go to <a href="https://iiahelpdesk.nwcg.gov/">https://iiahelpdesk.nwcg.gov/</a>.</p>
+    <p class="bodytext">The HelpDesk provides level 1 technical support for WFDSS. </p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

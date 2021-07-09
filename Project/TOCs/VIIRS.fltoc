@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+  <TocEntry Title="VIIRS" Link="/Content/User Documentation/Data Layer Reference/VIIRS/VIIRS.htm" />
+  <TocEntry Title="VIIRS Overview" Link="/Content/User Documentation/Data Layer Reference/VIIRS/VIIRS Overview.htm" />
+  <TocEntry Title="VIIRS Data Input" Link="/Content/User Documentation/Data Layer Reference/VIIRS/VIIRS Data Input.htm" />
+  <TocEntry Title="VIIRS 6 Hr" Link="/Content/User Documentation/Data Layer Reference/VIIRS/VIIRS 6 Hr.htm" />
+  <TocEntry Title="VIIRS 12 Hr" Link="/Content/User Documentation/Data Layer Reference/VIIRS/VIIRS 12 Hr.htm" />
+  <TocEntry Title="VIIRS 24 Hr" Link="/Content/User Documentation/Data Layer Reference/VIIRS/VIIRS 24 Hr.htm" />
+  <TocEntry Title="VIIRS YTD" Link="/Content/User Documentation/Data Layer Reference/VIIRS/VIIRS YTD.htm" />
+</CatapultToc>

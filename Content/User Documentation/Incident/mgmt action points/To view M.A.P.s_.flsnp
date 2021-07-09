@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident list, select the incident you want to view M.A.P.s for.</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>. The Edit Incident Information page appears.</li>
+      <li class="listnumber">Choose <span class="menuoptions">Mgmt Action Points</span>. The Management Action Points List page appears.</li>
+      <li class="listnumber">Select the M.A.P. you want to view details for. </li>
+      <li class="listnumber">Click <span class="buttons">View</span>. The View Management Action Point page appears.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

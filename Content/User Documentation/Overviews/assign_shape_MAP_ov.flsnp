@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Only Incident Owners and Editors can assign a shape to a Management Action Point (M.A.P.).</p>
+    <p class="bodytext">If you want to use a shape file with your M.A.P., you must first either <a href="../01a_Common User Content/Map Features/Drawing Shapes on the Map.htm">create</a> or <a href="../Incident/Uploading Shapes.htm">upload</a> the shape. When you create and save a shape for a M.A.P. using the Incident Situation page, a popup appears that allows you to associate the shape with a M.A.P.</p>
+    <p class="bodytext">M.A.P. shapes can be any (or a combination) of the following:</p>
+    <ul>
+      <li class="listbullet">point </li>
+      <li class="listbullet">line </li>
+      <li class="listbullet">rectangle </li>
+      <li class="listbullet">polygon</li>
+    </ul>
+    <p class="bodytext">Other criteria include the following:</p>
+    <ul>
+      <li class="listbullet">All items on the map that are highlighted in yellow when you save the shape are included in the shape. Multiple lines and polygons can be associated with a single M.A.P. </li>
+      <li class="listbullet">After you create a shape, you can choose whether to associate it with existing, written M.A.P. data or create a new M.A.P. </li>
+      <li class="listbullet">Use a descriptive name for the shape (e.g., Deer Creek Trailhead), but do not include the M.A.P. number in the name. WFDSS adds the M.A.P. number once the shape is associated with a particular M.A.P. </li>
+      <li class="listbullet">Shapes can be associated with only one M.A.P. at a time, but you can change this relationship until a decision is published that contains the associated M.A.P. </li>
+      <li class="listbullet">M.A.P.s do not have to have shapes associated with them.</li>
+    </ul>
+  </body>
+</html>

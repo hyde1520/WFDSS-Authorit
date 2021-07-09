@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Analysis List page, select the analysis filter from the drop-down list that you want to edit.</li>
+      <li class="listnumber">Click <span class="buttons">Edit Filter</span>. The Edit Analysis Filter page appears.</li>
+      <li class="listnumber">Modify the criteria you want to change.</li>
+      <li class="listnumber">Click <span class="buttons">Save Filter</span>. Your changes are saved and the Analysis Filter List page reappears.</li>
+      <li class="listnumber">Click <span class="buttons">Return</span>. The Analysis List page appears.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

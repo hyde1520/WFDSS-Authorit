@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">The Course of Action (COA) portion of the decision displays the Strategy for the incident (on a slider scale from monitor to full suppression) and one or more Action Items designed to achieve the objectives. The Course of Action and Management Action Points (M.A.P.s) auto-populate in the decision, and a graphic of the slider bar will populate as well if you choose to use it. Consider the following before publishing a decision:</p>
+    <ul>
+      <li class="listbullet">Review the auto-populated content for Strategy, Action Items,and M.A.P.s.</li>
+      <li class="listbullet">Ensure that content is appropriately included/exclude.If more work is needed, got to the Course of Action page or the Management Action Points page (see <a href="">Developing Action Items</a>, or <a href="../Incident/mgmt action points/Editing a Management Action Point.htm">Editing a Management Action Point</a>).</li>
+      <li class="listbullet">Ensure that Action items listed in the Courses of Action can achieve the objectives.</li>
+      <li class="listbullet">Add content as necessary to clarify the Strategy, Course of Action or M.A.P.s.</li>
+      <li class="listbullet">Add map images, analysis outputs or pictures to help clarify the situation.</li>
+      <li class="listbullet">Add information pertaining to contingency plans.</li>
+    </ul>
+    <p class="bodytext">A COA (at least one Action Item) is required for a decision.</p>
+  </body>
+</html>

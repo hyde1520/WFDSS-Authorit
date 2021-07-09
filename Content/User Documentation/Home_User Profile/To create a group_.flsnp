@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">In WFDSS, choose <span class="menuoptions">My Home Page &gt; Address Book</span>.</li>
+      <li class="listnumber">Select the WFDSS Address Book or My Address Book from the Address Book drop-down menu. Use the other filters as needed to narrow your search (see <a href="Filtering Addresses.htm">Filtering Addresses</a>).</li>
+      <li class="listnumber">Type in a user's full, first or last name in the User Name box. Click <span class="buttons">Apply Filter</span>.</li>
+      <li class="listnumber">Check the box next to the User Name(s) you wish to add to your group.  Repeat for multiple users. At least one group member must have Author privileges.</li>
+      <li class="listnumber">Click <span class="buttons">Create Group</span>. The Edit Group page appears. A system-generated Group Name appears in the textbox.</li>
+      <li class="listnumber">
+        <p>Create the Group Name by doing one of the following:</p>
+        <ul>
+          <li class="listbullet2">Click <span class="buttons">Save Name</span> to create a Group Name using the system-generated Group Name, OR</li>
+          <li class="listbullet2">Type a new Group Name into the textbox, then click <span class="buttons">Save Name</span>.</li>
+        </ul>
+      </li>
+      <li class="listnumber">When you are finished, click <span class="buttons">Return</span>. The Address Book page reappears. The group is saved to the User Name list (in alphabetical order) in My Address Book. You can navigate there to view it if you choose.<div class="listnote"><p><span class="specialbold">Note:</span> If your user list is multiple pages, the group appears on the page that displays that letter of the alphabet. A group icon appears below the group name, which displays as a hyperlink (see example).</p></div><div class="listnote"><p><img src="To create a group_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /></p></div></li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

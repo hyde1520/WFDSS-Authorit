@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Incident Owners may need to manually associate FMUs to an incident when a unit does not have spatial FMU data within WFDSS or when an owner wants to manually associate an FMU that is outside of a planning area. Manually associating FMUs to an incident is done from the FMU list located on the left-hand menu of the WFDSS Incident tab.</p>
+  </body>
+</html>

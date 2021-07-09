@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">Release Notes - 6.4.7</h1>
+    <p class="bodytext">
+      <span class="specialbold">11/18/2020 - Release 6.4.7</span>
+    </p>
+    <p class="heading3">Required Security Changes</p>
+    <p class="bodytext">WFDSS implemented multiple required security changes into the 6.4.7 release (November 18, 2020): including changes to the <span class="emphasis">Forgot your user name?</span> and <span class="emphasis">Forgot your password?</span> process, changes to the security question/answer, adding CAPTCHA technology, adding cross site forgery prevention, validating emails, and encrypting user IDs in links from the HelpDesk.</p>
+    <p class="heading4">Initial Login Post Release 4.6.7</p>
+    <ul>
+      <li class="listbullet">The first-timeuserslog into WFDSS after the6.4.7 deployment,theymust select a standard security question from a drop-down list of possible questionsand provide an answer.</li>
+      <li class="listbullet">The security question response is case insensitive.</li>
+    </ul>
+    <p class="heading4">Forgot Your Password?</p>
+    <ul>
+      <li class="listbullet">CAPTCHA (Completely Automated Public Turing to tell Computers and Humans Apart) verificationhas been added to the<span class="emphasis">Forgot yourpassword?</span>process.Usersmust select images, type letters or phrases to verify theyare a human user.</li>
+      <li class="listbullet">Clicking<span class="emphasis">Forgot your password?</span>requiressubmission of the primary email address associated with a WFDSS account. The system sendsan email containing a link for apassword reset to this address.</li>
+      <li class="listbullet">
+        <p>The link is good for two hours, or until another link isrequested.Users can only use the<span class="emphasis">Forgot yourpassword?</span>processthree times within 30 minutes.</p>
+        <ul>
+          <li class="listbullet2">Usersmust provide theirUserName and then are prompted to answertheir security question.Users are allowed fiveattempts toanswertheirSecurityQuestion. If entered incorrectly,on the fifthattempt usersmust wait 30 minutes beforeusing the<span class="emphasis">ForgotYour Password?</span>linkagain.</li>
+        </ul>
+      </li>
+      <li class="listbullet">Users can always contact the IIA HelpDesk for immediate password reset support.</li>
+    </ul>
+    <p class="heading4">Forgot Your User Name?</p>
+    <ul>
+      <li class="listbullet">CAPTCHA (Completely Automated Public Turing to tell Computers and Humans Apart) verification isnowrequiredto usethe<span class="emphasis">Forgot your user name?</span>process.Usersmust select images, type letters or phrases to verifytheyare a human user.</li>
+      <li class="listbullet">Clicking<span class="emphasis">Forgot your user name?</span>requires submission of the primary email address associated with a WFDSS account, thisgenerates an email that displaysalist of User Names and Roles associated with that email.</li>
+      <li class="listbullet">Users can only use the<span class="emphasis">Forgot youruser name?</span>look up process three times within 30 minutes.</li>
+      <li class="listbullet">Users can always contact the IIA Helpdesk for immediate user name support.</li>
+    </ul>
+    <p class="heading4">Requesting New Accounts</p>
+    <ul>
+      <li class="listbullet">The Request New Account screen andemails sent to non-federal users have been updated to provide more accurate instructions regarding the users next steps and the password set up and users role request process.</li>
+    </ul>
+    <p class="heading4">Additional Security Modifications</p>
+    <ul>
+      <li class="listbullet">When the CAPTCHA technology fails, users subscribed to the "Other" Notification list are notified with an email including the user’s email that failed.</li>
+      <li class="listbullet">Implemented cross site forgery prevention measures.</li>
+      <li class="listbullet">All user emails now undergo basic validation. This validation is added to the Account Request,<span class="emphasis">Forgot user password?</span>and<span class="emphasis">Forgot you user name?</span>functionsin addition toUser Profile, Fire Behavior Request, and Analysis Contact information.</li>
+      <li class="listbullet">The User ID portion of links sent by the Helpdesk to reset a user’s password have been encrypted.</li>
+    </ul>
+    <p class="heading3">Data Layers</p>
+    <ul>
+      <li class="listbullet">Corrected an issue in which the communications towers were notdisplayingcorrectly.</li>
+    </ul>
+    <p class="heading3">Incidents</p>
+    <ul>
+      <li class="listbullet">Fixedan issuewhere the Unit Name displayed next to the Jurisdictional Point of Origin displayed"Not Set"instead of showing the correct name on the Incident Information Page, Fire Behavior Request Emails, and the Incident Decision.</li>
+    </ul>
+    <p class="heading3">IRWIN</p>
+    <ul>
+      <li class="listbullet">Fixedan issue where the Incident Information could not be saved if the Incident Name contained invalid characters when the name was set outside of WFDSS. Userscansave the Incident Information for incidents with invalid names but if they chose to modify the name, theyare restricted to using valid characters accepted by WFDSS.</li>
+      <li class="listbullet">Fixed an issue with sorting on the Description column on the IRWIN Issue List.</li>
+      <li class="listbullet">Fixed an issue with the IRWIN Issues list in which resolved issues were being updated rather than a new issue being created.</li>
+      <li class="listbullet">Fixed an issue whereWFDSS would try to geospatially set the Point of Origin Land Owner Kindand Category inIRWIN when WFDSS did not have write access to that field.</li>
+      <li class="listbullet">Fixed an issue on the Incident Information page which allowed WFDSS users to modify theJurisdictionalUnit at Point ofOriginwhen WFDSS did not have write access to this field.</li>
+      <li class="listbullet">Fixed an issue where the map imagecaptures generatedfrom IRWIN reflected an In-Process status ratherthanSuccess, when they were successfully created.</li>
+    </ul>
+    <p class="heading3">Map Pages</p>
+    <ul>
+      <li class="listbullet">Fixedanissue where map captureswould intermittently fail if the Jurisdictional Agency Layer was included.</li>
+      <li class="listbullet">Removed the Natl Historic Trails, Natl Rec Trails, Natl Scenic Trails, and Natl Scenic Byways from the Designated Areas-&gt;Special tree node in the Layer Switcher Tree on the Map Pages to prevent duplication. These are already under theInfrastructure-&gt;Roads and Trails node.</li>
+      <li class="listbullet">Corrected the current Planning Area color on the Incident Groups Map. The current Planning areacolor is purple, but it displayed inconsistentlybetween environments.</li>
+    </ul>
+    <p class="heading3">System Support</p>
+    <ul>
+      <li class="listbullet">Improved tracking/recording of information when auser modifies a system property from the support tab. This includes recording the time a property was changed, and adding a new action to Modify Property in the User Audit Trail so users can search the audit trail to locate all property modifications.</li>
+      <li class="listbullet">Added a<span class="emphasis">View User Info</span>to the Service Transaction List of the Support tab to allowsusersto click on a transaction and display the User Name, Phone Number(s), and email associated with USER ID for that transaction.</li>
+      <li class="listbullet">Supportroleusers can nowRegenerate Analysis Values from the Support tab.</li>
+      <li class="listbullet">Fixedanissue wheretheGenerate LCP Critiqueon the Support tabwas using an older, incorrect styleof theCritique.</li>
+      <li class="listbullet">Removed 'PredictiveSvcsDay 1' from the Feature Query drop-down List.</li>
+      <li class="listbullet">Improved the messagedisplayed to the user and recorded in the Service Transaction Table when the Point of Origin Values failed because the Point of Origin had been modified prior to the values generation completing.</li>
+    </ul>
+    <p class="heading3">System Utilities</p>
+    <ul>
+      <li class="listbullet">Modified the utility that updates the Unit information in WFDSS from NWCG to modify the Unit Name, Agency, and Phone Number that is shown in WFDSS when the data is updated in NWCG.</li>
+      <li class="listbullet">Metadata scripts were corrected andrerun.</li>
+      <li class="listbullet">Fixed an issue with the utility that syncs roles from Production to Training, allowing roles granted to be correctly viewed by other users.</li>
+      <li class="listbullet">Fixed an issue with the utility that updates the Unit Information in WFDSS from NWCG so it correctly runs on both Production and Training.</li>
+    </ul>
+    <p class="heading3">Values Inventory</p>
+    <ul>
+      <li class="listbullet">Modified the properties so theFSProSuppression Outputs and their corresponding Values at Risk are no longer generated. This reduces processing time. TheFSProSuppression Effects are still available for download from the Results Map.</li>
+      <li class="listbullet">Improved processing ofFSProValues at Risk by decreasing the time it takes to generate the values.</li>
+    </ul>
+    <p class="bodytext" />
+  </body>
+</html>

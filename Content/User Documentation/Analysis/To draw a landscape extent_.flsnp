@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Analysis list, select the analysis you want to create a landscape extent for.</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>. The analysis General Information page appears.</li>
+      <li class="listnumber">Choose <span class="menuoptions">Analysis Map </span>from the menu options on the left. The Analysis Map appears.</li>
+      <li class="listnumber">Zoom in on the incident marker.</li>
+      <li class="listnumber">Select the Landscape Extent <img src="To draw a landscape extent_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> tool.</li>
+      <li class="listnumber">Position your cursor where you want to start the landscape extent, then click and drag the mouse until the shape is the right size. A green box appears that delineates your landscape extent.</li>
+      <li class="listnumber">Choose the Info tab to view the latitude and the longitude boundaries in theLandscape Extent section.</li>
+      <li class="listnumber">If you are satisfied with the extent shown by the green box you drew, click <span class="buttons">Save</span>. Otherwise re-draw the extent until you are satisfied.<div class="listcontinue"><p>A message appears stating that your landscape extent was saved.</p></div></li>
+    </ol>
+    <p class="bodytext">You can now edit your landscape data layers (if needed) by <a href="FSPro/Creating a Landscape Editor Rule.htm">creating landscape editor rules</a>. If you choose not to make modifications to your landscape data, you can proceed to <a href="FSPro/Creating the Landscape File.htm">creating your landscape file</a>.</p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

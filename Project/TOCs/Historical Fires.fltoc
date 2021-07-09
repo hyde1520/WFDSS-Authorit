@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+  <TocEntry Title="Historical Fires (2001-2009)" Link="/Content/User Documentation/Data Layer Reference/Historical Fire /Historical Fires (2001-2009).htm">
+    <TocEntry Title="Overview" Link="/Content/User Documentation/Data Layer Reference/Historical Fire /Overview.htm" />
+    <TocEntry Title="Data Input" Link="/Content/User Documentation/Data Layer Reference/Historical Fire /Data Input.htm" />
+    <TocEntry Title="Data Limitations" Link="/Content/User Documentation/Data Layer Reference/Historical Fire /Data Limitations.htm" />
+    <TocEntry Title="Data Information" Link="/Content/User Documentation/Data Layer Reference/Historical Fire /Data Information.htm" />
+    <TocEntry Title="Relevant Websites and References" Link="/Content/User Documentation/Data Layer Reference/Historical Fire /Relevant Websites and References.htm" />
+    <TocEntry Title="Historical Fires GIS Team Contacts" Link="/Content/User Documentation/01a_Common User Content/Historical Fires GIS Team Contacts.htm" />
+  </TocEntry>
+</CatapultToc>

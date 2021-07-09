@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Anyone with access to WFDSS can view basic incident details but some information is locked from viewing until it is published in a decision (e.g., Incident Objectives, Incident Requirements, Course of Action, Management Action Points).</p>
+    <p class="bodytext">Your ability to modify a specific incident depends on your role in WFDSS, and your assignments related to a specific incident.</p>
+    <p class="bodytext">For example, if your WFDSS role is Viewer, you can view published decisions for any incident. If you are assigned a Viewer role and have been given Edit or Review privileges for a specific incident, you can access the incident's pending decision content for editing or reviewing purposes.</p>
+  </body>
+</html>

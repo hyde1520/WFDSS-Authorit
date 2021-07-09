@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Before setting up an M.A.P., you need the following information:</p>
+    <ul>
+      <li class="listbullet">Active incident in WFDSS</li>
+      <li class="listbullet">Incident editor privileges</li>
+      <li class="listbullet">Local cartographic maps on values at risk and other spatial data to assist you in determining the geographic location of the M.A.P.</li>
+      <li class="listbullet">Resource and fire management plans, historical fire data, and any other information that will assist you in determining the costs, conditions, actions, and resources to assist with the M.A.P.</li>
+    </ul>
+  </body>
+</html>

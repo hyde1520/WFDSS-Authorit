@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Analysis List, select the analysis you want to copy. (For more ways to get to the analysis, see <a href="../../../01a_Common User Content/Navigation/Navigate to an Analysis.htm">Navigate to an Analysis</a>.)</li>
+      <li class="listnumber">Click <span class="buttons">Copy</span>. A Comment dialog box appears.</li>
+      <li class="listnumber">Enter a comment, then click <span class="buttons">Copy</span>. The Analysis Information page appears for the copied analysis.</li>
+      <li class="listnumber">Enter a new name for the analysis.</li>
+      <li class="listnumber">Select the ignition file you want to use.</li>
+      <li class="listnumber">Select the Barriers file you want to use.</li>
+      <li class="listnumber">Review and modify the other analysis parameters as needed.</li>
+      <li class="listnumber">
+        <span class="buttons">Save</span> the modifications.</li>
+      <li class="listnumber">Click <span class="buttons">Run Short-Term Fire Behavior</span> to run the analysis using the modified parameters. The Analysis List page reappears and displays the new analysis with a Queued status. </li>
+    </ol>
+    <p class="bodytext">Depending on the landscape size and resolution, as well as the traffic on the server, the analysis could take several minutes to run. Refresh your browser to see the status change to Complete, then select the analysis and click <span class="buttons">View Results</span> to see the analysis on the map view.</p>
+    <MadCap:snippetBlock src="../../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

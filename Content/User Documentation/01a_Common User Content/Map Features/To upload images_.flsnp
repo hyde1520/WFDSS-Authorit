@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident List, select the incident that you want to upload an image for.</li>
+      <li class="listnumber">
+        <p>You can upload information for an incident in one of two ways:</p>
+        <ol>
+          <li class="listalpha2">Click <span class="buttons">View Information &gt; Images Upload</span>.</li>
+          <li class="listalpha2">
+            <p>From within the default decision editor:</p>
+            <ol>
+              <li class="listalpha3">Click Decisions &gt;Select the pending decision</li>
+              <li class="listalpha3">Click Edit to open the default decision editor</li>
+              <li class="listalpha3">Click Insert Content. The Image Upload option is available.</li>
+            </ol>
+          </li>
+        </ol>
+      </li>
+      <li class="listnumber">After you select the image, enter the image Name (64-character limit). Use a descriptive title; for example, Crown Fire #1 07/04/2009. </li>
+      <li class="listnumber">Enter a brief description of the image (4000-character limit). <div class="listcontinue"><p>The text you enter here is attached to the image like a caption, and it cannot be edited or deleted. Be as specific as possible. This information will appear in the decision report with the image. If you include the image in your decision document, you will be able to use the text editor to add additional information before and after the image.</p></div></li>
+      <li class="listnumber">Select an Image Type (this ensures that the image goes to the right folder in the final report).</li>
+      <li class="listnumber">Accept the default <span class="specialbold">Compress image to fit</span> (recommended), or deselect.</li>
+      <li class="listnumber">Click <span class="buttons">Browse</span> to navigate to the folder where the image is stored. The Choose File window appears.</li>
+      <li class="listnumber">Select the image you want to upload, then click <span class="buttons">Open</span>. The full path and file name for the image you are uploading appears in the File to Upload field.</li>
+      <li class="listnumber">Click <span class="buttons">Upload</span>. It might take a couple of minutes to upload the file. </li>
+    </ol>
+    <p class="bodytext">The file you selected is uploaded, and is stored in the Incident's images folder. It is automatically sorted by image type and the name of the person who uploaded it. Once you upload an image to WFDSS, it cannot be deleted. However, you do not have to include the image in a decision or the final report.</p>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

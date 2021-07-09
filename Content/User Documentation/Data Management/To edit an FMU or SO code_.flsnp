@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Choose <span class="menuoptions">Data Management &gt; FMU/SO Codes</span>. The FMU/SO Codes page appears.</li>
+      <li class="listnumber">Select the Geographic Area, Agency, and Unit that you want to edit FMU or SO codes for.</li>
+      <li class="listnumber">Scroll down to the FMU or SO Code list for the selected unit.</li>
+      <li class="listnumber">Select the FMU or SO Code that you want to edit.</li>
+      <li class="listnumber">Click <span class="buttons">Edit</span>. The Edit FMU/SO page appears.</li>
+      <li class="listnumber">Change the Description.</li>
+      <li class="listnumber">Click <span class="buttons">Save</span>. The FMU/SO Code page reappears and displays the modified FMU or SOcodein the list.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

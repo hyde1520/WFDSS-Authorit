@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="heading2">To subscribe to the WFDSSSupportVideos channel:</p>
+    <ol>
+      <li class="listnumber">Go to YouTube. </li>
+      <li class="listnumber">Search for WFDSSSupportVideos. </li>
+      <li class="listnumber">Select the channel WFDSSSupportVideos to display the main channel page. </li>
+      <li class="listnumber">Click the Subscribe button. The button name changes to Subscribed.</li>
+    </ol>
+    <p class="bodytext">
+      <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+    </p>
+    <p class="bodytext" />
+    <p class="bodytext" />
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

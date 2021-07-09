@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">When developing Incident Objectives, adhere to the following set of characteristics and guidance:</p>
+    <ul>
+      <li class="listbullet">Does the statement provide clear Leader's Intent? For example, instead of "Protect Bald Eagle habitat", a better objective is, "Protect Bald Eagle habitat north of Rocky Ridge from high-intensity fire that kills overstory trees."</li>
+      <li class="listbullet">Is the statement aligned with the Land/Resource Management Plan? For example, instead of "Contain the fire east of Black Swamp Road, south of Catfish Lake Road, and west of Wells Oaks Road, a better objective is, "Protect timber resource east of Wells Oaks Road by avoiding fire in this area, or limiting to low fire intensities if fire unavoidable."</li>
+      <li class="listbullet">Are there relatively few Incident Objectives and Incident Requirements? More than five of each is typically difficult to use for informing risk tradeoffs or priorities.</li>
+      <li class="listbullet">Do any of the statements conflict? For example, "Control fire at the smallest possible size." is very different from "Keep the fire east of Cold River, south of Granite Lakes, west of Johns Road, and north of Lily Lane." Firing off the whole box could be an acceptable way to meet the second objective, but may not be acceptable for meeting the first objective. Avoiding both these types of objectives is best, focusing instead on describing desired resources to be protected.</li>
+      <li class="listbullet">Do the statements help the reader understand the overall sense of priority? For example, instead of "Protect infrastructure from fire" a better objective is, "Utilize point protection and/or tactical firing operations to protect the Wood Cabin, a highly valued resource listed on the National Register of Historic Places."</li>
+      <li class="listbullet">Do the statements indicate What, When, Where and Why? For example, "Keep the road open &lt;WHAT&gt;, from the 4356/2234 junction &lt;WHERE&gt;, through Labor Day weekend &lt;WHEN&gt;, to allow public access to this highly valued recreation site &lt;WHY&gt;." Or, "Utilize moderate intensity fire in the Leafy Tree drainage (if protection objectives can be met) to promote aspen regeneration." Or, "Promote natural fire spread in the Aldo Leopold Wilderness as long as outlooks and predictions allow, so that fire can play a natural role."</li>
+    </ul>
+    <p class="bodytext">Avoid developing Incident Objectives that are:</p>
+    <ul>
+      <li class="listbullet">Generic in nature or have vague terms that have different meaning to individuals. (e.g., keep the fire small)</li>
+      <li class="listbullet">Based on unclear priorities that could jeopardize a sound risk management process that may result in needless firefighter exposure.</li>
+      <li class="listbullet">In conflict with other sources of direction to include delegation of authority, the briefing package or ad hoc discussions.</li>
+      <li class="listbullet">Definitive and without supportive information, such as defining a box without any explanation of why its boundaries are significant. (Why should we keep the fire north of Elliot Highway? Is there a town? Private property?)</li>
+    </ul>
+    <p class="bodytext">For more specific information about writing good Incident Objectives, please read <a href="https://wfmrda.nwcg.gov/docs/_Objectives_&amp;_Example_Fires/CreatingIncidentSpecificWFDSSObjectives_201510.pdf">Creating Incident-Specific WFDSS Objectives (October 2015)</a></p>
+  </body>
+</html>

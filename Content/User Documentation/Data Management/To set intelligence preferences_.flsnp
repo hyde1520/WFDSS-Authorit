@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Login to the appropriate WFDSS application (Production or Training).</li>
+      <li class="listnumber">Clickthe <span class="menuoptions">Intelligence tab &gt; Menu subtab&gt; Intelligence Prefs</span>. TheIntelligence Page Display Preferences page appears.</li>
+      <li class="listnumber">Set the latitudes and longitudes for your area of interest. The defaults are based on thegeographic areayou selected in your contact information when you first created your WFDSS account.</li>
+      <li class="listnumber">Click <span class="buttons">Save Area of Interest</span>. The Intelligence map defaults to the selected area the next time the map loads.</li>
+      <li class="listnumber">Select the intelligence filter you want to use as your default. If the existing filters don't work for what you need, <a href="../01a_Common User Content/Filters/Creating Intelligence Filters.htm">create the filter</a> first, then do step 6.</li>
+      <li class="listnumber">Click <span class="buttons">Set as Default</span>. The screen refreshes and a message appears stating that your selection was saved.</li>
+    </ol>
+    <p class="bodytext">When you return to the map view, the map refreshes and displays according to the preferences you selected.</p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

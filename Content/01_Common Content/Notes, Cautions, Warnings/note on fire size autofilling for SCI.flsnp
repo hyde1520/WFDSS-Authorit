@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnote">
+        <div class="listnote">
+          <p>
+            <span class="specialbold">Note</span>: If you entered an incident size on the Edit Incident Information page, the Acres Burned field will be auto-filled with that number. If the acreage on the Incident Information page is less than 300 acres, 300 will be used as the default. Results for fires less than 300 acres may not be accurate.</p>
+        </div>
+      </li>
+    </ol>
+  </body>
+</html>

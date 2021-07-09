@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident list, select the incident &gt; click <span class="buttons">View Information</span>. The Edit Incident Information page appears.</li>
+      <li class="listnumber">Review the information under each tab (Information, Objectives, Course of Action, Cost) to ensure that all the information is complete and accurate.</li>
+      <li class="listnumber">Select the <span class="menuoptions">Decisions</span> tab. The Decisions List appears.</li>
+      <li class="listnumber">If no pending decision exists, click <span class="buttons">Create</span>. A pending decision and its sections appears in the list.</li>
+      <li class="listnumber">Requirements that must be met before thepending decision can be Reviewed / Approved will belisted atop the page and in the requirements fly-out menu on the right. Click an item listed to navigate directly to itslocation in the decision and make appropriate edits.<div class="listnote"><p><span class="specialbold">Note:</span> This area will not show up on the Decision Information page if all requirements have been met.</p></div></li>
+      <li class="listnumber">When you are finished with edits and want toreturn to the decision list, click the Decision tab.<div class="listnote"><p><span class="specialbold">Note:</span> You need to access the pending decision and use the decision editor to add Rationale.</p></div></li>
+      <li class="listnumber">If you are adding additional content to a pending decision, such as text or images, select the pending decision(or section of it) from the decision list. </li>
+      <li class="listnumber">Click <span class="buttons">Edit</span>. The Decision Editor page appears.</li>
+      <li class="listnumber">To edita section of the document, click<span class="buttons">Check Out</span>. This will lock thissection of the document from other incident owners and editors until you have completed your edits.</li>
+      <li class="listnumber">
+        <p>Click<span class="buttons">Insert Section</span>to Add or Edit Content.</p>
+        <ol>
+          <li class="listalpha2">To <a href="../Decision/To add an image to a decision using the Advanced Decision Editor_.htm">add images</a> from the incident folder; add a section title (identifies image in decision content) and opt to include the title in the decision if you wish.Click<span class="buttons">Select Image</span>, and add any additional text you want to appear before and/or after the image in the decision.</li>
+          <li class="listalpha2">To<a href="../Decision/Adding Text to a Decision.htm">add text </a>directly into the decision document; add a section title (identifies image in decision content) and opt to include the title in the decision if you wish.Addtexttothe <span class="specialbold">text before</span> field and then click <span class="buttons">Save</span>. (Text can notbe formatted whenusing the Default DecisionEditor; this option is only available when using the Advanced Decision Editor.)</li>
+          <li class="listalpha2">Click <span class="buttons">Save</span>when you are finished, and then click <span class="buttons">Check In</span>. Checking in a section of a document signifies to other incident owners or editors that you are finished with edits.</li>
+        </ol>
+      </li>
+      <li class="listnumber">
+        <p>Enter a Rationale for the decision.</p>
+        <ol>
+          <li class="listalpha2">Click the <span class="menuoptions">Rationale</span> vertical tab (far right), and then click <span class="buttons">Check Out</span>.</li>
+          <li class="listalpha2">Click<span class="buttons">Insert Section</span>to Add or Edit Rationale content.</li>
+          <li class="listalpha2">Enter/edit the content as needed. Rationale can be entered as one entry or as multiple entries, each with their own section or page headings. Both images and text can be added as well.</li>
+          <li class="listalpha2">Click <span class="buttons">Save </span>after each edit, and then <span class="buttons">Check In</span> when you are finished.</li>
+        </ol>
+      </li>
+      <li class="listnumber">
+        <p>Ensure Decision Requirements have been met.</p>
+        <ol>
+          <li class="listalpha2">
+            <span class="buttons">Click the Decision Requirements vertical tab (all the way to the right).</span>
+          </li>
+          <li class="listalpha2">Review requirements in the list; requirements that have been met havea blue checkmark beside them whereas unfinished tasks do not. Clicking the links to unfinished tasks will navigate the application to the sections of the decision where those tasks need to be completed. When you are finished with each task, click <span class="buttons">Return</span>to navigate back to the Requirements list.</li>
+        </ol>
+      </li>
+      <li class="listnumber">Click the <span class="menuoptions">Decisions</span> tab to return to the Decision List page.</li>
+      <li class="listnumber">When edits to the decision are complete and all sections of the pending decision are checked back in, the decision becomes available to <a href="../Decision/Beginning the Review_Approval Process for an Incident Decision.htm">Begin Review/Approval Process</a>.</li>
+    </ol>
+    <p class="bodytext">Once you are satisfied with the content of the decision document, you can send it for review and approval (See <a href="../Decision/Beginning the Review_Approval Process for an Incident Decision.htm">Beginning the Review/Approval Process</a>, or <a href="../Decision/Decision Review and Approval.htm">Decision Review and Approval</a>.)</p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

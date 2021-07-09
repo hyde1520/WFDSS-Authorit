@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">A management action point (M.A.P.) is automatically activated when a decision is published that contains the M.A.P. They are automatically included in the next decision, unless you actively <a href="../Incident/mgmt action points/Excluding a Management Action Point.htm">exclude</a> them.</p>
+    <p class="bodytext">Once an M.A.P. is activated, you can no longer edit or delete them. However, you can <a href="../Incident/mgmt action points/Versioning a Management Action Point.htm">version</a> them and <a href="../Incident/mgmt action points/Annotating a Management Action Point.htm">annotate</a> them.</p>
+  </body>
+</html>

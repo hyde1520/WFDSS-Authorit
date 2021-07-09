@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From theIncident List, select the incident for which you would like to view the values inventory.</li>
+      <li class="listnumber">Click<span class="buttons"> Situation Assessment</span>. TheSituation map appears.</li>
+      <li class="listnumber">Select the <span class="menuoptions">Map tab &gt; Incidents &gt; Planning Areas</span>.</li>
+      <li class="listnumber">Click the <img src="" alt="" width="0" height="0" vspace="2px" hspace="2px" align="Bottom" border="0px" />beside the planning area you for which you would like to view the values inventory.</li>
+      <li class="listnumber">Click<span class="buttons">Spatial Inventory</span>. The planning area Values Inventory appears with Spatial Inventory of Management Requirement shapes. <div class="listcontinue"><p>If instead you see a message that says the values inventory request was submitted,right-click on the message page and click <span class="menuoptions">Refresh</span> from the menu. The values inventory appears.</p></div></li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

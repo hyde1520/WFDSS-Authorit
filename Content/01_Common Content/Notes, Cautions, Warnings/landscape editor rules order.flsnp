@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="note">
+      <span class="specialbold">Note:</span> Landscape editor rules within each attribute category are applied from the top to the bottom of the list, so move the rules up or down the list as needed.</p>
+  </body>
+</html>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident List, click <span class="menuoptions">Analysis</span>. The Analysis List page appears.</li>
+      <li class="listnumber">Click <span class="buttons">Manage Filter</span>. The Analysis Filter List page appears.</li>
+      <li class="listnumber">Click <span class="buttons">Create New Filter</span>. The Define Analysis Filter page appears.</li>
+      <li class="listnumber">Click <span class="buttons">Clear</span> to remove any previous filters.</li>
+      <li class="listnumber">Enter a name for your filter.</li>
+      <li class="listnumber">Select the Request Date and Completion Date criteria.</li>
+      <li class="listnumber">Select the Analysis Type(s) to include in the filter.</li>
+      <li class="listnumber">Select the Analysis Status you want to include.</li>
+      <li class="listnumber">Select the Geographic Area(s) for the analyses you want to view, then click <span class="buttons">&gt;&gt;</span> to include them in your criteria.</li>
+      <li class="listnumber">Enter a comma-separated list of Unit IDs to filter on (e.g., CACND, CAALT, NCNCF).</li>
+      <li class="listnumber">To filter by specific Analyst Name(s), Incident Author(s), or Incident Names, enter all or part of the name you are searching for &gt; click <span class="buttons">Apply Filter</span> to list the names that meet your criteria &gt; click <span class="buttons">&gt;&gt;</span> to include them in your filter. The selected names appear in the right-hand slush bucket. To remove a name, click <span class="buttons">&lt;&lt;.</span></li>
+      <li class="listnumber">Click <span class="buttons">Save Filter</span>. The Analysis List reappears showing only those incidents that met your criteria, sorted by most recent Request Date.</li>
+    </ol>
+    <p class="bodytext">If the Analysis List is empty, no analyses met all of your criteria. Go back to the Define Analysis Filters page and verify that you selected the correct criteria. Try removing some of your more restrictive criteria. (For example, if someone has changed the incident owner for the incident you are looking for, it will not show up on your list if you select the previous owner's name.)</p>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+    <p class="bodytext" />
+  </body>
+</html>

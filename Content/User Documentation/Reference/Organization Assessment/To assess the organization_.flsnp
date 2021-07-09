@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">In the Incident List, locate the incident you want to create an Organization Assessment for and click <span class="buttons">View Information</span>.</li>
+      <li class="listnumber">Verify that the <a href="../../Incident/Calculating Relative Risk.htm">Relative Risk Assessment</a> has been completed.</li>
+      <li class="listnumber">
+        <p>From the left menu, click <span class="buttons">Org Assessment</span>. The Organization Assessment page appears. This page contains three sections:</p>
+        <ul>
+          <li class="listbullet2">
+            <a href="Relative Risk Assessment Guidance_.htm">relative risk</a> (view only)</li>
+          <li class="listbullet2">
+            <a href="Implementation Difficulty Guidance_.htm">implementation difficulty</a>
+          </li>
+          <li class="listbullet2">
+            <a href="Socio_Political Concerns Guidance_.htm">socio/political concerns</a>
+          </li>
+        </ul>
+      </li>
+      <li class="listnumber">Locate the Implementation Difficulty section. Select the appropriate fire duration, course of action level, and functional concern level.</li>
+      <li class="listnumber">In the Difficulty Notes text box, type the rationale for your selections. This information is included in the decision, so be as specific as possible.</li>
+      <li class="listnumber">Locate the Socio/Political Concerns section. Select the appropriate level of objective concerns, external influences, and ownership concerns.</li>
+      <li class="listnumber">In the Socio/Political Concerns text box, type the rationale for your selections. This information is included in the decision, so be as specific as possible.</li>
+      <li class="listnumber">Click <span class="buttons">Continue</span>. The Organization Assessment Results appear.</li>
+      <li class="listnumber">The OA Results summarize inputs and display them as a bar chart to help you assessincident complexity.Review the results.</li>
+      <li class="listnumber">Select an organization type and then document the rationale for your decision in the Organization Notes box. </li>
+      <li class="listnumber">Click <span class="buttons">Publish. </span>You can also click Back to review/modify OA inputs, or Return to leave the OA and return to the place in the application you were prior to accessing OA. For more details, see the <a href="Organization Assessment Reference.htm">Organization Assessment</a> reference.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

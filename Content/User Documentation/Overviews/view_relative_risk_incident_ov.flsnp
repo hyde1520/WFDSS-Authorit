@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Relative Risk assessment is accessible in several locations within WFDSS. Once a relative risk assessment is saved, it can be viewed by all WFDSS users. The relative risk assessment can be viewed in three different ways. Users can view:</p>
+    <ul>
+      <li class="listbullet">the <a href="../Incident/To view current relative risk_.htm">current Relative Risk Assessment </a>from the Relative Risk menu option,</li>
+      <li class="listbullet">the <a href="../Incident/To view relative risk associated with decisions_.htm">Relative Risk Assessments associated with published decisions</a>, and</li>
+      <li class="listbullet">the <a href="../Incident/To view relative risk associated with periodic assessments.htm">Relative Risk Assessments associated with periodic assessments</a>.</li>
+    </ul>
+  </body>
+</html>

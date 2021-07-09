@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Go to one of the following:</li>
+      <li class="listbullet">Select <span class="menuoptions">Situation </span>&gt; select the Incident Name and click <span class="buttons">Assess Situation</span>. From the left menu, click the Map sub-tab and select the appropriate layers from the LayerSwitcher.</li>
+      <li class="listbullet">Select <span class="menuoptions">Analysis</span> &gt; select the Incident/Analysis Name and  click <span class="buttons">View Information</span>.The  information for the Incident/Analysis Name appears. From the left menu click <span class="buttons">Analysis Map </span>and select the appropriate layers from the Layerswitcher.</li>
+      <li class="listnumber">Click <img src="To capture map images as landscape-oriented reports.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Middle" border="0px" /> to capture the image. For the best image view, do not use full screen mode to capture the image unless you want the image compressed to fit the .pdf format.</li>
+      <li class="listnumber">Enter the Image Label and any appropriate Description.</li>
+      <li class="listnumber">Enter the Report Name not using any special characters except an apostrophe or backslash.</li>
+      <li class="listnumber">Click <span class="buttons">Capture Image</span>.A message saying that the application is generating a report containing that image appears at the top of the page.</li>
+      <li class="listnumber">Select <span class="menuoptions">Reports </span>from the Incident sub-menu. A few seconds after capturing the image, the report name displays in the Report List.</li>
+      <li class="listnumber">Click the report name in the Report List and click<span class="buttons"> .PDF</span>. The Report Daft PDF page appears.</li>
+      <li class="listnumber">Click <span class="buttons">Download Draft </span>to review the draft report.</li>
+      <li class="listnumber">Click <span class="buttons">Open </span>on the file download box. The draft .pdf report opens in landscape mode.</li>
+      <li class="listnumber">Add text to the image using the <a href="../Decision/About the Text Editor.htm">Text Editor</a> if needed.</li>
+      <li class="listnumber"> Click <span class="buttons">Save </span>to save the changes when you are done.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

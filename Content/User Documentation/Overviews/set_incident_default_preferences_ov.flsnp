@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">You can customize the Incident List, Display Preferences, the Incident Situation Map, Display Preferences, and the Incident List filters to display incidents, maps, and filters the way you want to see them. You can:</p>
+    <ul>
+      <li class="listbullet">Sort incidents according to characteristic or order</li>
+      <li class="listbullet">Modify the number of incidents per page you want to view.</li>
+      <li class="listbullet">Set defaults for map base layer for the Situation Map and the Decision Map.</li>
+      <li class="listbullet">Set defaults for Perimeters, Planning Areas, and Management Action Points to initially display on the maps.</li>
+      <li class="listbullet">Change your default permanent filter.</li>
+      <li class="listbullet">Create additional permanent filters.</li>
+    </ul>
+    <p class="bodytext">GA Editors, National Editors and users assigned the role of Feedback can also <a href="../../zzzz_Sandbox/Diane/Transferring Filters.htm">transfer filters</a> to users.</p>
+  </body>
+</html>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">
+      <span class="editorialcomments">&lt;&lt;put content into Analysis Notes (#5883) topic in the Help&gt;</span>
+    </p>
+    <p class="bodytext">Experienced analysts understand the importance of documenting their thought process and assumptions when working with fire behavior models.  All WFDSS analyst assisted models provide the option of adding Notes to any input, landscape or results page.  There are many reasons to provide documentation in the form of analysis Notes.  For example, analysts may want to:</p>
+    <ul>
+      <li class="listbullet">provide justifications forvarious modifications to the default input values.</li>
+      <li class="listbullet">document conversations with local subject matter expertsregarding modelinputs.</li>
+      <li class="listbullet">leave a trail so that others can follow the thought process while moving through an analysis.</li>
+      <li class="listbullet">explain analyst and/or model assumptions.</li>
+      <li class="listbullet">describe changes and edits to a landscape.</li>
+      <li class="listbullet">explain efforts to calibrate a model to known fire activity.</li>
+      <li class="listbullet">provide interpretation of a models outputs and express confidence, caveats and any concerns with them.</li>
+      <li class="listbullet">create reference documentation to assist with incidents in the future orin the event of investigations or litigation.</li>
+    </ul>
+    <p class="bodytext">Once created, notes will appear at the top of each page that they were added to. Notes can be added, edited or deleted any time before an analysis is run or anytime after, regardless of the status of the analysis. </p>
+  </body>
+</html>

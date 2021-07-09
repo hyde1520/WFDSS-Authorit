@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">The Objectives portion of a decision is where Incident Owners and Editors can:</p>
+    <ul>
+      <li class="listbullet">View and evaluate Strategic Objectives and Management Requirements applicable to an incident’s planning area,</li>
+      <li class="listbullet">Develop Incident Objectives and Incident Requirements that tier off the broader Strategic Objectives and Management Requirements and address values identified in the Values Inventory, and</li>
+      <li class="listbullet">From the Objectives tab, download an Excel spreadsheet of objective and requirement types chosenin the filter.</li>
+    </ul>
+    <p class="bodytext">Fire Management Units (FMUs) or Strategic Objective (SO) shapes for each federal agency and associated Strategic Objectives and Management Requirement text, derived from a unit’s Land, Resource, and Fire Management Plans, are uploaded into WFDSS by a Data Manager well ahead of fire season.</p>
+    <p class="bodytext">When a planning area is drawn, the Strategic Objectives and Management Requirements for each FMU or SO that the planning area intersects are auto-populated into the decision and available for reviewing on the Objectives tab. Decision makers develop decision content (Incident Objectives and Incident Requirements, Course of Action, etc.) that is commensurate with this direction, which ensures that decision content supports guidance provided in planning documents for the affected unit(s).</p>
+    <p class="bodytext">Changes in the planning area typically result in changes to the list of FMUs or SOs that the planning area intersects. If a different set of FMUs or SOs intersects the planning area, then a different set of Strategic Objectives and Management Requirements is likely applicable, warranting a review of each and potential additions and/or exclusions of Incident Objectives and/or Requirements.</p>
+    <p class="bodytext">Occasionally, values identified in Strategic Objectives and Management Requirements are not physically located in the planning area and Incident Owners may decide to not address these values in the Incident Objectives or Incident Requirements. If you determine this to be the case, use a decision editor to document why a value is not addressed in the decision content. You can do this once a pending decision has been created.</p>
+  </body>
+</html>

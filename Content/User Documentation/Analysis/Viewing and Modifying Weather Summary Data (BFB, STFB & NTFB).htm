@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">Viewing and Modifying Weather Summary Data (BFB, STFB &amp; NTFB)<MadCap:keyword term="data:weather stream" /></h1>
+    <p class="bodytext">Fire Behavior Specialists (FBS) must evaluate the weather summary and hourly records for any Basic Fire Behavior (BFB), Short-Term Fire Behavior (STFB), and Near-Term Fire Behavior (NTFB) analyses, and modify the data as needed. For example, if a rain event occurred during the previous day that is not reflected in the weather summary data, you can add it by updating the hourly records. The weather summary and hourly records cannot be modified for the automated BFB and STFB tools, which are available to non-fire behavior specialists.</p>
+    <p class="bodytext">Although analysts aim to select RAWS that are representative of weather on the fire, you might need to modify the station to better reflect actual fire weather conditions prior to the analysis date, or for the next 1-5 days, depending on the selected burn periods (for STFB and NTFB). See <a href="Basic and Short-term Fire Behavior/Analyst-Assisted/Hourly Records, Wind, and Weather Considerations (BFB, STFB &amp; NTFB).htm">Hourly Records Considerations</a> for assistance with selecting a weather station for your BFB, STFB or NTFB analysis.</p>
+    <p class="bodytext">The WIMS database and the NWS Forecast Data, a forecast product produced by the National Weather Service, populate the weather summary data. For past dates and times, values are uploaded from the WIMS database. For future dates and times, the National Weather Service (NWS) Point Forecast Data is used to populate fields. </p>
+    <p class="bodytext">The weather summary data records include:</p>
+    <ul>
+      <li class="listbullet">Date</li>
+      <li class="listbullet">Precipitation amount (in hundredths)</li>
+      <li class="listbullet">Start and end hour that indicates duration of precipitation </li>
+      <li class="listbullet">Minimum temperature and the hour it occurred </li>
+      <li class="listbullet">Maximum temperature and the hour it occurred </li>
+      <li class="listbullet">Minimum and maximum relative humidity values (values that correspond to Min Temp and Max Temp, respectively)</li>
+      <li class="listbullet">Maximum wind gust for the day and the direction and hour that it occurred</li>
+    </ul>
+    <p class="bodytext">The number of rows in the table depends on the number of days of conditioning (fuel moisture conditioning) you selected on the General Information page and, for NTFB, the number of burn periods after the ignition start.</p>
+    <p class="bodytext">Partial days are displayed with asterisks in the summary table (hourly records that do not represent a full 24 hours and, therefore, cannot be summarized by day). The earliest conditioning day and the final analysis day are, typically, partial. The hourly data for both full and partial days can be viewed and edited by accessing the hourly records for a particular date.</p>
+    <p class="bodytext">The Hourly records (accessed by selecting a date from the weather summary table) include the following hourly observations:</p>
+    <ul>
+      <li class="listbullet">Precipitation amount (in hundredths)</li>
+      <li class="listbullet">Temperature</li>
+      <li class="listbullet">Relative Humidity (RH)</li>
+      <li class="listbullet">Wind Speed</li>
+      <li class="listbullet">Wind Direction</li>
+      <li class="listbullet">Cloud Cover (%)</li>
+      <li class="listbullet">Record Type - an indicator if the weather is from a RAWS ora forecast</li>
+    </ul>
+    <p class="bodytext">For each day in the weather summary, you can view hourly records in a graph or a table view, but edits to hourly records must be made in the table view (with the exception of precipitation amounts that can only be viewed and edited in the table view). Once saved, edits to all other values (temperature, wind speed and direction, RH and cloud cover) are all visible in the graph view. The graph view can help you spot errors in hourly records, as sharp departures from trends are easily noticeable.</p>
+    <p class="bodytext">Verify the following when reviewing weather summary data/hourly records:</p>
+    <ul>
+      <li class="listbullet">Review the weathersummary values in the table view, graph view or both. Ensure they are reasonable and consistent. </li>
+      <li class="listbullet">Compare the values with on-site observations and the spot weather forecast, if they are available.</li>
+      <li class="listbullet">Review RAWS details to determine if elevation, topography, or distance from the fire are representative.</li>
+    </ul>
+    <p class="bodytext">The Record Type column in the hourly records describes the source of the weather data. If the data comes from a weather station, the Record Type displays as 'RAWS'. If the data comes from an NWS Point Forecast the Record Type it displays as 'forecast'. Records with a Type of "interpolated" indicate that hourly weather is not available from WIMS and the daily observation is being used. Lastly, there are occasionally one hour gaps between the historic and forecast data where no records are available.  In this case weather data will be populated with the last available hourly record and the word 'gap' will appear in the Record Type column.  </p>
+    <p class="bodytext">The hourly records provide a quick way for analysts to see and understand what weather inputs the model is using, and the graph view helps you visualize trends.  If a field is not editable in the hourly records  then the model is not using that value.  Winds, therefore, are not editable for STFB (these are user inputs) and they are only available to edit during the burn period in NTFB.  Similarly, Cloud Cover cannot be edited outside of the conditioning period for STFB but, since NTFB 'conditions' throughout the analysis, it can be edited at any hour with that model. </p>
+    <MadCap:snippetBlock src="../../01_Common Content/Notes, Cautions, Warnings/Topic5524.flsnp" />
+    <p class="heading2"> To modify hourly weather records:</p>
+    <MadCap:snippetBlock src="To modify hourly weather records_.flsnp" />
+  </body>
+</html>

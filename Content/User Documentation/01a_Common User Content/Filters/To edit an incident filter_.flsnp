@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incidents List page, click <span class="buttons">Edit Filter</span>.</li>
+      <li class="listnumber">Edit your criteria.</li>
+      <li class="listnumber">Click <span class="buttons">Save Filter</span>. Your changes are reflected in the incidents displayed on the Incident Lists page.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

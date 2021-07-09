@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="Automatically generated target for WebHelp2." Type="WebHelp2" Destinations="" GlossaryTermConversion="marked" MasterToc="/Project/TOCs/Popup Help.fltoc" MasterStylesheet="/Content/Resources/Stylesheets/authorit.css">
+  <PrintedOutput CollapsedMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" />
+  <Variables />
+</CatapultTarget>

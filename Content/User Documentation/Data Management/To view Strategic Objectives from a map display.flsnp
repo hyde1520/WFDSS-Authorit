@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">
+        <p>Determine which map display you want to view Strategic Objectives from and then do <span class="specialbold">one </span>of the following:</p>
+        <ul>
+          <li class="listbullet2">From the Intelligence Map<span class="specialbold">: </span>Choose the <span class="menuoptions">Intelligence</span> tab. The Intelligence Map appears. </li>
+          <li class="listbullet2">From the Incident List<span class="specialbold">:</span> Select the incident &gt; click <span class="buttons">Assess Situation</span>. The Situation Assessment map appears for the selected incident.</li>
+          <li class="listbullet2">For a specific analysis<span class="specialbold">: </span>From the <span class="menuoptions">Analysis List</span> &gt; select the analysis &gt; click <span class="buttons">View Information</span> &gt; choose <span class="menuoptions">View Landscape or Analysis map. </span>You must have already <a href="../Analysis/FSPro/Creating the Landscape File.htm">created the landscape</a> for the analysis to use the ViewLandscapeoption.</li>
+        </ul>
+      </li>
+      <li class="listnumber">Use the <img src="To view Strategic Objectives from a map display.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> Information icon to select an area on the map.</li>
+      <li class="listnumber">On the <span class="specialbold">Info </span>sub-tab, choose a radius of 25 miles or less. The radius determines how large of an area is queried and which administrative units and their associated Strategic Objectives will be included in the query.</li>
+      <li class="listnumber">Click <span class="buttons">Strategic Objectives</span>. Wait a few moments, and then the list of Strategic Objectives appears for the area selected.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

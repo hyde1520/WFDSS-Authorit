@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Once a decision is published, Incident Approvers (Agency Administrators) need to conduct a periodic assessment to evaluate whether or not the current decision is still valid. Timely periodic assessments ensure that incident strategy is evaluated regularly, and the corresponding course of actions is updated to meeting changing needs.</p>
+    <p class="bodytext">Use the provided list of things to consider when completing the assessment and, if needed, contact fire management and/or IMT staff to get further specifics you may need. If you determine that current published decision is outdated and an updated decision is warranted, document your reasoning in the comment box.</p>
+    <p class="bodytext">An Incident Approver can set the number of days between assessments (up to a maximum of 14 days) when they approve the decision. They can also revisit their choice the next time they complete and assessment. When there are multiple Approvers, the number of days selected by the last Approver trumps all previous number of days' inputs. </p>
+    <p class="note">
+      <span class="specialbold">Note</span>: You will continue to get periodic assessment notices until the incident is officially declared out. It is important that you continue to monitor the incident and the decision until the incident is officially declared out.</p>
+    <p class="bodytext">When an incident has a single Approver, the Approver receives an email alerting them of a due or overdue periodic assessment.  The email contains a link to the periodic assessment page and helps an Approver quickly complete the task. </p>
+    <p class="bodytext">When an incident has multiple Approvers, the individual Approvers can elect to receive the email or opt out when they approve the decision.  Approvers can edit their email preference as needed from the Incident Privileges menu option. Here they can search for their name and then uncheck the Email box beside it. At least one incident Approver must receive the email.  In the event that all Approvers opt out of the email (the last to opt out receives a warning at the top of the screen), the application resets overnight and each Approver is automatically selected to receive the email.</p>
+    <p class="bodytext">Incident Owners, when added to an incident, are automatically opted in to receive email notifications when periodic assessments are completed. Owners can edit their email preferences as needed from the Incident Privileges menu option, similar to Approvers above. This is an optional feature for Owners.</p>
+  </body>
+</html>

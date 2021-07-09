@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="note">
+      <span class="specialbold">Note:</span> The same process is used to view fire danger from the Situation, Intelligence, and Analysis Maps.  Additionally, ERC graphs for specific RAWS stations can be viewed when generating an analysis with most WFDSS fire behavior models. </p>
+    <p class="bodytext">The Fire Danger Rating Graph displays the Energy Release Component (ERC) for the Remote Area Weather Station (RAWS) that is closest to the latitude and longitude recorded on the Info tab in the left pane and is currently reporting observations. The coordinates on the Info tab are usually those recorded for the incident but you can use the Identify tool to identify a different set of coordinates on the map if you choose. The Fire Danger Rating Graph provides a graphical representation of the current and forecasted daily ERC values in relation to past history for the station. This graph is frequently used to assess fire danger and severity. The graph uses NFDRS fuel model G because it is widely used to display ERC values as it contains all of the dead fuel size classes and both herbaceous and woody live fuels.</p>
+    <p class="bodytext">You can also view the Fire Danger Rating Graph for the RAWS that you select for STFB and NTFB fire behavior models and to generate ERC classes in FSPro. </p>
+    <p class="bodytext">The RAWS identification number, name, and years of data used in the graph are provided in the graph title. The current year's daily ERC values (yellow) and 6 days of NWS (NATIONAL WEATHER SERVICE) POINT FORECAST DATA forecast for the station location (green) are displayed with the average (gray), maximum (red), and minimum (blue) values. The 90th and 97th percentile levels are indicated on the graph with horizontal lines. The station location and the incident/point location, as well as the distance between the station and incident/point, are provided above the graph title.</p>
+    <p class="bodytext">The last observation date recorded for the station is available in the lower right corner of the graph, with the date the image was created by WFDSS. Incident Owners and Editors can save the Fire Danger Rating Graph to an incident's content. </p>
+    <p class="heading2">To view the fire danger rating graph:</p>
+    <MadCap:snippetBlock src="To view the fire danger rating graph_.flsnp" />
+    <p class="heading2">To save fire danger rating graphs to incident content: </p>
+    <MadCap:snippetBlock src="To save fire danger rating graphs to incident content_.flsnp" />
+  </body>
+</html>

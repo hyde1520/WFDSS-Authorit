@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident list, select the incident you want to enter objectives for.</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>. The Edit Incident page appears. </li>
+      <li class="listnumber">Select <span class="menuoptions">Objectives</span>. The Objectives page appears.</li>
+      <li class="listnumber">To view the incident and strategic objectives, mark the Incident Objective and Strategic Objective check boxes, then click <span class="buttons">Apply Filter</span>. The list of incident objectives and strategic objectives appears. No incident objectives will appear in the list if none have been created.</li>
+      <li class="listnumber">Click <span class="buttons">Create Incident Objective</span>. The Create Incident Objective page appears.</li>
+      <li class="listnumber">Enter a description of the objective and be specific. Incident Objectives contain incident-specific content and you develop them to tier off of the broader strategic objectives.</li>
+      <li class="listnumber">Click <span class="buttons">Save</span>. A message appears saying that the objective has been added.</li>
+      <li class="listnumber">When finished entering objectives, click <span class="buttons">Return</span>. The Objectives list reappears with the newly added objectives at the top of the list.</li>
+      <li class="listnumber">To include the incident objectives in your decision, ensure that there is a YES beside each in the Included column. If there isn't a Yes, select the objective from the list, and then click <span class="buttons">Include</span>. (Although you can decide which incident objectives to include in a decision, you cannot choose to include or exclude strategic objectives.)</li>
+    </ol>
+    <ul>
+      <li class="note">
+        <span class="specialbold">Note:</span> You can prioritize incident objectives by selecting an objective and clicking the Move Up or Move Down button at the bottom of the screen. To do this, make sure that the default number of rows indicated at the bottom of the page is equal to or exceeds the number of objectives and/or requirements. Otherwise, this feature is limited to only the rows displaying on the current page.<div class="listcontinue"><p>Until the decision is published, you can edit objectives, even if they have been included in the decision.</p></div></li>
+    </ul>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

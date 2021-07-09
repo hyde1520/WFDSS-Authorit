@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">FSPro Model Limitations</h1>
+    <p class="bodytext">Like all model systems, FSPro has numerous assumptions and limitations specific to each model it uses.  It is important to be familiar with these when viewing model results.  FSPro uses the same underlying fire models as BehavePlus, FARSITE, and FlamMap. The assumptions and limitations of those models are also inherent in FSPro (e.g., uniform fuels, etc).  Some additional assumptions and limitations of FSPro include the following:</p>
+    <ul>
+      <li class="listbullet">FSPro results assume no suppression action (other than the inclusion of barriers to simulate effective fireline construction).</li>
+      <li class="listbullet">Limited fine-scale temporal variability in weather. This means that the weather is constant forthe entire day (1 ERC value and related fuel moistures, 1 wind speedand winddirection).</li>
+      <li class="listbullet">The peakburning period is assumed because the ERC, fuel moisture, and wind are obtained at that time.</li>
+      <li class="listbullet">There is no correction of fuel moisture for elevation or aspect (forthcoming).</li>
+      <li class="listbullet">The FSPro model uses 100% for foliar moisture content. This value can not be edited.</li>
+      <li class="listbullet">Winds and fuel moistures are independent.</li>
+      <li class="listbullet">No climate change prediction is available (assumeshistoric climate).</li>
+      <li class="listbullet">The extremely rare event may or may not be represented by the simulation.</li>
+      <li class="listbullet">The resulting burn probability maps are easily misinterpreted as a fire progression, such as in FARSITE(<span class="specialbold">FSPro results show probability contours NOT daily progression perimeters!</span>).</li>
+      <li class="listbullet">
+        <p>Model output is contingent on model input and modeler expertise. FSProcan only be as accurate as thedata used as inputs to the model. The followingtwo data sources should be critiqued:</p>
+        <ul>
+          <li class="listbullet2">
+            <span class="specialbold">Landscape: </span>Needs to be up to date (often the landscape will need to be edited to provide realistic modeling results); use of the landscape editor might be needed [see Stratton, 2009].</li>
+          <li class="listbullet2">
+            <span class="specialbold">RAWS: </span>One or two can be selected and need to be representative of the analysis area for both ERC values,as well aswind values.</li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</html>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Additional content enhances the decision document by providing more data to support the decision and completing the story of the decision. </p>
+    <ul>
+      <li class="listbullet">Long-term assessment information from local experts or fire behavior personnel</li>
+      <li class="listbullet">Fire Behavior Assessment (short-, near-, and long-term)</li>
+      <li class="listbullet">Additional Risk Assessment information</li>
+      <li class="listbullet">Other analysis products produced inside or outside of the application (e.g., smoke modeling, etc.)</li>
+      <li class="listbullet">Contingency planning and contingency assessments</li>
+      <li class="listbullet">Additional values information</li>
+    </ul>
+  </body>
+</html>

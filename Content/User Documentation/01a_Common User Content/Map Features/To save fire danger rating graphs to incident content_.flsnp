@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Users must be incident owners or editors to save a Fire Danger Graph to the situation content.</p>
+    <ul>
+      <li class="listbullet">When viewing a Fire Danger Graph from the <span class="menuoptions">Situation</span> tab, sub-tab <span class="menuoptions">Info</span>, click <span class="buttons">Save to Incident Content</span>.</li>
+    </ul>
+    <p class="bodytext">The graphs are available to add to decision content from the Fire Danger folder, within the Assessment folder, under the incident content folder. </p>
+  </body>
+</html>

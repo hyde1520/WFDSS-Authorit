@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident list, select the incident &gt; click <span class="buttons">View Information</span>. The Edit Information page appears.</li>
+      <li class="listnumber">Select the <span class="menuoptions">Periodic Assessment</span> tab. The Periodic Assessment page appears.</li>
+      <li class="listnumber">Set the number of days until the next assessment.</li>
+      <li class="listnumber">If you want an email reminder, mark the checkbox for email reminders.</li>
+      <li class="listnumber">Review the relative risk assessment information, and if necessary, update theassessment.</li>
+      <li class="listnumber">Review the organizational assessment information, and if necessary, update the assessment.</li>
+      <li class="listnumber">
+        <p>Determine whether the current decision is still valid.</p>
+        <ul>
+          <li class="listbullet2">Click <span class="buttons">Current Decision Still Valid</span>, if this is true. The Periodic Assessment List is updated.</li>
+          <li class="listbullet2">If the current decision is no longer valid, enter a comment, then click <span class="buttons">New Decision Required</span>. The Periodic Assessment list is updated.</li>
+        </ul>
+      </li>
+    </ol>
+  </body>
+</html>

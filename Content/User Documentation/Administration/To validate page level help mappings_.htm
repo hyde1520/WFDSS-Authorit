@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">To validate page level help mappings:</h1>
+    <ol>
+      <li class="listnumber">In WFDSS, choose the <span class="menuoptions">Administration</span> tab. The Administration page appears.</li>
+      <li class="listnumber">In the Support section, click <span class="buttons">Validate Page Level Help</span>. The Validate Help page appears.</li>
+      <li class="listnumber">Sort the Help Link column. N/A links appear, followed by Invalid links.</li>
+      <li class="listnumber">
+        <p>For N/A links, do the following:</p>
+        <ol>
+          <li class="listalpha2">In AuthorIT, search for the topic.</li>
+          <li class="listalpha2">Right-click to choose <span class="menuoptions">Properties</span> from the menu. The Properties window opens.</li>
+          <li class="listalpha2">On the <span class="menuoptions">General</span> tab, verify that the template is Topic Template.</li>
+          <li class="listalpha2">Choose the <span class="menuoptions">Web</span> tab.</li>
+          <li class="listalpha2">Verify that the Heading field contains the topic title that you want to publish in the Help TOC and that Start Page is marked.</li>
+          <li class="listalpha2">Enter a Page Title. For example, WFDSS Help | Create Incident. (Use present-tense verb and abbreviated version of the title. This is what appears in the page tab of the browser window when the topic is published.)</li>
+          <li class="listalpha2">Enter a Filename. For example, WFDSSHelp_Create_Incident.html. </li>
+          <li class="listalpha2">Click <span class="buttons">Apply</span> to continue working on Properties or click <span class="buttons">OK</span> to save and exit the Object Properties window.</li>
+        </ol>
+      </li>
+      <li class="listnumber">
+        <p>For Invalid links, do the following:</p>
+        <ol>
+          <li class="listalpha2">Verify that the Help HTML and HTML Title match what's in the Help Validation table. </li>
+          <li class="listalpha2">In WFDSS, find the JSP and test the link.</li>
+          <li class="listalpha2">Go to avocet &gt; authorit &gt; publishing &gt; XHTML pages &gt; WFDSS help and verify that the page exists in the folder. (Sometimes, the publishing process hiccups and a page doesn't get published.)</li>
+          <li class="listalpha2">In AuthorIT, select the topic in question &gt; right-click and choose <span class="menuoptions">Properties</span> &gt; choose <span class="menuoptions">Web</span> tab.</li>
+          <li class="listalpha2">Verify that the information in the Object Properties matches the information in the WFDSS_JSP_Help_Map_master spreadsheet.</li>
+          <li class="listalpha2">Make any necessary changes. </li>
+          <li class="listalpha2">In the WFDSS_JSP_Help_Map_master spreadsheet, highlight the topic in yellow.</li>
+        </ol>
+      </li>
+      <li class="listnumber">
+        <p>To add link a new .jsp file to an existing AuthorIT topic do the following:</p>
+        <ol>
+          <li class="listalpha2">Click <span class="buttons">View Pages without Links</span>. The Assign Help to Page page appears.</li>
+          <li class="listalpha2">Click to select the name/jsp combination that matches your AuthorIT help topic.</li>
+          <li class="listalpha2">Type the HTML file name for your AuthorIT help topic. </li>
+          <li class="listalpha2">Click <span class="buttons">Check Topic </span>to verify this is the correct topic.</li>
+          <li class="listalpha2">Click Accept to assign the help topic to a .jsp file.</li>
+        </ol>
+      </li>
+      <li class="listnumber">Once you have finished correcting the mappings, republish the Help.</li>
+      <li class="listnumber">Verify the updated mappings in the WFDSS application.</li>
+    </ol>
+    <p class="bodytext">You should perform this task at least once per release cycle, especially if the development team is adding a bunch of new features. Even if you don't yet have enough information to document a feature, at least try to create a placeholder topic in the Help so that the context-sensitive help is ready when you are.</p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

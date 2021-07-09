@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Navigate to the analysis you want to download winds for. (See <a href="../../01a_Common User Content/Navigation/Navigate to an Analysis.htm">Navigate to an Analysis</a> for more detailed instructions.)</li>
+      <li class="listnumber">Select the appropriate FSPro analysis, then click <span class="buttons">View Information</span>. The Analysis Information page appears for the selected analysis.</li>
+      <li class="listnumber">From the left menu, select <span class="menuoptions">Winds</span>. The FSPro Winds page appears.</li>
+      <li class="listnumber">Select the RAWS in the Station ID drop-down list or retain the default value.</li>
+      <li class="listnumber">Click <span class="buttons">Download Winds</span>. The File Download popup appears.</li>
+      <li class="listnumber">Either select to <span class="buttons">Open</span> or <span class="buttons">Save</span> the .csv file. (Opening the file opens the spreadsheet but does not save it to your hard drive or network.)</li>
+    </ol>
+    <p class="bodytext">The file contains the wind information for the history of the RAWS however the FSPro simulation uses a subset of that information as defined by the user-selected Time Filter.</p>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

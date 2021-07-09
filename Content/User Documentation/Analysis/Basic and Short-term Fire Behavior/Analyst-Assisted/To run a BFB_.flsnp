@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident list, select the incident for which you want to run a BFB.</li>
+      <li class="listnumber">Click <span class="buttons">View Analyses</span>. The Analysis List appears for the selected incident.</li>
+      <li class="listnumber">Under New Analysis, select Basic, then click <span class="buttons">Create Analysis for Incident</span>. The New Basic Analysis page appears. (You can also <a href="Copying an Existing Basic Fire Behavior Analysis.htm">copy an existing analysis</a>.)</li>
+      <li class="listnumber">Enter an Analysis Name. <MadCap:snippetText src="../../../01a_Common User Content/Topic Snippets/Analysis Name Limitations.flsnp" /><div class="listcontinue"><p>Since incidents can have many analyses associated with them, be specific in your name (up to 48 characters). For example, "Red Valley BFB 06152009 1300 jdoe" would be the Red Valley fire, BFB run on June 15, 2009 at 1 pm by Jane Doe.</p></div></li>
+      <li class="listnumber">Set the hours and conditioning days. The hour field is the time at which the fuels conditioning will stop.</li>
+      <li class="listnumber">Set the foliar moisture content and select a crown fire method.</li>
+      <li class="listnumber">Set the spread options in degrees (to simulate backing, flanking, or head fire).</li>
+      <li class="listnumber">Verify the RAWS station information.</li>
+      <li class="listnumber">Click <span class="buttons">Create</span>. The Detailed Basic Fire Behavior page appears.</li>
+      <li class="listnumber">
+        <p>Verify the following items:</p>
+        <ul>
+          <li class="listbullet2">
+            <a href="Modifying Wind Information (BFB, STFB).htm">wind information</a>
+          </li>
+          <li class="listbullet2">
+            <a href="../../Modifying Initial Fuel Moisture (BFB &amp; STFB, NTFB).htm">initial fuel moistures</a>
+          </li>
+          <li class="listbullet2">
+            <a href="../../Viewing and Modifying Weather Summary Data (BFB, STFB &amp; NTFB).htm">hourly records (wind and weather)</a>
+          </li>
+        </ul>
+      </li>
+      <li class="listnumber">Create a landscape file and edit it if necessary. (See <a href="../../FSPro/Creating the Landscape File.htm">Creating the Landscape File</a> and <a href="../../FSPro/Editing the Landscape File.htm">Editing a Landscape File</a>.)</li>
+      <li class="listnumber">Use the requirements fly-out menu on the right to ensure all required components are completed.</li>
+      <li class="listnumber">Click <span class="buttons">Run Basic Fire Behavior</span>. The Analysis List page reappears and displays the new analysis with a Queued status.</li>
+    </ol>
+    <p class="bodytext">Depending on the landscape size and resolution, as well as the traffic on the server, the analysis could take several minutes to run. Refresh your browser to see the status change to Complete, then select the analysis and click <span class="buttons">View Results</span> to see the analysis on the map view.</p>
+    <MadCap:snippetBlock src="../../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

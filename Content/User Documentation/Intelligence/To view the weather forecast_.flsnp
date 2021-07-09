@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Choose <span class="menuoptions">Intelligence tab &gt; Info sub-tab.</span> The Information page appears in the left pane.</li>
+      <li class="listnumber">Select the <img src="To view the weather forecast_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> Information icon and place your cursor on the map where you want to know the forecast.</li>
+      <li class="listnumber">Click Weather Forecast. The current forecast for the selected area appears.</li>
+      <li class="listnumber">Review the information in light of current and expected fire conditions.</li>
+    </ol>
+    <p class="bodytext">The weather data are automatically included in the <a href="../Reference/decision reference/Decision Content Tree.htm">decision content tree</a> for the incident (<span class="menuoptions">Decision &gt; Assessment &gt; Weather</span>).</p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

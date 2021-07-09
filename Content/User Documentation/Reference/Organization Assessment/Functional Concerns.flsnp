@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Evaluate the needed organizational structure to adequately and safely manage the incident, and rank this element as N/A (minimal resource committed), low (adequate), moderate (some additional support needed), or high (current capability inadequate).</p>
+    <p class="bodytext">Considerations include: Incident management functions (logistics, finance, operations, information, planning, safety, and/or specialized personnel/equipment) are inadequate and needed; availability of resources; access to EMS support; heavy commitment of local resources to logistical support; ability of local businesses to sustain logistical support; substantial air operation which is not properly staffed; worked multiple operational periods without achieving initial objectives; incident personnel overextended mentally and/or physically; Incident Action Plans, briefings, etc. missing or incomplete; performance of firefighting resources affected by cumulative fatigue; and ineffective communications.</p>
+    <p class="bodytext">Use the following table to help guide your selection for Functional Concerns:</p>
+    <p class="bodytext">
+      <span class="specialbold">Table 1: Determining Selection Values for Functional Concerns</span>
+    </p>
+    <table style="border-collapse:collapse; border: 1px solid #010101;">
+      <thead>
+        <tr>
+          <th class="tableheading" width="202.6" style="border: 1px solid #010101;">
+            <p class="tableheading">
+              <span class="specialbold">N/A (Very Low)</span>
+            </p>
+          </th>
+          <th class="tableheading" width="222.86666666666667" style="border: 1px solid #010101;">
+            <p class="tableheading">
+              <span class="specialbold">Low</span>
+            </p>
+          </th>
+          <th class="tableheading" width="222.86666666666667" style="border: 1px solid #010101;">
+            <p class="tableheading">
+              <span class="specialbold">Moderate</span>
+            </p>
+          </th>
+          <th class="tableheading" width="212.93333333333334" style="border: 1px solid #010101;">
+            <p class="tableheading">
+              <span class="specialbold">High</span>
+            </p>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td width="202.6" style="border: 1px solid #010101;">
+            <ul>
+              <li class="listbullet">Few or no resources required on the fire. </li>
+              <li class="listbullet">Local resources are utilized or resources can be easily ordered.</li>
+              <li class="listbullet">Special support personnel not necessary.</li>
+              <li class="listbullet">No specific IAP required, routine briefing and communications suffice.</li>
+              <li class="listbullet">Safety issues are easily identified and mitigated.</li>
+              <li class="listbullet">Terrain and fuels do not affect action or make the incident challenging to support.</li>
+            </ul>
+          </td>
+          <td width="222.86666666666667" style="border: 1px solid #010101;">
+            <ul>
+              <li class="listbullet">Existing management organization adequate or can be downsized.</li>
+              <li class="listbullet">Resources are available to support actions.</li>
+              <li class="listbullet">Special support personnel not necessary.</li>
+              <li class="listbullet">Necessary frequency for IAP’s less than daily.</li>
+              <li class="listbullet">Safety issues are easily identifiable and mitigated.</li>
+              <li class="listbullet">Terrain and fuels are such that actions are easily supported.</li>
+            </ul>
+          </td>
+          <td width="222.86666666666667" style="border: 1px solid #010101;">
+            <ul>
+              <li class="listbullet">Existing management organization is too small or does not match the complexity/incident strategies making it difficult to achieve the incident objectives. </li>
+              <li class="listbullet">Availability of resources may be limited.</li>
+              <li class="listbullet">Special support personnel are needed.</li>
+              <li class="listbullet">Safety hazards have been identified and can be mitigated. </li>
+              <li class="listbullet">Terrain and fuels are such that actions are a challenge to a simple organization.</li>
+            </ul>
+          </td>
+          <td width="212.93333333333334" style="border: 1px solid #010101;">
+            <ul>
+              <li class="listbullet">Current fire size warrants three or more divisions or potential exists for increased functional areas. </li>
+              <li class="listbullet">Special functional positions (C&amp;G) or units are needed.</li>
+              <li class="listbullet">Adequate resources may be limited or difficult to obtain.</li>
+              <li class="listbullet">Substantial aviation operations are taking place requiring significant staffing. </li>
+              <li class="listbullet">Complex operations are taking place which lead to extensive safety management.</li>
+              <li class="listbullet">Terrain and fuels make actions challenging to support.</li>
+            </ul>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="bodytext" />
+  </body>
+</html>

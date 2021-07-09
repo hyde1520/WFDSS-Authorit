@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Fires are known as incidents in WFDSS. Incidents are either populated via the <a href="https://wfdss.usgs.gov/wfdss_help/WFDSSHelp_abt_IRWIN_data_exchange.html">IRWIN</a> system or entered manually by users assigned the role of Dispatcher or Author. Incidents can be created manually in two ways. You can:</p>
+    <ul>
+      <li class="listbullet">Use the <a href="../Incident/To create an incident using the map view_.htm">Create a New Incident tool on the Intelligence map view</a>, or</li>
+      <li class="listbullet">Use the <a href="../Incident/To create an incident using the data entry fields_.htm">Create New Incident link above the Incident List</a>.</li>
+    </ul>
+    <p class="bodytext">When you create a new incident on the Intelligence map, you do not need to enter the latitude or longitude; click a location on the Intelligence map to determine an incident's location. You can update the coordinates later, when needed. When you use the Create New Incident link above the Incident list to create an incident, you must enter a latitude and longitude.</p>
+    <MadCap:snippetBlock src="../../zzzz_Sandbox/4.12_release/Selecting an Incident Type.flsnp" />
+    <p class="bodytext">Required fields of data are indicated by asterisks and some auto-populate. The fields that you must develop inputs for include:</p>
+    <ul>
+      <li class="listbullet">Incident Name (at least two characters in length),</li>
+      <li class="listbullet">Responsible Unit ID,</li>
+      <li class="listbullet">Local Fire Number(6-10 characters and alphanumeric), and </li>
+      <li class="listbullet">DiscoveryTime. </li>
+    </ul>
+    <p class="bodytext">You can always return to the <a href="../Incident/Editing Incident Information.htm">Edit Incident</a> page to make edits, or add further information at a later time. National and GA Editors are the only ones who can edit the Jurisdictional Unit at Point of Origin field.</p>
+    <p class="bodytext">Using the WFDSS application you can also create and manage incidents for any fire within 50 km of the US Border of Canada and Mexico (for Alaska it is within 10 miles.) The Intelligence map displays new state layer maps for Canada and Mexico. </p>
+    <p class="bodytext">Once an incident is created, <a href="../Incident/Editing Incident Information.htm">incident information can easily be edited on the Incident Information page</a>. Dispatchers and Authors frequently visit this page to update an incident's latitude and longitude, size, and affected jurisdictional agencies.</p>
+    <p class="warning">
+      <span class="specialbold">WARNING</span>: Administrative units should not create incidents in Production that have been previously entered into a Computer Aided Dispatch system (such as WildCAD 6) or the 209 system. <a href="https://wfdss.usgs.gov/wfdss_help/WFDSSHelp_abt_IRWIN_data_exchange.html">IRWIN</a> program populates this incident data automatically into WFDSS. Creating these incidents manually will result in duplicate incidents in WFDSS.</p>
+  </body>
+</html>

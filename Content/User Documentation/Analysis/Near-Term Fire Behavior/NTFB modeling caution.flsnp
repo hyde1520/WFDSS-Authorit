@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">NTFB works a bit differently from the FARSITE that you are used to. FARSITE required a lot of time to build the data for the run, and consequently, was primarily used with medium, emerging incidents or established large fires. With NTFB, you can quickly produce model outputs for making decisions on new fires. However, if the fire is smaller than the resolution used by the model, you might see little or no fire spread (e.g., a 1/4-acre fire is smaller than a single cell on a 30-meter landscape). While these minimal model outputs could be realistic since live fire does require some momentum and time before it spreads, they often under-predict the fire growth. The modeled world is more homogenous than the real world so, if the growth of very small fires is being underpredicted by NTFB, it may be necessary to increase the fire size and capture a few more cells to represent the diversity in the fuels.</p>
+    <p class="bodytext">To get more realistic outputs, consider increasing the size of your ignition to at least 8 landscape cells (about 2 acres with a 30-meter landscape or around 7 acres at 60 meters) under the following conditions:</p>
+    <ul>
+      <li class="listbullet">for modeling 'worst-case' scenarios</li>
+      <li class="listbullet">to account for local experience that indicates the model is under-predicting fire growth.</li>
+    </ul>
+    <p class="bodytext">While 8 cells might be larger than your actual ignition, the effect of using a larger ignition size washes out over the course of the run and might return more realistic outputs.</p>
+    <p class="bodytext">In addition, it is important to remember that NTFB does not account for suppression action, an assumption that is particularly important when interpreting NTFB outputs for small fires.</p>
+  </body>
+</html>

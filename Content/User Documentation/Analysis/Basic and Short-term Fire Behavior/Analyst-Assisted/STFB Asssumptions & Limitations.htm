@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">STFB Asssumptions &amp; Limitations</h1>
+    <p class="bodytext">WFDSS Short-Term Fire Behavior (STFB) has a number of assumptions and limitations:</p>
+    <ol>
+      <li class="listnumber">WFDSS Short-Term Fire Behavior (STFB) calculates fire spread and fire behavior outputs using fuel moisturesbased on topographic information, forest canopy cover, and theprevious(user-determined number of)days of weatherdata (for fuel moisture conditioning) from the selected RAWS, as well as National Weather Service (NWS) Forecast Data for weather and wind data.  Weather data from the RAWS and the forecast data need to be critiqued and potentially adjusted by the Fire Behavior Specialist (FBS).</li>
+      <li class="listnumber">Even though STFB can simulate many hours of fire spread, wind speed and direction are held constantfor the duration ofthe simulation.</li>
+      <li class="listnumber">Fuel moisture values (as calculated at theanalysis start date and time) are held constantfor the duration ofthe STFB simulation. </li>
+      <li class="listnumber">WFDSSSTFB uses most of the same underlying fire models (Rothermel's 1972 surface fire model, Van Wagner's 1977 crown fire initiation model, Rothermel's 1991 crown fire spread model, Albini's 1979 spotting from torching trees, and Nelson's 2000 dead fuel moisture model) used in other fire behavior applications. Thus, the assumptions and limitations of those underlying fire models are inherent within WFDSS STFB.</li>
+      <li class="listnumber">Fire growth calculations for STFB across the landscape extent are performed assuming independence of fire behavior between neighboring cells. In other words, the travel time across a cell does not depend on the behavior in adjacent cells.</li>
+      <li class="listnumber">As with all models, the quality of the outputs from WFDSS STFB depends on the quality of the inputs.  If the landscape data, RAWS data, or forecast dataused are inadequate, the resulting fire behavior outputs will be questionable.  It is important to critique andmodify as needed,the fuels data, as well as the RAWS and forecast data <span class="emphasis">before</span> using WFDSS STFB results in support of wildland fire decision-making.</li>
+    </ol>
+    <p class="bodytext">
+      <MadCap:snippetText src="../../../../01_Common Content/Last Modified Message.flsnp" />.</p>
+    <p class="bodytext" />
+  </body>
+</html>

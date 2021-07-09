@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident List, select the incident you want to create an SCI for.</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>. The Edit Incident Information page appears.</li>
+      <li class="listnumber">Click the<span class="menuoptions"> Cost </span>tab.</li>
+      <li class="listnumber">Locate the Stratified Cost Index section, and then click View SCI List. The Stratified Cost Index List appears. If no one has created an SCI for the incident, the list will be empty.<div class="listcontinue"><p>A message appears at the top of the screen reminding you that SCI applies only to the federal wildfire agencies within the continental United States, federal wildfire agencies excluding the US Forest Service in Alaska, and that SCI is valid only for fires of 300+ acres.</p></div></li>
+      <li class="listnumber">Click <span class="buttons">Create. </span>The screen reloads with the SCI Parameters.</li>
+      <li class="listnumber">Enter an SCI Name. <div class="listcontinue"><p>This name appears in the incident decision tree, so be as specific and descriptive as possible (e.g., 3/30/2009 1000-5000 acres)</p></div></li>
+      <li class="listnumber">Enter Estimated Acreage for each alternative cost, starting with the actual burned acres. <div class="listnote"><MadCap:snippetBlock src="../../../01_Common Content/Notes, Cautions, Warnings/note on fire size autofilling for SCI.flsnp" /></div></li>
+      <li class="listnumber">Click <span class="buttons">Save</span>. A message appears at the top of the screen telling you that the parameters have been saved.</li>
+      <li class="listnumber">Click <span class="buttons">Return</span>. The Stratified Cost Index List refreshes, and displays your SCI request. </li>
+      <li class="listnumber">Go to the <a href="To edit and accept an SCI_.htm">Editing and Accepting an SCI</a> task.</li>
+    </ol>
+    <p class="bodytext">If your request doesn't appear in the SCI List within an hour, contact the <a href="https://iiahelpdesk.nwcg.gov/">HelpDesk</a>.</p>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

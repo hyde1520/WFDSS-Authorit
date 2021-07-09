@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">The WFDSS Situation map allows users to assess the situation to determine if a decision needs to be published. It can be accessed by clicking the Situation tab or the small map icon located on the right side of the screen in the Incident perspective. Selecting the Situation tab opens the map embedded in the display of the main application. Opening it from the map icon opens the Situation map in its own window. Using the map icon allows the greatest flexibility as you can develop decision inputs and view the Situation map simultaneously. </p>
+    <p class="bodytext">The <a href="../About_Topics/About Maps.htm">mapping tools</a> located above the map help you to manage map scale, draw shapes and view feature information. Above the mapping tools is a <a href="../01a_Common User Content/Map Features/Bookmarks/Bookmarking Maps.htm">Bookmark button</a> that allows Dispatchers, Authors, and Editors to save their current map settings on the Situation map so they will be available the next time they login to WFDSS. There is also the option to share any bookmark as a link with other users whose privileges allow them to view the map context.</p>
+    <p class="bodytext">By adding the spatial layer Active Planning Area in the System Preferences tab, you can display nearby active planning areas on the Situation map.</p>
+    <p class="bodytext">Dispatchers, Authors, and Editors need at a least this information to assess the situation:</p>
+    <ul>
+      <li class="listbullet">Latitude/longitude of the incident (Info tab)</li>
+      <li class="listbullet">Current size of the incident (click dropdown arrow besides current perimeter in the LayerSwitcher to view shape information)</li>
+      <li class="listbullet">Jurisdictions involved in the incident (boundaries layers)</li>
+    </ul>
+    <p class="bodytext">There are a variety of map layers that can inform your situation assessment. To ensure you are viewing all applicable map layers for an incident, <a href="../Home_User Profile/Changing Your System Preferences.htm">change your system preferences </a>as needed to add/remove map layers from your map displays. When a decision for an incident is being reviewed you will not be able to create planning areas, fire perimeters, MAPs, or incident obj. shapes on a situation assessment map.</p>
+    <p class="bodytext">When an incident is declared out, you can only create perimeters, points of interest, and analyses on a situation assessment map.</p>
+    <p class="bodytext">The two tabs on the left of the Situation map contain information relevant to the situation:</p>
+    <p class="bodytext">
+      <span class="specialbold">Map tab--</span>Depending on your user role you can:</p>
+    <ul>
+      <ul>
+        <li class="listbullet2">View information for a variety of maplayer types.</li>
+      </ul>
+    </ul>
+    <p class="bodytext">
+      <span class="specialbold">Info tab--</span>Depending on your user role you can:</p>
+    <ul>
+      <ul>
+        <li class="listbullet2">Modify incident latitude, longitude, and radius (if needed).</li>
+        <li class="listbullet2">Select layer/feature information to query for a variety of layer types.</li>
+        <li class="listbullet2">Review data related to the situation such as the <a href="../01a_Common User Content/Map Features/Viewing Smoke Dispersion Information.htm">Smoke </a><a href="../01a_Common User Content/Map Features/Viewing Smoke Dispersion Information.htm">Dispersion</a><a href="../01a_Common User Content/Map Features/Viewing Smoke Dispersion Information.htm"> Forecast Guidance</a>, <a href="../Data Management/Viewing Strategic Objectives.htm">Strategic Objectives</a>, <a href="../Analysis/FSPro/Viewing the Weather Forecast.htm">Fire Weather Forecas</a>t, or <a href="../../zzzz_Sandbox/Diane/Generating Hourly Weather Forecasts.htm">Hourly Weather Forecasts</a>.</li>
+        <li class="listbullet2">Use the "i" tool in the toolbar above the map display to query the data source, elevation, aspect, slope, fuel model, canopy cover, canopy bulk density, stand height, and canopy base height.</li>
+        <li class="listbullet2">Use the Map Capture feature to capture an image that can be used in a Decision or for a Report, or both.</li>
+      </ul>
+    </ul>
+  </body>
+</html>

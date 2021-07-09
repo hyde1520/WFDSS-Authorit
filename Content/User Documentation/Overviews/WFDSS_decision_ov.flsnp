@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">WFDSS is the system of record for creating, compiling, and publishing a decision related to wildland fire incidents. The WFDSS Decision ensures that a fire incident is managed using the latest science, relative risk assessments, and fire model data. Incident owners create a pending decision using the WFDSS application when an incident escapes initial attack, grows significantly in cost and/or resource use, or requires a new course of action. The Decision is reviewed and approved for each incident by designated reviewers and approvers. When a decision is approved it is a Published Decision.</p>
+    <p class="bodytext">The Decision includes information about the following:</p>
+    <ul>
+      <li class="listbullet">
+        <span class="specialbold">Incident.</span> This includes name, unique identifier, responsible agency, location, and discovery date/time.</li>
+      <li class="listbullet">
+        <span class="specialbold">Situation</span>. Multiple mapping layers can display how fire perimeter growth impacts landscape values or points of interest. Incident owners can run Basic and Short Term Fire Behavior analyzes, view objectives, Energy Release Component (ERC) graphs, and/or current weather. </li>
+      <li class="listbullet">
+        <span class="specialbold">Objectives</span>. The incident owner designates incident-specific objectives and requirements that satisfy guidance found in Strategic Objectives and Land Management Plans.</li>
+      <li class="listbullet">
+        <span class="specialbold">Course of Action</span>. The incident owner develops a strategic plan to manage the fire. This includes costing estimates and any additional actions required to implement the strategic plan. </li>
+      <li class="listbullet">
+        <span class="specialbold">Cost</span>. Estimated Final Cost can be documented as well as the cost estimation method used to derive it. </li>
+      <li class="listbullet">
+        <span class="specialbold">Decision List</span>. The incident owner reviews/edits the list of reviewers and approvers, creates and checks in the decision, and submits it for review and/or approval. </li>
+    </ul>
+  </body>
+</html>

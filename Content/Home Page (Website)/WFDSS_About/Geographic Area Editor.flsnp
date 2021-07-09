@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">The WFDSS Geographic Area Editor (GAE) role provides support to WFDSS users and incidents within their individual Geographic Areas (GA). GAEs have implicit ownership of incidents within their GAs, and serve as interagency technical experts and Geographic Area (GA) Point of Contacts for their agency or bureau.</p>
+    <p class="bodytext">GAEs from various agencies are typically designated within each GA. GAEs work cooperatively for the benefit of all users within their GA and are both able and expected to assist any caller from any agency within their GA. </p>
+    <p class="bodytext">GAE WFDSS Duties</p>
+    <ul>
+      <li class="listbullet">Grants and removes user roles (Viewer, Author, Dispatcher, Fire Behavior Specialist, and Data Manager) in the Training and Production systems within their GA.</li>
+      <li class="listbullet">Coordinates management  of fire behavior analysis request in support of incident within their GA and delegate work to analysts in concurrence with geographic area SOPs.</li>
+      <li class="listbullet">
+        <p>Serves as a WFDSS expert to support WFDSS users within their GA:</p>
+        <ul>
+          <li class="listbullet2">Assists or otherwise provides oversight in the development of decision content for WFDSS decisions.</li>
+          <li class="listbullet2">Provides "WFDSS Point of Contact (POC)" technical help during off hours and weekends.</li>
+          <li class="listbullet2">Provides training and answers technical "how to" questions. </li>
+          <li class="listbullet2">Provides incident support within their GAs, as needed, and when an incident owner is unavailable. GAEs can:</li>
+        </ul>
+        <ol>
+          <ol>
+            <li class="listalpha3">Edit any WFDSS incident within theirGA, in coordination with incident owners, editors and/or Approving Official(s),</li>
+            <li class="listalpha3">Develop and share filters (groups, incident, analysis, and intelligence), </li>
+            <li class="listalpha3">Upload incident and/or analysis shapefiles, </li>
+            <li class="listalpha3">Transfer/modify incident ownership,</li>
+            <li class="listalpha3">Grant incident privileges, and</li>
+            <li class="listalpha3">Edit jurisdictional point of origin (in coordination with local unit and incident)</li>
+          </ol>
+        </ol>
+        <ul>
+          <li class="listbullet2">Serves as Geographic Area POC for their agency or bureau:</li>
+        </ul>
+        <ol>
+          <ol>
+            <li class="listalpha3">Facilitates interagency cooperation and coordination in support of multijurisdictional incidents and field users.</li>
+            <li class="listalpha3">Consults fire and resource management staff and agency leadership as needed on WFDSS decision content.</li>
+            <li class="listalpha3">Coordinates with and provides backup to other GAEs within their GA.</li>
+            <li class="listalpha3">Disables agency/bureau user accounts within their GA.</li>
+            <li class="listalpha3">Disseminates technical information such as upgrades to the WFDSS system, "how to" guidance and training materials/announcements.</li>
+            <li class="listalpha3">Participates in monthly GAE calls to keep up to date on system changes or other relevant information to be shared with field units.</li>
+            <li class="listalpha3">Verifies completion of security training for non-federal account requests.</li>
+            <li class="listalpha3">Assists with the reactivation of disabled accounts within their GA. When a user with a disabled account contacts a GA editor, the GA can assign the user a role in WFDSS Production and it automatically syncs with the user’s Training account. The user can then contact the Help Desk to reset their password and unlock the account.</li>
+          </ol>
+        </ol>
+      </li>
+    </ul>
+    <p class="bodytext">GAE WFDSS Limitations:</p>
+    <ul>
+      <li class="listbullet">Cannot reset passwords (users must contact the help desk to reset their password and unlock their account).</li>
+      <li class="listbullet">Does not include privileges specific to Fire Behavior Specialist, Administrator or Helpdesk.</li>
+      <li class="listbullet">Cannot view disabled accounts for users in other GAs.</li>
+    </ul>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

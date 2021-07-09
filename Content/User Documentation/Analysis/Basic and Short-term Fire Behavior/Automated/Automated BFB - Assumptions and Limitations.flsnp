@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">WFDSS Automated Basic Fire Behavior (BFB) has a number of assumptions and limitations:</p>
+    <ol>
+      <li class="listnumber">WFDSS Automated Basic Fire Behavior (BFB) calculates fire behavior outputs using fuel moisturesbased on topographic information, forest canopy cover, and theprevious seven days of weatherdata (for fuel moisture conditioning) from the WFDSS-selected RAWS.However, the RAWS selected by WFDSS cannot be changed by the user.In addition,RAWSobservations cannot edited.</li>
+      <li class="listnumber">Thewind speed and direction(from historic observations, NWS Forecast Data, or supplied by the user) are used as inputs into WindNinja to create gridded winds at 200-meter resolution. Though the wind inputs are populated for the forecast start time, users of Automated BFB will want to reveiw these default values and adjust them based on the best available local information or when attempting to answer a scenario-based question ('will there be active crown fire with 20mph southerly winds?'). Additionally, it is important to check the output wind speed and direction grids because a 20mph input could result in 50mph winds at the ridgetop adn 4mph winds in the valley bottom. Users may have to make a few runs and work the analysis 'backwards' to get the windspeed they want in a specific area (especially if the terrain is highly contoured).</li>
+      <li class="listnumber">Fire behavior calculations are performed independently for each cell on the landscape.</li>
+      <li class="listnumber">WFDSS BFB uses the same underlying fire models (Rothermel's 1972 surface fire model, Van Wagner's 1977 crown fire initiation model, Rothermel's 1991 crown fire spread model, and Nelson's 2000 dead fuel moisture model) used in other fire behavior applications; thus the assumptions and limitations of those underlying fire models are inherent within WFDSS BFB.</li>
+      <li class="listnumber">As with all models, the quality of the outputs from WFDSS Automated BFB depends on the quality of the inputs.  Once the run is complete, experienced users can examine the RAWS data and landscape that were used for the analysis, but will not be able to adjust those inputs for automated runs. If the input data are suspect, then consider the output results suspect as well. When the weather or landscape requires significant adjustment, consider finding a qualified analyst that can make those changes using an analyst-assisted model.</li>
+      <li class="listnumber">WFDSS Automated BFB does notallow the user to save the outputs, theycan only be displayed within WFDSS. <span class="specialbold">In addition, after 20 days, the analysis is automatically deleted by WFDSS.</span></li>
+      <li class="listnumber">It is important to remember that themore automated the model, the less ability the user has to refine the inputs. Because WFDSSAutomated BFB is highly automated (providing fuels, weather, and topography data, and requiring very few inputs from the user), carefully critique the results before using them for supporting wildland fire decision-making.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

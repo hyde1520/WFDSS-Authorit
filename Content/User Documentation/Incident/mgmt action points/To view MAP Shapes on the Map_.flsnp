@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident list, select the incident you want to view MAPs for.</li>
+      <li class="listnumber">Click <span class="buttons">Assess Situation.</span> The Incident Situation Map page appears.</li>
+      <li class="listnumber">On the Map tab, expand the Incident Layer.</li>
+      <li class="listnumber">Mark the checkbox next to Mgmt Action Points. The Management Action Points for the incident appear on the map.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

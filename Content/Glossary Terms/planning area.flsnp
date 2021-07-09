@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">An area an Incident Owner or Editor defines on the landscape that includes all the land a fire might burn during the life of a decision; it includes the area used for analysis and planning to manage a fire.</p>
+    <p class="bodytext">Planning areas help you to establish an area of interest around an incident. They determine which FMUs are contained or partially contained by the planning area, and subsequently, which preloaded strategic objectives and management requirements need to be addressed when developing incident objectives and requirements. Planning areas should be large enough to include the following:</p>
+    <ul>
+      <li class="listbullet">where actions are planned (e.g., firelines, evacuation points, protection points) </li>
+      <li class="listbullet">contingency plans (MAPs)</li>
+      <li class="listbullet">fire behavior modeling outputs</li>
+      <li class="listbullet">where you want to contain the fire</li>
+      <li class="listbullet">the physical reality of where the firecould burn during the life of the current decision (even if you don't want it to burn there)</li>
+    </ul>
+    <p class="bodytext">Planning areas are required for documenting a decision and are different from a WFSA boundary or WFIP Maximum Manageable Area, two outdated and no longer used concepts. By limiting the planning area to just where you think a fire might go, you are limiting the decision support capability of the application.</p>
+    <p class="bodytext">Drawing a large planning area may incorporate more FMUs, which in turn may require you to address more strategic objectives, management requirements, and values at risk, but if your planning area is too small, you will have to create a new decision each time management actions occur outside of the existing planning area. It's helpful to use an FSPro probability output as a general guide when trying to determine an appropriate planning area size. Doing this will ensure that the Values at Risk identified by an FSPro output are included in the Values Inventory (a product of the planning area), and addressed in the Incident Objectives. If your FSPro outputs are larger than your planning area, your planning area is too small.</p>
+    <p class="bodytext">No ramifications result from drawing a large planning area, and it is helpful to use an FSPro probability output to inform you of where the fire may try to move. If you are currently planning management action points or contingency plans outside of your planning area, you are planning outside of your planning area. Your planning area should be larger to include those areas.</p>
+    <p class="bodytext">WFDSS user roles (Viewer, Dispatcher, Author, GA Editor, National Editor, and Data Manager) can optionally subscribe to planning area notifications for one or more units. When you draw a planning area and create a pending (but not published) decision, WFDSS users who have <a href="../zzzz_Sandbox/Diane/Subscribing to Planning Area Notifications.htm">subscribed to planning area notifications</a> are notified. These individuals received emails for each unit(s) they subscribed to, and were included in the planning area when it was drawn.</p>
+    <p class="bodytext">See <a href="../User Documentation/About_Topics/About Planning Areas.htm">About Planning Areas</a> for further information.</p>
+    <MadCap:snippetBlock src="../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

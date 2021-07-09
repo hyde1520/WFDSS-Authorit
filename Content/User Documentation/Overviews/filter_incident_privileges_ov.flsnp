@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">You can use the Incident Privileges filter to find users to whom you want to assign incident privileges. All WFDSS users are displayed as a default, so filtering can save you a lot of time.</p>
+    <p class="bodytext">You can filter on the following parameters:</p>
+    <ul>
+      <li class="listbullet">Address Book</li>
+      <li class="listbullet">Geographic Area</li>
+      <li class="listbullet">Agencies</li>
+      <li class="listbullet">Roles</li>
+      <li class="listbullet">Enabled Users</li>
+      <li class="listbullet">User Name</li>
+    </ul>
+    <p class="heading2" />
+  </body>
+</html>

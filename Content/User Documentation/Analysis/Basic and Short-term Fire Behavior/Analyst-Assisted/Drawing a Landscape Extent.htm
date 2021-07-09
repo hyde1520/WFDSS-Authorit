@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">Drawing a Landscape Extent<MadCap:keyword term="analyses:shapes:Landscape Extents" /></h1>
+    <p class="bodytext">The landscape extent, defined by the fire behavior specialist, determines the size of the landscape file used for fire behavior modeling. All fire behavior analysis outputs are limited to the area included in the landscape extent. If you find that the extent is too small, create a larger extent. A fire behavior specialist can create or update a landscape extent two ways:</p>
+    <ul>
+      <li class="listbullet">
+        <a href="../../../01a_Common User Content/Map Features/Drawing Shapes on the Map.htm">Draw the landscape extent</a> on the analysis map using the Landscape Extent <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> tool, and then click <span class="buttons">Save</span> on the Info pane.</li>
+      <li class="listbullet">Add/update latitude and longitude coordinates onthe Landscape page.</li>
+    </ul>
+    <p class="bodytext">Either method can be used to create or update a landscape extent. Drawing an extent auto-populates the extent coordinates on the Landscape page and adding/updating coordinates on the Landscape page updates the landscape extent on the analysis map. For BFB and STFB, as well as FSPro, FlamMap is run for all cells contained by the landscape extent, so its important to limit it to a reasonable size. The landscape extent needs to be large enough to contain fire behavior outputs, but not so large that it slows processing time.</p>
+    <p class="bodytext">The size of your landscape extent is currently limited by the following:</p>
+    <ul>
+      <li class="listbullet">Cell resolution and the number of cells it contains</li>
+      <li class="listbullet">The fire behavior models you've chosen to run (use of gridded winds requires smaller landscape extents)</li>
+      <li class="listbullet">The distance from north to south or east to west (landscape files are capped by a distance of two degrees of latitude from north to south and 150 miles from east to west)</li>
+    </ul>
+    <p class="bodytext">You must define the landscape extent before an LCP is created, and you should redefine it if the Arrival Time and Major Paths of STFB, NTFB, or FSPro outputs are larger than the extent. When creating the landscape extent, consider the following:</p>
+    <ul>
+      <li class="listbullet">You can save only one landscape extent per analysis.</li>
+      <li class="listbullet">The larger the extent, the longer the analysis will require for processing.</li>
+      <li class="listbullet">The extent should not be larger than your planning area.If modeling outputs fall outside of the planning area, the planning area needs to be larger.</li>
+      <li class="listbullet">The extent should contain your ignition point or polygon and should encompass projected fire growth for the duration of your fire simulation.</li>
+    </ul>
+    <p class="bodytext">You will receive an error message if you draw a landscape extent that is too large and you will have to navigate back to the analysis map or landscape page to redefine it.</p>
+    <MadCap:snippetBlock src="../../../../01_Common Content/Notes, Cautions, Warnings/Warning_ 100x100 LCP.flsnp" />
+    <p class="heading2">To draw a landscape extent:</p>
+    <MadCap:snippetBlock src="../../To draw a landscape extent_.flsnp" />
+  </body>
+</html>

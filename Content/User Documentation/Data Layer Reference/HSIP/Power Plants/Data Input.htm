@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">Data Input</h1>
+    <p class="bodytext">This feature class is from the HSIP Gold 2010 Infrastructure ArcGIS 9.3 energy geodatabase.</p>
+    <p class="bodytext">The following processing steps were followed to edit the original shapefile for use within WFDSS:</p>
+    <ol>
+      <li class="listnumber">Selected records where the value for the attribute field "OP_CAP" (Operating capacity)were greater than zero.</li>
+      <li class="listnumber">Used electric generating units layer (HSIP 2010) andselected records where the attribute field "status" equaled "operating" (this layer has multiple points for every power plant, so use only to identify the associated plants that are in operation).</li>
+      <li class="listnumber">Used "Select by location" to find the points from the electric power plants that are identical to the selected points in the generating units layer.</li>
+      <li class="listnumber">Kept only the points in US and US Territories.</li>
+      <li class="listnumber">Re-projected the resulting layer to GCS NAD 83.</li>
+    </ol>
+  </body>
+</html>

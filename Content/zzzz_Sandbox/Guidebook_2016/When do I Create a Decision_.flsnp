@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">You must create and publish a decision in the following circumstances:</p>
+    <ul>
+      <li class="listbullet">The incident has escaped initial attack and is escalating into extended attack or long-duration event.</li>
+      <li class="listbullet">The situation requires a change in the level of oversight, significant changes to resource requirements, or increased costs require escalation to the next level of authority.</li>
+      <li class="listbullet">The incident objectives include both protection and resource benefit elements consistent with land management planning documents.</li>
+    </ul>
+  </body>
+</html>

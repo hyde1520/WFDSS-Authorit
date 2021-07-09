@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Select an Incident from the Incident List.</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>.</li>
+      <li class="listnumber">Click the <span class="menuoptions">Reports </span>tab. The Report List page appears.</li>
+      <li class="listnumber">Click <span class="buttons">Create</span>. The Create a New Report page appears.</li>
+      <li class="listnumber">Type the report name. The report name cannot contain an apostrophe or backslash. </li>
+      <li class="listnumber">Select the report type.</li>
+      <li class="listnumber">Click <span class="buttons">Create</span>.  A message appears saying the template is created. Click <span class="buttons">Return </span>to return to the Report List. If the Create button is disabled, you do not have privileges to create a new report template for this incident.</li>
+      <li class="listnumber">Type a report template name that does not exceed 64 characters.</li>
+      <li class="listnumber">Select Visible or Personal Use.</li>
+      <li class="listnumber">Type a template tooltip that summarizes the template purpose for others.</li>
+      <li class="listnumber">Type a description, if appropriate.</li>
+      <li class="listnumber">Select a Geographic Area, Agency, and Unit, if you are a Data Manager, GA Editor, or National Editor. If you are an Incident Owner, these fields are disabled to you and will be completed by a Data Manager, GA Editor, or National Editor.</li>
+      <li class="listnumber">Click <span class="buttons">Save </span>to save the report template and return to the Report List, or click <span class="buttons">Return </span>to return to the Report List.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+    <p class="bodytext" />
+  </body>
+</html>

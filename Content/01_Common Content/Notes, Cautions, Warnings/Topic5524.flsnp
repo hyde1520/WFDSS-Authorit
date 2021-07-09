@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="warning">
+      <span class="specialbold">Note: </span>Hourly records cannot be fetched further back than 7 days (for conditioning) or forward more than 4 or 5 days (depending on when the local forecasts are updated). The error, "Unable to retrieve acceptable conditioning data..." may occur if you request data beyond these time frames.</p>
+  </body>
+</html>

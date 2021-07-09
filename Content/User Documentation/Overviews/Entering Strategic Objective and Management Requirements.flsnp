@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Data Managers can create Strategic Objectives and Management Requirements for their units. Text can be edited if the objective or requirement has not been activated. Once created, Strategic Objective text can be associated with appropriate FMU or Strategic Objective (SO) codes if the codes and associated spatial data have been enabled in WFDSS. Management Requirement text can be associated in a similar way, to either an FMU  or SO code or applied unit-wide. Use the following guidelines to create effective Strategic Objectives and Management Requirements:</p>
+    <ul>
+      <li class="listbullet">Be consistent with the approved management and fire management plans.</li>
+      <li class="listbullet">Make sure you understand the difference between <a href="../../Glossary Terms/Strategic Objectives.htm">strategic objectives</a> and <a href="../../Glossary Terms/Management Requirement.htm">management requirements</a>.</li>
+      <li class="listbullet">Ifan FMU or SO code already has Strategic Objectives and Management Requirements listed for it, review the list first to avoid duplication.</li>
+      <li class="listbullet">Use active verbs and directive language (e.g., Ensure, Identify, Contain, Apply, etc.)</li>
+      <li class="listbullet">Be specific about conditions that the requirement applies to (e.g., Allow Wildland Fire Use only when Beaverhead RAWS, 7-day average ERC-K is below the 95th percentile.)</li>
+      <li class="listbullet">Be concise.</li>
+      <li class="listbullet">Be consistent in the way you enter the objectives and requirements for your unit. For example, if you use the table format to describe your objective or requirement, use the same format for all of them. (Doing so helps maintain a consistent format to the decision and incident reports.)</li>
+      <li class="listbullet">Where applicable, associate the Strategic Objective or Management Requirement to the appropriate unit shape.</li>
+    </ul>
+    <p class="bodytext">Strategic Objectives and Management Requirements always display in ascending order, and the order they were entered.</p>
+    <MadCap:snippetBlock src="../../01_Common Content/Notes, Cautions, Warnings/strategic objective_mgmt requirement activation.flsnp" />
+  </body>
+</html>

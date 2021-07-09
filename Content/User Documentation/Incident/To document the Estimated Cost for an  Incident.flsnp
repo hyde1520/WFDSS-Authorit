@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident List, select the incident for which you would like to document the Estimated FinalCost.</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>. The Incident Information page appears.</li>
+      <li class="listnumber">Click the <span class="menuoptions">Cost</span> tab.</li>
+      <li class="listnumber">Add an Estimated Final Cost.</li>
+      <li class="listnumber">Select the Cost Estimation Method used to determine the Estimated Final Cost for the COA. If the method isn't listed, select <span class="specialbold">Other</span>.<div class="listcontinue"><p>If Other, use the Decision Editor to add text to theCost Content that describes the method used and why.</p></div></li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

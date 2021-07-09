@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">The <a href="../Decision/Relative Risk Assessment Instructions/Wildland Fire Relative Risk Assessment.htm">Wildland Fire Relative Risk Assessment</a> is required before publishing a decision for an incident. It represents Part B of the Wildland Fire Risk and Complexity Assessment (RCA) that was implemented by NWCG in January 2014. The purpose of the Relative Risk Assessment is to assist you in planning for, assessing, and managing your incidents. Incident owners and editors can perform the assessment, which provides the Agency Administrator with a quick but comprehensive assessment of the relative risk of the fire. This is a qualitative process that can be completed in less time than a quantitative long-term risk assessment.</p>
+    <p class="bodytext">Relative risk is comprised of three aspects that each need to be addressed when calculating the overall risk for an incident. The aspects are:</p>
+    <ul>
+      <li class="listbullet">
+        <a href="../Decision/Relative Risk Assessment Instructions/Value Assessment.htm">Value</a>
+      </li>
+      <li class="listbullet">
+        <a href="../Decision/Relative Risk Assessment Instructions/Hazard Assessment.htm">Hazard</a>
+      </li>
+      <li class="listbullet">
+        <a href="../Decision/Relative Risk Assessment Instructions/Probability Assessment.htm">Probability</a>
+      </li>
+    </ul>
+    <p class="bodytext">The Relative Risk Results and notes for each of the aspects appear in the Risk section of the decision. WFDSS will list recommendations for additional assessment, analysis or documentation depending on the result of the Relative Risk assessment.</p>
+    <p class="bodytext" />
+  </body>
+</html>

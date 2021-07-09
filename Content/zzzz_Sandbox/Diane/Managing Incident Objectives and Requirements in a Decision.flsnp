@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Incident objectives and requirements may change throughout the life of an incident, warranting edits and deactivations. due to When an Incident Objective or Requirement is published in a decision for the first time, it becomes activated and is timestamped with the date the decision is published. Incident Objectives or Requirements can be reused in or excluded from future decisions. If excluded from a future decision, the Incident Objective or Requirement becomes deactivated and is not available for use in future decisions.  If you want to include it in a future decision, you will have to recreate it. </p>
+    <p class="bodytext">Deactivation is not the same thing as deletion. Incident Objectives and Requirements are deactivated by the WFDSS application when you exclude them from a decision, but they cannot be deleted because they were included in a previously published decision. You can only delete Incident Objectives and Requirements that have not been included in a published decision. For additional help, see the following topics:</p>
+    <ul>
+      <li class="listbullet">
+        <a href="../../User Documentation/Incident/Editing Incident Objectives and Requirements.htm">Editing Incident Objectives and Requirements</a>, and</li>
+      <li class="listbullet">
+        <a href="../../User Documentation/Incident/Deleting Incident Objectives and Requirements.htm">Deleting Incident Objectives and Requirements</a>.</li>
+    </ul>
+    <p class="bodytext">Incident Objectives and Requirements are displayed in ascending order, and in the order they were entered.</p>
+  </body>
+</html>

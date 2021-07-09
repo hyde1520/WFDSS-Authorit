@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">WFDSS Automated Short-Term Fire Behavior (STFB) calculates fire behavior outputs using fuel moisturesbased on topographic information, forest canopy cover, and theprevious seven days of weatherdata (for fuel moisture conditioning) from the WFDSS-selected RAWS.  However, the RAWS selected by WFDSS cannot bechanged by the user. In addition, the RAWS data cannot be editedby the user.</li>
+      <li class="listnumber">The20' wind speed and direction(from historic observations, NDFD or supplied by the user) are used as inputs into WindNinja to create gridded 20' winds at 200-meter resolution. The input winds are considered to be an average across the entire landscape and will be stronger at the ridgetops and lighter in valley bottoms. The resulting gridded values are used as the STFB Wind Speed and Wind Direction inputs to calculate fire behavior for each pixel.</li>
+      <li class="listnumber">Though forward fire spread over time is displayed, the weather conditions (except gridded winds) do not change throughout the duration of the analysis. Outputs are weather dependent more than time dependent. Though hours are displayed in the outputs, they should be interpreted to match weather conditions and not clock hours. "Under these static conditions, the fire could move this far in six hours", not "the fire will reach this road at 1900 hours".</li>
+      <li class="listnumber">Fuel moisture values (as calculated at theanalysis start date and time) are held constantfor the duration ofthe STFB simulation. </li>
+      <li class="listnumber">WFDSSSTFB uses most of the same underlying fire models (Rothermel's 1972 surface fire model, Van Wagner's 1977 crown fire initiation model, Rothermel's 1991 crown fire spread model, Albini's 1979 spotting from torching trees, and Nelson's 2000 dead fuel moisture model) used in other fire behavior applications; thus, the assumptions and limitations of those underlying fire models are inherent within WFDSS STFB.</li>
+      <li class="listnumber">Fire growth calculations for STFB across the landscape extent are performed assuming independence of fire behavior between neighboring cells. In other words, the travel time across a cell does not depend on the behavior in adjacent cells.</li>
+      <li class="listnumber">This automated version of STFB only allows for a single-point ignition (1/10th acre fires).</li>
+      <li class="listnumber">As with all models, the quality of the outputs from WFDSSAutomated STFB depends on the quality of the inputs used. If the landscape data or RAWS data used are inadequate, the resulting fire behavior outputs will be questionable.It is important to be familiar with and assess the fuels data, as well as the RAWS data before using WFDSS Automated STFB in support of wildland fire decision-making.  If the input data is suspect, thenconsider the output results suspect as well.</li>
+      <li class="listnumber">The output results from an AutomatedSTFB analysis cannot be saved or downloaded for use in a GIS, they can only be displayed within WFDSS. <span class="specialbold">In addition, after 20 days the analysis is automatically deleted by WFDSS.</span></li>
+    </ol>
+  </body>
+</html>

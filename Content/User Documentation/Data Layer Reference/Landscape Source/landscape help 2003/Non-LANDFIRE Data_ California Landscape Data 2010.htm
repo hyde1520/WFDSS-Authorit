@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">Non-LANDFIRE Data: California Landscape Data 2010</h1>
+    <p class="bodytext">The California Landscape 2010 fuel data describe the composition and characteristics of both surface and canopy fuel. Specific products include the following:</p>
+    <ul>
+      <li class="listbullet">40 fire behavior fuel models (Scott and Burgan 2005)</li>
+      <li class="listbullet">canopy bulk density (CBD)</li>
+      <li class="listbullet">canopy base height (CBH)</li>
+      <li class="listbullet">canopy cover (CC)</li>
+      <li class="listbullet">canopy height (CH) </li>
+    </ul>
+    <p class="bodytext">The California Landscape 2010 is not the same as the LANDFIRE data. These data use the annually updated, comprehensive CALVEG (Classification and Assessment with LANDSAT<span class="superscript">TM </span>of Visible Ecological Groupings) vegetation data (http://www.fs.fed.us/r5/rsl/projects/mapping/accuracy.shtml) to classify fuels. The extent of this landscape includes California and some adjacent areas of Nevada, Oregon, and the Californian Islands. Slope, aspect, and elevation are provided by the EROS data center to create a complete landscape file.</p>
+    <p class="bodytext">Canopy fuel algorithms from the Fire and Fuels Extension of the Forest Vegetation Simulator (FFE-FVS) were used to compute canopy bulk density (CBD), canopy base height (CBH), canopy cover (CC), and canopy height (CH). Areas on U.S. Forest Service lands apply Forest Inventory and Analysis (FIA) plots computed with FFE-FVS. Canopy values are modified based on disturbance severity recorded in the Forest Service Activity Tracking System (FACTS) database.  Non-Forest Service areas use values from LANDFIRE National v1.0.0.</p>
+    <ul>
+      <li class="listbullet">Canopy bulk density (CBD) values may be reduced from their initial computed values, depending on the severity of the disturbance (as recorded in FACTS).</li>
+      <li class="listbullet">Canopy Base Height (CBH) values may be increased from its initially computed value based on disturbance severity (as recorded in the FACTS database).</li>
+      <li class="listbullet">Canopy cover (CC) values may be decreased based on disturbance severity (as recorded in the FACTS database). Canopy cover is automatically capped at 60% for the entire dataset, although there still may be some canopy cover values in excess of 60% where LANDFIRE is used to supplement the data.</li>
+      <li class="listbullet">Canopy Height (CH) values may be increased or reduced from its initially computed value depending on the severity of the disturbance.</li>
+    </ul>
+    <p class="bodytext">Only the 40 fire behavior fuel models (Scott and Burgan 2005) are used in this landscape. Fuel model data were cross-walked from the CalVeg data set (vegetation type, size, density), aspect (wet &amp; dry), and four elevation classes. After assignment, the fuel models may have been modified based on fire history, burn severity, mortality, timber harvesting, or the disturbance severity data from the FACTS database.</p>
+    <ul>
+      <li class="listbullet">No custom fuel models are included with these data.</li>
+      <li class="listbullet">Non-burnable fuels are denoted by values 91, 92, 93, 98 and 99, which characterize urban/developed, snow/ice, agriculture, water, and bare ground, respectively.</li>
+      <li class="listbullet">Burnable fuel models in California include 101, 102, 104, 107, 121, 121, 122, 141, 142, 145, 147, 161, 164, 165, 181, 182, 183, 184, 185, 186, 187, 188, 189, 201, and 202.</li>
+    </ul>
+  </body>
+</html>

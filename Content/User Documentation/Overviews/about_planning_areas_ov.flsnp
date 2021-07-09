@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">A Planning Area is an area an Incident Owner or Editor defines on the landscape that includes all the land a fire might burn during the life of the current decision; it includes the area used for analysis and planning to manage the fire. Planning Areas establish an area of interest around an incident and accomplish two things:</p>
+    <ul>
+      <li class="listbullet">They determine which FMUs/SOs are contained or partially contained by the planning area, and subsequently, which pre-loaded Strategic Objectives and Management Requirements will need to be addressed when developing Incident Objectives and Requirements, and</li>
+      <li class="listbullet">They generate a Values Inventory, a list of known values that are located in the planning area. These values should be considered and/or addressed when developing a relative risk assessment and Incident Objectives.</li>
+    </ul>
+    <p class="bodytext">Planning areas are required for documenting a decision and are different from a WFSA boundary or WFIP Maximum Manageable Area, two outdated and no longer used concepts. By limiting the planning area to just where you think a fire might go, you are limiting the decision support capability of the application.</p>
+  </body>
+</html>

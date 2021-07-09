@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">
+        <p>Navigate to the appropriate map by doing one of the following:</p>
+        <ul>
+          <li class="listbullet2">From the Incident List &gt; select the incident &gt; click <span class="buttons">Assess Situation</span>. The map f or the incident appears.</li>
+          <li class="listbullet2">Choose <span class="menuoptions">Intelligence</span> tab. The map of your assigned geographic area appears.</li>
+          <li class="listbullet2">From the Analysis List &gt; select the analysis &gt; click <span class="buttons">View Results</span>. The map for the selected analysis appears.</li>
+        </ul>
+      </li>
+      <li class="listnumber">Choose the <span class="menuoptions">Map</span> sub-tab &gt; Unit Fire Planning map layers &gt; select the shape(s) you want to display. The map refreshes and displays the selected shape.</li>
+      <li class="listnumber">
+        <p>If the shape doesn't appear on your screen, do the following:</p>
+        <ol>
+          <li class="listalpha2">Click the down arrow to the right of the shape. The shape tools appear.</li>
+          <li class="listalpha2">Select the <img src="To view unit shapes on the Situation, Intelligence and Analysis maps_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> Pan tool. The map shifts to the shape on the map.</li>
+          <li class="listalpha2">Zoom out to see the analysis or incident in relationship to the selected shape.</li>
+          <li class="listalpha2">Click <img src="To view unit shapes on the Situation, Intelligence and Analysis maps_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> to select the shape.</li>
+        </ol>
+      </li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

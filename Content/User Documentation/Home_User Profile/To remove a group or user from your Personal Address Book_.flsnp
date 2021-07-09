@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">In WFDSS, choose My Home Page &gt; Address Book &gt; My Address Book.</li>
+      <li class="listnumber">Mark the checkbox for the group or user you want to remove. </li>
+      <li class="listnumber">Click <span class="buttons">Remove</span>. A message appears asking if you want to delete the selected group.</li>
+      <li class="listnumber">Click <span class="buttons">OK</span>. The group is removed from your address book.</li>
+    </ol>
+  </body>
+</html>

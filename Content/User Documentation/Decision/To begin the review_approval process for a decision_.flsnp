@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Choose the <span class="menuoptions">Incident</span> tab. The Incident List page appears.</li>
+      <li class="listnumber">Select the incident and click <span class="buttons">View Information. </span>The Edit Information page appears.</li>
+      <li class="listnumber">Choose the <span class="menuoptions">Decisions</span> tab. The Decisions List page appears.</li>
+      <li class="listnumber">If the decision is ready for publishing, edits should be complete and each section of the decision should be checked in. If the pending decision or any section of the pending decision is assigned <span class="specialbold">Being Edited</span> status, contact the decision editor(s) to ensure that edits are complete, and then click <span class="specialbold">Check In</span>.</li>
+      <li class="listnumber">Click <span class="buttons">Begin Review/Approval Process</span>. </li>
+      <li class="listnumber">Review who has reviewed the decision and when (if Reviewers have been assigned), and make note of who the Decision Approver(s) are, and then click <span class="buttons">Continue</span>. This will lock the decision content and the reviewers/approvers will be notified via email to <a href="../Reports/Reviewing a Decision.htm">review</a>or <a href="../Reports/Approving and Publishing a Decision.htm">approve</a> the decision. In addition, the pending decision is assigned <span class="specialbold">Reviewable</span> status in the decision list.</li>
+    </ol>
+    <p class="bodytext">The incident owner can check the review and approval status by navigating to the Decisions tab, selecting the pending decision, and then clicking <span class="buttons">View Info</span>.</p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

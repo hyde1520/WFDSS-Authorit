@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Analysis list, select the incident/analysis name that you want to run an FSPro Analysis for.</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>. The General FSPro Information page appears.</li>
+      <li class="listnumber">Select <span class="menuoptions">ERC Stream</span> from under the FSPro Information menu on the left-side of the page.</li>
+      <li class="listnumber">
+        <p>Delete one or more rows under the Weather Forecast bar by completing one of the following actions:</p>
+        <ul>
+          <li class="listbullet2">Click <span class="buttons">Delete Row</span>.The General FSPro Information page refreshes and the last day of the forecast has been deleted. Delete additional rows as needed from the bottom up by repeating this step.</li>
+          <li class="listbullet2">Click <span class="buttons">Delete All </span>to delete all forecast data.</li>
+        </ul>
+      </li>
+      <li class="listnumber">Click <span class="buttons">Save Stream and Forecasts. </span></li>
+    </ol>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+    <p class="bodytext" />
+  </body>
+</html>

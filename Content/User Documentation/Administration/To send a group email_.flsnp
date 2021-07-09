@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Choose the <span class="menuoptions">Administration tab </span>and set the appropriate user list filter as the intended recipients.</li>
+      <li class="listnumber">Choose<span class="menuoptions"> Broadcast Message</span>. The Group Email page appears. <div class="listnote"><p><span class="specialbold">Note:</span> Email will be sent to the users that currently appear in the user list. Use the filters to select a smaller subset of users. Disabled or anonymous users are not included.</p></div></li>
+      <li class="listnumber">Type the subject of the email. This should be short, but descriptive of the message contents.</li>
+      <li class="listnumber">Type the message you want to email to WFDSS users.</li>
+      <li class="listnumber">Review the message for typos, tone, and content.</li>
+      <li class="listnumber">Click <span class="buttons">Send</span>. The message is emailed to all WFDSS users selected in your filter.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

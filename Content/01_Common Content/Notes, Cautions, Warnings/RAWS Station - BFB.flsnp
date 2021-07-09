@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">
+      <span class="emphasis">* WFDSS chooses the nearby RAWS in the following way:  The center of the analysis area is used as a starting point.  Then, a horizontal/vertical distance algorithm sorts the RAWS stations within a given area.  Next, WFDSS iterates through the list until the first station is found with the requisite fuel moisture / weather information (continuous hourly observations).</span>
+    </p>
+  </body>
+</html>

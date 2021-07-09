@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident list, select the incident you want to assign a shape for.</li>
+      <li class="listnumber">Click <span class="buttons">Assess Situation</span>. The Incident Situation Map page appears.</li>
+      <li class="listnumber">
+        <a href="../Uploading Shapes.htm">Upload</a> or <a href="../../01a_Common User Content/Map Features/Drawing Shapes on the Map.htm">create</a> the shape you want to assign to a MAP.</li>
+      <li class="listnumber">Choose <span class="menuoptions">Menu &gt; Mgmt Action Points</span>. The Management Action Point List page appears.</li>
+      <li class="listnumber">Select the MAP you want to assign a shape to.</li>
+      <li class="listnumber">Click <span class="buttons">Edit</span>. The Edit Management Action Points page appears.</li>
+      <li class="listnumber">From the Associated Shape drop-down list, select the shape you want to assign to the MAP.</li>
+      <li class="listnumber">Click <span class="buttons">Save</span>. The Management Action Point List page reappears, and displays the shape name next to the MAP you assigned it to.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

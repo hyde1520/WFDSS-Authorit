@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident list, select the incident &gt; click <span class="buttons">Assess Situation</span>. The Situation Assessment map appears for the selected incident.</li>
+      <li class="listnumber">From the Map tab in the left pane, expand the Incident tree.</li>
+      <li class="listnumber">Select the type of shape you want to merge, and the specific shape you want to start with. For example, if you want to merge an existing fire perimeter called "08152010 Fourmile" with a new fire perimeter, then turn on the "08152010 Fourmile" perimeter shape.</li>
+      <li class="listnumber">Select the polygon tool <img src="To merge shapes_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />.</li>
+      <li class="listnumber">Draw the new shape where you want it on the map.</li>
+      <li class="listnumber">Select the arrow tool. Select the existing shape. Both the new shape and the existing shape should be yellow.</li>
+      <li class="listnumber">Click the <img src="To merge shapes_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> button next to the layer type that you want to merge layers for. The Save shape popup appears.</li>
+      <li class="listnumber">Name the merged shape.</li>
+      <li class="listnumber">Select the source type.</li>
+      <li class="listnumber">Enter the effective time and any comments about the shape. In the comments, you want to indicate which shapes you used to create the merged shape and where you got them from.</li>
+      <li class="listnumber">Click <span class="buttons">Create</span>. The merged shape appears in the list for the selected layer type.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">Release Notes - 6.4.5</h1>
+    <p class="heading2">
+      <span class="specialbold">5/14/2020 - Bug Fixes for Release 6.4.5</span>
+    </p>
+    <p class="heading3">
+      <span class="specialbold">Account Management</span>
+    </p>
+    <ul>
+      <li class="listbullet">Modified the column name from "90 Days of Inactivity" to "60 Days of Inactivity" in the MS Excel Spreadsheet downloaded from the User Security List.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">Analysis</span>
+    </p>
+    <ul>
+      <li class="listbullet">Fixed a bug resulting in a 404 error when viewing FSPro Values at Risk.</li>
+      <li class="listbullet">Fixed a bug causing a missing (GAP) record in the Hourly Weather when a Basic, Near Term, or Short Term Analysis was copied.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">Application Support</span>
+    </p>
+    <ul>
+      <li class="listbullet">Updated a System Check utility to notify support staff if the IRWIN Service is disconnected.</li>
+      <li class="listbullet">Updated the IRWIN Service so that it does not use the same architecture as any of the other services that process messages to improve support capability.</li>
+      <li class="listbullet">Updated the Weather Station Utility to fix a bug causing the weather-related emails to consistently report failures for stations that are not used in WFDSS. </li>
+      <li class="listbullet">Fixed a bug causing the Utility to loop at times, which prevented the ERC data from updating.</li>
+      <li class="listbullet">Fixed a bug causing an IRWIN incident to insert into WFDSS without an IRWIN ID.</li>
+      <li class="listbullet">Corrected logging of PDF generation to improve future debugging. </li>
+      <li class="listbullet">Improved logging to help debug issues with Decision Failures including Certificate Error.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">Calendar</span>
+    </p>
+    <ul>
+      <li class="listbullet">Adjusted the calendars used throughout the application to begin January 1, 2006, rather than only the previous ten years.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">Clean Up/Maintenance</span>
+    </p>
+    <ul>
+      <li class="listbullet">Removed WFDSS Lite links in all WFDSS environments.</li>
+      <li class="listbullet">Removed the IRWIN.V6-enabled properties and code from the application and IRWIN Service Broker.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">Cost</span>
+    </p>
+    <ul>
+      <li class="listbullet">Updated the values used for calculating the Stratified Cost Index (SCI) from the 2014 to the most current (2017) data.</li>
+      <li class="listbullet">Updated the Cost Estimator Spreadsheet (2018) that is available for download from the Incident Cost Page.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">Data Layers</span>
+    </p>
+    <ul>
+      <li class="listbullet">Corrected the Sage Grouse Layer to correctly match the legend.</li>
+      <li class="listbullet">Fixed a bug preventing Aquatic Retardant Avoidance from appearing in Values Inventory and Values at Risk.</li>
+      <li class="listbullet">Updated the Feature Information for the Jurisdictional Agency Layer to include the Landowner Kind and Category.</li>
+      <li class="listbullet">Fixed a bug preventing uploaded historic perimeters to be added to the corresponding Historic Layer if the incident’s Jurisdictional Agency was County &amp; Local.</li>
+      <li class="listbullet">Fixed a bug resulting in an error message when uploading a historic perimeter.</li>
+      <li class="listbullet">Updated the Horse and Burro Layer so the colors align with the legend.</li>
+      <li class="listbullet">Shortened the labels displayed on maps for BLM Lands to improve readability.</li>
+      <li class="listbullet">Corrected issues with the following data layers: Responsible Agency, Building Clusters, Wilderness, Communication Towers, Jurisdictional Agency, and Wild &amp; Scenic Rivers.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">Data Management</span>
+    </p>
+    <ul>
+      <li class="listbullet">Fixed a bug causing Data Managers to receive a 500 error when navigating to the Strategic Objective List if their Unit associated with their user profile was not a valid unit.</li>
+      <li class="listbullet">Fixed a bug resulting in an error message when loading multiple management requirements shapes or using the replace shape feature.</li>
+      <li class="listbullet">Removed triplicate text in an Alaska Statewide Management Requirement.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">Decisions</span>
+    </p>
+    <ul>
+      <li class="listbullet">Added a vertical scroll bar to the accordion pane of the default decision editor so that users can access all content when Broadcast and System Messages present are present.</li>
+      <li class="listbullet">Fixed a bug causing the Image Containing all Management Actions Points to not be included in a copied Decision.</li>
+      <li class="listbullet">Fixed a bug that prevented users from including carriage returns while editing content in some text boxes.</li>
+      <li class="listbullet">Fixed a bug causing the Incident Objectives and Requirements text to not wrap.</li>
+      <li class="listbullet">Fixed a bug causing the published Benefit and Strategy Slider images from the View Decision to reflect the most recent images and not the published images.</li>
+      <li class="listbullet">Fixed a bug resulting in a 500 error when scrolling through the View Decision for decisions published before June 2017.</li>
+      <li class="listbullet">Fixed a bug causing the Benefit Slider Comment to overflow the text box when Viewing a Decision.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">Feedback</span>
+    </p>
+    <ul>
+      <li class="listbullet">Corrected an issue where a Feedback’s response text was deleted if an attachment was added.</li>
+      <li class="listbullet">Fixed a 504 Gateway timeout error that occurred when managing Feedbacks. Fixed a bug preventing Feedback attachments from opening when submitted in Internet Explorer.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">Incidents</span>
+    </p>
+    <ul>
+      <li class="listbullet">Fixed a bug causing the Management Action Points list to be inaccurate after a user downloaded the Management Action Point Shapes.</li>
+      <li class="listbullet">Fixed a bug causing the Assessment Tab to display the risk tables for the wrong incident if the incident that was being viewed had a planning area but no risk tables.</li>
+      <li class="listbullet">Fixed a bug causing the Federal Admin. Areas to be inventoried in the Values Inventory and Values at Risk.</li>
+      <li class="listbullet">Fixed a bug causing a null pointer error when utilizing the Objectives Tab for incidents in Alaska.</li>
+      <li class="listbullet">Added tracking of the Pushing to IRWIN or Pulling from IRWIN to the Incident History List.</li>
+      <li class="listbullet">Changed the Values Inventory/Values at Risk to display the Landowner Categories instead of the Jurisdictional Agencies. </li>
+      <li class="listbullet">Fixed a bug preventing the download of the Incident Objective List when an incident is locked (has an out date, is out for review, or the user does not have edit privileges).</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">IRWIN</span>
+    </p>
+    <ul>
+      <li class="listbullet">Updated code to allow the Landowner Kind and Landowner Category to be set in IRWIN when the Jurisdictional Agency, for a WFDSS created incident, at the point of origin could not be determined. </li>
+      <li class="listbullet">Fixed a bug causing the Latitude and Longitude to not update in IRWIN when a user modified the values in WFDSS.</li>
+      <li class="listbullet">Fixed a bug preventing the Calculated Acres in IRWIN from being updated when a perimeter was uploaded in WFDSS.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">Support Functions (Administrators)</span>
+    </p>
+    <ul>
+      <li class="listbullet">Updated Broadcast Message text for warnings so they do not interfere with the automated tests.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">Support Functions (National Editors)</span>
+    </p>
+    <ul>
+      <li class="listbullet">Fixed a bug causing a 500 error when trying to view an issue from the Irwin Issue List and communication with IRWIN was disabled.</li>
+      <li class="listbullet">Added a vertical scroll bar to the WFDSS/IRWIN Comparison table in Internet Explorer to prevent the data from being cut off.</li>
+      <li class="listbullet">Decommissioned the indexing of Decisions that allowed for Decision searches by National Editors. The decision search feature will work for existing decisions but newly published decisions will no longer be indexed.</li>
+      <li class="listbullet">Fixed a bug resulting in a 500 error when searching for specific terms in the decision search feature.</li>
+      <li class="listbullet">Fixed a bug causing the IRWIN Issue Description in the IRWIN Issue List for an Issue to sometimes show the error description for a prior issue.</li>
+      <li class="listbullet">Fixed a bug causing the IRWIN Issue List to incorrectly report an issue when communication to IRWIN was disabled and a non-Wildfire Incident in WFDSS that was not linked to an IRWIN Incident was updated.</li>
+    </ul>
+  </body>
+</html>

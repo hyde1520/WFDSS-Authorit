@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">With your WFDSS account, you can change the following:</p>
+    <ul>
+      <li class="listbullet">Which map base layer displays on map displays</li>
+      <li class="listbullet">Which page appears as the first page when you log in,</li>
+      <li class="listbullet">How many data rows appear in the User List (in your Address Book),</li>
+      <li class="listbullet">How many data rows appear in the ERC stream when you are developing or viewing inputs for an FSPro run, </li>
+      <li class="listbullet">The proximity distance of nearby incidents whenviewing their locations and active, published planning areas in the Fire Environment and Safety map layers,</li>
+      <li class="listbullet">The format of WFDSS-generated emails, HTML or Text, </li>
+      <li class="listbullet">Which map layers are available for viewing on map displays, and/or</li>
+      <li class="listbullet">Which units you subscribe to for planning area notifications (Production only). See <a href="../../zzzz_Sandbox/Diane/Subscribing to Planning Area Notifications.htm">Subscribing to Planning Area Notifications</a>.</li>
+    </ul>
+  </body>
+</html>

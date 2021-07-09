@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">Modifying Wind Information (BFB, STFB)<MadCap:keyword term="winds:BFB, STFB, NTFB" /><MadCap:keyword term="Basic Fire Behavior (BFB):winds" /></h1>
+    <p class="bodytext">When setting up BFB or STFB, you can adjust the wind conditions by changing the following parameters (For FSPro, see <a href="../../FSPro/Setting up FSPro Winds.htm">Modifying FSPro Winds</a>):</p>
+    <ul>
+      <li class="listbullet">
+        <span class="specialbold">Speed:</span> For analyses based on future date/time, National Weather Service (NWS) Forecast Data is generated and automatically displayed in the Speed field. For analyses based on a previous date (up to 17 months in the past), historic weather data from the RAWS appears in the field. You can keep these values or change them as needed.</li>
+      <li class="listbullet">
+        <span class="specialbold">Direction:</span> For analyses based on future date/time, National Weather Service (NWS) Forecast Data is generated and automatically displayed in the Speed box. For analyses based on a previous date (up to 17 months in the past), historic weather data from the RAWS appears in the box. You can keep these values or change them as needed.</li>
+      <li class="listbullet">
+        <p>
+          <span class="specialbold">Wind Type: </span>Accept the defaults or enter a wind speed and direction.</p>
+        <ul>
+          <li class="listbullet2">
+            <span class="emphasis">Generate Gridded Winds:</span> The model uses the inputs and the terrain to generate gridded winds across the landscape for use in the fire behavior calculations. Examples include 'ridgetop winds will be stronger than valley bottom winds', 'winds in saddles will increase', 'winds on the lee side of mountains will decrease'.</li>
+          <li class="listbullet2">
+            <span class="emphasis">Static Direction: </span>The values for speed and direction are used for the entire landscape, regardless of terrain.</li>
+          <li class="listbullet2">
+            <span class="emphasis">Wind Blowing Uphill: </span>Accept the default or enter the wind speed that the model should use for uphill winds.</li>
+          <li class="listbullet2">
+            <span class="emphasis">Wind Blowing Downhill:</span> Accept the default or enter the wind speed that the model should use for downhill winds.</li>
+        </ul>
+      </li>
+    </ul>
+    <p class="note">
+      <span class="specialbold">Note:</span> If you select gridded winds, you must indicate a wind direction (in degrees). Gridded winds use the resolution specified for the landscape.</p>
+    <p class="heading2">To modify wind information:</p>
+    <MadCap:snippetBlock src="../../To modify wind information (BFB &amp; STFB, NTFB)_.flsnp" />
+  </body>
+</html>

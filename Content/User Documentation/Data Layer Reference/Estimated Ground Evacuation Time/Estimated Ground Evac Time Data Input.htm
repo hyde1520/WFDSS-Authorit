@@ -1,0 +1,653 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">Estimated Ground Evac Time Data Input</h1>
+    <p class="bodytext">Provided here is a National mosaicked dataset derived from regional raster analysis and converted to a vector polygon dataset identifying four travel time bands: 1-2 hours, 2-4 hours, 4-6 hours and 6+ hours to the nearest hospital.</p>
+    <ul>
+      <li class="list2">
+        <span class="menuoptions">       EVT</span> - Landfire Existing Vegetation Type. National. Version 1.0, Public Use. Reclass raster data based on "NVCS" (National Vegetation Classification Standard) Order" and "EVT Name" found in this table.</li>
+    </ul>
+    <table style="border-collapse:collapse; border: 1px solid #010101;">
+      <thead>
+        <tr>
+          <th class="tableheading" width="281" style="border: 1px solid #010101;">
+            <p class="tableheading">NVCS Order Value</p>
+          </th>
+          <th class="tableheading" width="281" style="border: 1px solid #010101;">
+            <p class="tableheading">Reclass Value</p>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td width="281" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">Herbaceous/Nonvascular-dominated</li>
+            </ul>
+          </td>
+          <td width="281" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">Grass</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td width="281" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">N/A</li>
+            </ul>
+          </td>
+          <td width="281" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">Non-burnable</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td width="281" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">No Data</li>
+            </ul>
+          </td>
+          <td width="281" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">NoData</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td width="281" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">No Dominant Lifeform</li>
+            </ul>
+          </td>
+          <td width="281" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">Non-burnable</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td width="281" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">Non-vegetated (not EVT "open water")</li>
+            </ul>
+          </td>
+          <td width="281" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">Non-burnable</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td width="281" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">Non-vegetated (EVT "open water")</li>
+            </ul>
+          </td>
+          <td width="281" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">Water</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td width="281" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">      Shrub-dominated</li>
+            </ul>
+          </td>
+          <td width="281" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">Brush</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td width="281" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">Tree-dominated</li>
+            </ul>
+          </td>
+          <td width="281" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">Timber</li>
+            </ul>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <ul>
+      <li class="list2">
+        <br />
+        <span class="menuoptions">Slope </span>- USGS Elevation Derivatives for National Applications (EDNA). 2006. Public Use. Reclass raster data using this table.</li>
+    </ul>
+    <table style="border-collapse:collapse; border: 1px solid #010101;">
+      <thead>
+        <tr>
+          <th class="tableheading" width="281" style="border: 1px solid #010101;">
+            <p class="tableheading">Value</p>
+          </th>
+          <th class="tableheading" width="281" style="border: 1px solid #010101;">
+            <p class="tableheading">Reclass Value</p>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td width="281" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">No Data</li>
+            </ul>
+          </td>
+          <td width="281" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">NoData</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td width="281" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">0 to 10 Degrees</li>
+            </ul>
+          </td>
+          <td width="281" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">Flat</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td width="281" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">11-30 Degrees</li>
+            </ul>
+          </td>
+          <td width="281" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">Moderate</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td width="281" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">Greater than 30 degrees</li>
+            </ul>
+          </td>
+          <td width="281" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">Steep</li>
+            </ul>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <ul>
+      <li class="list2" />
+      <li class="list2">
+        <span class="menuoptions">Matrix </span>- Reclass unique combinations of EVT Reclass and Slope Reclass grid values using this table. The data was converted to hours/meter for use in the calculations.</li>
+    </ul>
+    <table style="border-collapse:collapse; border: 1px solid #010101;" width="726">
+      <tr>
+        <td width="90" style="border: 1px solid #010101;">
+          <ul>
+            <li class="list2" />
+          </ul>
+        </td>
+        <th class="tableheading" width="84" style="border: 1px solid #010101;">
+          <p class="tableheading">NoData</p>
+        </th>
+        <th class="tableheading" width="114" style="border: 1px solid #010101;">
+          <p class="tableheading">Grass</p>
+        </th>
+        <th class="tableheading" width="108" style="border: 1px solid #010101;">
+          <p class="tableheading">Brush</p>
+        </th>
+        <th class="tableheading" width="90" style="border: 1px solid #010101;">
+          <p class="tableheading">Timber</p>
+        </th>
+        <th class="tableheading" width="120" style="border: 1px solid #010101;">
+          <p class="tableheading">Non-burnable</p>
+        </th>
+        <th class="tableheading" width="120" style="border: 1px solid #010101;">
+          <p class="tableheading">Water</p>
+        </th>
+      </tr>
+      <tr>
+        <td class="tablebodycenter" width="90" style="border: 1px solid #010101;">
+          <p class="tablebodycenter">NoData</p>
+        </td>
+        <td width="84" style="border: 1px solid #010101;">
+          <ul>
+            <li class="list2">NoData</li>
+          </ul>
+        </td>
+        <td width="114" style="border: 1px solid #010101;">
+          <ul>
+            <li class="list2">NoData</li>
+          </ul>
+        </td>
+        <td width="108" style="border: 1px solid #010101;">
+          <ul>
+            <li class="list2">NoData</li>
+          </ul>
+        </td>
+        <td width="90" style="border: 1px solid #010101;">
+          <ul>
+            <li class="list2">NoData</li>
+          </ul>
+        </td>
+        <td width="120" style="border: 1px solid #010101;">
+          <ul>
+            <li class="list2">NoData</li>
+          </ul>
+        </td>
+        <td width="120" style="border: 1px solid #010101;">
+          <ul>
+            <li class="list2">NoData</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td class="tablebodycenter" width="90" style="border: 1px solid #010101;">
+          <p class="tablebodycenter">Flat</p>
+        </td>
+        <td width="84" style="border: 1px solid #010101;">
+          <ul>
+            <li class="list2">NoData</li>
+          </ul>
+        </td>
+        <td width="114" style="border: 1px solid #010101;">
+          <ul>
+            <li class="list2">(3mph) hours per meter</li>
+          </ul>
+        </td>
+        <td width="108" style="border: 1px solid #010101;">
+          <ul>
+            <li class="list2">(1.5mph) hours per meter</li>
+          </ul>
+        </td>
+        <td width="90" style="border: 1px solid #010101;">
+          <ul>
+            <li class="list2">(.75mph)    hours per meter</li>
+          </ul>
+        </td>
+        <td width="120" style="border: 1px solid #010101;">
+          <ul>
+            <li class="list2">(3mph) hours per meter</li>
+          </ul>
+        </td>
+        <td width="120" style="border: 1px solid #010101;">
+          <ul>
+            <li class="list2">(.01mph) hours per meter</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td class="tablebodycenter" width="90" style="border: 1px solid #010101;">
+          <p class="tablebodycenter">Moderate</p>
+        </td>
+        <td width="84" style="border: 1px solid #010101;">
+          <table style="border-collapse:collapse; border: 1px solid #010101;" width="75.73333333333333">
+            <tr>
+              <td width="75.73333333333333" style="border: 1px solid #010101;">
+                <ul>
+                  <li class="list2">NoData</li>
+                </ul>
+              </td>
+            </tr>
+          </table>
+          <ul>
+            <li class="list2" />
+          </ul>
+        </td>
+        <td width="114" style="border: 1px solid #010101;">
+          <ul>
+            <li class="list2">(1.5mph) hours per meter</li>
+          </ul>
+        </td>
+        <td width="108" style="border: 1px solid #010101;">
+          <ul>
+            <li class="list2"> (.75mph) hours per meter</li>
+          </ul>
+        </td>
+        <td width="90" style="border: 1px solid #010101;">
+          <ul>
+            <li class="list2">(.25mph) hours per meter</li>
+          </ul>
+        </td>
+        <td width="120" style="border: 1px solid #010101;">
+          <ul>
+            <li class="list2">(2mph) hours per meter</li>
+          </ul>
+        </td>
+        <td width="120" style="border: 1px solid #010101;">
+          <ul>
+            <li class="list2" />
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td class="tablebodycenter" width="90" style="border: 1px solid #010101;">
+          <p class="tablebodycenter">Steep</p>
+        </td>
+        <td width="84" style="border: 1px solid #010101;">
+          <ul>
+            <li class="list2">NoData</li>
+          </ul>
+        </td>
+        <td width="114" style="border: 1px solid #010101;">
+          <ul>
+            <li class="list2">(1mph) hours per meter</li>
+          </ul>
+        </td>
+        <td width="108" style="border: 1px solid #010101;">
+          <ul>
+            <li class="list2">(.5mph) hours per meter</li>
+          </ul>
+        </td>
+        <td width="90" style="border: 1px solid #010101;">
+          <ul>
+            <li class="list2">(.1mph) hours per meter</li>
+          </ul>
+        </td>
+        <td width="120" style="border: 1px solid #010101;">
+          <ul>
+            <li class="list2">(1mph) hours per meter</li>
+          </ul>
+        </td>
+        <td width="120" style="border: 1px solid #010101;">
+          <ul>
+            <li class="list2" />
+          </ul>
+        </td>
+      </tr>
+    </table>
+    <ul>
+      <li class="list2" />
+      <li class="list2">
+        <span class="menuoptions">Streets </span>- Navteq. Septemer 2010. Version 2010.2. For Official Use Only (FOUO); no other use constraints. Any use of the data provided by NAVTEQ requires a copy right notice. © NAVTEQ - All rights reserved. Polyline data converted to raster grid conforming to matrix cell size, grid, projection and mask. Reclass value based upon speed category using this table.</li>
+    </ul>
+    <table style="border-collapse:collapse; border: 1px solid #010101;">
+      <thead>
+        <tr>
+          <th class="tableheading" width="78" style="border: 1px solid #010101;">
+            <p class="tableheading">Value</p>
+          </th>
+          <th class="tableheading" width="186" style="border: 1px solid #010101;">
+            <p class="tableheading">Data Dictionary Range</p>
+          </th>
+          <th class="tableheading" width="144" style="border: 1px solid #010101;">
+            <p class="tableheading">Selected Value</p>
+          </th>
+          <th class="tableheading" width="514.9333333333333" style="border: 1px solid #010101;">
+            <p class="tableheading">Reclass Value</p>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td width="78" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">1</li>
+            </ul>
+          </td>
+          <td width="186" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">65-80mph</li>
+            </ul>
+          </td>
+          <td width="144" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">70mph</li>
+            </ul>
+          </td>
+          <td width="514.9333333333333" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">0.00000887673132 hours per meter</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td width="78" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">2</li>
+            </ul>
+          </td>
+          <td width="186" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">55-64mph</li>
+            </ul>
+          </td>
+          <td width="144" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">60mph</li>
+            </ul>
+          </td>
+          <td width="514.9333333333333" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">0.0000103561865 hours per meter</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td width="78" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">3</li>
+            </ul>
+          </td>
+          <td width="186" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">41-54mph</li>
+            </ul>
+          </td>
+          <td width="144" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">50mph</li>
+            </ul>
+          </td>
+          <td width="514.9333333333333" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">0.0000124274238 hours per meter</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td width="78" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">4</li>
+            </ul>
+          </td>
+          <td width="186" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">31-40mph</li>
+            </ul>
+          </td>
+          <td width="144" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">40mph</li>
+            </ul>
+          </td>
+          <td width="514.9333333333333" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">0.0000155342798 hours per meter</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td width="78" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">5</li>
+            </ul>
+          </td>
+          <td width="186" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">21-30mph</li>
+            </ul>
+          </td>
+          <td width="144" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">30mph</li>
+            </ul>
+          </td>
+          <td width="514.9333333333333" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">0.0000207123731 hours per meter</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td width="78" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">6</li>
+            </ul>
+          </td>
+          <td width="186" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">6-20mph</li>
+            </ul>
+          </td>
+          <td width="144" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">15mph</li>
+            </ul>
+          </td>
+          <td width="514.9333333333333" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">0.0000414247461 hours per meter</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td width="78" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">7</li>
+            </ul>
+          </td>
+          <td width="186" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">Less than 6 mph</li>
+            </ul>
+          </td>
+          <td width="144" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">5mph</li>
+            </ul>
+          </td>
+          <td width="514.9333333333333" style="border: 1px solid #010101;">
+            <ul>
+              <li class="list2">0.000124274238 hours per meter</li>
+            </ul>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <ul>
+      <li class="list2" />
+      <li class="list2">
+        <span class="menuoptions">Cost Raster</span> - Calculate cost raster values from Matrix and Streets grids using Cell statistics (minimum overlay statistic.) The resulting unit is hours per meter.</li>
+      <li class="list2">
+        <span class="menuoptions"> Hospital</span> - TechniGraphics, Inc. (TGS). February 2010. For Official Use Only (FOUO). Point data converted to raster grid conforming to cost raster cell size, grid, projection, and mask. Excluded urgent care clinics and clipped this layer to the US States layer to exclude Canadian and Mexican hospitals to get at "definitive" care.</li>
+      <li class="list2">
+        <span class="menuoptions">Process</span>: Applied the Cost distance algorithm in ArcGIS10 using the hospital grid and cost raster. The result is a 30m grid of CONUS with ground transport time to the nearest hospital.</li>
+    </ul>
+    <p class="heading2">Converting the raster data to WFDSS-ready vector data (post processing):</p>
+    <ol>
+      <li class="listnumber">The cost-distance grid data were reclassified into bins based on travel times:</li>
+    </ol>
+    <table style="border-collapse:collapse; border: 1px solid #010101;">
+      <thead>
+        <tr>
+          <th class="tableheading" width="461.46666666666664" style="border: 1px solid #010101;">
+            <p class="tableheading">Value Range</p>
+          </th>
+          <th class="tableheading" width="288.53333333333336" style="border: 1px solid #010101;">
+            <p class="tableheading">Reclass Values</p>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td width="461.46666666666664" style="border: 1px solid #010101;">
+            <ol>
+              <li class="listcontinue">
+                <div class="listcontinue">
+                  <p>0-1</p>
+                </div>
+              </li>
+            </ol>
+          </td>
+          <td class="bodytext" width="288.53333333333336" style="border: 1px solid #010101;">
+            <p class="bodytext">NoData</p>
+          </td>
+        </tr>
+        <tr>
+          <td width="461.46666666666664" style="border: 1px solid #010101;">
+            <ol>
+              <li class="listcontinue">
+                <div class="listcontinue">
+                  <p>1.000001-1</p>
+                </div>
+              </li>
+            </ol>
+          </td>
+          <td class="bodytext" width="288.53333333333336" style="border: 1px solid #010101;">
+            <p class="bodytext">2</p>
+          </td>
+        </tr>
+        <tr>
+          <td width="461.46666666666664" style="border: 1px solid #010101;">
+            <ol>
+              <li class="listcontinue">
+                <div class="listcontinue">
+                  <p>2.000001-2</p>
+                </div>
+              </li>
+            </ol>
+          </td>
+          <td class="bodytext" width="288.53333333333336" style="border: 1px solid #010101;">
+            <p class="bodytext">4</p>
+          </td>
+        </tr>
+        <tr>
+          <td width="461.46666666666664" style="border: 1px solid #010101;">
+            <ol>
+              <li class="listcontinue">
+                <div class="listcontinue">
+                  <p>4.000001-6</p>
+                </div>
+              </li>
+            </ol>
+          </td>
+          <td class="bodytext" width="288.53333333333336" style="border: 1px solid #010101;">
+            <p class="bodytext">6</p>
+          </td>
+        </tr>
+        <tr>
+          <td width="461.46666666666664" style="border: 1px solid #010101;">
+            <ol>
+              <li class="listcontinue">
+                <div class="listcontinue">
+                  <p>&gt;6</p>
+                </div>
+              </li>
+            </ol>
+          </td>
+          <td class="bodytext" width="288.53333333333336" style="border: 1px solid #010101;">
+            <p class="bodytext">7</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <ol>
+      <li class="listnumber">The binned cost-distance data were resampled to 90 meter resolution using the "Majority" resample technique.</li>
+      <li class="listnumber">The resampled data were passed through a majority filter four times using a replacement threshold of "Half" in order to smooth the dataset and remove the "salt and pepper" character typical of raster datasets. This step reduces the complexity of the vector polygons and improves performance in WFDSS. Analysis showed that for large areas typical of fire planning areas (50 acres or more), majority filtering does not substantially skew summary results.</li>
+      <li class="listnumber">A 90-meter mask grid of water areas was created using open water polygons in the ESRI2010USA detailed water (dtl_wat), excluding polygons classified as FTYPE "Inundation Area", "Playa", or "Swamp/Marsh. Areas of open water in the mask layer were reclassified as NoData to remove water areas from the layer.</li>
+      <li class="listnumber">The resulting 90-meter binned layer with water masked out was converted to unsimplified vector polygons for ingestion into WFDSS.</li>
+      <li class="list2" />
+    </ol>
+  </body>
+</html>

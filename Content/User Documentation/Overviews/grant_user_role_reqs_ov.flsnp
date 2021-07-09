@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Geographic Editors and Administrators can grant user roles. Users are usually granted the Viewer role when they request access to the application. If users are not federal employees, they are not automatically granted Viewer role. The Geographic Editor or Administrator must confirm that non-federal users require access and have completed <a href="https://wfmrda.nwcg.gov/wfdss-ga-editors.php">security training</a>. The users are required to request user roles that allow them to complete their assigned tasks, for example:</p>
+    <ul>
+      <li class="listbullet">Run fire behavior analyses (Fire Behavior Specialist role)</li>
+      <li class="listbullet">Create incidents (Dispatcher role)</li>
+      <li class="listbullet">Own incidents (Author Role)</li>
+      <li class="listbullet">Publish decision documents (Author role)</li>
+      <li class="listbullet">Pre-load strategic objectives, management requirements and unit shapes (Data Manager)</li>
+    </ul>
+    <p class="bodytext">Geographic Editors can only grant the following user roles: Viewer, Dispatcher, Author, Fire Behavior Specialist and Data Manager. They can also Disable Users. Administrators can grant all user roles.</p>
+    <p class="bodytext">Roles granted to a user in Production are mirrored to Training.  Conversely, roles granted to a user in Training are not mirrored to Production.</p>
+  </body>
+</html>

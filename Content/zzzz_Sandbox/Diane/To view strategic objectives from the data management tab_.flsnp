@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Click the <span class="menuoptions">Data Management</span> tab.</li>
+      <li class="listnumber">From the <span class="menuoptions">Objectives </span>sub-tab, select the Geographic Area &gt; Agency &gt; Unit that you would like to view Strategic Objectives for. Once selected, the unit's name is highlighted blue.</li>
+      <li class="listnumber">The strategic objectives and management requirements for the selected unit will display in a list at the bottom of the page. </li>
+    </ol>
+    <p class="note">
+      <span class="specialbold">Note</span>: The Strategic Objectives and Management Requirements for a unit must be loaded into Training and Production separately. A unit that has its data uploaded into Production may not have uploaded it into Training.</p>
+  </body>
+</html>

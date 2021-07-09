@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">Selecting a Weather Station (NTFB)</h1>
+    <p class="bodytext">Unlike Basic (BFB) and Short Term (STFB) Fire Behavior, Near-Term Fire Behavior (NTFB) models fire progression based on changing weather and wind conditions over time. The source of the data used to run the model depends on whether you are modeling fire behavior for time periods in the past or the future.</p>
+    <p class="bodytext">The weather station you select for NTFB provides historic WIMS (RAWS) data for modeling periods prior to the current clock hour. Selecting a weather station for NTFB has the greatest impact on outputs when you are modeling for a period in the past. The WIMS data conditions the  fuels as well as generates the wind and weather streams. No forecasted data is used in this scenario and the weather station you select will drive the fire behavior outputs. If you model fire behavior into the future, forecasted weather data is pulled (based on the selected RAWS location) from the gridded National Weather Service (NWS) Forecast Data. The weather station you select will condition fuels for the period of modeling that occurs in the past. In this scenario, a combination of WIMS data and NWS Forecast Data drive the fire behavior outputs</p>
+    <p class="bodytext">Multiple weather stations are available to provide wind and weather data for NTFB and those listed are generally within 1 degree of latitude and longitude of the entered incident latitude and longitude. The closest station (based on a formula for distance and elevation) that is currently reporting observations is the first displayed station. If a station manager has not updated a station in WIMS (entered manual state of the weather, etc.) for three days, the station may not be available in the drop-down list until those updates are entered.</p>
+    <p class="heading2">To select a Weather Station (BFB &amp; STFB, NTFB)</p>
+    <MadCap:snippetBlock src="../To select a Weather Station (BFB &amp; STFB, NTFB).flsnp" />
+  </body>
+</html>

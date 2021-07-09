@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">To run an NTFB:</h1>
+    <ol>
+      <li class="listnumber">From the Incident list, select the incident for which you want to run NTFB.</li>
+      <li class="listnumber">Click <span class="buttons">View Analyses</span>. The Analysis List appears for the selected incident.</li>
+      <li class="listnumber">Under New Analysis, select Near-Term, then click <span class="buttons">Create Analysis for Incident</span>. The New Near-Term Analysis page appears.</li>
+      <li class="listnumber">Enter an Analysis Name. <MadCap:snippetText src="../../01a_Common User Content/Topic Snippets/Analysis Name Limitations.flsnp" /><div class="listcontinue"><p>Since incidents can have many analyses associated with them, be specific in your name (up to 48 characters).</p></div></li>
+      <li class="listnumber">Set the conditioning days, spotting probability, and crown fire method.</li>
+      <li class="listnumber">Set the spot ignition delay and <a href="../FSPro/Modifying Foliar Moisture Content (BFB &amp; STFB, NTFB).htm">foliar moisture content.</a></li>
+      <li class="listnumber">
+        <p>Set the start and end dates.</p>
+        <ul>
+          <li class="listbullet2">For dates in the future, WFDSS uses forecast data.</li>
+          <li class="listbullet2">For dates in the past, WFDSS uses historic RAWS data.</li>
+        </ul>
+      </li>
+      <li class="listnumber">Upload ignition and barriers shapefiles.An ignition file is required; barriers are optional. If no ignition file exists, you can create it later (See <a href="../Creating an Analysis Ignition File.htm">Creating an Analysis Ignition File</a>).</li>
+      <li class="listnumber">Verify the RAWS station information.</li>
+      <li class="listnumber">Click <span class="buttons">Create. </span>The Detailed Near-Term Fire Behavior page appears. You can modify any information that was added in steps 4 - 9 here.</li>
+      <li class="listnumber">
+        <p>Verify the following items:</p>
+        <ul>
+          <li class="listbullet2">
+            <a href="">burn periods </a>(typically, analysts will shorten the burn duration from the default 24 hours to the timeframes of active burning)</li>
+          <li class="listbullet2">
+            <a href="../Basic and Short-term Fire Behavior/Analyst-Assisted/Modifying Wind Information (BFB, STFB).htm">wind information</a>
+          </li>
+          <li class="listbullet2">
+            <a href="../Modifying Initial Fuel Moisture (BFB &amp; STFB, NTFB).htm">initial fuel moistures</a>(herbaceous and woody fuel moistures typically need adjustment)</li>
+          <li class="listbullet2">
+            <a href="../Viewing and Modifying Weather Summary Data (BFB, STFB &amp; NTFB).htm">hourly records (wind and weather)</a>
+          </li>
+        </ul>
+      </li>
+      <li class="listnumber">Click <span class="buttons">Save</span> after making edits and before leaving the Near-Term Information Page.</li>
+      <li class="listnumber">Create a landscape file and edit it if necessary. (See <a href="../FSPro/Creating the Landscape File.htm">Creating the Landscape File</a> and <a href="../FSPro/Editing the Landscape File.htm">Editing a Landscape File</a>.)</li>
+      <li class="listnumber">Use the Requirements fly-out menu on the right to ensure all required components are completed.</li>
+      <li class="listnumber">Click <span class="buttons">Run Near-Term Fire Behavior</span>.The analysis runs. Depending on the parameters you selected, the analysis could take several minutes to complete.</li>
+    </ol>
+    <p class="bodytext">Depending on the landscape size and resolution, as well as the traffic on the server, the analysis could take several minutes to run. Refresh your browser to see the status change to Complete, then select the analysis and click <span class="buttons">View Results</span> to see the analysis on the map view.</p>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

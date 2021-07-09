@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">LANDFIRE 2016 Remap (LF2.0.0)</h1>
+    <p class="bodytext">LANDFIRE (LF) 2016 Remap (LF 2.0.0) data for the continental United States, and Hawaii were delivered to WFDSS in 2021. LANDFIRE 2016 Remap (LF2.0.0) is a vegetation and fuels mapping effort to update the base product suite. LF 2016 includes updated base maps for all products based on recent Landsat imagery, lidar data, and field data. It also incorporates landscape change and disturbances, such as wildland fire, fuel and vegetation treatments, insects and disease, storm damage, and invasive plants that occurred in 2015 and 2016.  </p>
+    <p class="bodytext">
+      <span class="specialbold">2020 Capable Fuels</span>
+    </p>
+    <p class="bodytext">Additionally, LF 2016 applies a new Capable Fuels methodology to ensure that fuels products in disturbed areas reflect vegetation growth after the disturbance and up until the capable year (i.e. 2019 or 2020, rather than 2016). To accomplish this, in areas with disturbance from 2010-2016, fuel models and canopy characteristics were modified to represent post-disturbance recovery between 2016 (when the imagery/data were captured) and 2020 (when it became widely available for use). While users will still need to modify fuels data for disturbances after 2016, this improves performance of fire behavior modeling and reduces the need for analysts to update fuels data to represent current conditions (<a href="">https://www.landfire.gov/lf_remap.php</a>, <a href="">https://www.landfire.gov/documents/Summary_LF_capable_fuels.pdf</a> ).</p>
+    <table style="border-collapse:collapse; border: 1px solid #010101;">
+      <thead>
+        <tr>
+          <th class="tableheading" width="161.26666666666668" style="border: 1px solid #010101;">
+            <p class="tableheading">Area Has Disturbance in Year</p>
+          </th>
+          <th class="tableheading" width="161.26666666666668" style="border: 1px solid #010101;">
+            <p class="tableheading">Action Needed Regarding Fuels</p>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="bodytext" width="161.26666666666668" style="border: 1px solid #010101;">
+            <p class="bodytext">No disturbance</p>
+          </td>
+          <td class="tablebodytext" width="161.26666666666668" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Fuels represent those in 2016. No specific action required, but users should always validate fuels information.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="bodytext" width="161.26666666666668" style="border: 1px solid #010101;">
+            <p class="bodytext">2009 or earlier</p>
+          </td>
+          <td class="bodytext" width="161.26666666666668" style="border: 1px solid #010101;">
+            <p class="bodytext">Fuels represent those in 2016. LANDFIRE assumes there will be no further change after 2016.</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="161.26666666666668" style="border: 1px solid #010101;">
+            <p class="tablebodytext">2010 - 2016</p>
+          </td>
+          <td class="tablebodytext" width="161.26666666666668" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Fuels represent simulated post-disturbance regrowth up to 2020.  Analysts should validate and update fuels information to account for growth since 2020. </p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="161.26666666666668" style="border: 1px solid #010101;">
+            <p class="tablebodytext">After 2016</p>
+          </td>
+          <td class="tablebodytext" width="161.26666666666668" style="border: 1px solid #010101;">
+            <p class="tablebodytext">Fuels information does not account for these disturbances. Analysts are encouraged to edit fuels data using landscape masks and editing rules. </p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="bodytext">This data is the default data source used by WFDSS for fire behavior analysis, and when users query fuels and topographic data on incident and intelligence map displays. Users can change the default selection on the Incident Information page, if they choose. If an analyst chooses a different data source for an analysis, the chosen data source would override the incident default data source for that analysis only. </p>
+    <p class="bodytext">This update includes: </p>
+    <ul>
+      <li class="listbullet">Responses to vegetation successional change in forested types.</li>
+      <li class="listbullet">Revisions to address discrepancies between map products and known field conditions.  </li>
+    </ul>
+    <p class="bodytext">The LF 2016 update also: </p>
+    <ul>
+      <li class="listbullet">Supports wildland fire and natural resource management, planning, research, analysis, and assessments.  </li>
+      <li class="listbullet">Uses Landsat imagery, point, and polygon data 2015-2016.  </li>
+      <li class="listbullet">Incorporates new or updated institutional data sources. </li>
+      <li class="listbullet">Updates fuel products based on vegetation products.  </li>
+    </ul>
+    <p class="bodytext">The LF 2016 update strategy applies a consistent approach to combine geospatial data depicting areas of disturbance with Remote Sensing of Landscape Change (RSLC) derived data to develop the disturbance layers. Data from combinations of Landsat satellite imagery, fire program data (e.g., Monitoring Trends in Burn Severity (MTBS)), cooperator-provided field data, and other ancillary data (e.g., Protected Area Database (PAD)) are used to locate and characterize large wildfires. </p>
+    <p class="bodytext">
+      <span class="specialbold">KBDI Version of this Data</span>
+    </p>
+    <MadCap:snippetBlock src="../zzzz_Sandbox/5.1_Release/KBDI Adjusted LANDFIRE  Layer .flsnp" />
+  </body>
+</html>

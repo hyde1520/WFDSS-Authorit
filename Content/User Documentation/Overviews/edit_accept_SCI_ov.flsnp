@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">After you have created a stratified cost index (SCI) for an incident, you can edit the parameters, calculate the SCI, and accept the results.</p>
+    <p class="bodytext">Only the person who created the SCI calculation can edit or accept that calculation. However, anyone with editing privileges for an incident can run an SCI for that incident.</p>
+    <p class="bodytext">In addition, Viewers can only see an SCI calculation after it is accepted.</p>
+  </body>
+</html>

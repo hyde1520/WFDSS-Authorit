@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+  <TocEntry Title="Trails" Link="/Content/User Documentation/Data Layer Reference/Trails/Trails.htm">
+    <TocEntry Title="Overview" Link="/Content/User Documentation/Data Layer Reference/Trails/Overview.htm" />
+    <TocEntry Title="Data Input" Link="/Content/User Documentation/Data Layer Reference/Trails/Data Input.htm" />
+    <TocEntry Title="Topic6801" Link="/Content/User Documentation/Data Layer Reference/Trails/Topic6801.htm" />
+    <TocEntry Title="Data Information" Link="/Content/User Documentation/Data Layer Reference/Trails/Data Information.htm" />
+    <TocEntry Title="Trails GIS Team Contacts" Link="/Content/User Documentation/01a_Common User Content/Trails GIS Team Contacts.htm" />
+  </TocEntry>
+</CatapultToc>

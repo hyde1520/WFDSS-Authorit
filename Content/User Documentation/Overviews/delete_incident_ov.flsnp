@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Dispatchers can delete incidents within their geographic area for up to 72 hours unless someone accepts incident ownership. National Editors can delete any incident until a decision has been published. No other roles have incident deletion privileges within WFDSS.</p>
+    <p class="bodytext">Remember, incidents are part of the official system of record for fire management, and should not be deleted without a good reason (e.g., duplicate entries for the same incident).</p>
+  </body>
+</html>

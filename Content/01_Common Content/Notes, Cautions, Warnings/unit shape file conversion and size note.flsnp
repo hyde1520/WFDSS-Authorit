@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="note">
+      <span class="specialbold">Note:</span> Though WFDSS uses NAD83, it will import and convert shapefiles that were created in other common projections and datums. In addition, shapes are downloadable in a local Albers projection that is based on the location of the incident. The maximum Other Unit shape size is 100 points or 75,000 vertices for lines and polygons. This applies to Other Unit shapes only.</p>
+  </body>
+</html>

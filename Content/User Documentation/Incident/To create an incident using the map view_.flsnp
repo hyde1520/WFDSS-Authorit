@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Choose <span class="menuoptions">Intelligence tab &gt; Intelligence Map</span>. The map of your designated geographic area appears.<div class="listnote"><MadCap:snippetBlock src="../../01_Common Content/Notes, Cautions, Warnings/Map load times.flsnp" /></div></li>
+      <li class="listnumber">Click the Fire <img src="To create an incident using the map view_.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> icon. The cursor changes to an arrow.</li>
+      <li class="listnumber">Place the arrow on the location of the fire, then click. <div class="listcontinue"><p>A small yellow circle appears on the map in the location of the fire, and the latitude and longitude are automatically entered in the appropriate fields in the Create Incident pane.</p></div></li>
+      <li class="listnumber">On the left side of the screen in the Create Incident pane, click the Incident Name field and type the name of the incident.</li>
+      <li class="listnumber">Click <span class="buttons">Next</span>. The Create New Incident page appears. A pop-up map displays the incident. You can use tools to pan or zoom within the map to verify fire location.</li>
+      <li class="listnumber">Enter a Discovery Time. All other necessary fields have been auto-filled for you.</li>
+      <li class="listnumber">
+        <p>Verify that the following information auto-filled correctly:</p>
+        <ul>
+          <li class="listbullet2">Unit ID (this is from the SMA layer)</li>
+          <li class="listbullet2">Responsible Unit at Point of Origin</li>
+          <li class="listbullet2">Jurisdictional Agency</li>
+        </ul>
+      </li>
+      <li class="listnumber">Enter any additional information that you have about the fire, Unique Fire Identifier, Incident Cause, Incident Size, Landscape Data Source, and so on. This information can be entered or edited later as more accurate data are available.</li>
+      <li class="listnumber">Click <span class="buttons">Create</span>. The incident is saved to the database and added to the Incident List, and the Edit Incident Information appears.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnote">
+        <div class="listnote">
+          <p>
+            <span class="specialbold">Note:</span> If you don't know the latitude or longitude, click the <span class="buttons">Info</span><img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> button on the mapping tools. Then, clcik the location on the map where you want the analysis ignition to start. The <span class="menuoptions">Info</span> tab displays the latitude and longitude that you selected. When you return to the <span class="menuoptions">Map</span> tab, the latitude and longitude fields are auto-filled with your selection.</p>
+        </div>
+      </li>
+    </ol>
+  </body>
+</html>

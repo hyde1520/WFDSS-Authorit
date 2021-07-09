@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <MadCap:snippetBlock src="../../01_Common Content/Notes, Cautions, Warnings/asterisks indicate required fields.flsnp" />
+    <ol>
+      <li class="listnumber">
+        <p>Do one of the following:</p>
+        <ul>
+          <li class="listbullet2">Navigate to the WFDSS Home web page &gt; click<span class="buttons"> Request Account</span> from the menu options on the left, or</li>
+          <li class="listbullet2">Navigate to the WFDSS Training or Production login screen &gt; click the <span class="buttons">Request New Account </span>link located below the Sign In fields.</li>
+        </ul>
+      </li>
+      <li class="listnumber">The <a href="../../zzzz_Sandbox/4.11_release/Preliminary User Qualifications page .htm">Preliminary User Qualifications</a> page opens. Review the user qualifications.</li>
+      <li class="listnumber">Click <span class="buttons">Continue </span>to move to the Request User Account screen, or click <span class="buttons">Cancel </span>to return to the WFDSS login screen.</li>
+      <li class="listnumber">Enter a User Name (at least six characters, containing lowercase letters, digits, and the special characters @, underscore (_), and period).</li>
+      <li class="listnumber">Enter your First Name, Last Name, and Employer.</li>
+      <li class="listnumber">Enter your Telephone Number and primary Email Address.</li>
+      <li class="listnumber">If you have a cell phone number and secondary email address, enter that information.</li>
+      <li class="listnumber">Enter your Alternate E-Mail address.</li>
+      <li class="listnumber">Select your security question from the drop-down list.</li>
+      <li class="listnumber">Enter your response to the question.</li>
+      <li class="listnumber">Re-enter your response to confirm your answer.</li>
+      <li class="listnumber">Select your Geographic Area, Agency, and Unit.</li>
+      <li class="listnumber">Click <span class="buttons">Submit</span>. </li>
+    </ol>
+    <p class="bodytext">Once your request is approved, you receive an email confirming your user name and password. If you don't receive an email with your password within a couple of hours of submitting your request, please contact the HelpDesk from <a href="https://iiahelpdesk.nwcg.gov/">https://iiahelpdesk.nwcg.gov/</a>. </p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+    <p class="bodytext" />
+  </body>
+</html>

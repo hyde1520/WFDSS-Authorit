@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">
+        <p>Navigate to the <span class="menuoptions">Mgmt Action Points </span>menu option in one of the following ways:</p>
+        <ul>
+          <li class="listbullet2">From the Incident List, select <span class="buttons">View Information </span>&gt; <span class="menuoptions">Mgmt Action Points</span> menu option.</li>
+          <li class="listbullet2">From within an incident, select the <span class="buttons">Mgmt Action Points</span> menu option from the list of options on the left.</li>
+          <li class="listbullet2">From the Situation map, select the <span class="specialbold">Info</span> tab above the LayerSwitcher on the left &gt; select the <span class="menuoptions">Mgmt Action Points</span> menu option.</li>
+        </ul>
+      </li>
+      <li class="listnumber">Locate the section at the top of the page called Management Action Point Images to Include in Decisions.</li>
+      <li class="listnumber">Select one or both <span class="specialbold">Images to Include</span> options, and then click <span class="buttons">Save</span>.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">
+        <p>Navigate to the Reports tab inone of two ways:</p>
+        <ul>
+          <li class="listbullet2">Select the <span class="menuoptions">My Home Page</span> tab and click on the <span class="menuoptions">My Incidents </span>sub-tab.</li>
+          <li class="listbullet2">Select the <span class="menuoptions">Incidents</span> tab, select the incident, click <span class="buttons">View Information</span>.</li>
+        </ul>
+      </li>
+      <li class="listnumber">Select the <span class="menuoptions">Reports </span>tab. The Report List page appears.</li>
+      <li class="listnumber">Click <span class="buttons">Create</span>. The Create New Report page appears.</li>
+      <li class="listnumber">Entera Report Name.</li>
+      <li class="listnumber">Select <span class="specialbold">Management Action Points</span> in the Report Types. This automatically formats your report.</li>
+      <li class="listnumber">Click <span class="buttons">Create</span>.</li>
+      <li class="listnumber">
+        <p>Choose one of two below:</p>
+        <ul>
+          <li class="listbullet2">To create a report that contains all currently active (published in the most current decision) M.A.P.s:</li>
+        </ul>
+        <ol>
+          <ol>
+            <li class="listalpha3">Locate the section titled Currently Active Management Action Points for (Incident).</li>
+            <li class="listalpha3">Select the images you want to include in your report; individual M.A.P.s, an image containing all M.A.P.s, or both.</li>
+            <li class="listalpha3">Select <span class="buttons">Create Activated M.A.P. Report</span>.</li>
+          </ol>
+        </ol>
+        <ul>
+          <li class="listbullet2">To create a report that contains M.A.P.s that you manually select:</li>
+        </ul>
+        <ol>
+          <ol>
+            <li class="listalpha3">Use the Management Action Point List Filter to generate a list of M.A.Ps based on their status and/or potential inclusion in the next decision.</li>
+            <li class="listalpha3">Locate the Management Action Points for Crest section, and then select the images you want to include in your report; individual M.A.P.s, an image containing all M.A.P.s, or both.</li>
+            <li class="listalpha3">Select the M.A.P.s you want to include in your report, or choose the <span class="buttons">Select All</span> button if you prefer.</li>
+            <li class="listalpha3">Click <span class="buttons">Create Custom M.A.P. Report</span>.</li>
+          </ol>
+        </ol>
+      </li>
+      <li class="listnumber">Review the Report name for accuracy. If edits to the Report Name are necessary, make those edits and then click <span class="buttons">Save</span>.</li>
+      <li class="listnumber">Click <span class="buttons">Return</span> to navigate back to the Report List.</li>
+      <li class="listnumber">From the Report List page, select the report for <a href="../../User Documentation/Reports/Report Templates/Viewing a Report Template Report.htm">viewing</a>, <a href="../../User Documentation/Reports/Editing Reports.htm">editing</a>, copying, checking -in, <a href="../../User Documentation/Reports/Publishing a Report.htm">publishing</a>, creating a pdf, or generating HTML of the report content. You can also click <span class="buttons">Delete </span>to completely delete the report name and its contents.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+    <p class="bodytext"> </p>
+  </body>
+</html>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident List, choose <span class="menuoptions">Data Management &gt; Objectives</span>. The Strategic Objectives page appears.</li>
+      <li class="listnumber">Select the Geographic Area, Agency, and Unit you want to enter objectives for. If Strategic Objectives or Management Requirements already exist for the unit selected, they will appear in the list at the bottom of the page.</li>
+      <li class="listnumber">Click <span class="buttons">Create Strategic Objective</span>. The Create Strategic Objective page appears.</li>
+      <li class="listnumber">Select the FMU or Strategic Objective (SO) Code you want to enter Strategic Objectives for.<div class="listnote"><p><span class="specialbold">Note</span>: FMU or SO Codes that appear in the list represent the spatial FMU or SO shapes that Data Managers submitted to their agency <a href="To enter Strategic Objectives.htm">WFDSS Data Contact</a> for uploading. If the Code you want to develop text for does not appear in the list, the associated FMU or SO shapefile for that administrative unit may not have been uploaded to WFDSS yet (shapefiles are uploaded to WFDSS on a quarterly schedule). If this occurs, you can continue to create text and associate a code/shape at a later date. </p></div></li>
+      <li class="listnumber">Select a Standard Objective from the drop-down list, or enter a Strategic Objective in the Description field. You can use the toolbar to format the text however if needed, and you can copy/paste from MS Word.</li>
+      <li class="listnumber">Click <span class="buttons">Save</span>. A message appears saying that the Strategic Objective has been successfully created.</li>
+      <li class="listnumber">Click <span class="buttons">Return</span>. The Strategic Objectives page re-appears with your newly entered objective displayed in the list, sorted by FMU/SO Code.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident List, Analysis List, Group, or Intelligence map, select <span class="specialbold">Manage Filters</span>.</li>
+      <li class="listnumber">Select the filter from the Filter List that you want to share.</li>
+      <li class="listnumber">Click <span class="buttons">Transfer Filter</span>.</li>
+      <li class="listnumber">Search for the User Name that you want to share the filter with, and then select the checkbox beside their User ID.</li>
+      <li class="listnumber">Determine if you want to select the filter as the user's default filter, and then select Yes or No.</li>
+      <li class="listnumber">Double-check the name of the filter you are sharing to ensure you have selected the correct filter, and then click <span class="buttons">Transfer Filter</span>.</li>
+      <li class="listnumber">A message appears atop the screen that says the filter transferred to the user.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

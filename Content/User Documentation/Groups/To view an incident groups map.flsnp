@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Select the <span class="menuoptions">Incident Groups </span>tab.The Incident Groups List appears.</li>
+      <li class="listnumber">Select the group that contains the map you want to view.</li>
+      <li class="listnumber">Click <span class="buttons">View Incident Group Map</span>. The Groups Map appears.</li>
+      <li class="listnumber">Use the layerswitcher to modify the map so you can see all relevant information displayed, or click the <span class="menuoptions">Info </span>tab for more relevant information for the incident group.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

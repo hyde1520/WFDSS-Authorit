@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Incident Owners and Editors can add an <a href="../About_Topics/About Images.htm">image</a> to the decision content of a pending decision, but first the image must be <a href="../01a_Common User Content/Map Features/Info tab/Capturing Map Images.htm">captured from a WFDSS map display</a> or <a href="../01a_Common User Content/Map Features/Uploading Images.htm">uploaded from outside of WFDSS.</a> A captured or uploaded image is saved to the Images Folder, where it can be added to the section of decision content that a user selects. Once a pending decision has been published, it is no longer editable.</p>
+    <p class="bodytext">When deciding where to add an image, determine what section of the pending decision is best supported by the image. For instance, if the chosen Course of Action was informed by a Near Term Fire Behavior analysis output, capture an image of the output from the analysis results display and add it to the Course of Action section of the pending decision, along with a brief summary of why the analysis is relevant.</p>
+    <p class="bodytext">Incident Owners and Editors can add images to sections of a Pending Decision using the Default Decision Editor to illustrate and convey information.  Before adding images to a Pending Decision the images must first be either uploaded or screen captured to the incident content.  See <a href="../01a_Common User Content/Map Features/Uploading Images.htm">Uploading Images</a> and/or <a href="../01a_Common User Content/Map Features/Info tab/Capturing Map Images.htm">Capturing Map Images</a> to load images to the incident content.</p>
+    <p class="bodytext" />
+  </body>
+</html>

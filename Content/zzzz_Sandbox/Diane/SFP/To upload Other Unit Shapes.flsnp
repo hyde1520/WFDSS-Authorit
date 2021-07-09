@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Choose <span class="menuoptions">Data Management</span> &gt; <span class="menuoptions">Unit Shapes</span>. The Unit Shapes page appears.</li>
+      <li class="listnumber">Select the Geographic Area, Agency, and Unit that you are uploading shapes for.</li>
+      <li class="listnumber">Enter a Label for your shape. This label appears in the <a href="../../../Glossary Terms/LayerSwitcher.htm">LayerSwitcher</a> on the map, so make sure that it accurately and simply reflects the shape's purpose or content. For example, "Spotted Owl" or "Kickapoo Campground".</li>
+      <li class="listnumber">Enter a Category for the shape. The Category appears in the LayerSwitcher on the map and will help you locate the shape in the map layers. Your  unit should agree on consistent categories and naming conventions for Other Unit Shapes.</li>
+      <li class="listnumber">Enter a Description that provides more details about the shape. For example, "full-service campground with electrical and water."</li>
+      <li class="listnumber">Click <span class="buttons">Browse </span>to navigate to the shapefile you are uploading. The Choose File to Upload window appears.</li>
+      <li class="listnumber">Navigate to the shapefile you want to upload, and then click <span class="buttons">Open</span>. The full path for your file appears in the File to Upload field.</li>
+      <li class="listnumber">Select Include in Values<span class="specialbold" />to include the shape in the Values layer and Values Inventory. You can change this at any time by choosing <span class="menuoptions">Data Management &gt; Unit Shapes &gt;</span> de-select the checkbox next to the selected shape.</li>
+      <li class="listnumber">Click <span class="buttons">Upload</span>. The shapefile appears in the Other Shapes for Unit list.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

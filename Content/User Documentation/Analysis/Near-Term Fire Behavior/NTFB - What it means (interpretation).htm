@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">NTFB - What it means (interpretation)</h1>
+    <p class="bodytext">WFDSS Near-Term Fire Behavior (NTFB) output results are fairly straightforward to interpret. Unlike FSPro, the burn period polygons and timestep outputs are true modeled fire progressions (and not probability outputs). </p>
+    <p class="bodytext">The following image shows the modeled progression outputs for a NTFB analysis. Three different burn periods (one day each from 1300 to 1900) are depicted by black polygons that are numbered in their interiors.  Each colored band (arrival time) represents a two-hour timestep.  Note that the color scheme starts over again on day three (once the palette of six colors is used).  </p>
+    <p class="figure">
+      <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+    </p>
+    <p class="figure">
+      <span class="specialbold">Figure. NTFB Showing Arrival Time</span>
+    </p>
+    <p class="bodytext">The burn period outputs (black lines) are set by the user in the NTFB inputs and cannot be changed from the output results.  The Arrival Time interval output (colored progression) can be changed in the Arrival Time drop-down list, depending on preference for display. The image below shows the options available when you expand the plus symbol to the left of the Arrival Time checkbox.</p>
+    <p class="figure">
+      <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+    </p>
+    <p class="figure">
+      <span class="specialbold">Figure. NTFB Interval Options</span>
+    </p>
+    <p class="note">
+      <span class="specialbold">Note:</span> an Arrival Time interval (color band) cannot span across a Burn Period (black line). If the Burn Period is not divisible by the Arrival Time interval selected, the last color band interval for each burn period is truncated. If possible, therefore, select an interval that fits evenly into the burn period. </p>
+    <p class="bodytext">In the example above, the burn period was six hours. With an interval of two hours selected, each of the colored bands within the three burn periods represent exactly two hours of burning. If the burn period was seven hours and the interval was two hours, however, you would observe four color bands, with the last band being of a shorter duration (2, 2, 2, and 1 hour, for a total of seven hours). </p>
+    <p class="bodytext">Like STFB, gridded fire behavior outputs are also generated:</p>
+    <ul>
+      <li class="listbullet">Flame length</li>
+      <li class="listbullet">Rate of Spread</li>
+      <li class="listbullet">Fireline Intensity</li>
+      <li class="listbullet">Crown Fire Activity</li>
+    </ul>
+    <p class="bodytext">Unlike STFB, the gridded outputs are generated for the modeled fire area only (not the entire landscape), and they incorporate changes in wind and weather conditions over time.</p>
+    <p class="bodytext">The below image is an example of a NTFB Flame Length output with the Flame Length Legend:</p>
+    <p class="figure">
+      <img src="" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" />
+    </p>
+    <p class="figure">
+      <span class="specialbold">Figure. NTFB Flame Length Output</span>
+    </p>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

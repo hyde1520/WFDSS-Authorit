@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">All report types can be customized and allow users to add relevent decision content to meet the user's needs. Examples of report contents are:</p>
+    <ul>
+      <li class="listbullet">Management Action Points for Operations and <a href="../../Glossary Terms/inbrief.htm">inbriefs</a></li>
+      <li class="listbullet">Incident Objectives and Requirements for inbriefings</li>
+      <li class="listbullet">Fire Behavior Summary</li>
+      <li class="listbullet">Risk Assessment Summary</li>
+    </ul>
+    <p class="bodytext">The above items can be combined to create a large, customized inbriefing report.</p>
+  </body>
+</html>

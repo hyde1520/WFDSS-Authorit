@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Once shapes are associated with an incident objective or requirement, Incident Owners and Editors can view the associations. Reviewers and Approvers can view associations when reviewing a pending decision. Other WFDSS users can view associations only after a decision has been published that includes the incident objectives and requirements associated to the shape.</p>
+  </body>
+</html>

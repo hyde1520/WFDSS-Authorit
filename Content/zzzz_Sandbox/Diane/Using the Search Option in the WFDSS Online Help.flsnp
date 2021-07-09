@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">The Search function in WFDSS Online Help allows users to enter a keyword or phrase to find help. </p>
+    <ul>
+      <li class="listbullet">If you search using a keyword, all topics currently in the help that contain that keyword are listed. </li>
+      <li class="listbullet">If you search using a phrase, all topics currently in the help that contain that phrase are listed. When you search using a phrase, avoid verbs and use nouns so you don't inadvertently miss the help topic you are looking for. For instance, let's say you want to search for help with editing a landscape file. If you search for "edit a landscape file," two results are found. If you search for the phrase "landscape file," 52 results are found. Multiple help topics may exist to provide the help you are looking for and in this case, Creating a Landscape File, Editing a Landscape File, and Modifying Landscape File Parameters are among the results.</li>
+    </ul>
+    <p class="bodytext">The <a href="Using the Google Search on the WFDSS Home Page.htm">Google search option </a>is also available on the WFDSS Home page.  It allows you to search the entire WFDSS website (includes WFDSS Online Help and the WFDSS Home Page) and/or the worldwide web. It's the most thorough search engine available on the WFDSS website.</p>
+  </body>
+</html>

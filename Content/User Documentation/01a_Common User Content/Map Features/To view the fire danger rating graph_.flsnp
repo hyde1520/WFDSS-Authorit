@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">
+        <p>Navigate to the Fire DangerRating Graph by doing<span class="specialbold"> one </span>of the following:</p>
+        <ul>
+          <li class="listbullet2">
+            <span class="specialbold">From the Intelligence Map: </span>Choose the <span class="menuoptions">Intelligence</span> tab.</li>
+          <li class="listbullet2">
+            <span class="specialbold">For a specific situation:</span> From the <span class="menuoptions">Incident List </span>&gt; select the incident &gt; click <span class="buttons">Assess Situation</span>. The Situation Assessment map appears for the selected incident.</li>
+          <li class="listbullet2">
+            <span class="specialbold">For a specific analysis: </span>From the <span class="menuoptions">Analysis List</span> &gt; select the analysis &gt; click <span class="buttons">View Information</span> &gt; choose <span class="menuoptions">View Landscape</span>. (You must have already <a href="../../Analysis/FSPro/Creating the Landscape File.htm">created the landscape</a> for the analysis to use this option)</li>
+          <li class="listbullet2">
+            <span class="specialbold">For a specific location: </span>From the <span class="menuoptions">Incident List </span>&gt; select the incident &gt; click <span class="buttons">Assess Situation</span>. The Situation Assessment map appears for the selected incident.</li>
+        </ul>
+      </li>
+      <li class="listnumber">Choose the <span class="menuoptions">Info</span> sub-tab.</li>
+      <li class="listnumber">Click<span class="buttons"> Fire Danger</span>. An ERC Fire Danger Rating Graph of the closest available RAWS to the incidentappears in a separate browser window. The straight line distance between the point you clicked with the Identify Tool and the selected station, as well as the elevations for the twolocations are shown above the graph.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

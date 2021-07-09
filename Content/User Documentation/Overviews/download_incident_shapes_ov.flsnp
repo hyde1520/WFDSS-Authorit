@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">WFDSS allows you to download the shapes you have created for an incident, so that you can use them for other things, even after the decision process is complete. Examples of such other uses include post-fire rehabilitation and maintenance of historical records of fire progression. You can use the downloaded shapes in any program that uses shapefiles (GIS, Google Earth®, etc.).</p>
+    <p class="bodytext">The following criteria apply:</p>
+    <ul>
+      <li class="listbullet">All WFDSS users, regardless of role, can download shapes for an incident with the exception of M.A.P.s and Incident Obj. Shapes.</li>
+      <li class="listbullet">Users with editing privileges for an incident can download all shape types including M.A.P.s and Incident Obj. Shapes.</li>
+      <li class="listbullet">Shapes are downloaded in WGS84 (decimal degrees).</li>
+      <li class="listbullet">All shape typescan be downloaded individually.</li>
+      <li class="listbullet">Fire perimeters canbe downloaded as a batch (<a href="../01a_Common User Content/Map Features/To download all fire perimeters for an incident_.htm">all fire perimeters for an incident</a>, or <a href="../01a_Common User Content/Map Features/To download all fire perimeters for the currently displayed incident list_.htm">all final fire perimeters for the fires currently displayed in your incident list</a>).</li>
+      <li class="listbullet">Users can download M.A.P.s as a batch (from the LayerSwitcher beside a map display, or from the M.A.P. menu option.)</li>
+    </ul>
+  </body>
+</html>

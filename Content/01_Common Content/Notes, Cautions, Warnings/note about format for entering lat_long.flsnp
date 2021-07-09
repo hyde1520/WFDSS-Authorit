@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnote">
+        <div class="listnote">
+          <p>
+            <span class="specialbold">Note:</span> The latitude and longitude must be entered with NAD83 datum to get an accurate location in WFDSS.</p>
+        </div>
+      </li>
+    </ol>
+  </body>
+</html>

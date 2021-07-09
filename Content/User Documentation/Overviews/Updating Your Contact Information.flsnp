@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">It is important to keep your profile up to date with your current contact information, to include cell phone number, email, Geographic Area, agency and unit. If you change jobs, units, or agencies, you do not need to request a new account. Instead, just update your contact information. If you experience a life change and want to change your login ID you can do that as well.</p>
+    <p class="bodytext">Keeping your contact information current is important for the following reasons:</p>
+    <ul>
+      <li class="listbullet">If you contactyour local GAE to have roles assignedand your contact information (to include correct GA, specifically) is out of date, the GAE is unable to locate your account since they can only service accounts within their GA.</li>
+      <li class="listbullet">WFDSS uses the information provided in your user profile to notify you ofkey events related todecisions you are involved with. Examples include; notification when fire behavior modeling results are available for an incident or when a decision has been submitted for review and/or approval.Failure to update key information could prevent you from being notified in a timely manner.</li>
+      <li class="listbullet">In the event of significant outage or impacts to users, youcould miss WFDSS-generated emails if your current email address is incorrect.</li>
+      <li class="listbullet">If you choose to receive notification of key events by email AND text message, you canchoose your cell phone carrier, and then click <span class="emphasis">Generate alternate address from Cell Number and Carrier</span> to generate an Alternate E-mail Address. This enables notification texts to your cell phone. You can't receive notifications if your cell phone and/or email address are incorrect.</li>
+      <li class="listbullet">YourWFDSS contact information informs how you receive notifications (GA Summary, Fire Behavior Request, Flame Act Report etc.) if you've subscribed to these services, which are typically used by GAEs National Editors and Administrators.(If youchoose to enter a<span class="emphasis">User ID</span> when subscribing, the notifications will be sent to the email address listed in your contact information, and cell phone if you've generated an alternate email address from your cell number and carrier. An alternative would be to choose toenter an email <span class="emphasis">other than</span> what's in your contact informationfor notifications to be sent to.) If your cell phone and/or email are incorrect, you will miss these notifications.</li>
+      <li class="listbullet">If you submit feedback, the WFDSS team and developers rely on your contact information to reach you regarding your feedback; ifwhat's listed isincorrect, resolving issues can be difficult.</li>
+    </ul>
+    <p class="note">
+      <span class="specialbold">Note</span>: You must update your contact information in each system. Currently, the information does not replicate between the Training and Production.</p>
+  </body>
+</html>

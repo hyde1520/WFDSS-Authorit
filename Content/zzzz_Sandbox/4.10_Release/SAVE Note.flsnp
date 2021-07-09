@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="note">
+      <span class="specialbold">Note</span>: It is easy to just exit the text editor without thinking about saving your changes. This is especially true when you are balancing multiple work priorities. If you have not saved your changes before exiting the text editor,the application brings up a message asking you to click <span class="buttons">OK </span>to save your work. To exit the text editor without saving your work click <span class="buttons">Cancel</span>.</p>
+  </body>
+</html>

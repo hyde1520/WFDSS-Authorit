@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">
+        <p>Navigate to the analysis by doing one of the following:</p>
+        <ul>
+          <li class="listbullet2">Choose <span class="menuoptions">Incidents </span>tab &gt; select the incident &gt; click <span class="buttons">View Analyses </span>&gt; select the analysis.</li>
+          <li class="listbullet2">Choose <span class="menuoptions">Analyses</span> tab &gt; select the analysis.</li>
+          <li class="listbullet2">From within the incident, choose<span class="menuoptions"> Incident Analyses</span> from the left menu &gt; select the analysis.</li>
+          <li class="listbullet2">From the Situation Map, choose <span class="menuoptions">Menu tab </span>&gt; <span class="menuoptions">Incident Analyses </span>&gt; select the analysis.</li>
+        </ul>
+        <div class="listnote">
+          <p>
+            <span class="specialbold">Note:</span> Use the <a href="../Filters/Applying an Analysis Filter Temporarily.htm">temporary filters</a> or <a href="../Filters/Creating Analysis Filters.htm">create permanent filter</a>s to help you more easily find the analysis you are looking for.</p>
+        </div>
+      </li>
+    </ol>
+  </body>
+</html>

@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">About IRWIN Data Exchange</h1>
+    <p class="bodytext">WFDSS uses a data exchange service called IRWIN (Integrated Reporting of Wildland Fire Information) to exchange information with other wildland fire applications such as computer aided dispatch systems (CADs) and ICS 209 (Incident Status Summary). IRWIN acts as a central hub that orchestrates data transfer between these applications. This reduces duplicate data entry and ensures the most current data is available in all of the participating applications. IRWIN also detects conflicts and supports resolution on all new wildfire incidents to support a unique record for each ignition.</p>
+    <p class="bodytext">In order to resolve inconsistencies between applications, the applications are ranked based on a level of authority. The data flow between applications is based on rules, where the information from an application is given a ranking based on its level of authority. IRWIN maintains a record of the “authority” of the data coming from each application. Authority can be thought of as an order of precedence. A system can only update an element in IRWIN if their permission hierarchy value is higher (they are of higher rank) than the last system that either created or updated that element. If another application has higher rank for a specific data element, the data field in the incident information field will be grayed out, and cannot be edited. </p>
+    <p class="bodytext">Additional IRWIN-related information is available from the <a href="https://www.wildfirelessons.net/communities/community-home?CommunityKey=1b5be2e6-30ab-47ab-bae2-599b07b940eb">Wildland Fire Lessons Learned Center</a>. You can create an account or contact an IRWIN team member if needed.</p>
+    <p class="bodytext">The following data elements, displayed and edited through the Incident Information screen, are exchanged through IRWIN: </p>
+    <table style="border-collapse:collapse; border: 1px solid #010101;" width="396">
+      <tr>
+        <td class="bodytext" width="138" style="border: 1px solid #010101;">
+          <p class="bodytext">WFDSS Field Name</p>
+        </td>
+        <td class="bodytext" width="258" style="border: 1px solid #010101;">
+          <p class="bodytext">IRWIN Data Element (POO= Point of Origin)</p>
+        </td>
+      </tr>
+      <tr>
+        <td class="bodytext" width="138" style="border: 1px solid #010101;">
+          <p class="bodytext">Unique Fire Identifier</p>
+        </td>
+        <td class="bodytext" width="258" style="border: 1px solid #010101;">
+          <p class="bodytext">Unique Fire Identifier</p>
+        </td>
+      </tr>
+      <tr>
+        <td class="bodytext" width="138" style="border: 1px solid #010101;">
+          <p class="bodytext">Discover Date/ Discovery Time</p>
+        </td>
+        <td class="bodytext" width="258" style="border: 1px solid #010101;">
+          <p class="bodytext">Fire Discovery Date/Time</p>
+        </td>
+      </tr>
+      <tr>
+        <td class="bodytext" width="138" style="border: 1px solid #010101;">
+          <p class="bodytext">Unit ID (Unique Fire Identifier)</p>
+        </td>
+        <td class="bodytext" width="258" style="border: 1px solid #010101;">
+          <p class="bodytext">POO ProtectingUnit</p>
+        </td>
+      </tr>
+      <tr>
+        <td class="bodytext" width="138" style="border: 1px solid #010101;">
+          <p class="bodytext">Local Number</p>
+        </td>
+        <td class="bodytext" width="258" style="border: 1px solid #010101;">
+          <p class="bodytext">Local Incident Identifier</p>
+        </td>
+      </tr>
+      <tr>
+        <td class="bodytext" width="138" style="border: 1px solid #010101;">
+          <p class="bodytext">Incident Name</p>
+        </td>
+        <td class="bodytext" width="258" style="border: 1px solid #010101;">
+          <p class="bodytext">Incident Name</p>
+        </td>
+      </tr>
+      <tr>
+        <td class="bodytext" width="138" style="border: 1px solid #010101;">
+          <p class="bodytext">Incident Cause</p>
+        </td>
+        <td class="bodytext" width="258" style="border: 1px solid #010101;">
+          <p class="bodytext">Fire Cause</p>
+        </td>
+      </tr>
+      <tr>
+        <td class="bodytext" width="138" style="border: 1px solid #010101;">
+          <p class="bodytext">Incident Type</p>
+        </td>
+        <td class="bodytext" width="258" style="border: 1px solid #010101;">
+          <p class="bodytext">Incident Type Category</p>
+        </td>
+      </tr>
+      <tr>
+        <td class="bodytext" width="138" style="border: 1px solid #010101;">
+          <p class="bodytext">Point of Origin Latitude</p>
+        </td>
+        <td class="bodytext" width="258" style="border: 1px solid #010101;">
+          <p class="bodytext">POO Latitude</p>
+        </td>
+      </tr>
+      <tr>
+        <td class="bodytext" width="138" style="border: 1px solid #010101;">
+          <p class="bodytext">Point of Origin Longitude</p>
+        </td>
+        <td class="bodytext" width="258" style="border: 1px solid #010101;">
+          <p class="bodytext">POO Longitude</p>
+        </td>
+      </tr>
+      <tr>
+        <td class="bodytext" width="138" style="border: 1px solid #010101;">
+          <p class="bodytext">Jurisdictional Agency Unit at Point of Origin</p>
+        </td>
+        <td class="bodytext" width="258" style="border: 1px solid #010101;">
+          <p class="bodytext">POO Jurisdictional Unit</p>
+        </td>
+      </tr>
+      <tr>
+        <td class="bodytext" width="138" style="border: 1px solid #010101;">
+          <p class="bodytext">Jurisdictional Agency</p>
+        </td>
+        <td class="bodytext" width="258" style="border: 1px solid #010101;">
+          <p class="bodytext">POO Landowner Category</p>
+        </td>
+      </tr>
+      <tr>
+        <td class="bodytext" width="138" style="border: 1px solid #010101;">
+          <p class="bodytext">FireCode</p>
+        </td>
+        <td class="bodytext" width="258" style="border: 1px solid #010101;">
+          <p class="bodytext">Fire Code</p>
+        </td>
+      </tr>
+      <tr>
+        <td class="bodytext" width="138" style="border: 1px solid #010101;">
+          <p class="bodytext">Incident Size</p>
+        </td>
+        <td class="bodytext" width="258" style="border: 1px solid #010101;">
+          <p class="bodytext">DailyAcres</p>
+        </td>
+      </tr>
+      <tr>
+        <td class="bodytext" width="138" style="border: 1px solid #010101;">
+          <p class="bodytext">Latest Perimeter Size</p>
+        </td>
+        <td class="bodytext" width="258" style="border: 1px solid #010101;">
+          <p class="bodytext">CalculatedAcres</p>
+        </td>
+      </tr>
+    </table>
+    <p class="bodytext">Starting in 2019 WFDSS started sharing five new variables with IRWIN. These variables are different than other variable shared through IRWIN in that they are WFDSS specific, and they are shared at specific points in the decision making process. </p>
+    <table style="border-collapse:collapse; border: 1px solid #010101;" width="804">
+      <tr>
+        <td class="bodytext" width="400" style="border: 1px solid #010101;">
+          <p class="bodytext">WFDSS Data Element</p>
+        </td>
+        <td class="bodytext" width="400" style="border: 1px solid #010101;">
+          <p class="bodytext"> </p>
+          <p class="bodytext">Criteria For Passing to IRWIN</p>
+        </td>
+      </tr>
+      <tr>
+        <td class="bodytext" width="402" style="border: 1px solid #010101;">
+          <p class="bodytext">Organizational Assessment</p>
+        </td>
+        <td class="bodytext" width="402" style="border: 1px solid #010101;">
+          <p class="bodytext">Anytime there is a change, independent of a published Decision</p>
+        </td>
+      </tr>
+      <tr>
+        <td class="bodytext" width="402" style="border: 1px solid #010101;">
+          <p class="bodytext">Relative Risk</p>
+        </td>
+        <td class="bodytext" width="402" style="border: 1px solid #010101;">
+          <p class="bodytext">Anytime there is a change, Independent of a published Decision.</p>
+        </td>
+      </tr>
+      <tr>
+        <td class="bodytext" width="402" style="border: 1px solid #010101;">
+          <p class="bodytext">WFDSS Strategy (slider bar)</p>
+        </td>
+        <td class="bodytext" width="402" style="border: 1px solid #010101;">
+          <p class="bodytext">When a Decision is published, only if the “include Strategy in Decision Button," AND “Save Strategy” button was selected.</p>
+        </td>
+      </tr>
+      <tr>
+        <td class="bodytext" width="402" style="border: 1px solid #010101;">
+          <p class="bodytext">Decision Published Date</p>
+        </td>
+        <td class="bodytext" width="402" style="border: 1px solid #010101;">
+          <p class="bodytext">When a new decision is published.</p>
+        </td>
+      </tr>
+      <tr>
+        <td class="bodytext" width="402" style="border: 1px solid #010101;">
+          <p class="bodytext">Estimated Final Fire Cost</p>
+        </td>
+        <td class="bodytext" width="402" style="border: 1px solid #010101;">
+          <p class="bodytext">When a new decision is published or a periodic assessment is completed.</p>
+        </td>
+      </tr>
+    </table>
+    <p class="bodytext">Information shared between participating IRWIN applications can be viewed using the IRWIN Observer web application. </p>
+    <p class="heading2">Order of Fire Record Creation in Dispatch Centers</p>
+    <p class="heading3">When WildCAD is in use in a dispatch center: </p>
+    <p class="bodytext">When a Computer Aided Dispatch (CAD) is in use in a dispatch center, all fires should be entered in the CAD first. Fire Codes can be requested through the CADs, and most data elements will be updated in CAD. WFDSS will inform users when data elements must be updated in the CAD application. </p>
+    <p class="heading3">When a CAD is not in use in a dispatch center: </p>
+    <p class="bodytext">To avoid duplicates, all fires that will need a Fire Code should be entered into the FireCode application before being used in WFDSS or SIT-209. If the fire is created in WFDSS or SIT-209 first, FireCode will create a duplicate record that will be passed to the other applications. </p>
+    <p class="bodytext">Once the FireCode record has been created, search in WFDSS or SIT-209 for the incident by name or unique fire ID (example 2014-AZGCP-000001).</p>
+    <p class="bodytext">If you cannot find the record in WFDSS or SIT-209, proceed to create the incident in one of those applications. Pay very close attention to the warning messages you get that indicate the existence of a similar incident. Perhaps the fire number is different, or the name seems wrong- but if the timing and the Lat/Long of the incident are the same, it is best to investigate to see if someone has simply made a data entry error- your fire may already exist in WFDSS. </p>
+    <p class="bodytext">If you find that you have accidentally created a duplicate, contact the help desk of the affected application. In WFDSS, this is most easily accomplished by clicking the “feedback” link in the upper right-hand side of the application. Using “feedback” is best because the information you send includes a direct link to your incident and there is no question about which needs to be deleted. </p>
+    <p class="heading2">False Alarms and Non-Fire Records </p>
+    <p class="bodytext">Occasionally records for non-fire are created in other applications and inadvertently passed to WFDSS through IRWIN. Examples include False Alarms, training incidents, and requests for Severity or “Step-Up” FireCodes. </p>
+    <p class="heading3">Actions </p>
+    <p class="bodytext">Any dispatcher, author, or GA Editor user who notices records in WFDSS that are non-fire are encouraged to change the incident type to other “Other” on the Information page. Within IRWIN, this will mark the incident as type: “False Alarm” and will change the record from active to inactive, signaling to all other applications that the record is not a valid wildfire. On the WFDSS maps, an incident of type “other” will be displayed as an oval rather than the “kite” shape used by Wildfire incidents. </p>
+    <p class="bodytext">If desired, a dispatcher, author, or GA Editor may also set an “Out” date/time for the record so that it does not display on maps or in common incident filters. </p>
+    <p class="heading2">Links </p>
+    <p class="bodytext">
+      <a href="https://www.forestsandrangelands.gov/WFIT/applications/IRWIN/index.shtml">Forests and Rangelands IRWIN Project Information Page</a> (general project information)</p>
+    <p class="bodytext">
+      <a href="https://www.wildfirelessons.net/communities/community-home?CommunityKey=1b5be2e6-30ab-47ab-bae2-599b07b940eb">IRWIN Community on Wildfire Lessons Learned Center</a> (documents, discussion forums) </p>
+    <p class="bodytext">For WFDSS/IRWIN related questions, please use the Feedback button in the WFDSS application.</p>
+    <p class="heading2">Contacts</p>
+    <p class="bodytext">For WFDSS/IRWIN related questions, please use the Feedback button in the WFDSS application, as this will ensure that your question is seen and answered promptly!</p>
+    <p class="bodytext">For general IRWIN questions, contacts are listed on the <a href="https://forestsandrangelands.gov/WFIT/applications/IRWIN/contacts.shtml">Forests and Rangelands IRWIN Project Contacts Page.</a></p>
+    <p class="heading2">Frequently Asked Questions  </p>
+    <p class="heading4">Q. How can I tell if an incident in WFDSS was created by a WFDSS user, or passed from another application via IRWIN? </p>
+    <p class="bodytext">A. To see if IRWIN has created or updated the WFDSS incident record, choose “Incident History List” from the left side menu in WFDSS when on the Incident Information tab. If the incident originated in IRWIN, the username for the incident creation step will be “IRWIN”. </p>
+    <p class="heading4">Q. How can I tell if an incident in WFDSS has been modified by another application via IRWIN? </p>
+    <p class="bodytext">A. If the record was created by a WFDSS user, the user’s name and user role will be displayed in the “Incident History List”, linked on the left-hand side of the incident information screen. If another application updated the record through IRWIN, you will see “IRWIN” displayed as the user in a later step. If the modifying application is considered to be more authoritative than WFDSS for basic incident information, the incident information elements that have been modified by IRWIN will be greyed out on the incident information screen. A green message will appear at the top of the incident information screen instructing the user to contact the appropriate more authoritative application to make any changes to the incident information that may be required. </p>
+    <p class="bodytext">Example: The Incident Information section of this page is controlled by MTHDC. Please contact them to update the information. </p>
+    <p class="bodytext" />
+  </body>
+</html>

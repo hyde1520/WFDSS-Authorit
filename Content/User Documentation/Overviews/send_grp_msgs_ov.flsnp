@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Administrators and Geographic Area Editors can send a group email to the WFDSS user community. The email list is set by the current user list filter. Group email messages are intended for user notifications about events, tips, WFDSS-specific GA announcements or requests. Examples include, but are not limited to, the following:</p>
+    <ul>
+      <li class="listbullet">Upcoming training</li>
+      <li class="listbullet">Major system changes</li>
+      <li class="listbullet">Geographic Editor communications to users/user groups within the geographic area</li>
+    </ul>
+    <p class="bodytext">Examples of emails to avoid sending:</p>
+    <ul>
+      <li class="listbullet">Emails to the entire WFDSS user group</li>
+      <li class="listbullet">Forwarding feedback responses</li>
+      <li class="listbullet">Agency or National policy statements (They appear to be coming from WFDSS and not the appropriate office)</li>
+    </ul>
+    <p class="note">
+      <span class="specialbold">Note:</span> Group email cannot be sent to users with disabled and anonymous user roles.</p>
+    <p class="bodytext"> </p>
+  </body>
+</html>

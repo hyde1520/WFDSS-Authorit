@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">After the group has been created, select it from the list, and then click<span class="buttons">View Incidents</span>. The Edit page appears for the group name.</li>
+      <li class="listnumber">Click <span class="buttons">Add Incidents to Group</span>. The Add Incidents to Group page appears.</li>
+      <li class="listnumber">Search the Incident List by typing the incident name in the Incident Name field.</li>
+      <li class="listnumber">Click Find Incident.</li>
+      <li class="listnumber">Select the checkbox beside the incident name.</li>
+      <li class="listnumber">Click the <span class="buttons">Add Incident(s) to Group</span> button.</li>
+      <li class="listnumber">Click <span class="buttons">Return </span>to go back to incident(s) within group "XXX."</li>
+      <li class="listnumber">Repeat process to add additional incidents.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+    <p class="bodytext"> </p>
+  </body>
+</html>

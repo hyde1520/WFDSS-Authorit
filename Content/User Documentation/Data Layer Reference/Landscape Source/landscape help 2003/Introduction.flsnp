@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">WFDSS uses the aspect, slope, elevation, fuel model, canopy cover, canopy base height (CBH), canopy bulk density (CBD), and stand height layers to a create landscape file that displays fuels, topography and canopy information simultaneously. Landscape data can be viewed for any point on a map display by clicking the Info sub-tab &gt; selecting the <img src="Introduction.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Bottom" border="0px" /> tool &gt; and then clicking on the landscape. The default Landscape Data Source for incidents is the most current source available, but this can be changed for an incident on the Incident Information tab. </p>
+    <p class="bodytext">Landscape data in WFDSS is sourced from LANDFIRE and a multi-partner wildland fire and wildland fuel mapping project in the state of California. All values are measured with the metric system: </p>
+    <table style="border-collapse:collapse; border: 1px solid #010101;">
+      <thead>
+        <tr>
+          <th class="tableheading" width="187" style="border: 1px solid #010101;">
+            <p class="tableheading">Variable</p>
+          </th>
+          <th class="tableheading" width="192" style="border: 1px solid #010101;">
+            <p class="tableheading">Unit of Measure</p>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="tablebodytext" width="187" style="border: 1px solid #010101;">
+            <p class="tablebodytext">aspect</p>
+          </td>
+          <td class="tablebodytext" width="192" style="border: 1px solid #010101;">
+            <p class="tablebodytext">degrees</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="187" style="border: 1px solid #010101;">
+            <p class="tablebodytext">slope</p>
+          </td>
+          <td class="tablebodytext" width="192" style="border: 1px solid #010101;">
+            <p class="tablebodytext">degrees</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="187" style="border: 1px solid #010101;">
+            <p class="tablebodytext">elevation</p>
+          </td>
+          <td class="tablebodytext" width="192" style="border: 1px solid #010101;">
+            <p class="tablebodytext">meters</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="187" style="border: 1px solid #010101;">
+            <p class="tablebodytext">canopy base height</p>
+          </td>
+          <td class="tablebodytext" width="192" style="border: 1px solid #010101;">
+            <p class="tablebodytext">meters</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="187" style="border: 1px solid #010101;">
+            <p class="tablebodytext">canopy bulk density</p>
+          </td>
+          <td class="tablebodytext" width="192" style="border: 1px solid #010101;">
+            <p class="tablebodytext">kg/m<span class="superscript">3</span></p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="187" style="border: 1px solid #010101;">
+            <p class="tablebodytext">canopy cover</p>
+          </td>
+          <td class="tablebodytext" width="192" style="border: 1px solid #010101;">
+            <p class="tablebodytext">percent</p>
+          </td>
+        </tr>
+        <tr>
+          <td class="tablebodytext" width="187" style="border: 1px solid #010101;">
+            <p class="tablebodytext">stand height</p>
+          </td>
+          <td class="tablebodytext" width="192" style="border: 1px solid #010101;">
+            <p class="tablebodytext">meters</p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="bodytext">The California landscape 2010 data set is an annual, multi-partner wildland fire and wildland fuel mapping project within the state of California. The California fuels data are supported by the California Fire and Resource Assessment Program (FRAP), US Department of Agriculture (USDA) Forest Service Region 5 Fire and Aviation Management, the US Department of Interior (US DOI) Bureau of Land Management and DOI National Park Service. California fuel data tasks are completed by the USDA Region 5 Remote Sensing Lab.</p>
+  </body>
+</html>

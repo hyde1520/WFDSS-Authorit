@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident list, select the incident you want to validate COA for.</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>. The Edit Incident page appears. </li>
+      <li class="listnumber">Select <span class="menuoptions">Validation</span>. The Validation page appears.</li>
+      <li class="listnumber">Review the relative risk information.</li>
+      <li class="listnumber">Enter a Comment about the COA. Be as specific as possible.</li>
+      <li class="listnumber">If the COA is valid, click <span class="buttons">Yes</span>. </li>
+      <li class="listnumber">If the COA is not valid, click <span class="buttons">No</span>. A message appears asking if you are sure you want to proceed.</li>
+      <li class="listnumber">Click <span class="buttons">OK</span>.</li>
+    </ol>
+    <p class="bodytext">If you determine that the course of action is not valid, you must document your reasoning in the Comment field. In addition, you must modify the COA and validate it before you can publish a decision.</p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

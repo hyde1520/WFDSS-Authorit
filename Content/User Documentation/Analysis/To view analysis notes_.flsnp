@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">
+        <p>From the Incident List, select the incident &gt; click <span class="buttons">View Information</span> &gt; choose <span class="buttons">Incident Analysis</span>. select the analysis &gt; click either <span class="menuoptions">View Report or</span><span class="menuoptions">View Information.</span> You can view analysis notes using one of these three methods:</p>
+        <ol>
+          <li class="listalpha2">Select the analysis &gt; click <span class="buttons">View Notes</span>.</li>
+          <li class="listalpha2">Select the analysis &gt; click <span class="buttons">View Information </span>&gt; select <span class="menuoptions">Notes </span>from the left-hand menu. </li>
+          <li class="listalpha2">Select the analysis &gt; click View Report &gt; scroll to the Analysis Information section &gt; locate the Information Annotations.</li>
+        </ol>
+      </li>
+    </ol>
+    <p class="bodytext">All Notes associated with the selected analysis are displayed. If you do not see a note for the analysis, none has been created. If you have editing privileges for the analysis, you can <a href="Creating an Analysis Note.htm">create a note</a>.</p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

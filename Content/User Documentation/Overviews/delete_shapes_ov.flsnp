@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">You can delete shapes not used in an analysis, from the situation map or the analysis map depending on your WFDSS Role:</p>
+    <ul>
+      <li class="listbullet">Incident Owners and Editors can delete all shape types.</li>
+      <li class="listbullet">Dispatchers can delete all shape types foran incident in theirgeographic area except for M.A.P.s and incident obj. shapes.</li>
+      <li class="listbullet">Fire Behavior Specialists can delete all shapes types except M.A.P.s and incident obj. shapes.</li>
+    </ul>
+  </body>
+</html>

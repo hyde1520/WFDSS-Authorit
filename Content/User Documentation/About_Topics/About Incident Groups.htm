@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">About Incident Groups<MadCap:keyword term="groups" /></h1>
+    <p class="bodytext">An Incident Group is a customized collection of incidents that users assigned the Author role can <a href="../Groups/Creating an Incident Group.htm">create</a> to quickly manage and review details about incidents of interest. Incident Groups are also created automatically for incidents grouped (complexes) in <a href="https://wfdss.usgs.gov/wfdss_help/WFDSSHelp_abt_IRWIN_data_exchange.html">IRWIN.</a> When considering complexes in WFDSS, it is important to remember that WFDSS is designed with the idea of a 1:1 relationship between decisions and wildfires. WFDSS does not provide support for creating complexes, adding incidents to complexes, or removing them. WFDSS does provide a way to view the incidents in a complex through the WFDSS “Groups” tab. </p>
+    <p class="bodytext">You might make an Incident Group to view fires in close proximity, in a complex, within a specified geographic area, for various years; or view shapefiles for all incidents within an Incident Group. Incident Groups make it easy to jump to the Decisions for the incidents in the group, and incidents remain in the Incident Group until you remove them. Incident Groups have one or more owners (and you can transfer ownership), can be Public or Private, and allow you to jump to a group map, decisions, or analyses. </p>
+    <p class="bodytext">Using Incident Groups you can:  </p>
+    <ul>
+      <li class="listbullet">
+        <a href="">View Incident Details for all incidents</a> in an Incident Group.</li>
+      <li class="listbullet">Download Decisions for all decisions in the Group from the Incident Groups page, or for one or more incidents, from the Incidents Group &gt; View Incidents page.</li>
+      <li class="listbullet">Set a Master incident within a group.</li>
+      <li class="listbullet">
+        <a href="../Groups/Downloading Incident Group Perimeters.htm">Download one file with most recent or all perimeters for the Incident Group.</a>
+      </li>
+      <li class="listbullet">
+        <a href="../../zzzz_Sandbox/4.7_Release/Generating KMZ Files from the Incident List.htm">Generate a singleKMZ</a> for incidents in an Incident Group, to include multiple selection criteria.</li>
+      <li class="listbullet">Jump to the list of analyses for all incidents in the Incident Group.</li>
+      <li class="listbullet">Share group ownership among one or more individuals; similar to how incidents are managed.</li>
+      <li class="listbullet">
+        <a href="../Groups/Viewing an Incident Groups Map.htm">Display map information for all incidents within the group</a>, including current and published planning areas, fire perimeters, Management Action Points, Incident Objective Shapes, and points of origin. You can also see analyses for the entire group or an individual incident in a Incident Group from the Map page.</li>
+      <li class="listbullet">
+        <a href="../Groups/Viewing Incident Groups Decisions.htm">Review a list of group decisions</a>from the Group List. Each incident's decision is hyperlinked from the list.</li>
+      <li class="listbullet">Download the incident groups list to an Excel spreadsheet.</li>
+    </ul>
+    <p class="note">
+      <span class="specialbold">Note</span>: You cannot run analyses, reports, or create decisions for a group of incidents. Analyses, reports, and decisions are created and processed for individual incidents using the WFDSS Incidents tab's <span class="menuoptions">Decisions</span>, <span class="menuoptions">Reports, </span>and <span class="menuoptions">Analysis </span>sub-tabs.</p>
+    <p class="subheading">Additional information about the WFDSS/IRWIN relationship regarding complexes.</p>
+    <p class="bodytext">Computer Aided Dispatch’s (CAD’s), ICS-209, and FireCode applications can create complexes, and add/remove incidents to/from a complex. When a record from IRWIN is designated as a complex at the time of creation, that complex record will not be added to the list of incidents in WFDSS. The complex will be added to the WFDSS “Groups” tab, and any fires that are a member of the complex will be added to the group. Fires that are a member of a complex will be added to the list of incidents in WFDSS.</p>
+    <p class="bodytext">If a record from IRWIN is designated as a wildfire when it was created, it will be added to WFDSS. If that record is later designated a complex (the data element “isComplex” is set to “True” in IRWIN), its type in WFDSS will change from “Wildfire” to “Other”.  As of March 2020, WFDSS exchanges data with non-Wildfire typed incidents if they initially came into WFDSS as a Wildfire type. A decision can still be published for an incident of type “Other”, but WFDSS does not exchange data with IRWIN for non-Wildfire typed incidents. Updates on Complex records will not be passed back to IRWIN for distribution to other applications. The following links provide “Best Practice” information for handling complexes in wildland fire computer applications, and for working with complexes and decisions in WFDSS. </p>
+    <p class="bodytext">
+      <a href="http://www.nifc.gov/nicc/administrative/nmac/NMAC2015-5.docx">NMAC Guidance on Managing Complexes within the ICS-209 and IRWIN Programs</a>
+    </p>
+    <p class="bodytext">
+      <a href="https://wfdss.usgs.gov/wfdss/pdfs/WFDSS_Complexing.pdf">WFDSS and Complexing discussion paper</a>
+    </p>
+  </body>
+</html>

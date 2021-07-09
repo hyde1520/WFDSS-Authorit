@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident list, select the incident you want to enterActionItemsfor.</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>. The Incident Information page appears. </li>
+      <li class="listnumber">Select <span class="menuoptions">Course of Action</span>. The Action items page appears.</li>
+      <li class="listnumber">Select theAction Itemyou want to edit.</li>
+      <li class="listnumber">Click <span class="buttons">Edit</span>. The Edit Action item page appears.</li>
+      <li class="listnumber">Edit the Action Item. Be as specific as possible. Remember, this information will appear in the published decision.</li>
+      <li class="listnumber">Click <span class="buttons">Save</span>.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

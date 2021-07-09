@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">
+        <p>Choose one of the following methods for navigating to the Analysis Map:</p>
+        <ul>
+          <li class="listbullet2">From the Analysis List page, select the analysis that you want to select analysis shapefiles for &gt; click <span class="buttons">View Information</span> &gt; click <span class="menuoptions">Analysis Map</span> Menu Option.</li>
+          <li class="listbullet2">From within the model, select the <span class="menuoptions">Analysis Map</span> Menu Option.</li>
+        </ul>
+      </li>
+      <li class="listnumber">Click <img src="To select analysis shapefiles from the Analysis Map.htm" alt="" width="0" height="0" vspace="2px" hspace="2px" align="Bottom" border="0px" /> to expand the Analysis Layers, and then click <img src="To select analysis shapefiles from the Analysis Map.htm" alt="" width="0" height="0" vspace="2px" hspace="2px" align="Bottom" border="0px" /> to open Ignitions and/or Barriers.</li>
+      <li class="listnumber">Locate the Ignition File or Barrier File you would like to select for your analysis, and then click <img src="To select analysis shapefiles from the Analysis Map.htm" alt="" width="0" height="0" vspace="2px" hspace="2px" align="Bottom" border="0px" /> beside it. You may have to expand the LayerSwitcher pane to see it.</li>
+      <li class="listnumber">Select <img src="To select analysis shapefiles from the Analysis Map.htm" alt="" width="0" height="0" vspace="0px" hspace="0px" align="Middle" border="0px" /> . The hovertext reads "Select/Deselect this shape for the analysis." The shape is now selected for the analysis.</li>
+    </ol>
+    <p class="warning">
+      <span class="specialbold">Caution</span>: Ignition and Barrier File selections made in the LayerSwitcher will override Ignition and Barrier File Selections made on the Model Information page. Its good practice to ensure you have the the correct ignition file and barrier file selected on the Model Information page prior to initiating a run.</p>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

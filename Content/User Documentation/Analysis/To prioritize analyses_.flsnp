@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Analysis List (Analysis Tab), select the analysis in 'assigned' status for which you would like to adjust the priority.</li>
+      <li class="listnumber">Click <span class="buttons">Set Priority</span>. The Set Analysis Priority popup appears.</li>
+      <li class="listnumber">Select the desired priority and click <span class="buttons">Submit</span>.The Analysis Priority is reset to the selected level and the Analysis List reappears.</li>
+    </ol>
+    <p class="bodytext">Values 1-3 are reserved for fires of national significance. The default value is 7. </p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

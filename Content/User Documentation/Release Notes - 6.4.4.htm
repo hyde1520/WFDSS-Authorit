@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">Release Notes - 6.4.4</h1>
+    <p class="heading2">
+      <span class="specialbold">3/4/2020 - Bug Fixes for Release 6.4.4</span>
+    </p>
+    <p class="heading3">
+      <span class="specialbold">Account Management</span>
+    </p>
+    <ul>
+      <li class="listbullet">Resolved an issue with passwords not being able to be reset with certain workflow.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">Analysis</span>
+    </p>
+    <ul>
+      <li class="listbullet">Corrected an issue which resulted in a 500 error when analyses are completed for an incident in which IRWIN, rather than a user, is the Owner.</li>
+      <li class="listbullet">Adjusted character length limits for input values in the Landscape Editor that were incorrectly limiting users.</li>
+      <li class="listbullet">Fixed a bug in the Analysis Filter that prevented the Completion Date Calendar from functioning correctly.</li>
+      <li class="listbullet">Corrected a bug with the FSPro Values at Risk outputs that incorrectly calculated the Expected Value (EV) acreage for Management Requirement shapes. </li>
+      <li class="listbullet">Modified the layout of the Fire Behavior Request screen so text wraps and the calendar is not offset.</li>
+      <li class="listbullet">Corrected the STFB Analysis output to display the arrival time acreage correctly instead of displaying the entire landscape acreage.</li>
+      <li class="listbullet">Fixed the Get Forecast button on the FSPro ERC Stream page to ensure users can generate NWS forecasts for FSPro runs for areas in which the primary forecast retrieval method is not working.</li>
+      <li class="listbullet">Fixed a bug in which the NWS forecast would yield an ERC value of -1 if a user did not click save on the FSPro Information page prior to generating a forecast.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">Correspondence: Emails, Feedbacks, and Subscriptions</span>
+    </p>
+    <ul>
+      <li class="listbullet">Corrected an issue causing multiple copies of a single Feedback to be generated.</li>
+      <li class="listbullet">Changed Feedback response texts and emails to Users and Support Team to previous format to include contact information of the original user (not their User ID) and added the Feedback ID to the Info Panel. </li>
+      <li class="listbullet">Fixed a bug in Feedback Notification Subscriptions that prevented users from subscribing by email.</li>
+      <li class="listbullet">Updated format to remove the extra line between Analysis Status and Brower in Subscription texts/emails of Feedbacks.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">Data Management</span>
+    </p>
+    <ul>
+      <li class="listbullet">Updated the Jurisdictional Agency legend to match the agencies and colors displayed on maps.</li>
+      <li class="listbullet">Adjusted the Alaska Strategic Management Objectives to ensure Planning Areas drawn over multiple units only list the Objectives once in the decision and on the Objectives tab.</li>
+      <li class="listbullet">Updated so that the Unit dropdown and other menus work on Apple mobile devices.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">Incidents</span>
+    </p>
+    <ul>
+      <li class="listbullet">Fixed a bug with the Transfer Filter feature, ensuring filters transfer correctly.</li>
+      <li class="listbullet">Adjusted the Cost field in the Management Action Point (M.A.P) screens to prevent failure messages when a user enters too large of a value; correct error messages now display.</li>
+      <li class="listbullet">Corrected the notes for historical Organizational Needs Assessments (ONAs) to ensure users can access historical assessment notes instead of only current Assessment notes.</li>
+      <li class="listbullet">Required fields cannot contain null values; users will receive a warning message. This includes fields related to Management Action Points (Conditions/Actions), Course of Action (Description), Incident Objectives and Management Requirement (Description), Strategic Objectives and Management Requirements (Description).</li>
+      <li class="listbullet">Adjusted character limiter lengths for input values for Estimated Final Fire Size in Stratified Cost Index (SCI) and Estimated Final Cost to ensure consistency.</li>
+      <li class="listbullet">Adjusted the analysis and value requests so that only one request is submitted regardless of user ID to prevent simultaneous requests for the same analysis, planning area, point of origin, and perimeter.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">Incident Groups</span>
+    </p>
+    <ul>
+      <li class="listbullet">Ensured the Download Planning Area button remains out of the application until the functionality can be implemented correctly.</li>
+      <li class="listbullet">Corrected the sorting on Incident Groups Name Filter feature to ensure it sorts Incident Groups alphabetically.</li>
+      <li class="listbullet">Fixed a bug in Incident Groups to allow all owners of a group to modify any aspect of the group.</li>
+      <li class="listbullet">Fixed a bug in which the Points of Origin for Incidents displayed the previously viewed group and not the currently selected group. </li>
+      <li class="listbullet">Fixed a bug that prevented the correct users from displaying when using the Transfer Ownership button. Transfer can occur to all National Editors, GAEs for the area the incidents are in, and users who have been granted ownership to all of the incidents in the group.</li>
+      <li class="listbullet">Fixed a bug to ensure the KMZ Download feature from the Incident Group Map includes Incidents that are associated with the current Incident Group and does not include Incidents that last appeared in the Incident Group List.</li>
+      <li class="listbullet">Corrected typo "Grorup" to "Group" on Incident Group left-hand fly-out menu.</li>
+      <li class="listbullet">Added the Incident name to the file name to prevent Group Decision download errors caused by duplicate file names that occur when different decisions in the same Incident Group are published simultaneously.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">Support Functions (Administrators)</span>
+    </p>
+    <ul>
+      <li class="listbullet">Modified to display which service broker is processing a transaction (Analysis, Value, Landscape, etc.) instead of only updating when completed to provide better trouble shooting.</li>
+      <li class="listbullet">Adjusted the Reset GIS button to prevent error messages when clicked multiple times.</li>
+      <li class="listbullet">Updated format for the Weather Related utilities. ERC stations and Wind stations emails now include a range of stations processed, and the emails now consistent with the ones for the ERC-G station utility. </li>
+      <li class="listbullet">Added the ability to update data for a single weather station including Winds, ERCs, and the ERC Graph.</li>
+      <li class="listbullet">Added the ability to generate an LCP Critique for an analysis when the landscape file does not generate correctly.</li>
+      <li class="listbullet">Added the ability to regenerate the PDF/HTML for a published decision when it doesn’t publish correctly (with tracking of user who performed the action and a comment to explain why the files needed to be regenerated).</li>
+      <li class="listbullet">Added the ability to Return a 'stuck' Analysis to Assigned (with tracking).</li>
+      <li class="listbullet">Added the ability to Return a 'stuck' Decision to available (with tracking).</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">Weather</span>
+    </p>
+    <ul>
+      <li class="listbullet">Updated the Hourly Weather Forecast link to current NWS site (NWS decommissioned previous link).</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">WFDSS Lite</span>
+    </p>
+    <ul>
+      <li class="listbullet">In the Development and QA environments, the login URL for the decommissioned WFDSS Lite application was removed from Periodic Assessment emails.</li>
+    </ul>
+    <p class="heading3">
+      <span class="specialbold">IRWIN Enhancements and Fixes</span>
+    </p>
+    <p class="heading4">
+      <span class="specialbold">Defects Fixed for the WFDSS/IRWIN Data Exchange</span>
+    </p>
+    <ul>
+      <li class="listbullet">When the Push to IRWIN button is clicked, any updated information in WFDSS will be updated in IRWIN correctly.</li>
+      <li class="listbullet">The Estimated Final Cost in IRWIN will be populated with the most recent published cost in WFDSS (the cost associated with the most recent published decision or periodic assessment validating that decision).</li>
+      <li class="listbullet">Incidents received from IRWIN as Wildfires will continue exchanging data with IRWIN if their type is changed to Other. Wildfires created in WFDSS that change to type Other or Prescribed will continue to exchange data with IRWIN.</li>
+      <li class="listbullet">Users will no longer be able to modify or delete an Incident Group created from an IRWIN Complex. The Incident Group will maintain the list of Incidents within the IRWIN Complex when the complex is updated. </li>
+      <li class="listbullet">Incidents that have been marked Certified in IRWIN can now be modified in WFDSS, though only for fields in which WFDSS has authority to write to, based on IRWIN authoritative source hierarchy.</li>
+    </ul>
+    <p class="heading4">
+      <span class="specialbold">Enhancements Incident History List</span>
+    </p>
+    <ul>
+      <li class="listbullet">The following actions will now be tracked: Jurisdiction a Point of Origin set, IRWIN is Valid updated, Incident Pushed to IRWIN, Incident Pulled from IRWIN, and IRWIN GUID Set. </li>
+      <li class="listbullet">The action, IRWIN isQuarantined updated, has been changed to record when WFDSS was notified by IRWIN that the incident was marked as Quarantined.</li>
+      <li class="listbullet">Hover text has been added to the Date Column in the Incident History List to display the timestamp including seconds of the action to aid in problem solving.</li>
+    </ul>
+    <p class="heading4">
+      <span class="specialbold">Enhancements Incident Information Page - IRWIN Information Section for National Editors</span>
+    </p>
+    <ul>
+      <li class="listbullet">A checkbox has been added to allow a user to mark an Incident as Valid or Invalid in IRWIN.</li>
+      <li class="listbullet">Unselecting the 'Incident Quarantined in IRWIN' on an incident created in WFDSS will remove any potential conflict relationships.</li>
+      <li class="listbullet">A 'Compare WFDSS and IRWIN Attributes' link has been added that will display a new popup window that shows the WFDSS Incident Information alongside its corresponding information in IRWIN. This feature will improve troubleshooting.</li>
+    </ul>
+    <p class="heading2" />
+  </body>
+</html>

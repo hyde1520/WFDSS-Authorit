@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+  <TocEntry Title="Fire Weather Zones" Link="/Content/User Documentation/Data Layer Reference/Fire Wx Zones/Fire Weather Zones.htm">
+    <TocEntry Title="Overview" Link="/Content/User Documentation/Data Layer Reference/Fire Wx Zones/Overview.htm" />
+    <TocEntry Title="Data Input" Link="/Content/User Documentation/Data Layer Reference/Fire Wx Zones/Data Input.htm" />
+    <TocEntry Title="Data Information" Link="/Content/User Documentation/Data Layer Reference/Fire Wx Zones/Data Information.htm" />
+    <TocEntry Title="Fire Weather Zone GIS Team Contacts" Link="/Content/User Documentation/01a_Common User Content/Fire Weather Zone GIS Team Contacts.htm" />
+  </TocEntry>
+</CatapultToc>

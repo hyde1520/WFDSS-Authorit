@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Choose <span class="menuoptions">Data Management &gt; Objectives</span>.  The Strategic Objectives and Management Requirements page appears.</li>
+      <li class="listnumber">Select the radio button beside the Management  Requirement that you want to update a shape association for, and then click <span class="buttons">Edit</span>.</li>
+      <li class="listnumber">From the Associated Shape dropdown list, select the shape you want to associate the text with.</li>
+      <li class="listnumber">Click <span class="buttons">Save</span>, and then click <span class="buttons">Return</span>.</li>
+    </ol>
+  </body>
+</html>

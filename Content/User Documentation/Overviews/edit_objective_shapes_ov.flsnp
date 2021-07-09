@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">As an incident changes, you might need to update the shapes associated with a particular incident objective or management requirement. Incident obj. shapes form a many-to-many relationship with the objectives and requirements. This means that an incident obj. shape can be attached to many incident objectives or incident requirements. An incident objective/incident requirement can be attached to many shapes.</p>
+  </body>
+</html>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">The following sections explain what each user type is allowed to do at the system level in WFDSS. To <a href="http://wfdss.usgs.gov/wfdss_help/WFDSSHelp_sys_privilege.html">request additional user roles</a> in Production or Training, contact your Geographic Area Editor. To change your privileges for a specific incident, contact the author of the incident or the geographic area editor.</p>
+    <p class="bodytext">The user roles of Dispatcher, Author, and Geographic Area Editor are mutually exclusive.</p>
+    <p class="note">
+      <span class="specialbold">Note:</span> Incident Privileges are different than User Roles. Incident Privilege are incident-specific and not dependent on the system-level roles described here (for example, owner and approver are incident-specific).</p>
+  </body>
+</html>

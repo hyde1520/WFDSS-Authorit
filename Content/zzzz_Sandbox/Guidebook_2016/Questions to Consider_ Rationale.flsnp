@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">Additional content to consider when developing the Rationale:</p>
+    <ul>
+      <li class="listbullet">What caused incident owners to make this decision? </li>
+      <li class="listbullet">What caused incident owners to choose the course of action? </li>
+      <li class="listbullet">What are the opportunities to manage the fire to meet land management plan objectives? </li>
+      <li class="listbullet">What alternatives (objectives, strategies and tactics) are being considered? </li>
+      <li class="listbullet">What is the relative probability of success associated with the alternatives being considered? </li>
+      <li class="listbullet">What are the causes and influences on the incident? </li>
+      <li class="listbullet">What are the social and political concerns/pressures? </li>
+      <li class="listbullet">Who are the stakeholders that should be consulted prior to making a decision? </li>
+      <li class="listbullet">What does the Relative Risk tell the user? </li>
+      <li class="listbullet">What is the exposure to responders for the alternatives being considered? </li>
+      <li class="listbullet">What alternative provides for the best balance between the desired outcome and exposure to responders? </li>
+      <li class="listbullet">What are the critical values at risk? </li>
+      <li class="listbullet">What is the chance the critical values will be impacted, and if so what are the consequences? </li>
+      <li class="listbullet">What are the possible low probability/high consequence events? </li>
+      <li class="listbullet">Are there smoke concerns? </li>
+      <li class="listbullet">What Fire Behavior Models informed the decision? </li>
+      <li class="listbullet">Did you document your qualitative and quantitative decision support elsewhere in the document? If so where? </li>
+      <li class="listbullet">How was the estimated final cost constructed? </li>
+      <li class="listbullet">What are your concerns related to the cost? </li>
+      <li class="listbullet">What are the critical thresholds that will trigger reconsideration of the proposed alternative and how will they be monitored? </li>
+      <li class="listbullet">Add text, images, data and analyses to support your decision.</li>
+    </ul>
+  </body>
+</html>

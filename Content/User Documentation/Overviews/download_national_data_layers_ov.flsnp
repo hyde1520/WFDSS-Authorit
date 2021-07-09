@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">All WFDSS users can download shapefiles for a variety of national data layers from any map display in WFDSS. Due to the immense size of the national datasets, the downloadable shapefile is a smaller subset of the national dataset and is applicable to the shape selected by the user. In addition to downloading individual shapes from within the application, users can download full versions of many data layers from the WFDSS Website. <a href="http://wfdss.usgs.gov/wfdss/WFDSS_Data_Downloads.shtml">Click here</a> to go to the Spatial Data Downloads Page.</p>
+    <p class="bodytext">National data layers are obtained from a variety of authoritative sources. The accuracy and completeness of each layer is dependent on the source data and can be improved in future updates of each data set. Given this fact, the accuracy of each data layer should be verified by local sources.</p>
+  </body>
+</html>

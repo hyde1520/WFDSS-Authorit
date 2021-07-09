@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Login to the appropriate WFDSS application, Production or Training.</li>
+      <li class="listnumber">Click <span class="menuoptions">My Home &gt; User Roles</span>. The Home -User Rolespage appears, with your current privileges checked in the User Roles box.</li>
+      <li class="listnumber">Check the additional roles that you want.</li>
+      <li class="listnumber">Write a justification for the request. Your justification should explain why you need the additional roles.</li>
+      <li class="listnumber">Click <span class="buttons">Submit Request</span>. </li>
+    </ol>
+    <p class="bodytext">A WFDSS Administrator will review your request and approve it if requirements have been met.</p>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Analysis List, select the analysis that you want to annotate.</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>. The Analysis Information page appears.</li>
+      <li class="listnumber">From the left menu, choose<span class="menuoptions"> Notes </span>to create a note. The Analysis Notes page appears and displays a drop-down list, a text box, anda list of existing notes (if any exist).</li>
+      <li class="listnumber">To create a new note, use the drop-down list to select the page that you would like the note to appear on (notes can only be entered for the Results page after Results exist).Enter the text for the new note in the text box, then click<span class="buttons"> Add Note</span>.</li>
+      <li class="listnumber">The note is added to the Notes list. You can create additional Notes if desired. </li>
+      <li class="listnumber">When you are finished, click <span class="buttons">Return</span>. The analysis page that you were previously on will appear and any Notes enteredfor that page will appear inabar at the top.</li>
+      <li class="listnumber">The arrow at the left of the Notes bar can be toggled to show or hide notes as desired.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">The FMU/SO list provides a convenient way for you to quickly identify other units that might be affected by or have decision-making responsibilities for a particular incident. This is particularly important for incidents that cross jurisdictional boundaries, so that you can ensure that all the stakeholders are kept apprised of the situation and have the appropriate level of incident privileges.</p>
+    <p class="note">
+      <span class="specialbold">Note:</span> When you move the map to a different area, collapse and re-expand the FMU layer to view the FMUs for the new location.</p>
+  </body>
+</html>

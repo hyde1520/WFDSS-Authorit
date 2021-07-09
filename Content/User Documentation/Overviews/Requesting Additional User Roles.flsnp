@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">When you request and are granted a WFDSS account, you are automatically assigned the Viewer user role. There are multiple system-level user roles in WFDSS and you can request additional user roles, as needed. Some roles imply privileges associated with other roles:</p>
+    <ul>
+      <li class="listbullet">All roles have Viewer privileges</li>
+      <li class="listbullet">National Editors and Geographic Editors also have Author privileges.</li>
+      <li class="listbullet">Help Desk supersedes all other role assignments.</li>
+    </ul>
+    <p class="bodytext">In addition, you might have <a href="../Incident/Incident Privileges.htm">incident-level privileges</a>, such as Owner, Editor, Reviewer, or Approver.</p>
+    <MadCap:snippetBlock src="../../01_Common Content/Notes, Cautions, Warnings/Replicate changes in both systems.flsnp" />
+  </body>
+</html>

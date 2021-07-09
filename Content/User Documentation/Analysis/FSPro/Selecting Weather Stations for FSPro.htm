@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <h1 class="heading1">Selecting Weather Stations for FSPro<MadCap:keyword term="weather station:selecting weather stations (FSPro)" /></h1>
+    <p class="bodytext">FSPro is dependent on remote weather stations to provide information needed to calculate ERC Classes and winds information used by the model. For the FSPro model to run, Fire Behavior Specialists must:</p>
+    <ul>
+      <li class="listbullet">
+        <a href="Selecting a Weather Station for ERC Classes (FSPro).htm">Select a weather station for generating ERC Classes</a>, and </li>
+      <li class="listbullet">
+        <a href="Selecting a Weather Station for Winds (FSPro).htm">Select a weather station for generating Winds</a>.</li>
+    </ul>
+    <p class="bodytext">FSPro assumes that fuel moistures and winds are independent of each other and because of this, a different weather station can be selected for each data type. The list of available weather stations for generating ERC Classes is different from the list for generating a wind matrix because:</p>
+    <ul>
+      <li class="listbullet">ERC Classes can be generated from manual or automated weather stations, and </li>
+      <li class="listbullet">The Wind Matrix can only be generated from automatedweather stations.</li>
+    </ul>
+    <p class="bodytext">Multiple weather stations are available to provide wind and weather data for FSPro and those listed are generally within 1 degree of latitude and longitude of the entered incident latitude and longitude. The closest station in terms of its distance from the incident latitude and longitude and elevation will be the initial displayed station. If a station manager has not updated a station in WIMS (entered manual state of the weather, etc.) for three days, the station may not be available in the drop-down list until those updates have been entered.</p>
+    <p class="bodytext">Data extent and quality will be station dependent and reflect the local areas commitment to their weather station network and more importantly, their data. In most cases, stations available for ERC classes have longer record length that covers the entire historical record length for that station based on a single reporting observation per day. Wind information will be limited to the period when the station was converted to an automatic station type and the data record will not be as extensive. However, the winds information will be hourly and include the ten minute average as well as the peak hourly gust data.</p>
+    <MadCap:snippetBlock src="../../../01_Common Content/Notes, Cautions, Warnings/Topic6873.flsnp" />
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

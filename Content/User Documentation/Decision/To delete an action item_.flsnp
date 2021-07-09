@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident list, select the incident you want to delete Action Items for.</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>. The Incident Information page appears. </li>
+      <li class="listnumber">Select <span class="menuoptions">Course of Action</span>. The Course of Action page appears with a list of Action Items.</li>
+      <li class="listnumber">Select the Action Item you want to delete.</li>
+      <li class="listnumber">Click <span class="buttons">Delete</span>. A message appears asking if you are sure you want to delete.</li>
+      <li class="listnumber">Click <span class="buttons">OK</span>. TheAction Item is removed from the list.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

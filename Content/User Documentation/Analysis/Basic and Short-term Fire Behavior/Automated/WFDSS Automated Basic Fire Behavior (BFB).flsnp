@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="bodytext">WFDSS Automated Basic Fire Behavior can be used by an Incident Owner, Editor or by any user assigned the WFDSS role of Dispatcher or Geographic Area Editor (both must be assigned to the same geographic area as the incident). The model, initiated from the Situation map, provides a very simple way to get "snapshot in time" fire behavior outputs for every cell on a user-defined landscape extent that include:</p>
+    <ul>
+      <li class="listbullet">Flame Length</li>
+      <li class="listbullet">Rate of Spread</li>
+      <li class="listbullet">Fireline Intensity</li>
+      <li class="listbullet">Heat per Unit Area</li>
+      <li class="listbullet">Crown Fire Activity</li>
+      <li class="listbullet">Solar Radiation</li>
+      <li class="listbullet">1 Hr Fuel Moisture</li>
+      <li class="listbullet">10 Hr Fuel Moisture</li>
+      <li class="listbullet">Max Spread Direction</li>
+      <li class="listbullet">Wind Direction</li>
+      <li class="listbullet">Wind Speed</li>
+    </ul>
+    <p class="bodytext">Model inputs, although few, have a significant impact on the gridded fire behavior outputs. The current Automated BFB model requires the following information from the user:</p>
+    <ul>
+      <li class="listbullet">Defined analysis area/landscape extent (normally no larger than 5-6 miles per side),</li>
+      <li class="listbullet">Name for the analysis, and</li>
+      <li class="listbullet">A Burn Date and Time.</li>
+    </ul>
+    <p class="bodytext">The model retrieves forecasted weather and winds data from the National Weather Service (NWS) Forecast Database for current simulations. For past dates or times, the model uses historic weather from a nearby RAWS at similar elevation.</p>
+    <p class="bodytext">You can accept the wind speed and direction that is provided, or you can replace those input values with ones you choose. Within a short time (usually within a minute or so), fire behavior results will be ready for viewing. </p>
+    <MadCap:snippetBlock src="../../../../01_Common Content/Notes, Cautions, Warnings/automation means less user modification-Basic.flsnp" />
+  </body>
+</html>

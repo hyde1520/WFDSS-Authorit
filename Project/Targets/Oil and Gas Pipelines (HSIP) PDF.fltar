@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="Automatically generated target for PDF." Type="PDF" Destinations="" GlossaryTermConversion="marked" MasterToc="/Project/TOCs/Oil and Gas Pipelines (HSIP).fltoc" MasterStylesheet="/Content/Resources/Stylesheets/authorit.css">
+  <PrintedOutput CollapsedMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" />
+  <Variables>
+    <Variable Name="Variables/HISTCOMMENT"></Variable>
+    <Variable Name="Variables/IMPORT_ID">hsip_oil&amp;gaspipelines.doc#HSIP_Oil&amp;GasPipelines</Variable>
+  </Variables>
+</CatapultTarget>

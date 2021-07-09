@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <p class="note">
+      <span class="specialbold">Note:</span> It is important to remember that the more automated the model, the less ability the user has to refine the inputs. Because WFDSS Automated STFB is highly automated (providing fuels, weather and topography data, and requiring very few inputs from the user), carefully critique the results before using them for supporting wildland fire decision-making.</p>
+  </body>
+</html>

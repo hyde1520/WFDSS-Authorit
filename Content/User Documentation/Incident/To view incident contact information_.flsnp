@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">From the Incident List, select the incident for which you want to view contact information.</li>
+      <li class="listnumber">Click <span class="buttons">View Information</span>. The Edit Incident page appears.</li>
+      <li class="listnumber">Choose <span class="buttons">Contact Information</span>. The Incident Contact Information page appears and displays an alphabetical list of the users associated with the incident.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

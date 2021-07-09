@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">To save a map view, go to the <span class="menuoptions">Info</span> tab and scroll down to Map Image.<div class="listnote"><p><span class="specialbold">Note</span>: The Capture Image feature only works with the WFDSS Topos and USGS-sourced base layers. Google® images are licensed for viewing in WFDSS, but not for saving or printing.</p></div></li>
+      <li class="listnumber">Name the image (64-character limit). Use a descriptive title, e.g., Challis fire FSPro day 3. </li>
+      <li class="listnumber">Enter a brief description of the image (4000-character limit). <div class="listcontinue"><p>The text you enter here is attached to the image like a caption, and cannot be edited or deleted. Be as specific as possible. This information appears in the decision report with the image. If you include the image in your decision document, you can use the text editor to add additional information before and after the image.</p></div></li>
+      <li class="listnumber">Click <span class="buttons">Capture Image</span>. The image is saved to the Images folder for the incident (<span class="menuoptions">Images folder &gt; "your last name" folder &gt; Map)</span>. </li>
+    </ol>
+    <MadCap:snippetBlock src="../../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

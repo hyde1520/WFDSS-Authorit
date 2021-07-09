@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+  <TocEntry Title="Surface Management Agency (SMA)" Link="/Content/User Documentation/Data Layer Reference/Jurisdictional_Agencies/Surface Management Agency (SMA).htm">
+    <TocEntry Title="Overview" Link="/Content/User Documentation/Data Layer Reference/Jurisdictional_Agencies/Overview.htm">
+      <TocEntry Title="Jurisdictional Agencies and Planning Areas" Link="/Content/User Documentation/Data Layer Reference/Jurisdictional_Agencies/Jurisdictional Agencies and Planning Areas.flsnp" />
+    </TocEntry>
+    <TocEntry Title="Relevant NWCG Definitions and Standards" Link="/Content/User Documentation/Relevant NWCG Definitions and Standards.htm" />
+    <TocEntry Title="Attribute Fields" Link="/Content/User Documentation/Attribute Fields.htm" />
+    <TocEntry Title="Data Processing" Link="/Content/User Documentation/Data Processing.htm" />
+    <TocEntry Title="Data Input" Link="/Content/User Documentation/Data Layer Reference/Jurisdictional_Agencies/Data Input.htm" />
+    <TocEntry Title="Topic7502" Link="/Content/User Documentation/Data Layer Reference/Buildings/BLMBuildings/Topic7502.htm" />
+    <TocEntry Title="Disclaimer" Link="/Content/User Documentation/Data Layer Reference/Jurisdictional_Agencies/Disclaimer.htm" />
+    <TocEntry Title="Data Information" Link="/Content/User Documentation/Data Layer Reference/Jurisdictional_Agencies/Data Information.htm" />
+    <TocEntry Title="Protecting Unit GIS Team Contacts" Link="/Content/User Documentation/01a_Common User Content/Protecting Unit GIS Team Contacts.htm" />
+  </TocEntry>
+</CatapultToc>

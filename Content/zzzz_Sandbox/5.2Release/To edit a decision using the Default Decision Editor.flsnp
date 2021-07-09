@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Navigate to the Pending Decision on the Decisions tab and select the section to add text to by clicking the radio button next to the section.  Select <span class="buttons">Edit</span>.</li>
+      <li class="listnumber">The Default Decision Editor opens to display vertical tabs; if you are editing the entire decision, the tab furthest to therightwill open.If you've just chosen a section to edit, the vertical tab for that section will display. </li>
+      <li class="listnumber">
+        <p>Depending on which section of the Decision you are editing different required and optional content will be available for inclusion. Depending on the tab, you may be able to:</p>
+        <ul>
+          <li class="listbullet2">Insert a Section: Enables you to add content that consists of a title, text and/or <a href="../../User Documentation/Decision/Adding an Image to a Decision.htm">images</a>.</li>
+          <li class="listbullet2">Select optional content to include in a decision such as analysis outputs, assessment charts, variousinventory options and customized risktables.</li>
+          <li class="listbullet2">Access assessment tools for developing relative risk and organization assessments (if you navigate away from the decision editor to develop assessments, click <span class="buttons">Return </span>to return the decision editor).</li>
+          <li class="listbullet2">Utilize sliders to document benefits and/or strategy (optional).</li>
+          <li class="listbullet2">Create primary decision inputs and supporting comments (if you navigate away from the decision editor to develop inputs, click Return to return the decision editor). </li>
+        </ul>
+      </li>
+      <li class="listnumber">Select <span class="buttons">Save </span>after appropriate edits, and click <span class="buttons">View Section</span> to see how a section will display in a decision.<div class="listcontinue"><p>Users can insert another text section by clicking<span class="buttons"> Insert Section</span> or <span class="buttons">Insert Before </span>depending on if it is desired to add a new text section before or after an existing section.</p></div><div class="listcontinue"><p>Use the <span class="buttons">Edit </span>button to edit text in any of the added sections.  </p></div><div class="listcontinue"><p>Use the Move Up and Move Down arrows to change the order of the text sections.</p></div><div class="listcontinue"><p>To delete a text section, click <span class="buttons">Delete</span>.  </p></div></li>
+    </ol>
+    <MadCap:snippetBlock src="../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>

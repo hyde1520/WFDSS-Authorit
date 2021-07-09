@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastHeight="200" MadCap:lastWidth="500" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <head />
+  <body>
+    <ol>
+      <li class="listnumber">Determine the number of forecast days to use and click on the drop-down arrow to select the number of days. </li>
+      <li class="listnumber">Click <span class="buttons">Get National Weather Service Forecasts</span>. These forecasts are derived from the nearest 5-km grid point, so it is important to review the output.</li>
+      <li class="listnumber">Click <span class="buttons">Save Stream and Forecasts</span>.</li>
+    </ol>
+    <MadCap:snippetBlock src="../../../01_Common Content/Last Modified Message.flsnp" />
+  </body>
+</html>
